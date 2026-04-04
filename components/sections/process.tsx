@@ -35,7 +35,7 @@ const processSteps = [
 
 export function ProcessSection() {
   return (
-    <section className="bg-primary py-12 lg:py-16">
+    <section className="bg-primary py-8 lg:py-10">
       <div className="mx-auto max-w-7xl px-4 lg:px-8">
         <div className="mb-8 text-center">
           <p className="text-sm font-medium uppercase tracking-wider text-accent">

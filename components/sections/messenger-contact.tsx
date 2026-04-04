@@ -10,9 +10,9 @@ const messengers = [
 
 export function MessengerContactSection() {
   return (
-    <section className="bg-secondary py-10 lg:py-12">
+    <section className="bg-secondary py-6 lg:py-8">
       <div className="mx-auto max-w-7xl px-4 lg:px-8">
-        <div className="mb-12 text-center">
+        <div className="mb-4 text-center">
           <h2 className="text-2xl font-bold text-foreground md:text-3xl">
             편리한 상담 채널
           </h2>

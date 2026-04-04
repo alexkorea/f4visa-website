@@ -16,10 +16,10 @@ export default function HomePage() {
       <main className="flex-1">
         <HeroSection />
         <MessengerContactSection />
+        <TeamSection />
         <CoreServicesSection />
         <WhyUsSection />
         <ProcessSection />
-        <TeamSection />
         <ResourcesSection />
         <FinalCtaSection />
       </main>

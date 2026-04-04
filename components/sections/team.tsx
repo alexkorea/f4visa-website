@@ -18,9 +18,9 @@ const staff = [
 
 export function TeamSection() {
   return (
-    <section className="bg-secondary py-12 lg:py-16">
+    <section className="bg-secondary py-6 lg:py-10">
       <div className="mx-auto max-w-7xl px-4 lg:px-8">
-        <div className="mb-8 text-center">
+        <div className="mb-4 text-center">
           <p className="text-sm font-medium uppercase tracking-wider text-accent">
             Our Team
           </p>

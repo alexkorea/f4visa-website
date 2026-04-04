@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button"
 
 export function FinalCtaSection() {
   return (
-    <section className="bg-secondary py-12 lg:py-16">
+    <section className="bg-secondary py-8 lg:py-10">
       <div className="mx-auto max-w-7xl px-4 lg:px-8">
         <div className="mx-auto max-w-3xl text-center">
           {/* Decorative element */}

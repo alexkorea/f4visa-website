@@ -8,14 +8,14 @@ const resources = [
     title: "거소증 서류확인",
     description: "거소증 신청에 필요한 서류 목록과 준비 방법을 확인하세요. 자주 묻는 질문과 체크리스트를 제공합니다.",
     icon: FileSearch,
-    href: "/resources/document-check",
+    href: "/f4-residence-card-documents-checklist",
     tag: "서류 가이드",
   },
   {
     title: "블로그",
     description: "F-4 비자, 국적상실, 영주권 등 재외동포 업무에 관한 최신 정보와 유용한 팁을 공유합니다.",
     icon: BookOpen,
-    href: "/resources/blog",
+    href: "/blog",
     tag: "최신 소식",
   },
 ]

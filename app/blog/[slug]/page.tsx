@@ -83,21 +83,24 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
                   </Link>
                 </Button>
                 <article
-                  style={{ fontSize: '17px', lineHeight: '1.9' }}
-                  className="prose prose-lg prose-gray max-w-none
+                  style={{ fontSize: '16px', lineHeight: '1.85' }}
+                  className="prose prose-gray max-w-none
                     prose-headings:text-foreground prose-headings:font-bold
-                    prose-h2:text-2xl prose-h2:mt-16 prose-h2:mb-6 prose-h2:border-b-2 prose-h2:border-blue-500 prose-h2:pb-3 prose-h2:text-blue-900
-                    prose-h3:text-xl prose-h3:mt-10 prose-h3:mb-4 prose-h3:text-blue-800
-                    prose-p:text-gray-700 prose-p:leading-loose prose-p:mb-6
-                    prose-li:text-gray-700 prose-li:leading-loose prose-li:mb-2
+                    prose-h2:text-xl prose-h2:mt-14 prose-h2:mb-5 prose-h2:border-b-2 prose-h2:border-blue-500 prose-h2:pb-3 prose-h2:text-blue-900
+                    prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-h3:text-blue-800
+                    prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-5
+                    prose-li:text-gray-700 prose-li:leading-relaxed prose-li:mb-1
                     prose-strong:text-gray-900
-                    prose-a:text-blue-600 prose-a:underline prose-a:underline-offset-2 prose-a:font-semibold hover:prose-a:text-blue-800
-                    prose-blockquote:border-l-4 prose-blockquote:border-blue-500 prose-blockquote:bg-blue-50 prose-blockquote:py-4 prose-blockquote:px-6 prose-blockquote:rounded-r-xl prose-blockquote:not-italic prose-blockquote:text-gray-700 prose-blockquote:my-8
-                    prose-table:border prose-table:border-border prose-table:rounded-xl prose-table:overflow-hidden prose-table:my-8
-                    prose-th:bg-blue-50 prose-th:px-4 prose-th:py-3 prose-th:text-left prose-th:text-blue-900 prose-th:font-semibold prose-th:text-sm
-                    prose-td:px-4 prose-td:py-3 prose-td:border-t prose-td:border-border prose-td:text-sm
-                    prose-img:rounded-xl prose-img:shadow-lg prose-img:my-8
-                    prose-ol:my-6 prose-ul:my-6"
+                    prose-a:text-blue-600 prose-a:underline prose-a:underline-offset-2 prose-a:font-semibold
+                    prose-blockquote:border-l-4 prose-blockquote:border-amber-500 prose-blockquote:bg-amber-50 prose-blockquote:py-3 prose-blockquote:px-5 prose-blockquote:rounded-r-xl prose-blockquote:not-italic prose-blockquote:text-gray-800 prose-blockquote:my-6 prose-blockquote:text-sm prose-blockquote:font-medium
+                    prose-table:border prose-table:border-border prose-table:rounded-xl prose-table:overflow-hidden prose-table:my-6
+                    prose-th:bg-blue-50 prose-th:px-3 prose-th:py-2.5 prose-th:text-left prose-th:text-blue-900 prose-th:font-semibold prose-th:text-sm
+                    prose-td:px-3 prose-td:py-2.5 prose-td:border-t prose-td:border-border prose-td:text-sm
+                    prose-img:rounded-lg prose-img:shadow-md prose-img:my-6 prose-img:max-h-[300px] prose-img:object-cover prose-img:w-full
+                    prose-ol:my-4 prose-ul:my-4
+                    [&>nav]:bg-blue-50 [&>nav]:rounded-xl [&>nav]:p-5 [&>nav]:mb-8 [&>nav]:border [&>nav]:border-blue-200
+                    [&>nav_a]:text-blue-600 [&>nav_a]:font-medium [&>nav_a]:no-underline
+                    [&>nav_ul]:list-none [&>nav_ul]:pl-0"
                   dangerouslySetInnerHTML={{ __html: post.content }}
                 />
               </div>

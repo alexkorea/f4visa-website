@@ -8,14 +8,14 @@ const services = [
     title: "국적상실",
     description: "외국 국적 취득 후 한국 국적을 상실하는 절차를 안내합니다. 국적선택, 이중국적 포기 등 복잡한 과정을 체계적으로 지원해 드립니다.",
     icon: FileX,
-    href: "/nationality-loss",
+    href: "/nationality-loss-report",
     features: ["국적선택 신고", "이중국적 포기", "국적상실 증명"],
   },
   {
     title: "F-4비자 거소증",
     description: "재외동포(F-4) 비자 발급 및 거소증 신청 업무를 전문적으로 처리합니다. 서류 준비부터 접수까지 원스톱 서비스를 제공합니다.",
     icon: CreditCard,
-    href: "/f4-visa",
+    href: "/f4-visa-resident-card",
     features: ["F-4 비자 신청", "거소증 발급", "비자 연장"],
   },
   {

@@ -20,27 +20,20 @@ export function TeamSection() {
   return (
     <section className="bg-secondary py-6 lg:py-10">
       <div className="mx-auto max-w-7xl px-4 lg:px-8">
-        <div className="mb-4 text-center">
-          <p className="text-sm font-medium uppercase tracking-wider text-accent">
-            Our Team
-          </p>
-          <h2 className="mt-3 text-3xl font-bold text-foreground md:text-4xl">
-            전문가 소개
-          </h2>
-          <p className="mx-auto mt-4 max-w-2xl text-muted-foreground">
-            풍부한 경험과 전문 지식을 갖춘 행정 전문가들이
-            <br className="hidden sm:inline" />
-            고객님의 성공적인 업무 처리를 위해 함께합니다.
+        <div className="mb-3 text-center">
+          <h2 className="text-2xl font-bold text-foreground">전문가 소개</h2>
+          <p className="mt-1 text-sm text-muted-foreground">
+            풍부한 경험과 전문 지식을 갖춘 행정 전문가들이 함께합니다.
           </p>
         </div>
 
         {/* 행정사 */}
-        <h3 className="text-xl font-bold text-foreground mb-6 text-center">행정사</h3>
-        <div className="grid gap-6 grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 mb-6">
+        <h3 className="text-lg font-bold text-foreground mb-3 text-center">행정사</h3>
+        <div className="grid gap-3 grid-cols-3 sm:grid-cols-3 lg:grid-cols-6 mb-4">
           {admins.map((member) => (
             <Card key={member.name} className="border-0 bg-card shadow-sm transition-shadow hover:shadow-md">
-              <CardContent className="p-3 text-center">
-                <div className="mx-auto mb-2 w-28 h-28 rounded-full overflow-hidden border-2 border-border">
+              <CardContent className="p-2 text-center">
+                <div className="mx-auto mb-1 w-20 h-20 rounded-full overflow-hidden border-2 border-border">
                   <Image
                     src={member.photo}
                     alt={member.name}
@@ -57,12 +50,12 @@ export function TeamSection() {
         </div>
 
         {/* 사무장 · 실장 */}
-        <h3 className="text-xl font-bold text-foreground mb-4 text-center">사무장 · 실장</h3>
-        <div className="grid gap-4 grid-cols-3 max-w-md mx-auto">
+        <h3 className="text-lg font-bold text-foreground mb-3 text-center">사무장 · 실장</h3>
+        <div className="grid gap-3 grid-cols-3 max-w-sm mx-auto">
           {staff.map((member) => (
             <Card key={member.name} className="border-0 bg-card shadow-sm transition-shadow hover:shadow-md">
-              <CardContent className="p-3 text-center">
-                <div className="mx-auto mb-2 w-28 h-28 rounded-full overflow-hidden border-2 border-border">
+              <CardContent className="p-2 text-center">
+                <div className="mx-auto mb-1 w-20 h-20 rounded-full overflow-hidden border-2 border-border">
                   <Image
                     src={member.photo}
                     alt={member.name}

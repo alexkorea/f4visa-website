@@ -24,8 +24,8 @@ export function MessengerContactSection() {
         <div className="grid gap-4 grid-cols-2 lg:grid-cols-4 max-w-3xl mx-auto">
           {messengers.map((m) => (
             <Card key={m.name} className="border-0 bg-card shadow-sm transition-shadow hover:shadow-md">
-              <CardContent className="flex flex-col items-center p-3 text-center">
-                <div className="w-24 h-24 mb-1.5 rounded-lg overflow-hidden border border-border">
+              <CardContent className="flex flex-col items-center p-4 text-center">
+                <div className="w-28 h-28 mb-3 rounded-lg overflow-hidden border border-border">
                   <Image
                     src={m.qr}
                     alt={`${m.name} QR Code`}

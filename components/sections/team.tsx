@@ -32,8 +32,8 @@ export function TeamSection() {
         <div className="grid gap-3 grid-cols-3 sm:grid-cols-3 lg:grid-cols-6 mb-4">
           {admins.map((member) => (
             <Card key={member.name} className="border-0 bg-card shadow-sm transition-shadow hover:shadow-md">
-              <CardContent className="p-2 text-center">
-                <div className="mx-auto mb-1 w-20 h-20 rounded-full overflow-hidden border-2 border-border">
+              <CardContent className="p-3 text-center">
+                <div className="mx-auto mb-2 w-24 h-24 rounded-full overflow-hidden border-2 border-border">
                   <Image
                     src={member.photo}
                     alt={member.name}
@@ -54,8 +54,8 @@ export function TeamSection() {
         <div className="grid gap-3 grid-cols-3 max-w-sm mx-auto">
           {staff.map((member) => (
             <Card key={member.name} className="border-0 bg-card shadow-sm transition-shadow hover:shadow-md">
-              <CardContent className="p-2 text-center">
-                <div className="mx-auto mb-1 w-20 h-20 rounded-full overflow-hidden border-2 border-border">
+              <CardContent className="p-3 text-center">
+                <div className="mx-auto mb-2 w-24 h-24 rounded-full overflow-hidden border-2 border-border">
                   <Image
                     src={member.photo}
                     alt={member.name}

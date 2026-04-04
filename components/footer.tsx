@@ -3,20 +3,22 @@ import { Phone, Mail, MapPin } from "lucide-react"
 
 const footerLinks = {
   services: [
-    { title: "국적상실", href: "/nationality-loss" },
+    { title: "국적상실", href: "/nationality-loss-report" },
     { title: "F-4비자 거소증", href: "/f4-visa-resident-card" },
     { title: "영주권", href: "/permanent-residency" },
     { title: "국적회복", href: "/nationality-recovery" },
+    { title: "국적이탈신고", href: "/nationality-renunciation-report" },
+    { title: "국적선택(이중국적)", href: "/nationality-selection-dual-nationality" },
   ],
   resources: [
     { title: "거소증 서류확인", href: "/f4-residence-card-documents-checklist" },
+    { title: "F-4 비자 종류", href: "/f4-visa-types" },
+    { title: "F-4 비자 연장", href: "/f4-visa-renewal" },
     { title: "블로그", href: "/blog" },
-    { title: "자주 묻는 질문", href: "/faq" },
   ],
   company: [
     { title: "회사 소개", href: "/about" },
-    { title: "전문가 소개", href: "/team" },
-    { title: "Contact", href: "/contact" },
+    { title: "상담문의", href: "/contact" },
   ],
 }
 

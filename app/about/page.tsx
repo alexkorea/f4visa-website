@@ -25,16 +25,16 @@ export default function AboutPage() {
       <Header />
       <main className="flex-1">
         {/* Hero */}
-        <section className="relative bg-gradient-to-br from-primary via-primary/90 to-primary/80 py-20 lg:py-28">
-          <div className="absolute inset-0 bg-[url('/slides/meeting.jpg')] bg-cover bg-center opacity-10" />
+        <section className="relative min-h-[300px] flex items-center py-16">
+          <div className="absolute inset-0">
+            <img src="/slides/meeting.jpg" alt="재외동포를 위한 전문 행정서비스" className="w-full h-full object-cover" />
+            <div className="absolute inset-0 bg-black/50" />
+          </div>
           <div className="relative mx-auto max-w-7xl px-4 text-center lg:px-8">
-            <p className="text-sm font-medium uppercase tracking-wider text-primary-foreground/70">
-              About Us
-            </p>
-            <h1 className="mt-3 text-3xl font-bold text-primary-foreground md:text-5xl">
+            <h1 className="text-3xl font-bold text-white md:text-4xl lg:text-5xl">
               재외동포를 위한 전문 행정서비스
             </h1>
-            <p className="mx-auto mt-4 max-w-2xl text-lg text-primary-foreground/80">
+            <p className="mx-auto mt-4 max-w-2xl text-lg text-white/80">
               비전행정사사무소는 해외 거주 재외동포의 F-4 비자, 거소증, 국적 관련
               업무를 전문적으로 지원합니다.
             </p>

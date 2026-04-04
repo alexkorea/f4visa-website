@@ -68,16 +68,16 @@ export default function F4VisaRenewalPage() {
       <Header />
       <main className="flex-1">
         {/* Hero */}
-        <section className="relative bg-gradient-to-br from-primary via-primary/90 to-primary/80 py-20 lg:py-28">
-          <div className="absolute inset-0 bg-[url('/slides/documents.jpg')] bg-cover bg-center opacity-10" />
+        <section className="relative min-h-[300px] flex items-center py-16">
+          <div className="absolute inset-0">
+            <img src="/slides/documents.jpg" alt="F-4 비자 연장 절차 및 필요서류 안내" className="w-full h-full object-cover" />
+            <div className="absolute inset-0 bg-black/50" />
+          </div>
           <div className="relative mx-auto max-w-7xl px-4 text-center lg:px-8">
-            <p className="text-sm font-medium uppercase tracking-wider text-primary-foreground/70">
-              F-4 Visa Renewal
-            </p>
-            <h1 className="mt-3 text-3xl font-bold text-primary-foreground md:text-5xl">
+            <h1 className="text-3xl font-bold text-white md:text-4xl lg:text-5xl">
               F-4 비자 연장 절차 및 필요서류 안내
             </h1>
-            <p className="mx-auto mt-4 max-w-2xl text-lg text-primary-foreground/80">
+            <p className="mx-auto mt-4 max-w-2xl text-lg text-white/80">
               안정적인 체류를 위한 필수 가이드
             </p>
           </div>

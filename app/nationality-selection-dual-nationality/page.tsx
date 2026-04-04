@@ -35,12 +35,16 @@ export default function NationalitySelectionDualNationalityPage() {
       <Header />
       <main className="flex-1">
         {/* Hero */}
-        <section className="bg-primary/5 py-20 lg:py-28">
-          <div className="mx-auto max-w-7xl px-4 text-center lg:px-8">
-            <h1 className="text-4xl font-bold text-foreground md:text-5xl">
+        <section className="relative min-h-[300px] flex items-center py-16">
+          <div className="absolute inset-0">
+            <img src="/slides/legal-docs.jpg" alt="국적선택과 이중국적 / 복수국적자 종합가이드" className="w-full h-full object-cover" />
+            <div className="absolute inset-0 bg-black/50" />
+          </div>
+          <div className="relative mx-auto max-w-7xl px-4 text-center lg:px-8">
+            <h1 className="text-3xl font-bold text-white md:text-4xl lg:text-5xl">
               국적선택과 이중국적 / 복수국적자 종합가이드
             </h1>
-            <p className="mx-auto mt-4 max-w-2xl text-lg text-muted-foreground">
+            <p className="mx-auto mt-4 max-w-2xl text-lg text-white/80">
               복수국적자의 법적 지위, 국적선택 기한, 불행사 서약 위반 사례까지
               한눈에 정리
             </p>

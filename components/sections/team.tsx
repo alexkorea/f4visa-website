@@ -28,8 +28,8 @@ export function TeamSection() {
         </div>
 
         {/* 행정사 */}
-        <h3 className="text-lg font-bold text-foreground mb-3 text-center">행정사</h3>
-        <div className="grid gap-3 grid-cols-3 sm:grid-cols-3 lg:grid-cols-6 mb-4">
+        <h3 className="text-lg font-bold text-foreground mb-2 text-center">행정사</h3>
+        <div className="grid gap-3 grid-cols-3 sm:grid-cols-3 lg:grid-cols-6 mb-2">
           {admins.map((member) => (
             <Card key={member.name} className="border-0 bg-card shadow-sm transition-shadow hover:shadow-md">
               <CardContent className="px-2 py-2 text-center">
@@ -50,8 +50,8 @@ export function TeamSection() {
         </div>
 
         {/* 사무장 · 실장 */}
-        <h3 className="text-lg font-bold text-foreground mb-3 text-center">사무장 · 실장</h3>
-        <div className="grid gap-3 grid-cols-3 max-w-sm mx-auto">
+        <h3 className="text-lg font-bold text-foreground mb-2 text-center">사무장 · 실장</h3>
+        <div className="grid gap-3 grid-cols-3 max-w-lg mx-auto">
           {staff.map((member) => (
             <Card key={member.name} className="border-0 bg-card shadow-sm transition-shadow hover:shadow-md">
               <CardContent className="px-2 py-2 text-center">

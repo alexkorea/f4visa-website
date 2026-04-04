@@ -25,9 +25,9 @@ const menuItems = [
   { title: "Home", href: "/" },
   {
     title: "국적상실",
-    href: "/nationality-loss",
+    href: "/nationality-loss-report",
     children: [
-      { title: "국적선택과 이중국적", href: "/nationality-loss/dual-nationality" },
+      { title: "국적선택과 이중국적", href: "/nationality-selection-dual-nationality" },
     ],
   },
   {
@@ -35,7 +35,7 @@ const menuItems = [
     href: "/f4-visa-resident-card",
     children: [
       { title: "F-4 비자연장 절차및 필요서류", href: "/f4-visa-renewal" },
-      { title: "국적이탈신고", href: "/f4-visa/nationality-renunciation" },
+      { title: "국적이탈신고", href: "/nationality-renunciation-report" },
       { title: "F-4 비자 종류", href: "/f4-visa-types" },
     ],
   },
@@ -43,7 +43,7 @@ const menuItems = [
   { title: "국적회복", href: "/nationality-recovery" },
   {
     title: "자료실",
-    href: "/resources",
+    href: "/f4-residence-card-documents-checklist",
     children: [
       { title: "거소증 서류확인", href: "/f4-residence-card-documents-checklist" },
       { title: "블로그", href: "/blog" },
@@ -86,10 +86,22 @@ export function Header() {
                 {item.children ? (
                   <>
                     <NavigationMenuTrigger className="bg-transparent text-foreground/80 hover:text-foreground">
-                      {item.title}
+                      <Link href={item.href} className="hover:text-foreground">
+                        {item.title}
+                      </Link>
                     </NavigationMenuTrigger>
                     <NavigationMenuContent>
                       <ul className="grid w-[220px] gap-1 p-2">
+                        <li>
+                          <NavigationMenuLink asChild>
+                            <Link
+                              href={item.href}
+                              className="block select-none rounded-md px-3 py-2 text-sm font-medium leading-relaxed text-foreground no-underline outline-none transition-colors hover:bg-muted focus:bg-muted"
+                            >
+                              {item.title} 전체보기
+                            </Link>
+                          </NavigationMenuLink>
+                        </li>
                         {item.children.map((child) => (
                           <li key={child.title}>
                             <NavigationMenuLink asChild>

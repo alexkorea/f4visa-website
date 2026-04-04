@@ -10,7 +10,7 @@ const messengers = [
 
 export function MessengerContactSection() {
   return (
-    <section className="bg-secondary py-6 lg:py-8">
+    <section className="bg-secondary pt-6 pb-2">
       <div className="mx-auto max-w-7xl px-4 lg:px-8">
         <div className="mb-4 text-center">
           <h2 className="text-2xl font-bold text-foreground md:text-3xl">
@@ -24,8 +24,8 @@ export function MessengerContactSection() {
         <div className="grid gap-4 grid-cols-2 lg:grid-cols-4 max-w-3xl mx-auto">
           {messengers.map((m) => (
             <Card key={m.name} className="border-0 bg-card shadow-sm transition-shadow hover:shadow-md">
-              <CardContent className="flex flex-col items-center p-4 text-center">
-                <div className="w-28 h-28 mb-3 rounded-lg overflow-hidden border border-border">
+              <CardContent className="flex flex-col items-center px-3 py-2 text-center">
+                <div className="w-28 h-28 mb-1.5 rounded-lg overflow-hidden border border-border">
                   <Image
                     src={m.qr}
                     alt={`${m.name} QR Code`}

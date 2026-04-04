@@ -39,13 +39,13 @@ export function TeamSection() {
         <div className="grid gap-6 grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 mb-6">
           {admins.map((member) => (
             <Card key={member.name} className="border-0 bg-card shadow-sm transition-shadow hover:shadow-md">
-              <CardContent className="p-4 text-center">
-                <div className="mx-auto mb-3 w-20 h-20 rounded-full overflow-hidden border-2 border-border">
+              <CardContent className="p-3 text-center">
+                <div className="mx-auto mb-2 w-28 h-28 rounded-full overflow-hidden border-2 border-border">
                   <Image
                     src={member.photo}
                     alt={member.name}
-                    width={80}
-                    height={80}
+                    width={112}
+                    height={112}
                     className="w-full h-full object-cover"
                   />
                 </div>
@@ -57,17 +57,17 @@ export function TeamSection() {
         </div>
 
         {/* 사무장 · 실장 */}
-        <h3 className="text-xl font-bold text-foreground mb-6 text-center">사무장 · 실장</h3>
-        <div className="grid gap-6 grid-cols-3 max-w-md mx-auto">
+        <h3 className="text-xl font-bold text-foreground mb-4 text-center">사무장 · 실장</h3>
+        <div className="grid gap-4 grid-cols-3 max-w-md mx-auto">
           {staff.map((member) => (
             <Card key={member.name} className="border-0 bg-card shadow-sm transition-shadow hover:shadow-md">
-              <CardContent className="p-4 text-center">
-                <div className="mx-auto mb-3 w-20 h-20 rounded-full overflow-hidden border-2 border-border">
+              <CardContent className="p-3 text-center">
+                <div className="mx-auto mb-2 w-28 h-28 rounded-full overflow-hidden border-2 border-border">
                   <Image
                     src={member.photo}
                     alt={member.name}
-                    width={80}
-                    height={80}
+                    width={112}
+                    height={112}
                     className="w-full h-full object-cover"
                   />
                 </div>

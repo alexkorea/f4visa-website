@@ -10,7 +10,7 @@ const messengers = [
 
 export function MessengerContactSection() {
   return (
-    <section className="bg-secondary py-16 lg:py-20">
+    <section className="bg-secondary py-10 lg:py-12">
       <div className="mx-auto max-w-7xl px-4 lg:px-8">
         <div className="mb-12 text-center">
           <h2 className="text-2xl font-bold text-foreground md:text-3xl">

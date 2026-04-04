@@ -20,9 +20,9 @@ const valueProps = [
 
 export function WhyUsSection() {
   return (
-    <section className="bg-background py-20 lg:py-28">
+    <section className="bg-background py-12 lg:py-16">
       <div className="mx-auto max-w-7xl px-4 lg:px-8">
-        <div className="mb-14 text-center">
+        <div className="mb-8 text-center">
           <p className="text-sm font-medium uppercase tracking-wider text-accent">
             Why Choose Us
           </p>

@@ -40,7 +40,7 @@ export function HeroSection() {
   }, [next])
 
   return (
-    <section className="relative min-h-[600px] overflow-hidden">
+    <section className="relative min-h-[480px] overflow-hidden">
       {slides.map((slide, i) => (
         <div
           key={i}
@@ -60,7 +60,7 @@ export function HeroSection() {
         </div>
       ))}
 
-      <div className="relative z-20 flex min-h-[600px] items-end justify-center pb-20">
+      <div className="relative z-20 flex min-h-[480px] items-end justify-center pb-12">
         <div className="mx-auto max-w-7xl px-4 lg:px-8">
           <div className="mx-auto max-w-3xl text-center">
             <div className="mb-6 inline-flex items-center rounded-full border border-white/30 bg-white/10 px-4 py-1.5 text-sm text-white backdrop-blur-sm">

@@ -18,9 +18,9 @@ const staff = [
 
 export function TeamSection() {
   return (
-    <section className="bg-secondary py-20 lg:py-28">
+    <section className="bg-secondary py-12 lg:py-16">
       <div className="mx-auto max-w-7xl px-4 lg:px-8">
-        <div className="mb-14 text-center">
+        <div className="mb-8 text-center">
           <p className="text-sm font-medium uppercase tracking-wider text-accent">
             Our Team
           </p>
@@ -36,7 +36,7 @@ export function TeamSection() {
 
         {/* 행정사 */}
         <h3 className="text-xl font-bold text-foreground mb-6 text-center">행정사</h3>
-        <div className="grid gap-6 grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 mb-12">
+        <div className="grid gap-6 grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 mb-6">
           {admins.map((member) => (
             <Card key={member.name} className="border-0 bg-card shadow-sm transition-shadow hover:shadow-md">
               <CardContent className="p-4 text-center">

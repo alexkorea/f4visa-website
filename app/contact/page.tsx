@@ -110,17 +110,11 @@ export default function ContactPage() {
                     <div className="flex justify-between">
                       <span>월 ~ 금</span>
                       <span className="font-medium text-foreground">
-                        09:00 - 18:00
+                        9:30 AM - 5:30 PM
                       </span>
                     </div>
                     <div className="flex justify-between">
-                      <span>토요일</span>
-                      <span className="font-medium text-foreground">
-                        10:00 - 14:00
-                      </span>
-                    </div>
-                    <div className="flex justify-between">
-                      <span>일요일 / 공휴일</span>
+                      <span>토 / 일 / 공휴일</span>
                       <span className="font-medium text-foreground">휴무</span>
                     </div>
                   </div>

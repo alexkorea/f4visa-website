@@ -134,17 +134,20 @@ export default function ContactPage() {
                     급하신 문의는 전화 또는 카카오톡으로 연락해 주세요.
                     해외에서도 카카오톡 또는 위챗으로 상담이 가능합니다.
                   </p>
-                  <div className="mt-4 space-y-2">
-                    <div className="text-center">
-                      <div className="mx-auto mb-2 flex h-32 w-32 items-center justify-center rounded-xl bg-muted">
-                        <span className="text-xs text-muted-foreground">
-                          카카오톡 QR
-                        </span>
+                  <div className="mt-4 grid grid-cols-2 gap-3">
+                    {[
+                      { name: "Kakao Talk", qr: "/qr/kakao.jpg" },
+                      { name: "WeChat", qr: "/qr/wechat.jpg" },
+                      { name: "LINE", qr: "/qr/line.jpg" },
+                      { name: "WhatsApp", qr: "/qr/whatsapp.jpg" },
+                    ].map((m) => (
+                      <div key={m.name} className="text-center">
+                        <div className="mx-auto mb-1 w-full aspect-square rounded-lg overflow-hidden border border-border">
+                          <img src={m.qr} alt={m.name} className="w-full h-full object-cover" />
+                        </div>
+                        <span className="text-xs text-muted-foreground">{m.name}</span>
                       </div>
-                      <p className="text-sm text-muted-foreground">
-                        카카오톡 상담
-                      </p>
-                    </div>
+                    ))}
                   </div>
                 </div>
 

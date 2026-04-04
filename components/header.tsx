@@ -11,14 +11,6 @@ import {
   SheetTitle,
   SheetTrigger,
 } from "@/components/ui/sheet"
-import {
-  NavigationMenu,
-  NavigationMenuContent,
-  NavigationMenuItem,
-  NavigationMenuLink,
-  NavigationMenuList,
-  NavigationMenuTrigger,
-} from "@/components/ui/navigation-menu"
 import { cn } from "@/lib/utils"
 
 const menuItems = [
@@ -27,6 +19,7 @@ const menuItems = [
     title: "국적상실",
     href: "/nationality-loss-report",
     children: [
+      { title: "국적상실 신고", href: "/nationality-loss-report" },
       { title: "국적선택과 이중국적", href: "/nationality-selection-dual-nationality" },
     ],
   },
@@ -34,7 +27,8 @@ const menuItems = [
     title: "F-4비자 거소증",
     href: "/f4-visa-resident-card",
     children: [
-      { title: "F-4 비자연장 절차및 필요서류", href: "/f4-visa-renewal" },
+      { title: "F-4 비자 거소증", href: "/f4-visa-resident-card" },
+      { title: "F-4 비자연장 절차", href: "/f4-visa-renewal" },
       { title: "국적이탈신고", href: "/nationality-renunciation-report" },
       { title: "F-4 비자 종류", href: "/f4-visa-types" },
     ],
@@ -43,7 +37,7 @@ const menuItems = [
   { title: "국적회복", href: "/nationality-recovery" },
   {
     title: "자료실",
-    href: "/f4-residence-card-documents-checklist",
+    href: "/blog",
     children: [
       { title: "거소증 서류확인", href: "/f4-residence-card-documents-checklist" },
       { title: "블로그", href: "/blog" },
@@ -55,13 +49,24 @@ const menuItems = [
 export function Header() {
   const [isOpen, setIsOpen] = React.useState(false)
   const [expandedItems, setExpandedItems] = React.useState<string[]>([])
+  const [openDropdown, setOpenDropdown] = React.useState<string | null>(null)
+  const dropdownTimeout = React.useRef<ReturnType<typeof setTimeout> | null>(null)
 
   const toggleExpanded = (title: string) => {
-    setExpandedItems(prev => 
-      prev.includes(title) 
+    setExpandedItems(prev =>
+      prev.includes(title)
         ? prev.filter(item => item !== title)
         : [...prev, title]
     )
+  }
+
+  const handleMouseEnter = (title: string) => {
+    if (dropdownTimeout.current) clearTimeout(dropdownTimeout.current)
+    setOpenDropdown(title)
+  }
+
+  const handleMouseLeave = () => {
+    dropdownTimeout.current = setTimeout(() => setOpenDropdown(null), 150)
   }
 
   return (
@@ -79,58 +84,40 @@ export function Header() {
         </Link>
 
         {/* Desktop Navigation */}
-        <NavigationMenu className="hidden lg:flex">
-          <NavigationMenuList>
-            {menuItems.map((item) => (
-              <NavigationMenuItem key={item.title}>
-                {item.children ? (
-                  <>
-                    <NavigationMenuTrigger className="bg-transparent text-foreground/80 hover:text-foreground">
-                      <Link href={item.href} className="hover:text-foreground">
-                        {item.title}
+        <nav className="hidden lg:flex items-center gap-1">
+          {menuItems.map((item) => (
+            <div
+              key={item.title}
+              className="relative"
+              onMouseEnter={() => item.children && handleMouseEnter(item.title)}
+              onMouseLeave={() => item.children && handleMouseLeave()}
+            >
+              <Link
+                href={item.href}
+                className="flex items-center gap-1 px-3 py-2 text-sm font-medium text-foreground/80 hover:text-foreground transition-colors rounded-md hover:bg-muted"
+              >
+                {item.title}
+                {item.children && <ChevronDown className="h-3 w-3" />}
+              </Link>
+
+              {item.children && openDropdown === item.title && (
+                <div className="absolute left-0 top-full pt-1 z-50">
+                  <div className="bg-background rounded-lg shadow-lg border border-border py-2 min-w-[220px]">
+                    {item.children.map((child) => (
+                      <Link
+                        key={child.href}
+                        href={child.href}
+                        className="block px-4 py-2.5 text-sm text-foreground/80 hover:bg-muted hover:text-foreground transition-colors"
+                      >
+                        {child.title}
                       </Link>
-                    </NavigationMenuTrigger>
-                    <NavigationMenuContent>
-                      <ul className="grid w-[220px] gap-1 p-2">
-                        <li>
-                          <NavigationMenuLink asChild>
-                            <Link
-                              href={item.href}
-                              className="block select-none rounded-md px-3 py-2 text-sm font-medium leading-relaxed text-foreground no-underline outline-none transition-colors hover:bg-muted focus:bg-muted"
-                            >
-                              {item.title} 전체보기
-                            </Link>
-                          </NavigationMenuLink>
-                        </li>
-                        {item.children.map((child) => (
-                          <li key={child.title}>
-                            <NavigationMenuLink asChild>
-                              <Link
-                                href={child.href}
-                                className="block select-none rounded-md px-3 py-2 text-sm leading-relaxed text-foreground/80 no-underline outline-none transition-colors hover:bg-muted hover:text-foreground focus:bg-muted"
-                              >
-                                {child.title}
-                              </Link>
-                            </NavigationMenuLink>
-                          </li>
-                        ))}
-                      </ul>
-                    </NavigationMenuContent>
-                  </>
-                ) : (
-                  <NavigationMenuLink asChild>
-                    <Link
-                      href={item.href}
-                      className="inline-flex h-9 items-center justify-center rounded-md bg-transparent px-4 py-2 text-sm font-medium text-foreground/80 transition-colors hover:bg-muted hover:text-foreground focus:bg-muted focus:text-foreground focus:outline-none"
-                    >
-                      {item.title}
-                    </Link>
-                  </NavigationMenuLink>
-                )}
-              </NavigationMenuItem>
-            ))}
-          </NavigationMenuList>
-        </NavigationMenu>
+                    ))}
+                  </div>
+                </div>
+              )}
+            </div>
+          ))}
+        </nav>
 
         {/* Desktop CTA */}
         <div className="hidden items-center gap-3 lg:flex">
@@ -167,18 +154,18 @@ export function Header() {
                         className="flex w-full items-center justify-between rounded-md px-3 py-2.5 text-sm font-medium text-foreground transition-colors hover:bg-muted"
                       >
                         {item.title}
-                        <ChevronDown 
+                        <ChevronDown
                           className={cn(
                             "h-4 w-4 transition-transform",
                             expandedItems.includes(item.title) && "rotate-180"
-                          )} 
+                          )}
                         />
                       </button>
                       {expandedItems.includes(item.title) && (
                         <div className="ml-4 flex flex-col gap-1 border-l border-border pl-3">
                           {item.children.map((child) => (
                             <Link
-                              key={child.title}
+                              key={child.href}
                               href={child.href}
                               onClick={() => setIsOpen(false)}
                               className="rounded-md px-3 py-2 text-sm text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"

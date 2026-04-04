@@ -83,19 +83,21 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
                   </Link>
                 </Button>
                 <article
+                  style={{ fontSize: '17px', lineHeight: '1.9' }}
                   className="prose prose-lg prose-gray max-w-none
                     prose-headings:text-foreground prose-headings:font-bold
-                    prose-h2:text-2xl prose-h2:mt-12 prose-h2:mb-4 prose-h2:border-b prose-h2:border-border prose-h2:pb-2
-                    prose-h3:text-xl prose-h3:mt-8 prose-h3:mb-3
-                    prose-p:text-muted-foreground prose-p:leading-relaxed
-                    prose-li:text-muted-foreground
-                    prose-strong:text-foreground
-                    prose-a:text-blue-600 prose-a:underline prose-a:font-medium
-                    prose-blockquote:border-l-blue-500 prose-blockquote:bg-blue-50/50 prose-blockquote:py-2 prose-blockquote:px-4 prose-blockquote:rounded-r-lg prose-blockquote:not-italic
-                    prose-table:border prose-table:border-border prose-table:rounded-lg prose-table:overflow-hidden
-                    prose-th:bg-muted prose-th:px-4 prose-th:py-3 prose-th:text-left prose-th:text-foreground prose-th:font-semibold
-                    prose-td:px-4 prose-td:py-3 prose-td:border-t prose-td:border-border
-                    prose-img:rounded-xl prose-img:shadow-md"
+                    prose-h2:text-2xl prose-h2:mt-16 prose-h2:mb-6 prose-h2:border-b-2 prose-h2:border-blue-500 prose-h2:pb-3 prose-h2:text-blue-900
+                    prose-h3:text-xl prose-h3:mt-10 prose-h3:mb-4 prose-h3:text-blue-800
+                    prose-p:text-gray-700 prose-p:leading-loose prose-p:mb-6
+                    prose-li:text-gray-700 prose-li:leading-loose prose-li:mb-2
+                    prose-strong:text-gray-900
+                    prose-a:text-blue-600 prose-a:underline prose-a:underline-offset-2 prose-a:font-semibold hover:prose-a:text-blue-800
+                    prose-blockquote:border-l-4 prose-blockquote:border-blue-500 prose-blockquote:bg-blue-50 prose-blockquote:py-4 prose-blockquote:px-6 prose-blockquote:rounded-r-xl prose-blockquote:not-italic prose-blockquote:text-gray-700 prose-blockquote:my-8
+                    prose-table:border prose-table:border-border prose-table:rounded-xl prose-table:overflow-hidden prose-table:my-8
+                    prose-th:bg-blue-50 prose-th:px-4 prose-th:py-3 prose-th:text-left prose-th:text-blue-900 prose-th:font-semibold prose-th:text-sm
+                    prose-td:px-4 prose-td:py-3 prose-td:border-t prose-td:border-border prose-td:text-sm
+                    prose-img:rounded-xl prose-img:shadow-lg prose-img:my-8
+                    prose-ol:my-6 prose-ul:my-6"
                   dangerouslySetInnerHTML={{ __html: post.content }}
                 />
               </div>

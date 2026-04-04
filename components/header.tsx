@@ -70,11 +70,12 @@ export function Header() {
         {/* Logo */}
         <Link href="/" className="flex items-center gap-2">
           <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-primary">
-            <span className="text-lg font-bold text-primary-foreground">F4</span>
+            <span className="text-lg font-bold text-primary-foreground">V</span>
           </div>
-          <span className="hidden text-lg font-semibold text-foreground sm:inline-block">
-            재외동포 행정서비스
-          </span>
+          <div className="hidden sm:flex flex-col leading-tight">
+            <span className="font-serif text-lg font-semibold text-foreground">VISION</span>
+            <span className="text-[10px] text-muted-foreground -mt-1">행정사사무소</span>
+          </div>
         </Link>
 
         {/* Desktop Navigation */}

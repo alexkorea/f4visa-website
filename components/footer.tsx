@@ -29,11 +29,12 @@ export function Footer() {
           <div className="lg:col-span-1">
             <Link href="/" className="flex items-center gap-2">
               <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-primary">
-                <span className="text-lg font-bold text-primary-foreground">F4</span>
+                <span className="text-lg font-bold text-primary-foreground">V</span>
               </div>
-              <span className="text-lg font-semibold text-foreground">
-                재외동포 행정서비스
-              </span>
+              <div className="flex flex-col leading-tight">
+                <span className="font-serif text-lg font-semibold text-foreground">VISION</span>
+                <span className="text-[10px] text-muted-foreground -mt-1">행정사사무소</span>
+              </div>
             </Link>
             <p className="mt-4 text-sm leading-relaxed text-muted-foreground">
               F-4 비자, 거소증 발급, 국적상실, 국적회복, 영주권 업무를 전문적으로 지원하는 행정사무소입니다.
@@ -41,7 +42,7 @@ export function Footer() {
             <div className="mt-6 space-y-3 text-sm text-muted-foreground">
               <div className="flex items-start gap-3">
                 <MapPin className="mt-0.5 h-4 w-4 shrink-0" />
-                <span>서울특별시 중구 퇴계로 324, 3층</span>
+                <span>서울특별시 중구 퇴계로 324, 3층 (성우빌딩)</span>
               </div>
               <div className="flex items-center gap-3">
                 <Phone className="h-4 w-4 shrink-0" />
@@ -108,16 +109,23 @@ export function Footer() {
           </div>
         </div>
         
+        {/* Business Registration */}
+        <div className="mt-12 border-t border-border pt-8">
+          <p className="text-sm text-muted-foreground text-center">
+            © 2018 비전행정사사무소 | 사업자등록번호: 405-05-54079 | 대표: 이원중 | 개인정보관리자: 김영주
+          </p>
+        </div>
+
         {/* Bottom bar */}
-        <div className="mt-12 flex flex-col items-center justify-between gap-4 border-t border-border pt-8 sm:flex-row">
+        <div className="mt-4 flex flex-col items-center justify-between gap-4 border-t border-border pt-6 sm:flex-row">
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} 재외동포 행정서비스. All rights reserved.
+            © 2018 비전행정사사무소. All rights reserved.
           </p>
           <div className="flex gap-6 text-sm text-muted-foreground">
-            <Link href="/privacy" className="hover:text-foreground">
+            <Link href="/contact" className="hover:text-foreground">
               개인정보처리방침
             </Link>
-            <Link href="/terms" className="hover:text-foreground">
+            <Link href="/contact" className="hover:text-foreground">
               이용약관
             </Link>
           </div>

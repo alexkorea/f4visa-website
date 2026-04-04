@@ -96,7 +96,7 @@ export function HeroSection() {
             </div>
 
             <div className="mt-12 flex flex-wrap items-center justify-center gap-8 text-sm text-white/70">
-              {["15년+ 경력 행정전문가", "해외 고객 원격 상담", "서류 해외 송달 가능"].map((text) => (
+              {["8년+ 경력 거소증 전문가", "해외 고객 원격 상담", "서류 해외 송달 가능"].map((text) => (
                 <div key={text} className="flex items-center gap-2">
                   <svg className="h-5 w-5 text-blue-400" fill="currentColor" viewBox="0 0 20 20">
                     <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />

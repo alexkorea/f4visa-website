@@ -153,10 +153,10 @@ export default function ContactPage() {
                     오시는 길
                   </h3>
                   <p className="text-sm text-muted-foreground">
-                    서울특별시 중구 퇴계로 324, 3층
+                    서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
                   </p>
                   <p className="mt-2 text-sm text-muted-foreground">
-                    지하철 3호선 충무로역 3번 출구에서 도보 5분
+                    지하철 동대문역사문화공원역 4번출구 10미터
                   </p>
                 </div>
 

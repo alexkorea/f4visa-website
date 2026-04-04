@@ -1,34 +1,19 @@
+import Image from "next/image"
 import { Card, CardContent } from "@/components/ui/card"
 
-const teamMembers = [
-  {
-    name: "김민수",
-    role: "대표 행정사",
-    specialty: "F-4 비자, 영주권 전문",
-    description: "15년 이상의 재외동포 업무 경험으로 복잡한 케이스도 정확하게 처리합니다.",
-    initials: "김",
-  },
-  {
-    name: "이서연",
-    role: "선임 행정사",
-    specialty: "국적상실, 국적회복 전문",
-    description: "국적 관련 업무의 전문가로 세밀한 서류 검토와 심사 대응을 담당합니다.",
-    initials: "이",
-  },
-  {
-    name: "박지훈",
-    role: "행정사",
-    specialty: "거소증, 서류대행 전문",
-    description: "신속하고 정확한 서류 처리로 고객의 소중한 시간을 절약해 드립니다.",
-    initials: "박",
-  },
-  {
-    name: "최은지",
-    role: "고객 상담팀장",
-    specialty: "해외 고객 상담 전문",
-    description: "영어, 중국어, 일본어 상담이 가능하며 해외 고객 응대를 전담합니다.",
-    initials: "최",
-  },
+const admins = [
+  { name: "이원중", role: "대표행정사", photo: "/team/leewj.jpg" },
+  { name: "정유선", role: "행정사", photo: "/team/jungyus.jpg" },
+  { name: "한경택", role: "행정사", photo: "/team/hankt.jpg" },
+  { name: "김정은", role: "행정사", photo: "/team/kimje.jpg" },
+  { name: "이시정", role: "행정사", photo: "/team/leesj.jpg" },
+  { name: "정희정", role: "행정사", photo: "/team/junghj.jpg" },
+]
+
+const staff = [
+  { name: "백승수", role: "사무장", photo: "/team/baekss.jpg" },
+  { name: "김영주", role: "실장", photo: "/team/kimyj.jpg" },
+  { name: "허경", role: "실장", photo: "/team/hukyung.jpg" },
 ]
 
 export function TeamSection() {
@@ -48,30 +33,46 @@ export function TeamSection() {
             고객님의 성공적인 업무 처리를 위해 함께합니다.
           </p>
         </div>
-        
-        <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
-          {teamMembers.map((member) => (
+
+        {/* 행정사 */}
+        <h3 className="text-xl font-bold text-foreground mb-6 text-center">행정사</h3>
+        <div className="grid gap-6 grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 mb-12">
+          {admins.map((member) => (
             <Card key={member.name} className="border-0 bg-card shadow-sm transition-shadow hover:shadow-md">
-              <CardContent className="p-6 text-center">
-                {/* Avatar placeholder */}
-                <div className="mx-auto mb-4 flex h-20 w-20 items-center justify-center rounded-full bg-primary/10">
-                  <span className="text-2xl font-semibold text-primary">
-                    {member.initials}
-                  </span>
+              <CardContent className="p-4 text-center">
+                <div className="mx-auto mb-3 w-20 h-20 rounded-full overflow-hidden border-2 border-border">
+                  <Image
+                    src={member.photo}
+                    alt={member.name}
+                    width={80}
+                    height={80}
+                    className="w-full h-full object-cover"
+                  />
                 </div>
-                
-                <h3 className="text-lg font-semibold text-foreground">
-                  {member.name}
-                </h3>
-                <p className="mt-1 text-sm font-medium text-primary">
-                  {member.role}
-                </p>
-                <p className="mt-1 text-xs text-accent">
-                  {member.specialty}
-                </p>
-                <p className="mt-3 text-sm leading-relaxed text-muted-foreground">
-                  {member.description}
-                </p>
+                <h4 className="font-semibold text-foreground text-sm">{member.name}</h4>
+                <p className="text-xs text-primary">{member.role}</p>
+              </CardContent>
+            </Card>
+          ))}
+        </div>
+
+        {/* 사무장 · 실장 */}
+        <h3 className="text-xl font-bold text-foreground mb-6 text-center">사무장 · 실장</h3>
+        <div className="grid gap-6 grid-cols-3 max-w-md mx-auto">
+          {staff.map((member) => (
+            <Card key={member.name} className="border-0 bg-card shadow-sm transition-shadow hover:shadow-md">
+              <CardContent className="p-4 text-center">
+                <div className="mx-auto mb-3 w-20 h-20 rounded-full overflow-hidden border-2 border-border">
+                  <Image
+                    src={member.photo}
+                    alt={member.name}
+                    width={80}
+                    height={80}
+                    className="w-full h-full object-cover"
+                  />
+                </div>
+                <h4 className="font-semibold text-foreground text-sm">{member.name}</h4>
+                <p className="text-xs text-primary">{member.role}</p>
               </CardContent>
             </Card>
           ))}

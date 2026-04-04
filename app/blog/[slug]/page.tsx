@@ -85,18 +85,23 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
                 <article
                   className="prose prose-lg prose-gray max-w-none
                     prose-headings:text-foreground prose-headings:font-bold
-                    prose-h2:text-2xl prose-h2:mt-8 prose-h2:mb-4
-                    prose-h3:text-xl prose-h3:mt-6 prose-h3:mb-3
+                    prose-h2:text-2xl prose-h2:mt-12 prose-h2:mb-4 prose-h2:border-b prose-h2:border-border prose-h2:pb-2
+                    prose-h3:text-xl prose-h3:mt-8 prose-h3:mb-3
                     prose-p:text-muted-foreground prose-p:leading-relaxed
                     prose-li:text-muted-foreground
                     prose-strong:text-foreground
-                    prose-a:text-primary"
+                    prose-a:text-blue-600 prose-a:underline prose-a:font-medium
+                    prose-blockquote:border-l-blue-500 prose-blockquote:bg-blue-50/50 prose-blockquote:py-2 prose-blockquote:px-4 prose-blockquote:rounded-r-lg prose-blockquote:not-italic
+                    prose-table:border prose-table:border-border prose-table:rounded-lg prose-table:overflow-hidden
+                    prose-th:bg-muted prose-th:px-4 prose-th:py-3 prose-th:text-left prose-th:text-foreground prose-th:font-semibold
+                    prose-td:px-4 prose-td:py-3 prose-td:border-t prose-td:border-border
+                    prose-img:rounded-xl prose-img:shadow-md"
                   dangerouslySetInnerHTML={{ __html: post.content }}
                 />
               </div>
 
               {/* Sidebar */}
-              <aside className="space-y-6">
+              <aside className="lg:sticky lg:top-20 lg:self-start space-y-6">
                 {/* QR Codes */}
                 <div className="rounded-2xl border border-border/50 bg-card p-5">
                   <h3 className="mb-3 font-semibold text-foreground text-center text-sm">메신저 상담</h3>

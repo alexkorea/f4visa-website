@@ -78,10 +78,9 @@ export function HeroSection() {
             </p>
 
             <div className="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
-              <Button size="lg" asChild className="min-w-[180px] bg-white text-slate-900 hover:bg-white/90 text-base py-6">
+              <Button size="lg" asChild className="min-w-[180px] bg-blue-600 text-white hover:bg-blue-700 text-base py-6 border-0">
                 <Link href="/contact">
                   상담문의
-                  <ArrowRight className="ml-2 h-4 w-4" />
                 </Link>
               </Button>
               <Button size="lg" asChild className="min-w-[180px] bg-blue-600 text-white hover:bg-blue-700 text-base py-6">

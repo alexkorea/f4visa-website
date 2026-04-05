@@ -3,6 +3,8 @@ import Link from "next/link"
 import Image from "next/image"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
+import { PageBreadcrumb } from "@/components/page-breadcrumb"
+import { ArticleJsonLd } from "@/components/structured-data"
 import { getAllPosts, getPostBySlug, getPostSlugs } from "@/lib/blog"
 import { Calendar, Tag, ArrowLeft } from "lucide-react"
 import { Button } from "@/components/ui/button"
@@ -43,8 +45,16 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
 
   return (
     <div className="flex min-h-screen flex-col">
+      <ArticleJsonLd
+        title={post.title}
+        description={post.excerpt}
+        url={`https://f4visa.net/blog/${slug}`}
+        image={post.image.startsWith("http") ? post.image : `https://f4visa.net${post.image}`}
+        datePublished={post.date}
+      />
       <Header />
       <main className="flex-1">
+        <PageBreadcrumb items={[{ label: "블로그", path: "/blog" }, { label: post.title, path: `/blog/${slug}` }]} />
         {/* Hero */}
         <section className="relative min-h-[320px] flex items-end py-10">
           <div className="absolute inset-0">

@@ -2,6 +2,7 @@ import type { Metadata } from "next"
 import Link from "next/link"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
+import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { AlertTriangle, ShieldCheck, Gavel, Clock } from "lucide-react"
 
 export const metadata: Metadata = {
@@ -34,6 +35,7 @@ export default function NationalitySelectionDualNationalityPage() {
     <div className="flex min-h-screen flex-col">
       <Header />
       <main className="flex-1">
+        <PageBreadcrumb items={[{ label: "국적선택과 이중국적", path: "/nationality-selection-dual-nationality" }]} />
         {/* Hero */}
         <section className="relative min-h-[300px] flex items-center py-16">
           <div className="absolute inset-0">

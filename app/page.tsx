@@ -1,4 +1,5 @@
 import { Header } from "@/components/header"
+import { OrganizationJsonLd, WebSiteJsonLd } from "@/components/structured-data"
 import { HeroSection } from "@/components/sections/hero"
 import { MessengerContactSection } from "@/components/sections/messenger-contact"
 import { CoreServicesSection } from "@/components/sections/core-services"
@@ -12,6 +13,8 @@ import { Footer } from "@/components/footer"
 export default function HomePage() {
   return (
     <div className="flex min-h-screen flex-col">
+      <OrganizationJsonLd />
+      <WebSiteJsonLd />
       <Header />
       <main className="flex-1">
         <HeroSection />

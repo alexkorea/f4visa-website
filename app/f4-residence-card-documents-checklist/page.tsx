@@ -1,6 +1,7 @@
 import Link from "next/link"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
+import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { Button } from "@/components/ui/button"
 import { FileCheck, Phone, Mail, MessageCircle } from "lucide-react"
 
@@ -15,6 +16,7 @@ export default function DocumentChecklistPage() {
     <div className="flex min-h-screen flex-col">
       <Header />
       <main className="flex-1">
+        <PageBreadcrumb items={[{ label: "거소증 서류확인", path: "/f4-residence-card-documents-checklist" }]} />
         {/* Hero */}
         <section className="relative min-h-[300px] flex items-center py-16">
           <div className="absolute inset-0">

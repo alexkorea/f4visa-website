@@ -1,6 +1,7 @@
 import Link from "next/link"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
+import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { Button } from "@/components/ui/button"
 import { CalendarCheck, FileText, Building2, Quote } from "lucide-react"
 
@@ -67,6 +68,7 @@ export default function F4VisaRenewalPage() {
     <div className="flex min-h-screen flex-col">
       <Header />
       <main className="flex-1">
+        <PageBreadcrumb items={[{ label: "F-4 비자 연장", path: "/f4-visa-renewal" }]} />
         {/* Hero */}
         <section className="relative min-h-[300px] flex items-center py-16">
           <div className="absolute inset-0">

@@ -1,5 +1,6 @@
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
+import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
 
@@ -157,6 +158,7 @@ export default function F4VisaTypesPage() {
     <div className="flex min-h-screen flex-col">
       <Header />
       <main className="flex-1">
+        <PageBreadcrumb items={[{ label: "F-4 비자 종류", path: "/f4-visa-types" }]} />
         {/* Hero */}
         <section className="relative min-h-[300px] flex items-center py-16">
           <div className="absolute inset-0">

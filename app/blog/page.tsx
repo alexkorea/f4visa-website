@@ -3,6 +3,7 @@ import Link from "next/link"
 import Image from "next/image"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
+import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { getAllPosts } from "@/lib/blog"
 import { Calendar, Tag } from "lucide-react"
 
@@ -31,6 +32,7 @@ export default function BlogPage() {
     <div className="flex min-h-screen flex-col">
       <Header />
       <main className="flex-1">
+        <PageBreadcrumb items={[{ label: "블로그", path: "/blog" }]} />
         {/* Hero */}
         <section className="relative min-h-[300px] flex items-center py-16">
           <div className="absolute inset-0">

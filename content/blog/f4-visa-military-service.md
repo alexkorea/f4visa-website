@@ -4,7 +4,7 @@ date: "2026-04-05"
 category: "F-4 비자"
 excerpt: "남성 재외동포의 F-4 비자 신청 시 병역의무 관련 주의사항과 국적이탈 기한을 상세히 안내합니다."
 image: "/slides/passport.jpg"
-slug: "2026-04-05-f4-visa-military-service"
+slug: "f4-visa-military-service"
 ---
 
 <nav>

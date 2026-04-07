@@ -1,0 +1,91 @@
+name: Auto Blog Post
+
+on:
+  schedule:
+    - cron: '0 21 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate-blog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate blog post
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_MODELS_TOKEN: ${{ secrets.GH_MODELS_TOKEN }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: '5533847195'
+        run: |
+          TOPICS=(
+            "F-4 재외동포 비자 신청 자격과 절차"
+            "거소증 발급 신청 방법과 필요서류"
+            "국적회복 신청 절차 완벽 가이드"
+            "국적상실 신고 방법과 주의사항"
+            "재외동포 영주권 F-5 전환 절차"
+            "F-4 비자 갱신 방법과 기간 안내"
+            "해외동포 국내 부동산 취득 절차"
+            "재외국민 거소신고 방법 총정리"
+            "F-4 비자 취업 가능 업종과 제한"
+            "복수국적 허용 조건과 신청 방법"
+          )
+
+          DAY=$(date +%j)
+          INDEX=$((DAY % ${#TOPICS[@]}))
+          TOPIC="${TOPICS[$INDEX]}"
+          DATE=$(date +%Y-%m-%d)
+          SLUG="post-$(date +%s | base64 | tr -d '=' | head -c 8)"
+
+          RESPONSE=$(curl -s "https://models.inference.ai.azure.com/chat/completions" \
+            -H "Authorization: Bearer $GH_MODELS_TOKEN" \
+            -H "Content-Type: application/json" \
+            -d "$(jq -n \
+              --arg topic "$TOPIC" \
+              '{
+                model: "gpt-4o-mini",
+                max_tokens: 16000,
+                temperature: 0.7,
+                messages: [
+                  {role: "system", content: "You are a professional blog writer for F-4 비자, 거소증, 국적 업무 전문 행정사무소, specializing in F-4 visa, residence card, and nationality services for overseas Koreans. Write a blog article in clean MARKDOWN format (NOT HTML). Rules: Use ## for h2, ### for h3. Use markdown tables. Add 5+ FAQ. Add internal links. 15000+ characters. Write in Korean."},
+                  {role: "user", content: $topic}
+                ]
+              }')")
+
+          CONTENT=$(echo "$RESPONSE" | jq -r '.choices[0].message.content // empty')
+
+          if [ -z "$CONTENT" ]; then
+            curl -s "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+              -d "chat_id=${TELEGRAM_CHAT_ID}" \
+              -d "text=❌ f4visa 블로그 생성 실패: ${TOPIC}"
+            exit 1
+          fi
+
+          cat > "content/blog/${SLUG}.md" << BLOGEOF
+          ---
+          title: "${TOPIC}"
+          date: "${DATE}"
+          category: "blog"
+          excerpt: "${TOPIC}"
+          image: "/slides/documents.jpg"
+          slug: "${SLUG}"
+          ---
+
+          ${CONTENT}
+          BLOGEOF
+
+          sed -i 's/^          //' "content/blog/${SLUG}.md"
+
+          git config user.name "f4visa Bot"
+          git config user.email "bot@f4visa.net"
+          git add "content/blog/${SLUG}.md"
+          git commit -m "blog: ${TOPIC}"
+          git push
+
+          curl -s "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            -d "chat_id=${TELEGRAM_CHAT_ID}" \
+            -d "text=✅ f4visa 블로그 발행 완료!
+
+          제목: ${TOPIC}
+          파일: ${SLUG}.md
+          날짜: ${DATE}"

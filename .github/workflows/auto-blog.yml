@@ -5,6 +5,9 @@ on:
     - cron: '0 21 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate-blog:
     runs-on: ubuntu-latest
@@ -31,11 +34,11 @@ jobs:
             "복수국적 허용 조건과 신청 방법"
           )
 
-          DAY=$(date +%j)
+          DAY=$(date +%-j)
           INDEX=$((DAY % ${#TOPICS[@]}))
           TOPIC="${TOPICS[$INDEX]}"
           DATE=$(date +%Y-%m-%d)
-          SLUG="post-$(date +%s | base64 | tr -d '=' | head -c 8)"
+          SLUG="post-$(date +%s | tail -c 9)"
 
           RESPONSE=$(curl -s "https://models.inference.ai.azure.com/chat/completions" \
             -H "Authorization: Bearer $GH_MODELS_TOKEN" \
@@ -62,16 +65,16 @@ jobs:
           fi
 
           cat > "content/blog/${SLUG}.md" << BLOGEOF
-          ---
+---
           title: "${TOPIC}"
           date: "${DATE}"
           category: "blog"
           excerpt: "${TOPIC}"
           image: "/slides/documents.jpg"
           slug: "${SLUG}"
-          ---
+---
 
-          ${CONTENT}
+${CONTENT}
           BLOGEOF
 
           sed -i 's/^          //' "content/blog/${SLUG}.md"

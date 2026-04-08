@@ -25,12 +25,29 @@ export function ContactForm() {
     message: "",
   })
   const [submitted, setSubmitted] = React.useState(false)
+  const [sending, setSending] = React.useState(false)
+  const [error, setError] = React.useState(false)
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
-    // In production, this would send to an API
-    console.log("Form submitted:", formData)
-    setSubmitted(true)
+    setSending(true)
+    setError(false)
+    try {
+      const res = await fetch("/api/contact", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(formData),
+      })
+      if (res.ok) {
+        setSubmitted(true)
+      } else {
+        setError(true)
+      }
+    } catch {
+      setError(true)
+    } finally {
+      setSending(false)
+    }
   }
 
   if (submitted) {
@@ -171,9 +188,12 @@ export function ContactForm() {
             />
           </div>
 
-          <Button type="submit" className="w-full" size="lg">
-            문의하기
+          <Button type="submit" className="w-full" size="lg" disabled={sending}>
+            {sending ? "전송 중..." : "문의하기"}
           </Button>
+          {error && (
+            <p className="text-red-500 text-sm text-center">전송에 실패했습니다. 직접 전화 또는 이메일로 문의해주세요.</p>
+          )}
         </form>
       </CardContent>
     </Card>

@@ -5,9 +5,24 @@ import { ContactForm } from "./contact-form"
 import { Phone, Smartphone, Mail, MapPin } from "lucide-react"
 
 export const metadata = {
-  title: "상담 문의 | 재외동포 행정서비스",
+  title: "상담 문의",
   description:
     "F-4 비자, 거소증, 국적 관련 업무에 대해 전문가에게 문의하세요.",
+  alternates: { canonical: "https://f4visa.net/contact" },
+  openGraph: {
+    title: "상담 문의 | 비전행정사사무소",
+    description:
+      "F-4 비자, 거소증, 국적 관련 업무에 대해 전문가에게 문의하세요.",
+    url: "https://f4visa.net/contact",
+    siteName: "비전행정사사무소",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image" as const,
+    title: "상담 문의 | 비전행정사사무소",
+    description:
+      "F-4 비자, 거소증, 국적 관련 업무에 대해 전문가에게 문의하세요.",
+  },
 }
 
 const contactInfo = [

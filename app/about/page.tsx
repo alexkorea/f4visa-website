@@ -8,9 +8,24 @@ import { Button } from "@/components/ui/button"
 import { Shield, Award, Users, Clock } from "lucide-react"
 
 export const metadata = {
-  title: "회사소개 | 재외동포 행정서비스",
+  title: "회사소개",
   description:
     "F-4 비자, 거소증, 국적상실, 국적회복 전문 행정사사무소를 소개합니다.",
+  alternates: { canonical: "https://f4visa.net/about" },
+  openGraph: {
+    title: "회사소개 | 비전행정사사무소",
+    description:
+      "F-4 비자, 거소증, 국적상실, 국적회복 전문 행정사사무소를 소개합니다.",
+    url: "https://f4visa.net/about",
+    siteName: "비전행정사사무소",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image" as const,
+    title: "회사소개 | 비전행정사사무소",
+    description:
+      "F-4 비자, 거소증, 국적상실, 국적회복 전문 행정사사무소를 소개합니다.",
+  },
 }
 
 const stats = [

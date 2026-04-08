@@ -6,9 +6,24 @@ import { Button } from "@/components/ui/button"
 import { CalendarCheck, FileText, Building2, Quote } from "lucide-react"
 
 export const metadata = {
-  title: "F-4 비자 연장 절차 및 필요서류 안내 | 재외동포 행정서비스",
+  title: "F-4 비자 연장 절차 및 필요서류 안내",
   description:
     "재외동포 F-4 비자 연장 절차, 필요서류, 신청 방법을 안내합니다. 체류 만료일 4개월 전부터 신청 가능합니다.",
+  alternates: { canonical: "https://f4visa.net/f4-visa-renewal" },
+  openGraph: {
+    title: "F-4 비자 연장 절차 및 필요서류 안내 | 비전행정사사무소",
+    description:
+      "재외동포 F-4 비자 연장 절차, 필요서류, 신청 방법을 안내합니다.",
+    url: "https://f4visa.net/f4-visa-renewal",
+    siteName: "비전행정사사무소",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image" as const,
+    title: "F-4 비자 연장 절차 및 필요서류 안내 | 비전행정사사무소",
+    description:
+      "재외동포 F-4 비자 연장 절차, 필요서류, 신청 방법을 안내합니다.",
+  },
 }
 
 const steps = [

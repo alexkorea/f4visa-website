@@ -6,7 +6,7 @@ import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { FileText, Building2, ClipboardCheck, CheckCircle2 } from "lucide-react"
 
 export const metadata: Metadata = {
-  title: "국적상실 신고 절차와 준비서류 총정리 | 재외동포 행정서비스",
+  title: "국적상실 신고 절차와 준비서류 총정리",
   description:
     "외국 국적 취득 시 한국 국적 상실 신고 절차, 필수 서류, 국적법 제15조 안내. 비전행정사사무소가 국적상실 신고를 대행합니다.",
   alternates: { canonical: "https://f4visa.net/nationality-loss-report" },
@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     description:
       "외국 국적 취득 시 한국 국적 상실 신고 절차, 필수 서류, 국적법 제15조 안내.",
     url: "https://f4visa.net/nationality-loss-report",
-    siteName: "재외동포 행정서비스 | f4visa.net",
+    siteName: "비전행정사사무소",
     type: "website",
   },
   twitter: {

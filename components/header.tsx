@@ -14,7 +14,7 @@ import {
 import { cn } from "@/lib/utils"
 
 const menuItems = [
-  { title: "Home", href: "/" },
+  { title: "홈", href: "/" },
   {
     title: "국적상실",
     href: "/nationality-loss-report",
@@ -43,7 +43,7 @@ const menuItems = [
       { title: "블로그", href: "/blog" },
     ],
   },
-  { title: "Contact", href: "/contact" },
+  { title: "상담문의", href: "/contact" },
 ]
 
 export function Header() {

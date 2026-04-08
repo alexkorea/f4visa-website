@@ -6,9 +6,24 @@ import { Button } from "@/components/ui/button"
 import { CheckCircle, FileText, ClipboardList, UserCheck } from "lucide-react"
 
 export const metadata = {
-  title: "F-4 비자와 거소증 | 재외동포 행정서비스",
+  title: "F-4 비자와 거소증",
   description:
     "재외동포 체류자격(F-4) 비자와 거소증(외국국적동포 국내거소신고증)에 대한 안내. 발급 대상, 효과, 신청 절차를 확인하세요.",
+  alternates: { canonical: "https://f4visa.net/f4-visa-resident-card" },
+  openGraph: {
+    title: "F-4 비자와 거소증 | 비전행정사사무소",
+    description:
+      "재외동포 체류자격(F-4) 비자와 거소증에 대한 안내. 발급 대상, 효과, 신청 절차를 확인하세요.",
+    url: "https://f4visa.net/f4-visa-resident-card",
+    siteName: "비전행정사사무소",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image" as const,
+    title: "F-4 비자와 거소증 | 비전행정사사무소",
+    description:
+      "재외동포 체류자격(F-4) 비자와 거소증에 대한 안내. 발급 대상, 효과, 신청 절차를 확인하세요.",
+  },
 }
 
 const steps = [

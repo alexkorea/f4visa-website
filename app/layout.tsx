@@ -16,12 +16,31 @@ const notoSerifKR = Noto_Serif_KR({
 })
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://f4visa.net'),
   verification: {
     google: '3uKewla1bSzyVlVNz1xP2GbGx-4NHiQJ4nKXl_FOk-4',
   },
-  title: 'F-4 비자 · 거소증 · 국적상실 · 국적회복 · 영주권 전문 행정사무소',
+  title: {
+    default: 'F-4 비자 · 거소증 · 국적상실 · 국적회복 · 영주권 | 비전행정사사무소',
+    template: '%s | 비전행정사사무소',
+  },
   description: '해외 거주 재외동포를 위한 F-4 비자, 거소증 발급, 국적상실, 국적회복, 영주권 업무를 전문적으로 지원합니다. 복잡한 행정 절차를 정확하고 빠르게 안내해 드립니다.',
   keywords: ['F-4 비자', '거소증', '국적상실', '국적회복', '영주권', '재외동포', '해외동포', '한국 비자'],
+  robots: { index: true, follow: true },
+  alternates: { canonical: 'https://f4visa.net' },
+  openGraph: {
+    title: 'F-4 비자 · 거소증 · 국적상실 · 국적회복 · 영주권 | 비전행정사사무소',
+    description: '해외 거주 재외동포를 위한 F-4 비자, 거소증 발급, 국적상실, 국적회복, 영주권 업무를 전문적으로 지원합니다.',
+    url: 'https://f4visa.net',
+    siteName: '비전행정사사무소',
+    type: 'website',
+    locale: 'ko_KR',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'F-4 비자 · 거소증 · 국적상실 · 국적회복 · 영주권 | 비전행정사사무소',
+    description: '해외 거주 재외동포를 위한 F-4 비자, 거소증 발급, 국적상실, 국적회복, 영주권 업무를 전문적으로 지원합니다.',
+  },
   icons: {
     icon: [
       {

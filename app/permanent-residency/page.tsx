@@ -7,7 +7,7 @@ import { CheckCircle2 } from "lucide-react"
 
 export const metadata: Metadata = {
   title:
-    "재외동포 영주권 신청 / 신청 자격, 절차, 필요서류 | 재외동포 행정서비스",
+    "재외동포 영주권 신청 / 신청 자격, 절차, 필요서류",
   description:
     "F-4 비자에서 F-5 영주권으로 전환하는 방법. 신청 자격, 체류 요건, 생계능력, 기본소양 요건 및 비교표 안내. 비전행정사사무소 전문 상담.",
   alternates: { canonical: "https://f4visa.net/permanent-residency" },
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     description:
       "F-4 비자에서 F-5 영주권으로 전환하는 방법. 신청 자격, 체류 요건, 생계능력, 기본소양 요건 안내.",
     url: "https://f4visa.net/permanent-residency",
-    siteName: "재외동포 행정서비스 | f4visa.net",
+    siteName: "비전행정사사무소",
     type: "website",
   },
   twitter: {

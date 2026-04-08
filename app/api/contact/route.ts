@@ -4,7 +4,7 @@ import * as nodemailer from "nodemailer"
 const SITE_NAME = "F4Visa"
 const SITE_NAME_KR = "F4비자"
 
-async function sendEmail(fields: Record<string, string>) {
+async function sendEmail(fields: Record<string, string>, senderName: string, senderEmail: string) {
   const appPassword = process.env.GMAIL_APP_PASSWORD
   if (!appPassword) {
     console.warn("GMAIL_APP_PASSWORD not set — skipping email notification")
@@ -34,9 +34,9 @@ async function sendEmail(fields: Record<string, string>) {
   `
 
   await transporter.sendMail({
-    from: `"${name} via ${SITE_NAME}" <5000meter@gmail.com>`,
+    from: `"${senderName} via ${SITE_NAME}" <5000meter@gmail.com>`,
     to: "5000meter@gmail.com",
-    replyTo: email,
+    replyTo: senderEmail,
     subject: `[${SITE_NAME_KR}] 새 상담 신청 - ${fields["이름"] || "고객"}`,
     html,
   })
@@ -75,7 +75,7 @@ export async function POST(request: Request) {
       "전화번호": phone,
       "문의유형": type,
       "메시지": message,
-    }).catch((err) => console.error("Email send error:", err))
+    }), name, email).catch((err) => console.error("Email send error:", err))
 
     await Promise.all([telegramPromise, emailPromise])
 

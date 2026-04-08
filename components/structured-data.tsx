@@ -110,13 +110,17 @@ export function ArticleJsonLd({
 }) {
   const data = {
     "@context": "https://schema.org",
-    "@type": "Article",
+    "@type": "BlogPosting",
     headline: title,
     description,
     url,
     image,
     datePublished,
     dateModified: dateModified || datePublished,
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": url,
+    },
     author: {
       "@type": "Organization",
       name: "비전행정사사무소",

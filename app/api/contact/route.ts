@@ -75,7 +75,7 @@ export async function POST(request: Request) {
       "전화번호": phone,
       "문의유형": type,
       "메시지": message,
-    }), name, email).catch((err) => console.error("Email send error:", err))
+    }, name, email).catch((err) => console.error("Email send error:", err))
 
     await Promise.all([telegramPromise, emailPromise])
 

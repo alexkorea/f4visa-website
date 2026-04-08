@@ -34,7 +34,7 @@ async function sendEmail(fields: Record<string, string>, senderName: string, sen
   `
 
   await transporter.sendMail({
-    from: `"${senderName} via ${SITE_NAME}" <5000meter@gmail.com>`,
+    from: { name: senderName + " via " + SITE_NAME, address: "5000meter@gmail.com" },
     to: "5000meter@gmail.com",
     replyTo: senderEmail,
     subject: `[${SITE_NAME_KR}] 새 상담 신청 - ${fields["이름"] || "고객"}`,

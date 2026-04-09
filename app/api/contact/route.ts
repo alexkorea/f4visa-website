@@ -42,6 +42,35 @@ async function sendEmail(fields: Record<string, string>, senderName: string, sen
   })
 }
 
+
+const NOTION_KEY = process.env.NOTION_API_KEY || ""
+const NOTION_DB = "33d557c9-c8f8-816f-b0e5-d58765b53a3f"
+
+async function saveToNotion(data: Record<string, string>) {
+  if (!NOTION_KEY) return
+  const today = new Date().toISOString().slice(0, 10)
+  await fetch("https://api.notion.com/v1/pages", {
+    method: "POST",
+    headers: {
+      "Authorization": "Bearer " + NOTION_KEY,
+      "Notion-Version": "2022-06-28",
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({
+      parent: { database_id: NOTION_DB },
+      properties: {
+        "이름": { title: [{ text: { content: data.name || "" } }] },
+        "이메일": { email: data.email || null },
+        "연락처": { phone_number: data.phone || null },
+        "서비스": { rich_text: [{ text: { content: data.service || data.type || "" } }] },
+        "메시지": { rich_text: [{ text: { content: data.message || "" } }] },
+        "접수일": { date: { start: today } },
+        "상태": { select: { name: "신규" } },
+      },
+    }),
+  })
+}
+
 export async function POST(request: Request) {
   try {
     const body = await request.json()
@@ -77,7 +106,10 @@ export async function POST(request: Request) {
       "메시지": message,
     }, name, email).catch((err) => console.error("Email send error:", err))
 
-    await Promise.all([telegramPromise, emailPromise])
+    // Notion save
+    const notionPromise = saveToNotion(body).catch((err) => console.error("Notion error:", err))
+
+    await Promise.all([telegramPromise, emailPromise, notionPromise])
 
     return NextResponse.json({ success: true })
   } catch (error) {

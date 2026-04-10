@@ -77,7 +77,7 @@ export function Header() {
           <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-primary">
             <span className="text-lg font-bold text-primary-foreground">V</span>
           </div>
-          <div className="hidden sm:flex flex-col leading-tight">
+          <div className="flex flex-col leading-tight">
             <span className="font-serif text-lg font-semibold text-foreground">VISION</span>
             <span className="text-[10px] text-muted-foreground -mt-1">행정사사무소</span>
           </div>

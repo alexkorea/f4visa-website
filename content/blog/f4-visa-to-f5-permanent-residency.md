@@ -64,7 +64,7 @@ F-4 비자 소지자로서 F-5 영주권으로 전환하려면 아래 조건 중
 
 
 <figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/78786/fighter-jet-jet-lockheed-martin-f-35-lightning-ii-2011-78786.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Stunning aerial view of a Navy F-35 fighter jet soaring through clear skies." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
+  <img src="https://images.pexels.com/photos/32073492/pexels-photo-32073492.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A family wearing traditional Hanbok enjoys a spring day at a Seoul park." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
   
 </figure>
 

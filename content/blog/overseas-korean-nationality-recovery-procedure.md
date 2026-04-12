@@ -362,7 +362,7 @@ slug: "overseas-korean-nationality-recovery-procedure"
 
 **📞 상담 문의: 02-363-2251**  
 **📧 이메일: 5000meter@gmail.com**  
-**🏢 방문 상담: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩) | 동대문역사문화공원역 4번출구 10미터**
+**🏢 방문 상담: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)  동대문역사문화공원역 4번출구 10미터 | 동대문역사문화공원역 4번출구 10미터**
 
 <div style="background:#1e40af;color:white;padding:20px;border-radius:8px;margin:30px 0;text-align:center">
 <h3 style="color:white;margin-top:0">무료 상담 신청</h3>

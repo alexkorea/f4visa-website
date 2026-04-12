@@ -143,6 +143,6 @@ F-4 비자 신청 시 알아야 할 주의 사항:
 <div style="background:#1e40af;color:white;padding:30px;border-radius:8px;margin:40px 0">
   <h3 style="color:white;margin-top:0;text-align:center">비전 행정사사무소</h3>
   <p style="margin:12px 0;text-align:center"><strong>전화:</strong> 02-363-2251　|　<strong>이메일:</strong> 5000meter@gmail.com</p>
-  <p style="margin:12px 0;text-align:center;font-size:14px;line-height:1.6"><strong>방문 상담:</strong> (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩) | 동대문역사문화공원역 4번출구 10미터</p>
+  <p style="margin:12px 0;text-align:center;font-size:14px;line-height:1.6"><strong>방문 상담:</strong> (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)  동대문역사문화공원역 4번출구 10미터 | 동대문역사문화공원역 4번출구 10미터</p>
 </div>
 

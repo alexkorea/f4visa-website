@@ -109,7 +109,17 @@ export async function POST(request: Request) {
     // Notion save
     const notionPromise = saveToNotion(body).catch((err) => console.error("Notion error:", err))
 
-    await Promise.all([telegramPromise, emailPromise, notionPromise])
+    // Notion CRM (unified)
+    const { saveToCRM } = await import("@/lib/notion-crm")
+    const crmPromise = saveToCRM({
+      brand: 'f4visa', formType: 'contact',
+      siteUrl: 'https://f4visa.net/contact',
+      name, email, phone,
+      serviceRaw: type, message,
+      rawPayload: body,
+    }).catch((err) => console.error("CRM error:", err))
+
+    await Promise.all([telegramPromise, emailPromise, notionPromise, crmPromise])
 
     return NextResponse.json({ success: true })
   } catch (error) {

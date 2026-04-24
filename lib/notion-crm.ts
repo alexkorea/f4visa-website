@@ -1,8 +1,8 @@
 // Notion CRM Helper - drop into each site's lib/ directory
 const NOTION_KEY = process.env.NOTION_CRM_KEY || "";
-const INBOX_DB = "34b557c9-c8f8-812d-8850-f463e798a16c";
-const CONTACTS_DB = "34b557c9-c8f8-817a-b3f9-f9c0a60711fc";
-const TASKS_DB = "34b557c9-c8f8-81f4-9b70-de0a6f9f32c7";
+const INBOX_DB = "34c5bd7c-ac5a-8184-b0ad-f1451ca545fe";
+const CONTACTS_DB = "34c5bd7c-ac5a-811a-bddd-ee05d1c49e37";
+const TASKS_DB = "34c5bd7c-ac5a-81b8-b1fc-f7c8f9ce4a6a";
 
 const SERVICE_MAP: Record<string, string> = {
   'd-8': 'D8_INVEST', 'd8': 'D8_INVEST', '투자비자': 'D8_INVEST', 'investment': 'D8_INVEST',

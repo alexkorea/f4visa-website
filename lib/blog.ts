@@ -1,11 +1,6 @@
-import fs from 'fs'
-import path from 'path'
-import matter from 'gray-matter'
-import { remark } from 'remark'
-import remarkGfm from 'remark-gfm'
-import html from 'remark-html'
+import { getAnonClient } from '@/lib/supabase'
 
-const postsDirectory = path.join(process.cwd(), 'content/blog')
+const TABLE = 'f4visa_blog_posts'
 
 export interface BlogPost {
   slug: string
@@ -17,35 +12,71 @@ export interface BlogPost {
   content: string
 }
 
-export function getPostSlugs(): string[] {
-  if (!fs.existsSync(postsDirectory)) return []
-  return fs
-    .readdirSync(postsDirectory)
-    .filter((f) => f.endsWith('.md'))
-    .map((f) => f.replace('.md', ''))
+interface SupabaseBlogRow {
+  slug: string
+  title: string
+  date: string
+  category: string
+  excerpt: string
+  image: string
+  content_html: string
+  locale: string
 }
 
-export function getPostBySlug(slug: string): BlogPost {
-  const fullPath = path.join(postsDirectory, `${slug}.md`)
-  const fileContents = fs.readFileSync(fullPath, 'utf8')
-  const { data, content } = matter(fileContents)
-  const processedContent = remark().use(remarkGfm).use(html, { sanitize: false }).processSync(content)
+function rowToPost(row: SupabaseBlogRow): BlogPost {
   return {
-    slug: data.slug || slug,
-    title: data.title,
-    date:
-      typeof data.date === 'string'
-        ? data.date
-        : new Date(data.date).toISOString().slice(0, 10),
-    category: data.category,
-    excerpt: data.excerpt,
-    image: data.image || '/slides/documents.jpg',
-    content: processedContent.toString(),
+    slug: row.slug,
+    title: row.title,
+    date: row.date,
+    category: row.category,
+    excerpt: row.excerpt,
+    image: row.image || '/slides/documents.jpg',
+    content: row.content_html,
   }
 }
 
-export function getAllPosts(): BlogPost[] {
-  return getPostSlugs()
-    .map((slug) => getPostBySlug(slug))
-    .sort((a, b) => (a.date > b.date ? -1 : 1))
+export async function getPostSlugs(): Promise<string[]> {
+  const supabase = getAnonClient()
+  const { data, error } = await supabase
+    .from(TABLE)
+    .select('slug')
+    .eq('locale', 'ko')
+    .order('date', { ascending: false })
+
+  if (error) {
+    console.error('getPostSlugs error:', error.message)
+    return []
+  }
+  return (data ?? []).map((r: { slug: string }) => r.slug)
+}
+
+export async function getPostBySlug(slug: string): Promise<BlogPost | null> {
+  const supabase = getAnonClient()
+  const { data, error } = await supabase
+    .from(TABLE)
+    .select('*')
+    .eq('slug', slug)
+    .eq('locale', 'ko')
+    .single()
+
+  if (error || !data) {
+    console.error('getPostBySlug error:', error?.message)
+    return null
+  }
+  return rowToPost(data as SupabaseBlogRow)
+}
+
+export async function getAllPosts(): Promise<BlogPost[]> {
+  const supabase = getAnonClient()
+  const { data, error } = await supabase
+    .from(TABLE)
+    .select('*')
+    .eq('locale', 'ko')
+    .order('date', { ascending: false })
+
+  if (error) {
+    console.error('getAllPosts error:', error.message)
+    return []
+  }
+  return (data ?? []).map((r: SupabaseBlogRow) => rowToPost(r))
 }

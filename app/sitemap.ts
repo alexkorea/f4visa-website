@@ -1,7 +1,9 @@
 import type { MetadataRoute } from "next"
 import { getAllPosts } from "@/lib/blog"
 
-export default function sitemap(): MetadataRoute.Sitemap {
+export const revalidate = 60
+
+export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const baseUrl = "https://f4visa.net"
 
   const staticPages: MetadataRoute.Sitemap = [
@@ -15,7 +17,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${baseUrl}/contact`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.8 },
   ]
 
-  const blogPosts: MetadataRoute.Sitemap = getAllPosts().map((post) => ({
+  const posts = await getAllPosts()
+  const blogPosts: MetadataRoute.Sitemap = posts.map((post) => ({
     url: `${baseUrl}/blog/${post.slug}`,
     lastModified: new Date(post.date),
     changeFrequency: "monthly" as const,

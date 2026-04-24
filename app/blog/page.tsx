@@ -7,6 +7,8 @@ import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { getAllPosts } from "@/lib/blog"
 import { Calendar, Tag } from "lucide-react"
 
+export const revalidate = 60
+
 export const metadata: Metadata = {
   title: "블로그 - 비전행정사사무소 | F-4 비자 전문",
   description: "F-4 비자, 거소증, 국적상실, 국적회복 등 재외동포 행정 업무에 대한 최신 정보와 실무 가이드를 제공합니다.",
@@ -25,8 +27,8 @@ export const metadata: Metadata = {
   },
 }
 
-export default function BlogPage() {
-  const posts = getAllPosts()
+export default async function BlogPage() {
+  const posts = await getAllPosts()
 
   return (
     <div className="flex min-h-screen flex-col">

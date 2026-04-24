@@ -1,21 +1,22 @@
 import type { Metadata } from "next"
 import Link from "next/link"
 import Image from "next/image"
+import { notFound } from "next/navigation"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { ArticleJsonLd } from "@/components/structured-data"
-import { getAllPosts, getPostBySlug, getPostSlugs } from "@/lib/blog"
+import { getAllPosts, getPostBySlug } from "@/lib/blog"
 import { Calendar, Tag, ArrowLeft } from "lucide-react"
 import { Button } from "@/components/ui/button"
 
-export function generateStaticParams() {
-  return getPostSlugs().map((slug) => ({ slug }))
-}
+export const revalidate = 60
+export const dynamicParams = true
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params
-  const post = getPostBySlug(slug)
+  const post = await getPostBySlug(slug)
+  if (!post) return { title: "Not Found" }
   const BASE_URL = "https://f4visa.net"
   return {
     title: `${post.title} - 비전행정사사무소`,
@@ -39,8 +40,10 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 
 export default async function BlogPostPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params
-  const post = getPostBySlug(slug)
-  const allPosts = getAllPosts()
+  const post = await getPostBySlug(slug)
+  if (!post) notFound()
+
+  const allPosts = await getAllPosts()
   const relatedPosts = allPosts.filter((p) => p.slug !== post.slug).slice(0, 3)
 
   return (

@@ -11,7 +11,6 @@ const footerLinks = {
     { title: "국적선택(이중국적)", href: "/nationality-selection-dual-nationality" },
   ],
   resources: [
-    { title: "거소증 서류확인", href: "/f4-residence-card-documents-checklist" },
     { title: "F-4 비자 종류", href: "/f4-visa-types" },
     { title: "F-4 비자 연장", href: "/f4-visa-renewal" },
     { title: "블로그", href: "/blog" },

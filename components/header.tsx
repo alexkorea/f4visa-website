@@ -35,14 +35,7 @@ const menuItems = [
   },
   { title: "영주권", href: "/permanent-residency" },
   { title: "국적회복", href: "/nationality-recovery" },
-  {
-    title: "자료실",
-    href: "/blog",
-    children: [
-      { title: "거소증 서류확인", href: "/f4-residence-card-documents-checklist" },
-      { title: "블로그", href: "/blog" },
-    ],
-  },
+  { title: "블로그", href: "/blog" },
   { title: "상담문의", href: "/contact" },
 ]
 

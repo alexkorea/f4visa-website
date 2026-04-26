@@ -1,6 +1,8 @@
-import { getAnonClient } from '@/lib/supabase'
+import fs from 'node:fs'
+import path from 'node:path'
+import matter from 'gray-matter'
 
-const TABLE = 'f4visa_blog_posts'
+const CONTENT_DIR = path.join(process.cwd(), 'content', 'blog')
 
 export interface BlogPost {
   slug: string
@@ -12,71 +14,50 @@ export interface BlogPost {
   content: string
 }
 
-interface SupabaseBlogRow {
-  slug: string
-  title: string
-  date: string
-  category: string
-  excerpt: string
-  image: string
-  content_html: string
-  locale: string
-}
-
-function rowToPost(row: SupabaseBlogRow): BlogPost {
-  return {
-    slug: row.slug,
-    title: row.title,
-    date: row.date,
-    category: row.category,
-    excerpt: row.excerpt,
-    image: row.image || '/slides/documents.jpg',
-    content: row.content_html,
+function readPost(filePath: string): BlogPost | null {
+  try {
+    const raw = fs.readFileSync(filePath, 'utf-8')
+    const { data, content } = matter(raw)
+    const slug = path.basename(filePath).replace(/\.md$/, '')
+    return {
+      slug,
+      title: data.title || slug,
+      date: data.date || '',
+      category: data.category || '',
+      excerpt: data.excerpt || '',
+      image: data.image || '/slides/documents.jpg',
+      content,
+    }
+  } catch {
+    return null
   }
 }
 
 export async function getPostSlugs(): Promise<string[]> {
-  const supabase = getAnonClient()
-  const { data, error } = await supabase
-    .from(TABLE)
-    .select('slug')
-    .eq('locale', 'ko')
-    .order('date', { ascending: false })
-
-  if (error) {
-    console.error('getPostSlugs error:', error.message)
+  try {
+    return fs.readdirSync(CONTENT_DIR)
+      .filter(f => f.endsWith('.md') && !f.includes('.'))
+      .map(f => f.replace(/\.md$/, ''))
+  } catch {
     return []
   }
-  return (data ?? []).map((r: { slug: string }) => r.slug)
 }
 
 export async function getPostBySlug(slug: string): Promise<BlogPost | null> {
-  const supabase = getAnonClient()
-  const { data, error } = await supabase
-    .from(TABLE)
-    .select('*')
-    .eq('slug', slug)
-    .eq('locale', 'ko')
-    .single()
-
-  if (error || !data) {
-    console.error('getPostBySlug error:', error?.message)
-    return null
-  }
-  return rowToPost(data as SupabaseBlogRow)
+  const filePath = path.join(CONTENT_DIR, `${slug}.md`)
+  return readPost(filePath)
 }
 
 export async function getAllPosts(): Promise<BlogPost[]> {
-  const supabase = getAnonClient()
-  const { data, error } = await supabase
-    .from(TABLE)
-    .select('*')
-    .eq('locale', 'ko')
-    .order('date', { ascending: false })
-
-  if (error) {
-    console.error('getAllPosts error:', error.message)
+  try {
+    const files = fs.readdirSync(CONTENT_DIR)
+      .filter(f => f.endsWith('.md') && !f.includes('.en.') && !f.includes('.zh.') && !f.includes('.ja.'))
+    const posts = files
+      .map(f => readPost(path.join(CONTENT_DIR, f)))
+      .filter((p): p is BlogPost => p !== null)
+      .sort((a, b) => (b.date || '').localeCompare(a.date || ''))
+    return posts
+  } catch {
     return []
   }
-  return (data ?? []).map((r: SupabaseBlogRow) => rowToPost(r))
 }

@@ -19,7 +19,7 @@ export function PageBreadcrumb({ items }: { items: BreadcrumbEntry[] }) {
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbData) }} />
-      <nav aria-label="breadcrumb" className="max-w-7xl mx-auto px-6 pt-24 pb-2">
+      <nav aria-label="breadcrumb" className="max-w-7xl mx-auto px-6 pt-4 pb-2">
         <ol className="flex flex-wrap items-center gap-1.5 text-sm text-gray-500">
           {allItems.map((item, idx) => (
             <li key={item.path} className="inline-flex items-center gap-1.5">

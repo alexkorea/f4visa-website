@@ -124,10 +124,10 @@ export function Footer() {
             © 2018 비전행정사사무소. All rights reserved.
           </p>
           <div className="flex gap-6 text-sm text-muted-foreground">
-            <Link href="/contact" className="hover:text-foreground">
+            <Link href="/privacy" className="hover:text-foreground">
               개인정보처리방침
             </Link>
-            <Link href="/contact" className="hover:text-foreground">
+            <Link href="/terms" className="hover:text-foreground">
               이용약관
             </Link>
           </div>

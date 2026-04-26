@@ -177,8 +177,7 @@ export default function AboutPage() {
               </Button>
               <Button
                 size="lg"
-                variant="outline"
-                className="border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10"
+                variant="secondary"
                 asChild
               >
                 <a href="tel:010-2081-3408">010-2081-3408</a>

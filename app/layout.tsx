@@ -76,13 +76,13 @@ export default function RootLayout({
   return (
     <html lang="ko">
       <body className={`${notoSansKR.variable} ${notoSerifKR.variable} font-sans antialiased`}>
-        <Script src="https://www.googletagmanager.com/gtag/js?id=G-J6GD76FYJ8" strategy="afterInteractive" />
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-TNDB1XVX2R" strategy="afterInteractive" />
         <Script id="gtag-init" strategy="afterInteractive">
           {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'G-J6GD76FYJ8');
+            gtag('config', 'G-TNDB1XVX2R');
           `}
         </Script>
         {children}

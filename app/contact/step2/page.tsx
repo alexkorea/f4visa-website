@@ -41,10 +41,12 @@ const serviceFields: Record<string, FieldDef[]> = {
     { name: "hasResidenceCard", label: "거소증 유무", type: "radio", options: ["예", "아니오"], required: true },
     { name: "koreanAbility", label: "한국어 능력", type: "select", options: ["원어민", "유창", "중급", "초급", "없음"], required: false },
   ],
-  "복수국적": [
-    { name: "currentNationality", label: "현재 국적", type: "text", placeholder: "예: 미국, 캐나다", required: true },
-    { name: "militaryStatus", label: "병역 상태", type: "select", options: ["해당 없음 (여성)", "면제", "미필", "복무 완료"], required: true },
-    { name: "age", label: "만 나이", type: "text", placeholder: "예: 32", required: true },
+  "F-5 영주권": [
+    { name: "currentVisa", label: "현재 비자 종류", type: "select", options: ["F-4 (재외동포)", "F-2 (거주)", "기타"], required: true },
+    { name: "stayDuration", label: "한국 체류 기간", type: "select", options: ["1년 미만", "1~3년", "3~5년", "5년 이상"], required: true },
+    { name: "koreanAbility", label: "한국어 능력", type: "select", options: ["TOPIK 없음", "TOPIK 1~2급", "TOPIK 3~4급", "TOPIK 5~6급", "사회통합프로그램 이수"], required: false },
+    { name: "income", label: "연간 소득 수준", type: "select", options: ["3,000만 원 미만", "3,000만 ~ 5,000만 원", "5,000만 원 이상"], required: true },
+    { name: "criminalRecord", label: "한국 내 범죄/벌금 이력", type: "radio", options: ["없음", "있음"], required: true },
   ],
   "기타": [
     { name: "inquiry", label: "문의 내용", type: "textarea", placeholder: "궁금하신 내용을 자유롭게 작성해주세요.", required: true },

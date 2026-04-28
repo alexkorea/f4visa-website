@@ -9,7 +9,7 @@ const services = [
   { value: "거소증 신청/수령", label: "거소증 신청/수령", sub: "Residence Card", icon: "🪪" },
   { value: "국적상실 신고", label: "국적상실 신고", sub: "Nationality Loss", icon: "📄" },
   { value: "국적회복", label: "국적회복", sub: "Nationality Recovery", icon: "🔄" },
-  { value: "복수국적", label: "복수국적", sub: "Dual Citizenship", icon: "🌐" },
+  { value: "F-5 영주권", label: "F-5 영주권", sub: "Permanent Residency", icon: "🏅" },
   { value: "기타", label: "기타", sub: "Other", icon: "💬" },
 ]
 

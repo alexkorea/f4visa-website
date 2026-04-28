@@ -181,44 +181,29 @@ export default function NationalityRecoveryPage() {
                 <tbody className="divide-y divide-border">
                   {[
                     {
-                      doc: "국적회복 신청서",
-                      detail: "관할 기관 비치 양식, 사진 부착",
+                      doc: "신청서",
+                      detail: "관할 기관 비치 양식",
                       note: "",
                     },
                     {
-                      doc: "사진",
-                      detail: "3.5cm x 4.5cm 1매",
-                      note: "",
-                    },
-                    {
-                      doc: "신분증 (여권)",
+                      doc: "여권",
                       detail: "외국 여권 원본 및 사본",
                       note: "",
                     },
                     {
-                      doc: "가족관계 증명 서류",
-                      detail: "기본증명서(상세), 가족관계증명서(상세)",
+                      doc: "과거 대한민국 국민이었던 사실 증명 서류",
+                      detail: "제적등본, 폐쇄등록부 등",
+                      note: "",
+                    },
+                    {
+                      doc: "외국국적취득(대한민국 국적상실) 원인 및 일자를 증명하는 서류",
+                      detail: "시민권 증서, 귀화증명서 등",
+                      note: "",
+                    },
+                    {
+                      doc: "가족관계부 작성에 필요한 서류",
+                      detail: "기본증명서(상세), 가족관계증명서(상세) 등",
                       note: "국내 가족에게 위임하여 발급 가능",
-                    },
-                    {
-                      doc: "국적상실 입증 서류",
-                      detail: "국적상실 신고가 수리된 통보서 등",
-                      note: "",
-                    },
-                    {
-                      doc: "외국국적 취득 서류",
-                      detail: "외국 국적 취득 증명서, 여권 등",
-                      note: "",
-                    },
-                    {
-                      doc: "해외 거주 증명 서류",
-                      detail: "시민권 증명서, 영주권 증명서 등",
-                      note: "",
-                    },
-                    {
-                      doc: "범죄경력증명서",
-                      detail: "거주국 정부가 발행한 공적 서류",
-                      note: "아포스티유 또는 영사 확인 필요",
                     },
                   ].map((row) => (
                     <tr

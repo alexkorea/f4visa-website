@@ -197,8 +197,11 @@ export default function F4VisaTypesPage() {
               &ldquo;사증발급신청 등 첨부서류에 관한 고시&rdquo;국가 외의
               외국국적동포
             </h2>
-            <p className="mb-8 text-muted-foreground">
+            <p className="mb-4 text-muted-foreground">
               대한민국 국적을 보유하였던 자 및 그 직계비속 대상
+            </p>
+            <p className="mb-8 text-sm text-primary font-medium">
+              F-4-11은 F-4-41로, F-4-12는 F-4-42로 변경되었습니다.
             </p>
             <div className="overflow-x-auto rounded-2xl border border-border/50">
               <table className="w-full min-w-[700px] text-sm">
@@ -247,8 +250,11 @@ export default function F4VisaTypesPage() {
               &ldquo;사증발급신청 등 첨부서류에 관한 고시&rdquo;국가의
               외국국적동포
             </h2>
-            <p className="mb-8 text-muted-foreground">
+            <p className="mb-4 text-muted-foreground">
               F-4-13부터 F-4-99까지 세부 자격별 대상 및 제출 서류
+            </p>
+            <p className="mb-8 text-sm text-primary font-medium">
+              세부코드의 확인이 필요합니다.
             </p>
             <div className="overflow-x-auto rounded-2xl border border-border/50">
               <table className="w-full min-w-[700px] text-sm">

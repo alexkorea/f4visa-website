@@ -57,8 +57,14 @@ export default function NationalityLossReportPage() {
             </h2>
             <p className="mt-6 text-lg leading-relaxed text-muted-foreground">
               국적법 제15조에 따라 외국 국적 취득과 동시에 한국 국적은 자동
-              상실됩니다. 신고는 가족관계 및 출입국 기록의 정합성 확보를 위한
-              필수 절차입니다.
+              상실됩니다. 즉, 외국국적을 취득한 날 국적상실은 이미 되었지만,
+              한국의 가족관계부에 국적상실사실을 신고해야 합니다. 신고는
+              가족관계 및 출입국 기록의 정합성 확보를 위한 필수 절차입니다.
+            </p>
+            <p className="mt-4 text-lg leading-relaxed text-muted-foreground">
+              또한, F-4 비자를 받기 전에 국적상실신고가 완료되어 있어야 합니다.
+              국적상실신고가 되어 있지 않으면 F-4 비자 신청이 불가능하므로,
+              반드시 사전에 신고를 완료하시기 바랍니다.
             </p>
             <div className="mt-8 rounded-xl border border-border bg-secondary/30 p-6">
               <p className="text-sm leading-relaxed text-muted-foreground">

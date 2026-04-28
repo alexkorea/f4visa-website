@@ -18,23 +18,24 @@ const priorityCountries = [
   { value: "캐나다", label: "🇨🇦 캐나다" },
   { value: "영국", label: "🇬🇧 영국" },
   { value: "호주", label: "🇦🇺 호주" },
+  { value: "뉴질랜드", label: "🇳🇿 뉴질랜드" },
 ]
 
 const otherCountries = [
-  { value: "뉴질랜드", label: "🇳🇿 뉴질랜드" },
   { value: "대만", label: "🇹🇼 대만" },
   { value: "독일", label: "🇩🇪 독일" },
-  { value: "중국", label: "🇨🇳 중국" },
   { value: "러시아", label: "🇷🇺 러시아" },
   { value: "말레이시아", label: "🇲🇾 말레이시아" },
   { value: "몽골", label: "🇲🇳 몽골" },
+  { value: "베트남", label: "🇻🇳 베트남" },
   { value: "싱가포르", label: "🇸🇬 싱가포르" },
+  { value: "아일랜드", label: "🇮🇪 아일랜드" },
   { value: "인도네시아", label: "🇮🇩 인도네시아" },
   { value: "우즈베키스탄", label: "🇺🇿 우즈베키스탄" },
+  { value: "중국", label: "🇨🇳 중국" },
   { value: "태국", label: "🇹🇭 태국" },
   { value: "프랑스", label: "🇫🇷 프랑스" },
   { value: "필리핀", label: "🇵🇭 필리핀" },
-  { value: "호주", label: "🇦🇺 호주" },
   { value: "홍콩", label: "🇭🇰 홍콩" },
   { value: "기타", label: "기타" },
 ]

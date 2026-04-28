@@ -14,17 +14,17 @@ const services = [
 
 const priorityCountries = [
   { value: "미국", label: "🇺🇸 미국" },
-  { value: "중국", label: "🇨🇳 중국" },
   { value: "일본", label: "🇯🇵 일본" },
-  { value: "베트남", label: "🇻🇳 베트남" },
   { value: "캐나다", label: "🇨🇦 캐나다" },
   { value: "영국", label: "🇬🇧 영국" },
+  { value: "호주", label: "🇦🇺 호주" },
 ]
 
 const otherCountries = [
   { value: "뉴질랜드", label: "🇳🇿 뉴질랜드" },
   { value: "대만", label: "🇹🇼 대만" },
   { value: "독일", label: "🇩🇪 독일" },
+  { value: "중국", label: "🇨🇳 중국" },
   { value: "러시아", label: "🇷🇺 러시아" },
   { value: "말레이시아", label: "🇲🇾 말레이시아" },
   { value: "몽골", label: "🇲🇳 몽골" },

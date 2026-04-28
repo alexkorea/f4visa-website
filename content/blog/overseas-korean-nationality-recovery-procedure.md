@@ -13,7 +13,7 @@ slug: "overseas-korean-nationality-recovery-procedure"
 국적회복 신청자는 국적 상실 경위를 증명하는 서류, 현재 거주국의 신분 증명서류, 가족관계를 입증하는 문서 등을 제출해야 합니다. 특히 병역 의무 대상자의 경우 병무청의 국적회복 허가 서류가 필수적이며, 이중국적 허용 여부는 개인의 상황에 따라 달라집니다. 이 글에서는 국적회복 신청의 전체 절차, 단계별 필요서류, 심사 기준, 실무상 주의사항을 체계적으로 안내하여 재외동포가 국적회복을 원활하게 진행할 수 있도록 돕겠습니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
+  <h3 style="color:#1e40af;margin-top:0">목차
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 재외동포 국적회복 제도의 이해</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적회복 신청 자격 요건</a></li>
@@ -26,7 +26,7 @@ slug: "overseas-korean-nationality-recovery-procedure"
   </ul>
 </nav>
 
-<h2 id="section-1">1. 재외동포 국적회복 제도의 이해</h2>
+<h2 id="section-1">1. 재외동포 국적회복 제도의 이해
 
 국적회복은 귀화와는 근본적으로 다른 절차입니다. 귀화가 대한민국과 혈통적·지역적 연고가 없던 외국인이 새롭게 한국 국적을 취득하는 것이라면, 국적회복은 과거 한국 국적을 보유했던 사람이 다시 국적을 되찾는 과정입니다.
 
@@ -42,7 +42,7 @@ slug: "overseas-korean-nationality-recovery-procedure"
 
 외국 국적 취득으로 한국 국적을 상실한 재외동포, 외국인과의 혼인으로 배우자 국가의 국적을 취득한 경우, 부모의 외국 이주로 인해 미성년 시절 자동으로 외국 국적을 취득한 경우 등이 대표적입니다. 최근에는 은퇴 후 한국으로 영구 귀국하려는 재외동포의 국적회복 신청이 증가하는 추세입니다.
 
-<h2 id="section-2">2. 국적회복 신청 자격 요건</h2>
+<h2 id="section-2">2. 국적회복 신청 자격 요건
 
 국적회복을 신청하기 위해서는 기본적으로 과거 대한민국 국민이었다가 국적을 상실한 외국인이어야 합니다. 다음은 구체적인 자격 요건입니다.
 
@@ -62,7 +62,7 @@ slug: "overseas-korean-nationality-recovery-procedure"
 
 18세 이상 40세 미만 남자의 경우 병역 문제를 반드시 해결해야 합니다. 병역 의무 대상자는 병무청으로부터 국적회복 허가서를 먼저 받아야 하며, 이 과정에서 병역 이행 계획을 제시해야 합니다. 병역 미해결 시 국적회복이 불허될 수 있습니다.
 
-<h2 id="section-3">3. 국적회복 신청 절차 단계별 안내</h2>
+<h2 id="section-3">3. 국적회복 신청 절차 단계별 안내
 
 국적회복 신청은 거주지에 따라 신청 기관이 달라지며, 다음과 같은 단계로 진행됩니다.
 
@@ -90,7 +90,7 @@ slug: "overseas-korean-nationality-recovery-procedure"
 
 허가서를 받은 후에는 기존 외국 국적을 포기해야 합니다(이중국적 불가능한 경우). 국적 포기 증명서류를 제출하면 가족관계등록부가 작성되고, 주민등록증 발급 등 후속 절차를 진행할 수 있습니다.
 
-<h2 id="section-4">4. 필수 제출서류 상세 목록</h2>
+<h2 id="section-4">4. 필수 제출서류 상세 목록
 
 국적회복 신청 시 제출해야 하는 서류는 개인의 상황에 따라 다소 차이가 있으나, 일반적으로 다음 서류들이 필요합니다.
 
@@ -133,7 +133,7 @@ slug: "overseas-korean-nationality-recovery-procedure"
 <strong>⚠️ 중요:</strong> 모든 외국 서류는 발급국 공증과 대한민국 재외공관의 영사 확인을 받거나, 헤이그협약 가입국의 경우 아포스티유 확인을 받아야 합니다. 또한 한글 번역 공증본을 반드시 첨부해야 합니다.
 </div>
 
-<h2 id="section-5">5. 병역 의무자의 국적회복 특별 절차</h2>
+<h2 id="section-5">5. 병역 의무자의 국적회복 특별 절차
 
 18세 이상 40세 미만의 남자가 국적회복을 신청할 경우, 병역법에 따라 특별한 절차를 거쳐야 합니다.
 
@@ -161,7 +161,7 @@ slug: "overseas-korean-nationality-recovery-procedure"
 
 병무청과 법무부는 병역 면제를 받기 위한 편법적 국적회복 시도를 엄격히 심사합니다. 특히 40세 도래 직전 신청, 신체등급 낮추기 위한 의도적 행위 등이 의심되는 경우 불허가될 수 있습니다.
 
-<h2 id="section-6">6. 심사 기준 및 소요 기간</h2>
+<h2 id="section-6">6. 심사 기준 및 소요 기간
 
 국적회복 신청에 대한 법무부의 심사는 다음과 같은 기준으로 이루어집니다.
 
@@ -222,7 +222,7 @@ slug: "overseas-korean-nationality-recovery-procedure"
   </tbody>
 </table>
 
-<h2 id="section-7">7. 국적회복 신청 시 자주하는 실수</h2>
+<h2 id="section-7">7. 국적회복 신청 시 자주하는 실수
 
 국적회복 신청 과정에서 많은 신청자들이 반복적으로 저지르는 실수들이 있습니다. 이를 미리 알고 대비하면 불필요한 시간 낭비와 불허가를 방지할 수 있습니다.
 
@@ -322,7 +322,7 @@ slug: "overseas-korean-nationality-recovery-procedure"
   </tbody>
 </table>
 
-<h2 id="section-8">8. 자주 묻는 질문 (FAQ)</h2>
+<h2 id="section-8">8. 자주 묻는 질문 (FAQ)
 
 **Q1. 국적회복과 귀화의 차이는 무엇인가요?**
 
@@ -365,7 +365,7 @@ slug: "overseas-korean-nationality-recovery-procedure"
 **🏢 방문 상담: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)  동대문역사문화공원역 4번출구 10미터 | 동대문역사문화공원역 4번출구 10미터**
 
 <div style="background:#1e40af;color:white;padding:20px;border-radius:8px;margin:30px 0;text-align:center">
-<h3 style="color:white;margin-top:0">무료 상담 신청</h3>
+<h3 style="color:white;margin-top:0">무료 상담 신청
 <p style="margin:10px 0">재외동포 국적회복, 복잡하게 느껴지시나요?<br>VISION 행정사사무소의 전문가가 명쾌하게 답변드립니다.</p>
 <a href="[상담신청링크]" style="display:inline-block;background:white;color:#1e40af;padding:12px 30px;border-radius:5px;text-decoration:none;font-weight:bold;margin-top:10px">지금 무료 상담 받기 →</a>
 </div>

@@ -13,7 +13,7 @@ slug: "f4-visa-military-service-unfulfilled-restriction"
 실무에서 가장 많이 막히는 지점은 바로 이 부분입니다. 본인이 미국 시민권, 캐나다 시민권 등 외국 국적을 취득했고 한국에서 태어난 남성이라면, 출생연도·국적 취득 시점·병역 의무 면제 여부 세 가지를 먼저 확인해야 합니다. 시민권 취득 당시 이미 병역 의무가 종료됐거나 면제 사유가 있었다면 통과되지만, 18세가 되는 해 1월 1일 이후에 국적 이탈 또는 상실이 이뤄졌다면 37세 연말까지 F-4가 막힙니다. 대신 C-3 단기방문이나 F-1 방문동거로 입국은 가능합니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
+  <h3 style="color:#1e40af;margin-top:0">목차
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 병역 미필 제한의 법적 근거</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 누가 제한 대상에 해당하는가</a></li>

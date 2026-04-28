@@ -13,7 +13,7 @@ F-4 재외동포 비자는 **해외 재외공관에서 사증 발급 신청**을
 실제 현장에서 가장 많이 꼬이는 부분은 "어디서 받는 게 빠른가"가 아니라 **시민권증서 원본을 어디에 가지고 있느냐**, **무범죄조회서 유효기간(발급일 기준 6개월)이 남아있느냐** 입니다. 서류 상태가 경로를 결정하는 경우가 많습니다. 해외에서 받으려면 거주 관할 영사관을 정해두고 예약을 잡아야 하고, 국내에서 변경하려면 미리 한국 서류를 준비한 상태에서 입국해야 시간이 줄어듭니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
+  <h3 style="color:#1e40af;margin-top:0">목차
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 신청 두 경로의 핵심 차이</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 해외 재외공관 신청 절차와 서류</a></li>

@@ -13,7 +13,7 @@ F-4 거소증은 **국내 체류지 신고 후 출입국·외국인청에서 발
 준비물의 핵심은 **시민권증서 원본, 기본증명서(상세), 가족관계증명서(상세), 제적등본, 여권 원본, 컬러사진, 체류지 임대차계약서 또는 거주확인서, 수수료**입니다. 여기서 가장 많이 막히는 부분은 서류 수가 아니라 **한국 가족관계 서류에서 과거 한국 국적 사실이 제대로 드러나는지**입니다. 서류가 많아도 이 연결고리가 약하면 보정 요구가 들어와 2~4주가 추가로 밀립니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
+  <h3 style="color:#1e40af;margin-top:0">목차
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 거소증이란 무엇이고 언제 발급되는가</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 발급 준비물 전체 목록과 각 서류의 역할</a></li>

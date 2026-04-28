@@ -13,7 +13,7 @@ slug: "f4-visa-chinese-koreans"
 중국동포는 H-2(방문취업)에서 F-4로 전환하는 경우가 가장 흔합니다. 문제는 여기서 시작됩니다. H-2 때 하던 일이 F-4 단순노무 제한 직종에 해당하면 F-4로 바꾼 뒤 같은 일을 계속할 수 없습니다. 비자 등급은 올라가지만 일이 끊기는 구조가 생깁니다. 이 글은 중국동포가 실제로 F-4를 받을 때 자격이 어떻게 열리는지, 어디서 막히는지, 단순노무 제한을 어떻게 우회하는지 실무 기준으로 정리했습니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
+  <h3 style="color:#1e40af;margin-top:0">목차
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자와 중국동포의 관계</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 중국동포의 혈통 증명 — 가장 먼저 막히는 관문</a></li>

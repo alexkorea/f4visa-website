@@ -13,7 +13,7 @@ slug: "us-citizenship-korea-nationality-auto-loss"
 많이 오해하시는 부분이 바로 여기입니다. **"국적상실 신고를 해야 상실되는 것 아닌가요?"** 라는 질문이 많은데, 신고는 행정 정리 절차일 뿐입니다. 신고 전이라도 법적으로는 이미 외국인 신분이며, 이 상태에서 한국 여권을 계속 사용하면 여권법상 부정사용에 해당합니다. 미국 시민권 취득 후 한국 입출국에 한국 여권을 썼다면, 이미 위반 행위가 누적되고 있는 셈입니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
+  <h3 style="color:#1e40af;margin-top:0">목차
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 국적법 제15조 자동 상실의 정확한 의미</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 한국 국적 상실 시점은 언제인가</a></li>

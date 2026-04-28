@@ -63,7 +63,7 @@ export default function HomePage() {
       {/* ── Hero ── */}
       <section className="relative min-h-screen flex items-end pb-24 md:items-center md:pb-0 overflow-hidden">
         <div className="absolute inset-0 -z-10">
-          <img src="/slides/family.jpg" alt="" className="w-full h-full object-cover" />
+          <div style={{backgroundImage:"url(/slides/family.jpg)",backgroundSize:"cover",backgroundPosition:"center"}} className="absolute inset-0" />
           <div className="hero-overlay absolute inset-0" />
         </div>
         <div className="container-x relative z-10">

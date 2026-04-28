@@ -18,27 +18,26 @@ type FieldDef = {
 }
 
 const serviceFields: Record<string, FieldDef[]> = {
-  "F-4 비자 신청": [
+  "F-4 비자/거소증": [
     { name: "residenceCountry", label: "현재 거주국", type: "text", placeholder: "예: 미국, 일본, 캐나다", required: true },
     { name: "citizenshipCountry", label: "시민권 국가", type: "text", placeholder: "예: 미국, 캐나다", required: true },
     { name: "militaryStatus", label: "병역 상태 (남성)", type: "select", options: ["해당 없음 (여성)", "면제", "미필", "복무 완료", "영주권자 면제"], required: true },
     { name: "nationalityLossComplete", label: "국적상실 완료 여부", type: "radio", options: ["예", "아니오", "진행 중", "모름"], required: true },
-    { name: "visitDate", label: "한국 방문 예정일", type: "text", placeholder: "예: 2026년 6월", required: false },
-  ],
-  "거소증 신청/수령": [
-    { name: "residenceCountry", label: "현재 거주국", type: "text", placeholder: "예: 미국, 일본", required: true },
     { name: "koreaAddress", label: "한국 내 주소 확보 여부", type: "radio", options: ["예", "아니오"], required: true },
     { name: "hostProvider", label: "숙소 제공자 유무", type: "radio", options: ["예", "아니오"], required: false },
     { name: "residenceCardType", label: "거소증 신규/갱신", type: "radio", options: ["신규 발급", "갱신"], required: true },
+    { name: "visitDate", label: "한국 방문 예정일", type: "text", placeholder: "예: 2026년 6월", required: false },
   ],
   "국적상실 신고": [
     { name: "citizenshipAcquiredCountry", label: "시민권 취득국", type: "text", placeholder: "예: 미국, 캐나다", required: true },
     { name: "citizenshipDate", label: "시민권 취득일", type: "text", placeholder: "예: 2020년 3월", required: true },
     { name: "nameChanged", label: "이름 변경 여부", type: "radio", options: ["예", "아니오"], required: true },
   ],
-  "국적회복": [
+  "국적회복/복수국적": [
     { name: "currentCitizenship", label: "현재 시민권 국가", type: "text", placeholder: "예: 미국, 캐나다", required: true },
     { name: "hasResidenceCard", label: "거소증 유무", type: "radio", options: ["예", "아니오"], required: true },
+    { name: "militaryStatus", label: "병역 상태 (남성)", type: "select", options: ["해당 없음 (여성)", "면제", "미필", "복무 완료"], required: true },
+    { name: "age", label: "만 나이", type: "text", placeholder: "예: 32", required: true },
     { name: "koreanAbility", label: "한국어 능력", type: "select", options: ["원어민", "유창", "중급", "초급", "없음"], required: false },
   ],
   "F-5 영주권": [

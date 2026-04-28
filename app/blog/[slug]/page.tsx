@@ -9,6 +9,7 @@ import { ArticleJsonLd } from "@/components/structured-data"
 import { getAllPosts, getPostBySlug } from "@/lib/blog"
 import { Calendar, Tag, ArrowLeft } from "lucide-react"
 import { Button } from "@/components/ui/button"
+import { InlineCTAForm } from "@/components/inline-cta-form"
 
 export const revalidate = 60
 export const dynamicParams = true
@@ -116,6 +117,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
                     [&>nav_ul]:list-none [&>nav_ul]:pl-0"
                   dangerouslySetInnerHTML={{ __html: post.content }}
                 />
+                <InlineCTAForm />
               </div>
 
               {/* Sidebar */}

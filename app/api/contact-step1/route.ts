@@ -1,6 +1,63 @@
 import { NextResponse } from "next/server"
 import { saveToCRM } from "@/lib/notion-crm"
 
+
+function buildRelatedLinks(services: string | string[]): {url:string,label:string}[] {
+  const svc = (Array.isArray(services) ? services.join(' ') : String(services || '')).toLowerCase();
+  const links: {url:string,label:string}[] = [];
+  const has = (kw: string) => svc.includes(kw);
+  if (has('d-8') || has('d8') || has('투자') || has('법인설립')) {
+    links.push({url:'https://www.visaskorea.com/외국인투자법인설립/', label:'D-8 기업투자비자 — 1억 투자 외국인 투자법인'});
+    links.push({url:'https://www.visaskorea.com/d-8-비자-구비서류/', label:'D-8 비자 구비서류 상세'});
+    links.push({url:'https://www.visaskorea.com/공익사업투자이민/', label:'공익사업 투자이민 — 정부지정 영주 경로'});
+  }
+  if (has('d-7') || has('d7') || has('주재원') || has('파견')) {
+    links.push({url:'https://www.visaskorea.com/d-7-visa-korea_/', label:'D-7 주재원비자 — 본사·해외지사 파견'});
+    links.push({url:'https://www.visaskorea.com/d-7-visa-extension-required-documents/', label:'D-7 연장 필요서류'});
+    links.push({url:'https://www.visaskorea.com/외국기업-국내연락사무소-설치/', label:'외국기업 연락사무소 설치'});
+  }
+  if (has('e-7') || has('e7') || has('취업') || has('특정활동')) {
+    links.push({url:'https://www.visaskorea.com/e7-비자-자격-요건-체류-기간-및-구비-서류/', label:'E-7 특정활동비자 — 자격·서류'});
+    links.push({url:'https://www.visaskorea.com/e-7-4-숙련기능인력-점수제비자/', label:'E-7-4 숙련기능 점수제'});
+    links.push({url:'https://www.visaskorea.com/f-2-7-점수제-거주비자-2/', label:'F-2-7 점수제 거주비자'});
+  }
+  if (has('f-5') || has('f5') || has('영주')) {
+    links.push({url:'https://www.visaskorea.com/f-5-영주권의-종류/', label:'F-5 영주권 종류'});
+    links.push({url:'https://www.visaskorea.com/f-2-7-점수제-거주비자-2/', label:'F-2-7 점수제 거주'});
+  }
+  if (has('f-6') || has('f6') || has('결혼')) {
+    links.push({url:'https://www.visaskorea.com/f-6-결혼비자/', label:'F-6 결혼비자 — 한국인 배우자'});
+    links.push({url:'https://www.visaskorea.com/f-5-영주권의-종류/', label:'F-5 영주권 (결혼 후 경로)'});
+  }
+  if (has('f-4') || has('f4') || has('재외동포')) {
+    links.push({url:'https://www.visaskorea.com/거소증-신청서류와-발급기간-f-4-재외동포/', label:'F-4 재외동포 거소증 신청'});
+    links.push({url:'https://www.visaskorea.com/f-4-비자-거소증등록방법-및-구비서류/', label:'F-4 거소증 등록방법'});
+  }
+  if (has('사범') || has('입국규제') || has('강제')) {
+    links.push({url:'https://www.visaskorea.com/사범심사-전문행정사/', label:'사범심사 전문행정사 안내'});
+    links.push({url:'https://www.visaskorea.com/입국규제기간-확인하기/', label:'입국규제 기간 확인'});
+  }
+  // Always-include defaults if no match
+  if (links.length === 0) {
+    links.push({url:'https://www.visaskorea.com/외국인투자법인설립/', label:'D-8 기업투자비자'});
+    links.push({url:'https://www.visaskorea.com/d-7-visa-korea_/', label:'D-7 주재원비자'});
+    links.push({url:'https://www.visaskorea.com/e7-비자-자격-요건-체류-기간-및-구비-서류/', label:'E-7 특정활동비자'});
+    links.push({url:'https://www.visaskorea.com/f-2-7-점수제-거주비자-2/', label:'F-2-7 점수제 거주'});
+    links.push({url:'https://www.visaskorea.com/f-5-영주권의-종류/', label:'F-5 영주권'});
+    links.push({url:'https://www.visaskorea.com/f-6-결혼비자/', label:'F-6 결혼비자'});
+  }
+  // dedup by url, max 6
+  const seen = new Set();
+  const out = [];
+  for (const l of links) {
+    if (seen.has(l.url)) continue;
+    seen.add(l.url);
+    out.push(l);
+    if (out.length >= 6) break;
+  }
+  return out;
+}
+
 const RESEND_API_KEY = process.env.RESEND_API_KEY || ""
 const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN || ""
 const TELEGRAM_CHAT_ID = "5533847195"
@@ -38,30 +95,11 @@ function buildEmailHtml(name: string, services: string[], inquiryId: string): st
               </td></tr>
             </table>
             
-<div style="margin:28px 0 16px;padding:18px;background:#F0F7FF;border-radius:10px;border-left:4px solid #235099">
-<h3 style="font-size:16px;color:#235099;font-weight:700;margin:0 0 12px">📚 관련 비자 정보 (참고)</h3>
-<table cellpadding="0" cellspacing="0" style="width:100%;border-collapse:collapse">
-<tr>
-<td style="padding:8px 0;border-bottom:1px solid #E5E7EB"><a href="https://www.visaskorea.com/외국인투자법인설립/" style="color:#235099;text-decoration:none;font-size:14px">▶ D-8 기업투자비자 — 1억 투자로 외국인 투자법인 설립</a></td>
-</tr>
-<tr>
-<td style="padding:8px 0;border-bottom:1px solid #E5E7EB"><a href="https://www.visaskorea.com/d-7-visa-korea_/" style="color:#235099;text-decoration:none;font-size:14px">▶ D-7 주재원비자 — 본사·해외지사 파견 임직원</a></td>
-</tr>
-<tr>
-<td style="padding:8px 0;border-bottom:1px solid #E5E7EB"><a href="https://www.visaskorea.com/e7-비자-자격-요건-체류-기간-및-구비-서류/" style="color:#235099;text-decoration:none;font-size:14px">▶ E-7 특정활동비자 — 전문직·기술직 취업비자</a></td>
-</tr>
-<tr>
-<td style="padding:8px 0;border-bottom:1px solid #E5E7EB"><a href="https://www.visaskorea.com/f-2-7-점수제-거주비자-2/" style="color:#235099;text-decoration:none;font-size:14px">▶ F-2-7 점수제 거주비자 — 학력·소득·연령 평가</a></td>
-</tr>
-<tr>
-<td style="padding:8px 0;border-bottom:1px solid #E5E7EB"><a href="https://www.visaskorea.com/f-5-영주권의-종류/" style="color:#235099;text-decoration:none;font-size:14px">▶ F-5 영주권 — 다양한 경로</a></td>
-</tr>
-<tr>
-<td style="padding:8px 0"><a href="https://www.visaskorea.com/f-6-결혼비자/" style="color:#235099;text-decoration:none;font-size:14px">▶ F-6 결혼비자 — 한국인 배우자와 국내 거주</a></td>
-</tr>
-</table>
-<p style="font-size:12px;color:#6B7280;margin:12px 0 0">상담 전 참고하시면 더 정확한 안내가 가능합니다.</p>
-</div>
+${(() => {
+    const links = buildRelatedLinks(services);
+    const rows = links.map(l => `<tr><td style="padding:8px 0;border-bottom:1px solid #E5E7EB"><a href="${l.url}" style="color:#235099;text-decoration:none;font-size:14px">▶ ${l.label}</a></td></tr>`).join('');
+    return `<div style="margin:28px 0 16px;padding:18px;background:#F0F7FF;border-radius:10px;border-left:4px solid #235099"><h3 style="font-size:16px;color:#235099;font-weight:700;margin:0 0 12px">📚 관련 비자 정보 (참고)</h3><table cellpadding="0" cellspacing="0" style="width:100%;border-collapse:collapse">${rows}</table><p style="font-size:12px;color:#6B7280;margin:12px 0 0">상담 전 참고하시면 더 정확한 안내가 가능합니다.</p></div>`;
+  })()}
 <p style="margin:0;text-align:center;color:#999;font-size:13px;">약 1분 소요</p>
           </td>
         </tr>

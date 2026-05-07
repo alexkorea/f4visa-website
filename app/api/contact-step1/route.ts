@@ -108,7 +108,22 @@ export async function POST(request: Request) {
       { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ chat_id: TELEGRAM_CHAT_ID, text: telegramText }) }
     ).catch((err) => console.error("Telegram error:", err))
 
-    await Promise.all([emailPromise, telegramPromise])
+    
+    // 보스 알림 이메일 (msg 11772 — 6개 사이트 통일)
+    const adminEmailHtml = `<h2 style="color:#1e3a5f">[F4Visa] 새 상담 신청</h2><table cellpadding="6" style="border-collapse:collapse;border:1px solid #ddd;font-family:Apple SD Gothic Neo,sans-serif"><tr><td><b>이름</b></td><td>${name}</td></tr><tr><td><b>이메일</b></td><td>${email}</td></tr>${contact ? `<tr><td><b>연락처</b></td><td>${contact}</td></tr>` : ''}${snsType && snsId ? `<tr><td><b>SNS</b></td><td>${snsType} - ${snsId}</td></tr>` : ''}${nationality ? `<tr><td><b>국적</b></td><td>${nationality}</td></tr>` : ''}<tr><td><b>희망 업무</b></td><td>${svcList}</td></tr><tr><td><b>접수 ID</b></td><td>${inquiryId}</td></tr></table><p style="color:#666;font-size:13px;margin-top:18px">자동 발송 — Notion CRM 자동 등록 완료</p>`;
+    const adminEmailPromise = fetch("https://api.resend.com/emails", {
+      method: "POST",
+      headers: { "Authorization": `Bearer ${RESEND_API_KEY}`, "Content-Type": "application/json" },
+      body: JSON.stringify({
+        from: "비전행정사사무소 <noreply@ko-visas.com>",
+        to: ["5000meter@gmail.com"],
+        reply_to: email,
+        subject: `[F4Visa] 새 상담 신청 - ${name}`,
+        html: adminEmailHtml,
+      }),
+    }).catch((err) => console.error("Admin email error:", err))
+
+    await Promise.all([emailPromise, telegramPromise, adminEmailPromise])
     return NextResponse.json({ ok: true, inquiryId })
   } catch (error) {
     console.error("Contact step1 error:", error)

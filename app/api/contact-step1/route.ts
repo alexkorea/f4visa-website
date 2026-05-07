@@ -37,7 +37,32 @@ function buildEmailHtml(name: string, services: string[], inquiryId: string): st
                 <a href="${step2Url}" style="display:inline-block;background-color:#1e3a5f;color:#ffffff;text-decoration:none;padding:16px 40px;border-radius:8px;font-size:16px;font-weight:700;">상세 정보 입력하기 &rarr;</a>
               </td></tr>
             </table>
-            <p style="margin:0;text-align:center;color:#999;font-size:13px;">약 1분 소요</p>
+            
+<div style="margin:28px 0 16px;padding:18px;background:#F0F7FF;border-radius:10px;border-left:4px solid #235099">
+<h3 style="font-size:16px;color:#235099;font-weight:700;margin:0 0 12px">📚 관련 비자 정보 (참고)</h3>
+<table cellpadding="0" cellspacing="0" style="width:100%;border-collapse:collapse">
+<tr>
+<td style="padding:8px 0;border-bottom:1px solid #E5E7EB"><a href="https://www.visaskorea.com/외국인투자법인설립/" style="color:#235099;text-decoration:none;font-size:14px">▶ D-8 기업투자비자 — 1억 투자로 외국인 투자법인 설립</a></td>
+</tr>
+<tr>
+<td style="padding:8px 0;border-bottom:1px solid #E5E7EB"><a href="https://www.visaskorea.com/d-7-visa-korea_/" style="color:#235099;text-decoration:none;font-size:14px">▶ D-7 주재원비자 — 본사·해외지사 파견 임직원</a></td>
+</tr>
+<tr>
+<td style="padding:8px 0;border-bottom:1px solid #E5E7EB"><a href="https://www.visaskorea.com/e7-비자-자격-요건-체류-기간-및-구비-서류/" style="color:#235099;text-decoration:none;font-size:14px">▶ E-7 특정활동비자 — 전문직·기술직 취업비자</a></td>
+</tr>
+<tr>
+<td style="padding:8px 0;border-bottom:1px solid #E5E7EB"><a href="https://www.visaskorea.com/f-2-7-점수제-거주비자-2/" style="color:#235099;text-decoration:none;font-size:14px">▶ F-2-7 점수제 거주비자 — 학력·소득·연령 평가</a></td>
+</tr>
+<tr>
+<td style="padding:8px 0;border-bottom:1px solid #E5E7EB"><a href="https://www.visaskorea.com/f-5-영주권의-종류/" style="color:#235099;text-decoration:none;font-size:14px">▶ F-5 영주권 — 다양한 경로</a></td>
+</tr>
+<tr>
+<td style="padding:8px 0"><a href="https://www.visaskorea.com/f-6-결혼비자/" style="color:#235099;text-decoration:none;font-size:14px">▶ F-6 결혼비자 — 한국인 배우자와 국내 거주</a></td>
+</tr>
+</table>
+<p style="font-size:12px;color:#6B7280;margin:12px 0 0">상담 전 참고하시면 더 정확한 안내가 가능합니다.</p>
+</div>
+<p style="margin:0;text-align:center;color:#999;font-size:13px;">약 1분 소요</p>
           </td>
         </tr>
         <tr>

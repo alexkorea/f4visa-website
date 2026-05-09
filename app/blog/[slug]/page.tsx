@@ -100,7 +100,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
                   style={{ fontSize: '16px', lineHeight: '1.85' }}
                   className="prose prose-gray max-w-none
                     prose-headings:text-foreground prose-headings:font-bold
-                    prose-h2:text-xl prose-h2:mt-14 prose-h2:mb-5 prose-h2:border-b-2 prose-h2:border-orange-500 prose-h2:pb-3 prose-h2:text-orange-900
+                    prose-h2:text-xl prose-h2:mt-6 prose-h2:mb-5 prose-h2:border-b-2 prose-h2:border-orange-500 prose-h2:pb-3 prose-h2:text-orange-900
                     prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-3 prose-h3:text-orange-800
                     prose-p:text-gray-700 prose-p:leading-relaxed prose-p:mb-5
                     prose-li:text-gray-700 prose-li:leading-relaxed prose-li:mb-1

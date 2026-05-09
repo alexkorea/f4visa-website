@@ -539,7 +539,7 @@ FBI 서류에 아포스티유가 없으면 보완 요구가 나옵니다. 미국
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">업무시간</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">평일 09:30 — 17:30 (점심 12:00 — 13:00)</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">평일 09:30 – 17:30 (점심 12:00 — 13:00)</td>
     </tr>
   </tbody>
 </table>

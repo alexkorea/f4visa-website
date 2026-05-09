@@ -101,7 +101,7 @@ export default function F4VisaRenewalPage() {
         </section>
 
         {/* Intro */}
-        <section className="bg-background py-16 lg:py-24">
+        <section className="bg-background py-8 md:py-12">
           <div className="mx-auto max-w-7xl px-4 lg:px-8">
             <div className="mx-auto max-w-3xl">
               <h2 className="text-2xl font-bold text-foreground md:text-3xl">
@@ -115,7 +115,7 @@ export default function F4VisaRenewalPage() {
               </p>
 
               {/* Quote */}
-              <div className="mt-10 rounded-2xl border-l-4 border-primary bg-card p-6 lg:p-8">
+              <div className="mt-6 rounded-2xl border-l-4 border-primary bg-card p-6 lg:p-8">
                 <Quote className="mb-3 h-8 w-8 text-primary/40" />
                 <blockquote className="text-lg italic leading-relaxed text-foreground">
                   &ldquo;F-4비자는 최초 최대 3년의 체류 기간이 부여됩니다. 만료 전
@@ -132,7 +132,7 @@ export default function F4VisaRenewalPage() {
         </section>
 
         {/* 신청 방법 */}
-        <section className="bg-secondary/30 py-16 lg:py-24">
+        <section className="bg-secondary/30 py-8 md:py-12">
           <div className="mx-auto max-w-7xl px-4 lg:px-8">
             <div className="mx-auto max-w-3xl text-center">
               <h2 className="text-2xl font-bold text-foreground md:text-3xl">
@@ -144,7 +144,7 @@ export default function F4VisaRenewalPage() {
                 있습니다.
               </p>
             </div>
-            <div className="mx-auto mt-12 grid max-w-4xl gap-6 sm:grid-cols-3">
+            <div className="mx-auto mt-12 grid max-w-4xl gap-4 sm:grid-cols-3">
               {steps.map((item) => (
                 <div
                   key={item.step}
@@ -169,10 +169,10 @@ export default function F4VisaRenewalPage() {
         </section>
 
         {/* FAQ */}
-        <section className="bg-background py-16 lg:py-24">
+        <section className="bg-background py-8 md:py-12">
           <div className="mx-auto max-w-7xl px-4 lg:px-8">
             <div className="mx-auto max-w-3xl">
-              <h2 className="mb-10 text-center text-2xl font-bold text-foreground md:text-3xl">
+              <h2 className="mb-6 text-center text-2xl font-bold text-foreground md:text-3xl">
                 자주 묻는 질문
               </h2>
               <div className="space-y-6">
@@ -195,7 +195,7 @@ export default function F4VisaRenewalPage() {
         </section>
 
         {/* CTA */}
-        <section className="bg-primary py-16 lg:py-20">
+        <section className="bg-primary py-8 md:py-12">
           <div className="mx-auto max-w-7xl px-4 text-center lg:px-8">
             <h2 className="text-2xl font-bold text-primary-foreground md:text-3xl">
               F-4 비자 연장, 전문가에게 맡기세요

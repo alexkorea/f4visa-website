@@ -40,7 +40,7 @@ export function InlineCTAForm() {
   }
 
   return (
-    <div className="my-10 rounded-xl border-2 border-orange-200 bg-orange-50/60 p-6 md:p-8">
+    <div className="my-10 rounded-xl border-2 border-orange-200 bg-orange-50/60 p-5 md:p-6">
       <h3 className="mb-4 text-lg font-bold text-orange-900">
         ⚡ 30초 빠른 상담 신청
       </h3>

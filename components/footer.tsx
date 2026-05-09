@@ -122,7 +122,7 @@ export function Footer() {
           <p className="text-sm text-gray-500">
             © 2018 비전행정사사무소. All rights reserved.
           </p>
-          <div className="flex gap-6 text-sm text-gray-500">
+          <div className="flex gap-4 text-sm text-gray-500">
             <Link href="/privacy" className="hover:text-white">
               개인정보처리방침
             </Link>

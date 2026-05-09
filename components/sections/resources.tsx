@@ -38,7 +38,7 @@ export function ResourcesSection() {
           </p>
         </div>
         
-        <div className="mx-auto grid max-w-4xl gap-6 md:grid-cols-2">
+        <div className="mx-auto grid max-w-4xl gap-4 md:grid-cols-2">
           {resources.map((resource) => (
             <Card key={resource.title} className="group relative overflow-hidden border-border/50 transition-all hover:border-primary/30 hover:shadow-lg">
               <CardHeader>

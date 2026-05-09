@@ -61,7 +61,7 @@ export default function AboutPage() {
         {/* Stats */}
         <section className="bg-background py-12">
           <div className="mx-auto max-w-7xl px-4 lg:px-8">
-            <div className="grid grid-cols-2 gap-6 lg:grid-cols-4">
+            <div className="grid grid-cols-2 gap-4 lg:grid-cols-4">
               {stats.map((stat) => (
                 <div
                   key={stat.label}
@@ -83,7 +83,7 @@ export default function AboutPage() {
         </section>
 
         {/* Firm Intro */}
-        <section className="bg-background py-20 lg:py-28">
+        <section className="bg-background py-8 lg:py-28">
           <div className="mx-auto max-w-7xl px-4 lg:px-8">
             <div className="grid items-center gap-12 lg:grid-cols-2">
               <div>
@@ -158,7 +158,7 @@ export default function AboutPage() {
         <TeamSection />
 
         {/* CTA */}
-        <section className="bg-primary py-16 lg:py-20">
+        <section className="bg-primary py-8 md:py-12">
           <div className="mx-auto max-w-7xl px-4 text-center lg:px-8">
             <h2 className="text-2xl font-bold text-primary-foreground md:text-3xl">
               전문가와 상담하세요

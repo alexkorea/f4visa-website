@@ -66,6 +66,7 @@ export function ContactForm() {
       snsId: snsId || undefined,
       nationality: (form.elements.namedItem("nationality") as HTMLSelectElement).value,
       services: selectedServices,
+      website: (form.elements.namedItem("website") as HTMLInputElement)?.value || "",
     }
     try {
       const res = await fetch("/api/contact-step1", {
@@ -136,6 +137,7 @@ export function ContactForm() {
       <h2 className="text-xl font-bold text-foreground mb-2">⚡ 30초 빠른 신청</h2>
 
       <form onSubmit={handleSubmit} className="space-y-6">
+        <input type="text" name="website" tabIndex={-1} autoComplete="off" style={{position:'absolute',left:'-9999px',height:0,width:0,opacity:0}} aria-hidden="true" />
         <div>
           <label className="mb-2 block text-sm font-medium text-foreground">이름 <span className="text-red-500">*</span></label>
           <input name="name" type="text" required className="w-full rounded-lg border border-border bg-background px-4 py-2.5 text-sm text-foreground placeholder:text-muted-foreground focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary" placeholder="홍길동" />

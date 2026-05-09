@@ -482,7 +482,7 @@ F-4 거소증 재발급은 단순해 보여도 관할 확인, 사유서 작성, 
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">상담 시간</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">평일 09:30 — 17:30 (점심 12:00 — 13:00)</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">평일 09:30 – 17:30 (점심 12:00 — 13:00)</td>
     </tr>
   </tbody>
 </table>

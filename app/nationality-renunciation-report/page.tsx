@@ -58,7 +58,7 @@ export default function NationalityRenunciationReportPage() {
         </section>
 
         {/* 국적이탈 신고란? */}
-        <section className="py-16 lg:py-20">
+        <section className="py-8 md:py-12">
           <div className="mx-auto max-w-4xl px-4 lg:px-8">
             <h2 className="text-3xl font-bold text-foreground">
               국적이탈 신고란?
@@ -81,12 +81,12 @@ export default function NationalityRenunciationReportPage() {
         </section>
 
         {/* 국적상실과의 차이점 */}
-        <section className="border-t border-border bg-secondary/20 py-16 lg:py-20">
+        <section className="border-t border-border bg-secondary/20 py-8 md:py-12">
           <div className="mx-auto max-w-4xl px-4 lg:px-8">
             <h2 className="text-3xl font-bold text-foreground">
               국적상실과의 차이점
             </h2>
-            <div className="mt-8 grid gap-6 md:grid-cols-2">
+            <div className="mt-8 grid gap-4 md:grid-cols-2">
               <div className="rounded-xl border border-border bg-background p-6">
                 <div className="mb-4 flex h-10 w-10 items-center justify-center rounded-lg bg-primary/10">
                   <ArrowRightLeft className="h-5 w-5 text-primary" />
@@ -115,7 +115,7 @@ export default function NationalityRenunciationReportPage() {
         </section>
 
         {/* 남성 복수국적자 병역의무 - Warning */}
-        <section className="py-16 lg:py-20">
+        <section className="py-8 md:py-12">
           <div className="mx-auto max-w-4xl px-4 lg:px-8">
             <h2 className="text-3xl font-bold text-foreground">
               누가, 언제 국적이탈 신고를 해야 하나요?
@@ -171,7 +171,7 @@ export default function NationalityRenunciationReportPage() {
         </section>
 
         {/* 절차 (4 steps) */}
-        <section className="border-t border-border bg-secondary/20 py-16 lg:py-20">
+        <section className="border-t border-border bg-secondary/20 py-8 md:py-12">
           <div className="mx-auto max-w-4xl px-4 lg:px-8">
             <h2 className="text-3xl font-bold text-foreground">
               국적이탈 신고 절차
@@ -180,7 +180,7 @@ export default function NationalityRenunciationReportPage() {
               전체 소요 기간은 약 1년 정도이므로, 미리미리 준비하는 것이
               좋습니다.
             </p>
-            <div className="mt-10 grid gap-6 sm:grid-cols-2">
+            <div className="mt-6 grid gap-4 sm:grid-cols-2">
               {[
                 {
                   step: 1,
@@ -230,7 +230,7 @@ export default function NationalityRenunciationReportPage() {
         </section>
 
         {/* FAQ */}
-        <section className="py-16 lg:py-20">
+        <section className="py-8 md:py-12">
           <div className="mx-auto max-w-4xl px-4 lg:px-8">
             <h2 className="text-3xl font-bold text-foreground">
               자주 묻는 질문 (FAQ)

@@ -77,7 +77,7 @@ export function HeroSection() {
               {slides[current].description}
             </p>
 
-            <div className="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
+            <div className="mt-6 flex flex-col items-center justify-center gap-4 sm:flex-row">
               <Button size="lg" asChild className="min-w-[180px] bg-[#f36c24] text-white hover:bg-[#d95b1a] text-base py-6 border-0">
                 <Link href="/contact">
                   상담문의

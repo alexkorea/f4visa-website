@@ -60,6 +60,7 @@ function buildEmailHtml(name: string, services: string[], inquiryId: string): st
 export async function POST(request: Request) {
   try {
     const body = await request.json()
+    if (body.website) return NextResponse.json({ success: true, inquiryId: '' })
     const { name, email, contact, snsType, snsId, nationality, services } = body
 
     if (!name || !email || !services || services.length === 0) {

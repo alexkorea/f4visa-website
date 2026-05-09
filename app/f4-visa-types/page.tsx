@@ -191,7 +191,7 @@ export default function F4VisaTypesPage() {
         </section>
 
         {/* Table 1 */}
-        <section className="bg-background py-16 lg:py-24">
+        <section className="bg-background py-8 md:py-12">
           <div className="mx-auto max-w-7xl px-4 lg:px-8">
             <h2 className="mb-2 text-2xl font-bold text-foreground md:text-3xl">
               &ldquo;사증발급신청 등 첨부서류에 관한 고시&rdquo;국가 외의
@@ -244,7 +244,7 @@ export default function F4VisaTypesPage() {
         </section>
 
         {/* Table 2 */}
-        <section className="bg-secondary/30 py-16 lg:py-24">
+        <section className="bg-secondary/30 py-8 md:py-12">
           <div className="mx-auto max-w-7xl px-4 lg:px-8">
             <h2 className="mb-2 text-2xl font-bold text-foreground md:text-3xl">
               &ldquo;사증발급신청 등 첨부서류에 관한 고시&rdquo;국가의
@@ -297,7 +297,7 @@ export default function F4VisaTypesPage() {
         </section>
 
         {/* CTA */}
-        <section className="bg-primary py-16 lg:py-20">
+        <section className="bg-primary py-8 md:py-12">
           <div className="mx-auto max-w-7xl px-4 text-center lg:px-8">
             <h2 className="text-2xl font-bold text-primary-foreground md:text-3xl">
               나에게 맞는 F-4 비자 유형이 궁금하신가요?

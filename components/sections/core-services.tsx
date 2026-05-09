@@ -52,7 +52,7 @@ export function CoreServicesSection() {
           </p>
         </div>
         
-        <div className="grid gap-6 md:grid-cols-2">
+        <div className="grid gap-4 md:grid-cols-2">
           {services.map((service) => (
             <Card key={service.title} className="group relative overflow-hidden border-border/50 transition-all hover:border-primary/30 hover:shadow-lg">
               <CardHeader className="pb-4">

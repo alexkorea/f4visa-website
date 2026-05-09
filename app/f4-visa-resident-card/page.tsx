@@ -105,7 +105,7 @@ export default function F4VisaResidentCardPage() {
         </section>
 
         {/* F-4 비자란? */}
-        <section className="bg-background py-16 lg:py-24">
+        <section className="bg-background py-8 md:py-12">
           <div className="mx-auto max-w-7xl px-4 lg:px-8">
             <div className="mx-auto max-w-3xl">
               <h2 className="text-2xl font-bold text-foreground md:text-3xl">
@@ -141,7 +141,7 @@ export default function F4VisaResidentCardPage() {
         </section>
 
         {/* 거소증 */}
-        <section className="bg-secondary/30 py-16 lg:py-24">
+        <section className="bg-secondary/30 py-8 md:py-12">
           <div className="mx-auto max-w-7xl px-4 lg:px-8">
             <div className="mx-auto max-w-3xl">
               <h2 className="text-2xl font-bold text-foreground md:text-3xl">
@@ -152,7 +152,7 @@ export default function F4VisaResidentCardPage() {
                 신분증입니다.
               </p>
 
-              <div className="mt-10 grid gap-6 sm:grid-cols-3">
+              <div className="mt-6 grid gap-4 sm:grid-cols-3">
                 {/* 대상자 */}
                 <div className="rounded-2xl border border-border/50 bg-card p-6">
                   <h3 className="mb-3 text-lg font-semibold text-foreground">
@@ -195,7 +195,7 @@ export default function F4VisaResidentCardPage() {
         </section>
 
         {/* 신청 절차 */}
-        <section className="bg-background py-16 lg:py-24">
+        <section className="bg-background py-8 md:py-12">
           <div className="mx-auto max-w-7xl px-4 lg:px-8">
             <div className="mx-auto max-w-3xl text-center">
               <h2 className="text-2xl font-bold text-foreground md:text-3xl">
@@ -205,7 +205,7 @@ export default function F4VisaResidentCardPage() {
                 비전행정사사무소가 단계별로 안내해 드립니다.
               </p>
             </div>
-            <div className="mx-auto mt-12 grid max-w-4xl gap-6 sm:grid-cols-2 lg:grid-cols-4">
+            <div className="mx-auto mt-12 grid max-w-4xl gap-4 sm:grid-cols-2 lg:grid-cols-4">
               {steps.map((item) => (
                 <div
                   key={item.step}
@@ -230,10 +230,10 @@ export default function F4VisaResidentCardPage() {
         </section>
 
         {/* FAQ */}
-        <section className="bg-secondary/30 py-16 lg:py-24">
+        <section className="bg-secondary/30 py-8 md:py-12">
           <div className="mx-auto max-w-7xl px-4 lg:px-8">
             <div className="mx-auto max-w-3xl">
-              <h2 className="mb-10 text-center text-2xl font-bold text-foreground md:text-3xl">
+              <h2 className="mb-6 text-center text-2xl font-bold text-foreground md:text-3xl">
                 자주 묻는 질문
               </h2>
               <div className="space-y-6">
@@ -256,7 +256,7 @@ export default function F4VisaResidentCardPage() {
         </section>
 
         {/* CTA */}
-        <section className="bg-primary py-16 lg:py-20">
+        <section className="bg-primary py-8 md:py-12">
           <div className="mx-auto max-w-7xl px-4 text-center lg:px-8">
             <h2 className="text-2xl font-bold text-primary-foreground md:text-3xl">
               F-4 비자 및 거소증 신청, 지금 상담하세요

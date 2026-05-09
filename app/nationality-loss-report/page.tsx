@@ -50,7 +50,7 @@ export default function NationalityLossReportPage() {
         </section>
 
         {/* 국적상실이란? */}
-        <section className="py-16 lg:py-20">
+        <section className="py-8 md:py-12">
           <div className="mx-auto max-w-4xl px-4 lg:px-8">
             <h2 className="text-3xl font-bold text-foreground">
               국적상실이란?
@@ -76,7 +76,7 @@ export default function NationalityLossReportPage() {
         </section>
 
         {/* 관련 법령 */}
-        <section className="border-t border-border bg-secondary/20 py-16 lg:py-20">
+        <section className="border-t border-border bg-secondary/20 py-8 md:py-12">
           <div className="mx-auto max-w-4xl px-4 lg:px-8">
             <h2 className="text-3xl font-bold text-foreground">
               관련 법령 (국적법 제15조)
@@ -144,12 +144,12 @@ export default function NationalityLossReportPage() {
         </section>
 
         {/* 업무 처리 절차 */}
-        <section className="py-16 lg:py-20">
+        <section className="py-8 md:py-12">
           <div className="mx-auto max-w-4xl px-4 lg:px-8">
             <h2 className="text-3xl font-bold text-foreground">
               업무 처리 절차
             </h2>
-            <div className="mt-10 grid gap-6 md:grid-cols-3">
+            <div className="mt-6 grid gap-4 md:grid-cols-3">
               {[
                 {
                   step: 1,
@@ -193,7 +193,7 @@ export default function NationalityLossReportPage() {
         </section>
 
         {/* 필수 서류 체크리스트 */}
-        <section className="border-t border-border bg-secondary/20 py-16 lg:py-20">
+        <section className="border-t border-border bg-secondary/20 py-8 md:py-12">
           <div className="mx-auto max-w-4xl px-4 lg:px-8">
             <h2 className="text-3xl font-bold text-foreground">
               필수 서류 체크리스트
@@ -239,7 +239,7 @@ export default function NationalityLossReportPage() {
         </section>
 
         {/* FAQ */}
-        <section className="py-16 lg:py-20">
+        <section className="py-8 md:py-12">
           <div className="mx-auto max-w-4xl px-4 lg:px-8">
             <h2 className="text-3xl font-bold text-foreground">
               자주 묻는 질문 (FAQ)

@@ -429,5 +429,5 @@ F-4 비자 신청에 필요한 무범죄경력조회서의 유효기간은 <stro
   📧 <strong>이메일:</strong> 5000meter@gmail.com<br>
   💬 <strong>카카오톡:</strong> alexkorea<br>
   📍 <strong>주소:</strong> (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)<br><br>
-  🕤 <strong>상담 시간:</strong> 평일 09:30 — 17:30 (점심 12:00 — 13:00)
+  🕤 <strong>상담 시간:</strong> 평일 09:30 – 17:30 (점심 12:00 — 13:00)
 </div>

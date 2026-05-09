@@ -51,7 +51,7 @@ export default function PermanentResidencyPage() {
         </section>
 
         {/* 영주권이란? */}
-        <section className="py-16 lg:py-20">
+        <section className="py-8 md:py-12">
           <div className="mx-auto max-w-4xl px-4 lg:px-8">
             <h2 className="text-3xl font-bold text-foreground">
               영주권(F-5 비자)이란?
@@ -67,7 +67,7 @@ export default function PermanentResidencyPage() {
         </section>
 
         {/* F-4 vs F-5 비교 table */}
-        <section className="border-t border-border bg-secondary/20 py-16 lg:py-20">
+        <section className="border-t border-border bg-secondary/20 py-8 md:py-12">
           <div className="mx-auto max-w-4xl px-4 lg:px-8">
             <h2 className="text-3xl font-bold text-foreground">
               재외동포 비자(F-4)와 영주권(F-5) 비교
@@ -136,12 +136,12 @@ export default function PermanentResidencyPage() {
         </section>
 
         {/* 신청 요건 */}
-        <section className="py-16 lg:py-20">
+        <section className="py-8 md:py-12">
           <div className="mx-auto max-w-4xl px-4 lg:px-8">
             <h2 className="text-3xl font-bold text-foreground">
               재외동포 비자(F-4) 취득 후 영주권(F-5) 신청 요건
             </h2>
-            <div className="mt-10 space-y-8">
+            <div className="mt-6 space-y-8">
               {/* 1. 체류 요건 */}
               <div className="rounded-xl border border-border bg-background p-6 lg:p-8">
                 <div className="flex items-center gap-3">
@@ -204,7 +204,7 @@ export default function PermanentResidencyPage() {
         </section>
 
         {/* FAQ */}
-        <section className="border-t border-border bg-secondary/20 py-16 lg:py-20">
+        <section className="border-t border-border bg-secondary/20 py-8 md:py-12">
           <div className="mx-auto max-w-4xl px-4 lg:px-8">
             <h2 className="text-3xl font-bold text-foreground">
               자주 묻는 질문 (FAQ)

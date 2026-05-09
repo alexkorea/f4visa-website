@@ -453,7 +453,7 @@ slug: "f4-visa-military-service-unfulfilled-restriction"
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">상담 시간</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">평일 09:30 — 17:30 (점심 12:00 — 13:00)</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">평일 09:30 – 17:30 (점심 12:00 — 13:00)</td>
     </tr>
   </tbody>
 </table>

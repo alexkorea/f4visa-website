@@ -103,7 +103,7 @@ function Step2Form() {
       <main className="min-h-screen flex flex-col">
         <Header />
         <PageBreadcrumb items={[{ label: "상담문의", path: "/contact" }, { label: "상담 완료", path: "/contact/step2" }]} />
-        <section className="py-24 flex-1">
+        <section className="py-8 flex-1">
           <div className="max-w-xl mx-auto px-6 text-center">
             <div className="rounded-xl border border-border bg-card p-10 shadow-sm">
               <div className="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-6">
@@ -220,7 +220,7 @@ function Step2Form() {
 export default function Step2Page() {
   return (
     <Suspense fallback={
-      <main className="min-h-screen"><Header /><section className="py-24"><div className="max-w-2xl mx-auto px-6 text-center"><div className="animate-pulse"><div className="h-8 bg-gray-200 rounded w-48 mx-auto mb-4" /><div className="h-4 bg-gray-200 rounded w-64 mx-auto" /></div></div></section><Footer /></main>
+      <main className="min-h-screen"><Header /><section className="py-8"><div className="max-w-2xl mx-auto px-6 text-center"><div className="animate-pulse"><div className="h-8 bg-gray-200 rounded w-48 mx-auto mb-4" /><div className="h-4 bg-gray-200 rounded w-64 mx-auto" /></div></div></section><Footer /></main>
     }>
       <Step2Form />
     </Suspense>

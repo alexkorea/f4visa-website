@@ -54,7 +54,7 @@ export default function NationalitySelectionDualNationalityPage() {
         </section>
 
         {/* 복수국적자의 법적 처우 */}
-        <section className="py-16 lg:py-20">
+        <section className="py-8 md:py-12">
           <div className="mx-auto max-w-4xl px-4 lg:px-8">
             <h2 className="text-3xl font-bold text-foreground">
               복수국적자의 법적 처우
@@ -87,7 +87,7 @@ export default function NationalitySelectionDualNationalityPage() {
         </section>
 
         {/* 직무상 제한 */}
-        <section className="border-t border-border bg-secondary/20 py-16 lg:py-20">
+        <section className="border-t border-border bg-secondary/20 py-8 md:py-12">
           <div className="mx-auto max-w-4xl px-4 lg:px-8">
             <h2 className="text-3xl font-bold text-foreground">직무상 제한</h2>
             <div className="mt-6 rounded-xl border border-border bg-background p-6">
@@ -108,7 +108,7 @@ export default function NationalitySelectionDualNationalityPage() {
         </section>
 
         {/* 국적선택 기한 */}
-        <section className="py-16 lg:py-20">
+        <section className="py-8 md:py-12">
           <div className="mx-auto max-w-4xl px-4 lg:px-8">
             <h2 className="text-3xl font-bold text-foreground">
               국적선택 기한
@@ -127,7 +127,7 @@ export default function NationalitySelectionDualNationalityPage() {
         </section>
 
         {/* 국적선택 명령 */}
-        <section className="border-t border-border bg-secondary/20 py-16 lg:py-20">
+        <section className="border-t border-border bg-secondary/20 py-8 md:py-12">
           <div className="mx-auto max-w-4xl px-4 lg:px-8">
             <h2 className="text-3xl font-bold text-foreground">
               국적선택 명령
@@ -176,7 +176,7 @@ export default function NationalitySelectionDualNationalityPage() {
         </section>
 
         {/* "현저히 반하는 행위" 예시 */}
-        <section className="py-16 lg:py-20">
+        <section className="py-8 md:py-12">
           <div className="mx-auto max-w-4xl px-4 lg:px-8">
             <h2 className="text-3xl font-bold text-foreground">
               &ldquo;현저히 반하는 행위&rdquo; 예시
@@ -250,7 +250,7 @@ export default function NationalitySelectionDualNationalityPage() {
         </section>
 
         {/* FAQ */}
-        <section className="border-t border-border bg-secondary/20 py-16 lg:py-20">
+        <section className="border-t border-border bg-secondary/20 py-8 md:py-12">
           <div className="mx-auto max-w-4xl px-4 lg:px-8">
             <h2 className="text-3xl font-bold text-foreground">
               자주 묻는 질문 (FAQ)

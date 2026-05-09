@@ -74,6 +74,7 @@ async function saveToNotion(data: Record<string, string>) {
 export async function POST(request: Request) {
   try {
     const body = await request.json()
+    if (body.website) return NextResponse.json({ success: true })
     const { name, email, phone, type, message } = body
 
     const text = `[F4Visa] 새 상담 문의

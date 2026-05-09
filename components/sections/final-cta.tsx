@@ -25,7 +25,7 @@ export function FinalCtaSection() {
             해외에서도 편리하게 진행할 수 있는 체계적인 행정 서비스를 경험하세요.
           </p>
           
-          <div className="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
+          <div className="mt-6 flex flex-col items-center justify-center gap-4 sm:flex-row">
             <Button size="lg" asChild className="min-w-[180px]">
               <Link href="/contact">
                 상담문의

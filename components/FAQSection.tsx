@@ -34,10 +34,10 @@ export default function FAQSection() {
   const [openIdx, setOpenIdx] = useState<number | null>(null);
 
   return (
-    <section className="py-24 md:py-32 bg-white">
+    <section className="py-8 md:py-12 bg-white">
       <div className="container-x max-w-3xl">
-        <div className="text-center mb-16">
-          <div className="text-xs uppercase tracking-[0.3em] text-wv-orange font-bold">FAQ</div>
+        <div className="text-center mb-6">
+          <div className="text-xs uppercase tracking-[0.12em] text-wv-orange font-bold">자주 묻는 질문</div>
           <h2 className="mt-4 text-display-lg font-black text-wv-ink leading-tight">자주 묻는 질문</h2>
         </div>
         <div className="space-y-3">

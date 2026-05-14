@@ -35,7 +35,7 @@ export default function PermanentResidencyPage() {
         <PageBreadcrumb items={[{ label: "영주권", path: "/permanent-residency" }]} />
         {/* Hero */}
         <section className="relative w-full min-h-[300px] flex items-center py-16">
-          <div className="absolute inset-0">
+          <div className="hero-bg absolute inset-0">
             <img src="/slides/family.jpg" alt="재외동포 영주권 신청 / 신청 자격, 절차, 필요서류" className="w-full h-full object-cover" />
             <div className="absolute inset-0 bg-black/50" />
           </div>

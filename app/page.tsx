@@ -60,7 +60,7 @@ export default function HomePage() {
 
       {/* ── Hero ── */}
       <section className="relative w-full min-h-[50vh] flex items-center overflow-hidden">
-        <div className="absolute inset-0">
+        <div className="hero-bg absolute inset-0">
           <Image src="/slides/family.jpg" alt="재외동포 가족" fill className="object-cover" priority />
           <div className="absolute inset-0 hero-overlay" />
         </div>

@@ -34,7 +34,7 @@ export default function NationalityLossReportPage() {
         <PageBreadcrumb items={[{ label: "국적상실 신고", path: "/nationality-loss-report" }]} />
         {/* Hero */}
         <section className="relative w-full min-h-[300px] flex items-center py-16">
-          <div className="absolute inset-0">
+          <div className="hero-bg absolute inset-0">
             <img src="/slides/passport.jpg" alt="국적상실 신고 절차와 준비서류 총정리" className="w-full h-full object-cover" />
             <div className="absolute inset-0 bg-black/50" />
           </div>

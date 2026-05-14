@@ -38,7 +38,7 @@ export default function NationalitySelectionDualNationalityPage() {
         <PageBreadcrumb items={[{ label: "국적선택과 이중국적", path: "/nationality-selection-dual-nationality" }]} />
         {/* Hero */}
         <section className="relative w-full min-h-[300px] flex items-center py-16">
-          <div className="absolute inset-0">
+          <div className="hero-bg absolute inset-0">
             <img src="/slides/legal-docs.jpg" alt="국적선택과 이중국적 / 복수국적자 종합가이드" className="w-full h-full object-cover" />
             <div className="absolute inset-0 bg-black/50" />
           </div>

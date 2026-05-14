@@ -176,7 +176,7 @@ export default function F4VisaTypesPage() {
         <PageBreadcrumb items={[{ label: "F-4 비자 종류", path: "/f4-visa-types" }]} />
         {/* Hero */}
         <section className="relative w-full min-h-[300px] flex items-center py-16">
-          <div className="absolute inset-0">
+          <div className="hero-bg absolute inset-0">
             <img src="/slides/legal-docs.jpg" alt="F-4 비자 종류" className="w-full h-full object-cover" />
             <div className="absolute inset-0 bg-black/50" />
           </div>

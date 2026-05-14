@@ -43,7 +43,7 @@ export default function AboutPage() {
         <PageBreadcrumb items={[{ label: "회사소개", path: "/about" }]} />
         {/* Hero */}
         <section className="relative w-full min-h-[300px] flex items-center py-16">
-          <div className="absolute inset-0">
+          <div className="hero-bg absolute inset-0">
             <img src="/slides/meeting.jpg" alt="재외동포를 위한 전문 행정서비스" className="w-full h-full object-cover" />
             <div className="absolute inset-0 bg-black/50" />
           </div>

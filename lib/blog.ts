@@ -44,7 +44,7 @@ function readPost(filePath: string): BlogPost | null {
 export async function getPostSlugs(): Promise<string[]> {
   try {
     return fs.readdirSync(CONTENT_DIR)
-      .filter(f => f.endsWith('.md') && !f.includes('.'))
+      .filter(f => f.endsWith('.md') && !f.includes('.en.') && !f.includes('.zh.') && !f.includes('.ja.'))
       .map(f => f.replace(/\.md$/, ''))
   } catch {
     return []

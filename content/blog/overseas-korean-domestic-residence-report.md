@@ -3,7 +3,7 @@ title: "재외동포 국내거소신고 방법과 혜택"
 date: "2026-04-09"
 category: "거소증"
 excerpt: "재외동포 국내거소신고 방법과 혜택"
-image: "/slides/documents.jpg"
+image: "/blog/korean-residence.jpg"
 slug: "overseas-korean-domestic-residence-report"
 ---
 

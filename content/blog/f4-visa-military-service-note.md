@@ -3,7 +3,7 @@ title: "F-4 비자 병역 미필자 신청 제한 주의 — 만 37세 전까지
 date: "2026-05-02"
 category: "F-4비자"
 excerpt: "F-4 비자는 병역 미필 남성에게 만 37세까지 사실상 막히는 구간이 있습니다. 실무에서 가장 많이 꼬이는 지점과 우회 가능성을 정리합니다."
-image: "/slides/passport.jpg"
+image: "/blog/korean-nationality.jpg"
 slug: "f4-visa-military-service-note"
 ---
 # F-4 비자 병역 미필자 신청 제한 주의 — 만 37세 전까지 막히는 진짜 이유

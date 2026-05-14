@@ -3,7 +3,7 @@ title: "F-4 비자 소지자 국내거소신고 절차 완벽 가이드"
 date: "2026-05-07"
 category: "거소증"
 excerpt: "F-4 비자로 입국한 재외동포가 90일 이내 반드시 처리해야 하는 국내거소신고 절차와 실무 핵심을 정리합니다."
-image: "/slides/consultation.jpg"
+image: "/blog/korean-residence.jpg"
 slug: "f4-domestic-residence-filing-steps"
 ---
 # F-4 비자 소지자 국내거소신고 절차 완벽 가이드

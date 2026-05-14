@@ -3,7 +3,7 @@ title: "F-4 비자 갱신 절차와 기간 안내"
 date: "2026-04-10"
 category: "F-4비자"
 excerpt: "F-4 비자 갱신 절차와 기간 안내"
-image: "/slides/documents.jpg"
+image: "/blog/korean-passport-visa.jpg"
 slug: "f4-visa-renewal-procedure"
 ---
 

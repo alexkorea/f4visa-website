@@ -3,7 +3,7 @@ title: "미국 시민권을 취득하면 한국 국적은 자동으로 상실될
 date: "2026-04-13"
 category: "F-4비자"
 excerpt: "미국 시민권을 취득한 순간 한국 국적은 자동 상실됩니다. 신고는 행정 정리일 뿐, 미신고 한국 여권 사용은 여권법 위반입니다."
-image: "/slides/korea-flag.jpg"
+image: "/blog/korean-nationality.jpg"
 slug: "us-citizenship-korea-nationality-auto-loss"
 ---
 # 미국 시민권을 취득하면 한국 국적은 자동으로 상실될까?

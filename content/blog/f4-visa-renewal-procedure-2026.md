@@ -3,7 +3,7 @@ title: "F-4 재외동포 비자 갱신 방법 2026년 완벽 가이드"
 date: "2026-05-13"
 category: "F-4비자"
 excerpt: "F-4 재외동포 비자 갱신(체류기간 연장) 신청 절차, 필요 서류, 주의사항을 2026년 최신 기준으로 정리합니다. 갱신 거절 방지 체크리스트 포함."
-image: "/slides/consultation.jpg"
+image: "/blog/korean-passport-visa.jpg"
 slug: "f4-visa-renewal-procedure-2026"
 ---
 

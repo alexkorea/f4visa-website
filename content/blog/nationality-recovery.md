@@ -3,7 +3,7 @@ title: "국적회복 완벽 가이드: 대한민국 국적을 되찾는 방법"
 date: "2026-04-02"
 category: "국적회복"
 excerpt: "외국 국적 취득 후 대한민국 국적을 회복하는 절차, 요건, 필요서류를 상세히 안내합니다. 65세 이상 복수국적 특례도 확인하세요."
-image: "/slides/korea-flag.jpg"
+image: "/blog/korean-nationality.jpg"
 slug: "nationality-recovery"
 ---
 

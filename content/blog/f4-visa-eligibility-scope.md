@@ -3,7 +3,7 @@ title: "F-4 비자 신청 자격과 재외동포 범위 총정리"
 date: "2026-04-15"
 category: "F-4비자"
 excerpt: "F-4 재외동포 비자의 신청 자격 요건과 재외동포의 법적 범위를 실무 기준으로 정리했습니다."
-image: "/slides/family.jpg"
+image: "/blog/korean-passport-visa.jpg"
 slug: "f4-visa-eligibility-scope"
 ---
 # F-4 비자 신청 자격과 재외동포 범위 총정리

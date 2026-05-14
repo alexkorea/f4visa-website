@@ -3,7 +3,7 @@ title: "F-4 비자 소지자 국내거소신고 절차: 입국 후 반드시 처
 date: "2026-05-06"
 category: "거소증"
 excerpt: "F-4 비자 소지자가 90일을 초과하여 한국에 체류하려면 국내거소신고는 법적 의무이며, 거소증 발급까지 필요한 서류·절차·주의사항을 실무 기준으로 안내합니다."
-image: "/slides/family.jpg"
+image: "/blog/korean-residence.jpg"
 slug: "f4-overseas-korean-residence-registration"
 ---
 # F-4 비자 소지자 국내거소신고 절차: 입국 후 반드시 처리해야 할 것

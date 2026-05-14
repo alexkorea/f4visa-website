@@ -3,7 +3,7 @@ title: "F-4 거소증 재발급: 분실·훼손 시 실무 절차 전부 정리"
 date: "2026-04-24"
 category: "거소증"
 excerpt: "F-4 거소증을 잃어버리거나 훼손됐을 때 14일 내 신고부터 재발급 수령까지 실무 절차와 놓치기 쉬운 포인트를 정리합니다."
-image: "/slides/passport.jpg"
+image: "/blog/korean-residence.jpg"
 slug: "f4-residence-card-reissue-lost-damaged"
 ---
 # F-4 거소증 재발급: 분실·훼손 시 실무 절차 전부 정리

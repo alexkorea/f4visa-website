@@ -3,7 +3,7 @@ title: "F-4 비자 미국 시민권자 신청 절차 완전 정리"
 date: "2026-04-29"
 category: ""
 excerpt: "미국 시민권 취득과 동시에 한국 국적은 자동 상실되며, F-4 비자는 시민권증서 원본과 무범죄조회서를 갖추면 본국 또는 한국 출입국에서 신청할 수 있습니다."
-image: "/slides/consultation.jpg"
+image: "/blog/korean-passport-visa.jpg"
 slug: "f4-visa-us-citizen-application-procedure"
 ---
 # F-4 비자 미국 시민권자 신청 절차 완전 정리

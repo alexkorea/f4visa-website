@@ -3,7 +3,7 @@ title: "F-4 비자 소지자 국내거소신고 절차 — 신청 자격·서류
 date: "2026-05-03"
 category: "거소증"
 excerpt: "F-4 비자 소지자가 한국 입국 후 90일 내에 진행하는 국내거소신고 절차, 서류, 자주 막히는 실무 포인트를 정리합니다."
-image: "/slides/family.jpg"
+image: "/blog/korean-residence.jpg"
 slug: "f4-domestic-residence-report"
 ---
 # F-4 비자 소지자 국내거소신고 절차 — 신청 자격·서류·처리 기간 실무 정리

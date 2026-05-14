@@ -3,7 +3,7 @@ title: "F-4 비자 신청 자격과 재외동포 범위 총정리"
 date: "2026-04-26"
 category: "F-4비자"
 excerpt: "외국 시민권을 취득한 본인 또는 한국계 직계존속을 가진 2·3세까지, F-4 자격 요건과 재외동포 범위를 법 조문과 실제 막히는 지점 중심으로 정리합니다."
-image: "/slides/family.jpg"
+image: "/blog/korean-family-diaspora.jpg"
 slug: "f4-eligibility-overseas-korean-scope"
 ---
 # F-4 비자 신청 자격과 재외동포 범위 총정리

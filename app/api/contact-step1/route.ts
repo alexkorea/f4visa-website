@@ -7,7 +7,7 @@ const TELEGRAM_CHAT_ID = "5533847195"
 
 function buildEmailHtml(name: string, services: string[], inquiryId: string): string {
   const serviceParam = encodeURIComponent(services.join(","))
-  const step2Url = `https://f4visa.net/contact/step2?service=${serviceParam}&inquiryId=${inquiryId}`
+  const step2Url = `https://www.f4visa.net/contact/step2?service=${serviceParam}&inquiryId=${inquiryId}`
 
   return `<!DOCTYPE html>
 <html lang="ko">
@@ -76,7 +76,7 @@ export async function POST(request: Request) {
     const crmResult = await saveToCRM({
       brand: "f4visa",
       formType: "consultation_step1",
-      siteUrl: "https://f4visa.net/contact",
+      siteUrl: "https://www.f4visa.net/contact",
       name, email, phone: contact || undefined,
       nationality: nationality || undefined,
       serviceRaw, message,

@@ -4,7 +4,7 @@ export function OrganizationJsonLd() {
     "@type": "ProfessionalService",
     name: "비전행정사사무소",
     alternateName: "VISION Administrative Office",
-    url: "https://f4visa.net",
+    url: "https://www.f4visa.net",
     telephone: "010-2081-3408",
     email: "5000meter@gmail.com",
     address: {
@@ -15,7 +15,7 @@ export function OrganizationJsonLd() {
       postalCode: "04620",
       addressCountry: "KR",
     },
-    image: "https://f4visa.net/og-image.png",
+    image: "https://www.f4visa.net/og-image.png",
     serviceType: [
       "F-4 비자 신청",
       "거소증 발급",
@@ -47,7 +47,7 @@ export function WebSiteJsonLd() {
     "@type": "WebSite",
     name: "비전행정사사무소",
     alternateName: "VISION Administrative Office",
-    url: "https://f4visa.net",
+    url: "https://www.f4visa.net",
   }
 
   return (
@@ -77,7 +77,7 @@ export function ServiceJsonLd({
     provider: {
       "@type": "ProfessionalService",
       name: "비전행정사사무소",
-      url: "https://f4visa.net",
+      url: "https://www.f4visa.net",
     },
     areaServed: {
       "@type": "Country",
@@ -124,15 +124,15 @@ export function ArticleJsonLd({
     author: {
       "@type": "Organization",
       name: "비전행정사사무소",
-      url: "https://f4visa.net",
+      url: "https://www.f4visa.net",
     },
     publisher: {
       "@type": "Organization",
       name: "비전행정사사무소",
-      url: "https://f4visa.net",
+      url: "https://www.f4visa.net",
       logo: {
         "@type": "ImageObject",
-        url: "https://f4visa.net/og-image.png",
+        url: "https://www.f4visa.net/og-image.png",
       },
     },
   }

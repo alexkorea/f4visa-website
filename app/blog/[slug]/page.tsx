@@ -24,7 +24,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const { slug } = await params
   const post = await getPostBySlug(slug)
   if (!post) return { title: "Not Found" }
-  const BASE_URL = "https://f4visa.net"
+  const BASE_URL = "https://www.f4visa.net"
   return {
     title: post.title,
     description: post.excerpt,
@@ -58,8 +58,8 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
       <ArticleJsonLd
         title={post.title}
         description={post.excerpt}
-        url={`https://f4visa.net/blog/${slug}`}
-        image={post.image.startsWith("http") ? post.image : `https://f4visa.net${post.image}`}
+        url={`https://www.f4visa.net/blog/${slug}`}
+        image={post.image.startsWith("http") ? post.image : `https://www.f4visa.net${post.image}`}
         datePublished={post.date}
       />
       <Header />

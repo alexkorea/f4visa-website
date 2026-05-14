@@ -4,7 +4,7 @@ import { getAllPosts } from "@/lib/blog"
 export const revalidate = 60
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const baseUrl = "https://f4visa.net"
+  const baseUrl = "https://www.f4visa.net"
 
   const staticPages: MetadataRoute.Sitemap = [
     { url: baseUrl, lastModified: new Date(), changeFrequency: "weekly", priority: 1 },

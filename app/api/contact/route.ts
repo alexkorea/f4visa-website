@@ -114,7 +114,7 @@ export async function POST(request: Request) {
     const { saveToCRM } = await import("@/lib/notion-crm")
     const crmPromise = saveToCRM({
       brand: 'f4visa', formType: 'contact',
-      siteUrl: 'https://f4visa.net/contact',
+      siteUrl: 'https://www.f4visa.net/contact',
       name, email, phone,
       serviceRaw: type, message,
       rawPayload: body,

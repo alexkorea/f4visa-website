@@ -11,12 +11,12 @@ export const metadata = {
   title: "회사소개",
   description:
     "F-4 비자, 거소증, 국적상실, 국적회복 전문 행정사사무소를 소개합니다.",
-  alternates: { canonical: "https://f4visa.net/about" },
+  alternates: { canonical: "https://www.f4visa.net/about" },
   openGraph: {
     title: "회사소개 | 비전행정사사무소",
     description:
       "F-4 비자, 거소증, 국적상실, 국적회복 전문 행정사사무소를 소개합니다.",
-    url: "https://f4visa.net/about",
+    url: "https://www.f4visa.net/about",
     siteName: "비전행정사사무소",
     type: "website",
   },

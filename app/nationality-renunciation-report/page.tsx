@@ -17,13 +17,13 @@ export const metadata: Metadata = {
   description:
     "복수국적자의 국적이탈 신고 절차, 병역의무 기한, 국적상실과의 차이점 안내. 비전행정사사무소가 전 과정을 대행합니다.",
   alternates: {
-    canonical: "https://f4visa.net/nationality-renunciation-report",
+    canonical: "https://www.f4visa.net/nationality-renunciation-report",
   },
   openGraph: {
     title: "국적이탈신고 / 신고 절차 및 필수 서류",
     description:
       "복수국적자의 국적이탈 신고 절차, 병역의무 기한, 국적상실과의 차이점 안내.",
-    url: "https://f4visa.net/nationality-renunciation-report",
+    url: "https://www.f4visa.net/nationality-renunciation-report",
     siteName: "비전행정사사무소",
     type: "website",
   },

@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: "/",
       disallow: ["/api/", "/_next/"],
     },
-    sitemap: "https://f4visa.net/sitemap.xml",
+    sitemap: "https://www.f4visa.net/sitemap.xml",
   }
 }

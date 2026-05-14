@@ -12,13 +12,13 @@ export const metadata: Metadata = {
     "복수국적자의 법적 처우, 직무상 제한, 국적선택 기한, 불행사서약 위반 시 국적선택 명령 안내. 비전행정사사무소 전문 상담.",
   alternates: {
     canonical:
-      "https://f4visa.net/nationality-selection-dual-nationality",
+      "https://www.f4visa.net/nationality-selection-dual-nationality",
   },
   openGraph: {
     title: "국적선택과 이중국적 / 복수국적자 종합가이드",
     description:
       "복수국적자의 법적 처우, 직무상 제한, 국적선택 기한, 불행사서약 위반 시 국적선택 명령 안내.",
-    url: "https://f4visa.net/nationality-selection-dual-nationality",
+    url: "https://www.f4visa.net/nationality-selection-dual-nationality",
     siteName: "비전행정사사무소",
     type: "website",
   },

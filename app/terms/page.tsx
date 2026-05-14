@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "이용약관",
   description: "비전행정사사무소의 이용약관입니다.",
   alternates: {
-    canonical: "https://f4visa.net/terms",
+    canonical: "https://www.f4visa.net/terms",
   },
 }
 

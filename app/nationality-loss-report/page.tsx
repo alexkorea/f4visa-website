@@ -9,12 +9,12 @@ export const metadata: Metadata = {
   title: "국적상실 신고 절차와 준비서류 총정리",
   description:
     "외국 국적 취득 시 한국 국적 상실 신고 절차, 필수 서류, 국적법 제15조 안내. 비전행정사사무소가 국적상실 신고를 대행합니다.",
-  alternates: { canonical: "https://f4visa.net/nationality-loss-report" },
+  alternates: { canonical: "https://www.f4visa.net/nationality-loss-report" },
   openGraph: {
     title: "국적상실 신고 절차와 준비서류 총정리",
     description:
       "외국 국적 취득 시 한국 국적 상실 신고 절차, 필수 서류, 국적법 제15조 안내.",
-    url: "https://f4visa.net/nationality-loss-report",
+    url: "https://www.f4visa.net/nationality-loss-report",
     siteName: "비전행정사사무소",
     type: "website",
   },

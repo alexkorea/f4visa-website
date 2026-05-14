@@ -8,12 +8,12 @@ export const metadata = {
   title: "F-4 비자 종류",
   description:
     "F-4 비자 종류별 대상 및 제출 서류 안내. F-4-11부터 F-4-99까지 모든 세부 자격을 확인하세요.",
-  alternates: { canonical: "https://f4visa.net/f4-visa-types" },
+  alternates: { canonical: "https://www.f4visa.net/f4-visa-types" },
   openGraph: {
     title: "F-4 비자 종류 | 비전행정사사무소",
     description:
       "F-4 비자 종류별 대상 및 제출 서류 안내. F-4-11부터 F-4-99까지 모든 세부 자격을 확인하세요.",
-    url: "https://f4visa.net/f4-visa-types",
+    url: "https://www.f4visa.net/f4-visa-types",
     siteName: "비전행정사사무소",
     type: "website",
   },

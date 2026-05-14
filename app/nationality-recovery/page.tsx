@@ -9,12 +9,12 @@ export const metadata: Metadata = {
   title: "국적회복 / 65세 이상 국적회복 특별 규정",
   description:
     "한국 국적회복 신청 자격, 65세 이상 복수국적 유지 특례, 필수 서류 및 절차 안내. 비전행정사사무소가 전 과정을 대행합니다.",
-  alternates: { canonical: "https://f4visa.net/nationality-recovery" },
+  alternates: { canonical: "https://www.f4visa.net/nationality-recovery" },
   openGraph: {
     title: "국적회복 / 65세 이상 국적회복 특별 규정",
     description:
       "한국 국적회복 신청 자격, 65세 이상 복수국적 유지 특례, 필수 서류 및 절차 안내.",
-    url: "https://f4visa.net/nationality-recovery",
+    url: "https://www.f4visa.net/nationality-recovery",
     siteName: "비전행정사사무소",
     type: "website",
   },

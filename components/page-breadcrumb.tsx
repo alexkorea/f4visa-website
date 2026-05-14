@@ -12,7 +12,7 @@ export function PageBreadcrumb({ items }: { items: BreadcrumbEntry[] }) {
       "@type": "ListItem",
       position: index + 1,
       name: item.label,
-      item: item.path === "/" ? "https://f4visa.net" : `https://f4visa.net${item.path}`,
+      item: item.path === "/" ? "https://www.f4visa.net" : `https://www.f4visa.net${item.path}`,
     })),
   }
 

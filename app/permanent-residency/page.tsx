@@ -10,12 +10,12 @@ export const metadata: Metadata = {
     "재외동포 영주권 신청 / 신청 자격, 절차, 필요서류",
   description:
     "F-4 비자에서 F-5 영주권으로 전환하는 방법. 신청 자격, 체류 요건, 생계능력, 기본소양 요건 및 비교표 안내. 비전행정사사무소 전문 상담.",
-  alternates: { canonical: "https://f4visa.net/permanent-residency" },
+  alternates: { canonical: "https://www.f4visa.net/permanent-residency" },
   openGraph: {
     title: "재외동포 영주권 신청 / 신청 자격, 절차, 필요서류",
     description:
       "F-4 비자에서 F-5 영주권으로 전환하는 방법. 신청 자격, 체류 요건, 생계능력, 기본소양 요건 안내.",
-    url: "https://f4visa.net/permanent-residency",
+    url: "https://www.f4visa.net/permanent-residency",
     siteName: "비전행정사사무소",
     type: "website",
   },

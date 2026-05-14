@@ -36,7 +36,7 @@ export default async function BlogPage() {
       <main className="flex-1">
         <PageBreadcrumb items={[{ label: "블로그", path: "/blog" }]} />
         {/* Hero */}
-        <section className="relative min-h-[300px] flex items-center py-16">
+        <section className="relative w-full min-h-[300px] flex items-center py-16">
           <div className="absolute inset-0">
             <img src="/slides/cityscape.jpg" alt="블로그" className="w-full h-full object-cover" />
             <div className="absolute inset-0 bg-black/50" />

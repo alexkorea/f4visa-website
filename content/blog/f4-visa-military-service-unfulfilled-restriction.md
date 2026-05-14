@@ -3,7 +3,7 @@ title: "F-4 비자 병역 미필자 신청 제한 주의 — 37세 이전 남성
 date: "2026-04-21"
 category: "F-4비자"
 excerpt: "병역 미필 상태로 외국 국적을 취득한 한국 출생 남성은 만 37세까지 F-4 발급이 사실상 막히며, 실제 심사에서 걸리는 지점과 해결 경로를 실무 기준으로 정리했습니다."
-image: "/slides/legal-docs.jpg"
+image: "/slides/documents.jpg"
 slug: "f4-visa-military-service-unfulfilled-restriction"
 ---
 # F-4 비자 병역 미필자 신청 제한 주의 — 37세 이전 남성이 반드시 확인해야 할 실무 기준

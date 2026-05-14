@@ -89,7 +89,7 @@ export default function F4VisaResidentCardPage() {
       <main className="flex-1">
         <PageBreadcrumb items={[{ label: "F-4 비자 거소증", path: "/f4-visa-resident-card" }]} />
         {/* Hero */}
-        <section className="relative min-h-[300px] flex items-center py-16">
+        <section className="relative w-full min-h-[300px] flex items-center py-16">
           <div className="absolute inset-0">
             <img src="/slides/documents.jpg" alt="F-4 비자와 거소증" className="w-full h-full object-cover" />
             <div className="absolute inset-0 bg-black/50" />

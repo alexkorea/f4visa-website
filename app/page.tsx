@@ -1,10 +1,9 @@
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { OrganizationJsonLd, WebSiteJsonLd } from "@/components/structured-data"
-import { HeroSlider } from "@/components/hero-slider"
 import Image from "next/image"
 import Link from "next/link"
-import { ArrowDown, Phone } from "lucide-react"
+import { Phone } from "lucide-react"
 import FAQSection from "@/components/FAQSection"
 
 /* ─── data ─── */
@@ -60,27 +59,25 @@ export default function HomePage() {
       <Header />
 
       {/* ── Hero ── */}
-      <section className="relative min-h-screen flex items-end pb-24 md:items-center md:pb-0 overflow-hidden">
-        <HeroSlider />
-        <div className="container-x relative z-10">
-          <div className="max-w-3xl">
-            <h1 className="text-display-xl font-black text-white leading-[1.08]">
-              재외동포 행정 서비스 전문
-            </h1>
-            <p className="mt-5 text-2xl md:text-3xl font-bold text-wv-orange leading-tight">
-              신속한 거소증 발급 F-4 비자 · 국적상실 · 영주권
-            </p>
-            <p className="mt-6 text-lg md:text-xl text-white/80 leading-relaxed max-w-xl">
-              복잡한 재외동포 업무를 정확하고 빠르게 안내합니다.
-            </p>
-            <div className="mt-6 flex flex-wrap gap-4">
-              <Link href="/contact" className="btn-primary text-lg">상담문의</Link>
-              <a href="#services" className="btn-ghost text-lg">서비스 보기</a>
-            </div>
-          </div>
+      <section className="relative w-full min-h-[50vh] flex items-center overflow-hidden">
+        <div className="absolute inset-0">
+          <Image src="/slides/family.jpg" alt="재외동포 가족" fill className="object-cover" priority />
+          <div className="absolute inset-0 hero-overlay" />
         </div>
-        <div className="absolute bottom-16 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 text-white/50 animate-bounce">
-          <ArrowDown size={20} />
+        <div className="relative z-10 w-full px-6 md:px-12 max-w-5xl mx-auto py-12">
+          <h1 className="text-display-xl font-black text-white leading-[1.08]">
+            재외동포 행정 서비스 전문
+          </h1>
+          <p className="mt-5 text-2xl md:text-3xl font-bold text-wv-orange leading-tight">
+            신속한 거소증 발급 F-4 비자 · 국적상실 · 영주권
+          </p>
+          <p className="mt-6 text-lg md:text-xl text-white/80 leading-relaxed max-w-xl">
+            복잡한 재외동포 업무를 정확하고 빠르게 안내합니다.
+          </p>
+          <div className="mt-6 flex flex-wrap gap-4">
+            <Link href="/contact" className="btn-primary text-lg">상담문의</Link>
+            <a href="#services" className="btn-ghost text-lg">서비스 보기</a>
+          </div>
         </div>
       </section>
 

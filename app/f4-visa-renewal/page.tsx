@@ -85,7 +85,7 @@ export default function F4VisaRenewalPage() {
       <main className="flex-1">
         <PageBreadcrumb items={[{ label: "F-4 비자 연장", path: "/f4-visa-renewal" }]} />
         {/* Hero */}
-        <section className="relative min-h-[300px] flex items-center py-16">
+        <section className="relative w-full min-h-[300px] flex items-center py-16">
           <div className="absolute inset-0">
             <img src="/slides/documents.jpg" alt="F-4 비자 연장 절차 및 필요서류 안내" className="w-full h-full object-cover" />
             <div className="absolute inset-0 bg-black/50" />

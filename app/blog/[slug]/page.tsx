@@ -66,7 +66,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
       <main className="flex-1">
         <PageBreadcrumb items={[{ label: "블로그", path: "/blog" }, { label: post.title, path: `/blog/${slug}` }]} />
         {/* Hero */}
-        <section className="relative min-h-[320px] flex items-end py-10">
+        <section className="relative w-full min-h-[320px] flex items-end py-10">
           <div className="absolute inset-0">
             <Image src={post.image} alt={post.title} fill className="object-cover" priority />
             <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/50 to-black/30" />

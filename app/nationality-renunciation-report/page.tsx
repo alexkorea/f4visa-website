@@ -42,7 +42,7 @@ export default function NationalityRenunciationReportPage() {
       <main className="flex-1">
         <PageBreadcrumb items={[{ label: "국적이탈 신고", path: "/nationality-renunciation-report" }]} />
         {/* Hero */}
-        <section className="relative min-h-[300px] flex items-center py-16">
+        <section className="relative w-full min-h-[300px] flex items-center py-16">
           <div className="absolute inset-0">
             <img src="/slides/passport.jpg" alt="국적이탈신고 / 신고 절차 및 필수 서류" className="w-full h-full object-cover" />
             <div className="absolute inset-0 bg-black/50" />

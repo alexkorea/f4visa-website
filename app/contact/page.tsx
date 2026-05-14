@@ -30,7 +30,7 @@ export default function ContactPage() {
       <Header />
       <main className="flex-1">
         <PageBreadcrumb items={[{ label: "상담문의", path: "/contact" }]} />
-        <section className="relative min-h-[300px] flex items-center py-16">
+        <section className="relative w-full min-h-[300px] flex items-center py-16">
           <div className="absolute inset-0">
             <img src="/slides/consultation.jpg" alt="상담 문의" className="w-full h-full object-cover" />
             <div className="absolute inset-0 bg-black/50" />

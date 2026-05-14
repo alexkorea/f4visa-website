@@ -33,7 +33,7 @@ export default function NationalityRecoveryPage() {
       <main className="flex-1">
         <PageBreadcrumb items={[{ label: "국적회복", path: "/nationality-recovery" }]} />
         {/* Hero */}
-        <section className="relative min-h-[300px] flex items-center py-16">
+        <section className="relative w-full min-h-[300px] flex items-center py-16">
           <div className="absolute inset-0">
             <img src="/slides/korea-flag.jpg" alt="국적회복 / 65세 이상 국적회복 특별 규정" className="w-full h-full object-cover" />
             <div className="absolute inset-0 bg-black/50" />

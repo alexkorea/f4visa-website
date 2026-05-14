@@ -26,11 +26,11 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   if (!post) return { title: "Not Found" }
   const BASE_URL = "https://f4visa.net"
   return {
-    title: `${post.title} - 비전행정사사무소`,
+    title: post.title,
     description: post.excerpt,
     alternates: { canonical: `${BASE_URL}/blog/${slug}` },
     openGraph: {
-      title: `${post.title} - 비전행정사사무소`,
+      title: `${post.title} | 비전행정사사무소`,
       description: post.excerpt,
       url: `${BASE_URL}/blog/${slug}`,
       siteName: "비전행정사사무소",
@@ -39,7 +39,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     },
     twitter: {
       card: "summary_large_image",
-      title: `${post.title} - 비전행정사사무소`,
+      title: `${post.title} | 비전행정사사무소`,
       description: post.excerpt,
     },
   }

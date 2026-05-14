@@ -32,7 +32,7 @@ function readPost(filePath: string): BlogPost | null {
       title: data.title || slug,
       date: data.date || '',
       category: data.category || '',
-      excerpt: data.excerpt || '',
+      excerpt: data.excerpt || data.description || '',
       image: data.image || '/slides/documents.jpg',
       content,
     }

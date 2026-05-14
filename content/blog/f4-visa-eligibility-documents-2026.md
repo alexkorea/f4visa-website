@@ -5,7 +5,7 @@ date: "2026-05-13"
 slug: "f4-visa-eligibility-documents-2026"
 author: "비전행정사사무소"
 category: "F-4비자"
-image: "/slides/family.jpg"
+image: "/slides/documents.jpg"
 ---
 
 # F-4 재외동포 비자 신청 자격과 제출 서류 2026년 총정리

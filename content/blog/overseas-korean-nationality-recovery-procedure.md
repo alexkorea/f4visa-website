@@ -3,7 +3,7 @@ title: "재외동포 국적회복 신청 절차와 필요서류 완벽 가이드
 date: "2026-04-12"
 category: "국적"
 excerpt: "재외동포가 한국 국적을 회복하기 위한 신청 절차, 필요서류, 심사 기준 및 주의사항을 실무 중심으로 상세히 안내합니다."
-image: "/slides/family.jpg"
+image: "/slides/korea-flag.jpg"
 slug: "overseas-korean-nationality-recovery-procedure"
 ---
 # 재외동포 국적회복 신청 절차와 필요서류 완벽 가이드

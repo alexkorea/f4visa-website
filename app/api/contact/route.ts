@@ -92,7 +92,7 @@ export async function POST(request: Request) {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
-          chat_id: "5533847195",
+          chat_id: "-5295922532",
           text,
         }),
       }

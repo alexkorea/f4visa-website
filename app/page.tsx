@@ -1,6 +1,7 @@
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { OrganizationJsonLd, WebSiteJsonLd } from "@/components/structured-data"
+import { HeroSlider } from "@/components/hero-slider"
 import Image from "next/image"
 import Link from "next/link"
 import { ArrowDown, Phone } from "lucide-react"
@@ -60,10 +61,7 @@ export default function HomePage() {
 
       {/* ── Hero ── */}
       <section className="relative min-h-screen flex items-end pb-24 md:items-center md:pb-0 overflow-hidden">
-        <div className="absolute inset-0 -z-10">
-          <div style={{backgroundImage:"url(/slides/family.jpg)",backgroundSize:"cover",backgroundPosition:"center"}} className="absolute inset-0" />
-          <div className="hero-overlay absolute inset-0" />
-        </div>
+        <HeroSlider />
         <div className="container-x relative z-10">
           <div className="max-w-3xl">
             <h1 className="text-display-xl font-black text-white leading-[1.08]">
@@ -81,7 +79,7 @@ export default function HomePage() {
             </div>
           </div>
         </div>
-        <div className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 text-white/50 animate-bounce">
+        <div className="absolute bottom-16 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 text-white/50 animate-bounce">
           <ArrowDown size={20} />
         </div>
       </section>

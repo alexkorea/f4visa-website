@@ -3,7 +3,7 @@ title: "F-4 거소증 발급 준비물과 소요 기간 완벽 정리"
 date: "2026-04-23"
 category: "거소증"
 excerpt: "F-4 거소증 발급에 실제로 필요한 서류와 출입국·외국인청 접수 후 실제 소요 기간, 현장에서 자주 막히는 지점까지 실무 기준으로 정리."
-image: "/slides/family.jpg"
+image: "/slides/documents.jpg"
 slug: "f4-residence-card-issuance-documents-timeline"
 ---
 # F-4 거소증 발급 준비물과 소요 기간 완벽 정리

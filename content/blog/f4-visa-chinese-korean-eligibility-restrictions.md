@@ -3,7 +3,7 @@ title: "F-4 비자 중국동포 신청 자격과 제한 — 실무에서 가장 
 date: "2026-04-30"
 category: "F-4비자"
 excerpt: "중국동포가 F-4 비자를 신청할 때 자격 충족보다 더 자주 막히는 부분은 단순노무 제한과 직업 입증입니다."
-image: "/slides/family.jpg"
+image: "/slides/legal-docs.jpg"
 slug: "f4-visa-chinese-korean-eligibility-restrictions"
 ---
 # F-4 비자 중국동포 신청 자격과 제한 — 실무에서 가장 많이 막히는 지점

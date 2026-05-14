@@ -11,8 +11,14 @@ import { Calendar, Tag, ArrowLeft } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { InlineCTAForm } from "@/components/inline-cta-form"
 
-export const revalidate = 60
-export const dynamicParams = true
+export const revalidate = 3600
+export const dynamicParams = false
+
+export async function generateStaticParams() {
+  const { getPostSlugs } = await import("@/lib/blog")
+  const slugs = await getPostSlugs()
+  return slugs.map((slug) => ({ slug }))
+}
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params

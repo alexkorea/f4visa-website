@@ -35,9 +35,73 @@ const stats = [
   { icon: Clock, label: "평균 처리 기간", value: "30일" },
 ]
 
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.f4visa.net/#org",
+      name: "비전행정사사무소",
+      alternateName: ["Vision Administrative Office", "飞展行政士事务所"],
+      url: "https://www.f4visa.net",
+      telephone: "+82-2-363-2251",
+      email: "5000meter@gmail.com",
+      address: {
+        "@type": "PostalAddress",
+        streetAddress: "퇴계로 324, 3층 성우빌딩",
+        addressLocality: "Jung-gu",
+        addressRegion: "Seoul",
+        postalCode: "04614",
+        addressCountry: "KR",
+      },
+      foundingDate: "2018",
+      knowsLanguage: ["ko", "en", "zh", "ja"],
+    },
+    {
+      "@type": "ProfessionalService",
+      "@id": "https://www.f4visa.net/#service",
+      name: "비전행정사사무소 F-4 재외동포 비자 서비스",
+      url: "https://www.f4visa.net",
+      telephone: "+82-2-363-2251",
+      address: {
+        "@type": "PostalAddress",
+        streetAddress: "퇴계로 324, 3층 성우빌딩",
+        addressLocality: "Jung-gu",
+        addressRegion: "Seoul",
+        postalCode: "04614",
+        addressCountry: "KR",
+      },
+      openingHours: "Mo-Fr 09:30-18:30",
+      areaServed: { "@type": "Country", name: "South Korea" },
+      availableLanguage: ["Korean", "English", "Chinese", "Japanese"],
+      serviceType: ["F-4 재외동포 비자", "거소증 발급", "국적상실 신고", "국적회복", "F-5 영주권"],
+    },
+    {
+      "@type": "BreadcrumbList",
+      itemListElement: [
+        { "@type": "ListItem", position: 1, name: "홈", item: "https://www.f4visa.net" },
+        { "@type": "ListItem", position: 2, name: "회사소개", item: "https://www.f4visa.net/about" },
+      ],
+    },
+    {
+      "@type": "FAQPage",
+      mainEntity: [
+        { "@type": "Question", name: "F-4 비자와 거소증의 차이는 무엇인가요?", acceptedAnswer: { "@type": "Answer", text: "F-4(재외동포 비자)는 외국 국적 동포가 한국에 장기 체류할 수 있는 비자입니다. 거소증(국내거소신고증)은 F-4 비자 소지자가 한국에 90일 이상 체류할 때 발급받는 등록 카드입니다. F-4 비자 취득 후 입국 90일 이내에 거소증을 신청해야 합니다." } },
+        { "@type": "Question", name: "비전행정사사무소는 어떤 F-4 관련 업무를 대행하나요?", acceptedAnswer: { "@type": "Answer", text: "F-4 재외동포 비자 신청, 거소증 발급 및 갱신, 국적상실 신고, 국적회복 신청, F-5 영주권 전환 등 재외동포 관련 모든 행정 업무를 대행합니다." } },
+        { "@type": "Question", name: "비전행정사사무소는 법무법인인가요?", acceptedAnswer: { "@type": "Answer", text: "아닙니다. 비전행정사사무소는 행정사법에 따라 인가된 행정사사무소입니다. 행정서류 준비 및 관계 행정기관 제출을 대행합니다. 소송·재판·형사 변호 등 변호사 업무는 취급하지 않습니다." } },
+        { "@type": "Question", name: "상담은 무료인가요?", acceptedAnswer: { "@type": "Answer", text: "네, 초기 상담은 무료입니다. 한국어, 영어, 중국어, 일본어로 상담이 가능합니다. 해외 거주 재외동포도 온라인·메신저 상담이 가능합니다." } },
+        { "@type": "Question", name: "해외에 거주해도 F-4 신청 대행이 가능한가요?", acceptedAnswer: { "@type": "Answer", text: "네. 해외 거주자도 서류를 우편 또는 이메일로 보내주시면 한국 내 신청 대행이 가능합니다. 완성된 서류나 카드는 전 세계로 안전하게 송달해 드립니다." } },
+        { "@type": "Question", name: "F-4 비자 처리 기간은 얼마나 걸리나요?", acceptedAnswer: { "@type": "Answer", text: "통상 출입국관리소 접수 후 2~4주 내외입니다. 서류 준비 기간을 포함하면 전체 소요 기간은 1~2개월입니다. 개인 상황에 따라 다를 수 있으며 상담 시 더 정확하게 안내해 드립니다." } },
+        { "@type": "Question", name: "어떤 언어로 상담이 가능한가요?", acceptedAnswer: { "@type": "Answer", text: "한국어, 영어, 중국어(보통화), 일본어로 상담이 가능합니다. KakaoTalk, WeChat, LINE, WhatsApp을 통한 메신저 상담도 제공합니다. 전화: 02-363-2251 (평일 09:30~18:30)." } },
+      ],
+    },
+  ],
+}
+
 export default function AboutPage() {
   return (
     <div className="flex min-h-screen flex-col">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <Header />
       <main className="flex-1">
         <PageBreadcrumb items={[{ label: "회사소개", path: "/about" }]} />
@@ -156,6 +220,33 @@ export default function AboutPage() {
         {/* Reuse existing sections */}
         <WhyUsSection />
         <TeamSection />
+
+        {/* FAQ */}
+        <section className="py-20 bg-slate-50">
+          <div className="mx-auto max-w-4xl px-4 lg:px-8">
+            <h2 className="text-3xl font-bold text-foreground text-center mb-2">자주 묻는 질문</h2>
+            <p className="text-center text-muted-foreground mb-12">F-4 재외동포 비자에 대해 자주 묻는 질문들</p>
+            <div className="space-y-4">
+              {[
+                { q: "F-4 비자와 거소증의 차이는 무엇인가요?", a: "F-4(재외동포 비자)는 외국 국적 동포가 한국에 장기 체류할 수 있는 비자입니다. 거소증(국내거소신고증)은 F-4 비자 소지자가 한국에 90일 이상 체류할 때 발급받는 등록 카드입니다. F-4 비자 취득 후 입국 90일 이내에 거소증을 신청해야 합니다." },
+                { q: "비전행정사사무소는 어떤 F-4 관련 업무를 대행하나요?", a: "F-4 재외동포 비자 신청, 거소증 발급 및 갱신, 국적상실 신고, 국적회복 신청, F-5 영주권 전환 등 재외동포 관련 모든 행정 업무를 대행합니다." },
+                { q: "비전행정사사무소는 법무법인인가요?", a: "아닙니다. 비전행정사사무소는 행정사법에 따라 인가된 행정사사무소입니다. 행정서류 준비 및 관계 행정기관 제출을 대행합니다. 소송·재판·형사 변호 등 변호사 업무는 취급하지 않습니다." },
+                { q: "상담은 무료인가요?", a: "네, 초기 상담은 무료입니다. 한국어, 영어, 중국어, 일본어로 상담이 가능합니다. 해외 거주 재외동포도 온라인·메신저 상담이 가능합니다." },
+                { q: "해외에 거주해도 F-4 신청 대행이 가능한가요?", a: "네. 해외 거주자도 서류를 우편 또는 이메일로 보내주시면 한국 내 신청 대행이 가능합니다. 완성된 서류나 카드는 전 세계로 안전하게 송달해 드립니다." },
+                { q: "F-4 비자 처리 기간은 얼마나 걸리나요?", a: "통상 출입국관리소 접수 후 2~4주 내외입니다. 서류 준비 기간을 포함하면 전체 소요 기간은 1~2개월입니다. 개인 상황에 따라 다를 수 있으며 상담 시 더 정확하게 안내해 드립니다." },
+                { q: "어떤 언어로 상담이 가능한가요?", a: "한국어, 영어, 중국어(보통화), 일본어로 상담이 가능합니다. KakaoTalk, WeChat, LINE, WhatsApp을 통한 메신저 상담도 제공합니다. 전화: 02-363-2251 (평일 09:30~18:30)." },
+              ].map(({ q, a }, i) => (
+                <details key={i} className="rounded-xl border border-border bg-card p-6">
+                  <summary className="font-semibold text-foreground cursor-pointer list-none flex justify-between items-center">
+                    {q}
+                    <span className="text-primary ml-4 flex-shrink-0">+</span>
+                  </summary>
+                  <p className="mt-3 text-muted-foreground leading-relaxed text-sm">{a}</p>
+                </details>
+              ))}
+            </div>
+          </div>
+        </section>
 
         {/* CTA */}
         <section className="bg-primary py-8 md:py-12">

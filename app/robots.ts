@@ -36,6 +36,8 @@ export default function robots(): MetadataRoute.Robots {
         userAgent: "Google-Extended",
         allow: "/",
       },
+      { userAgent: "Claude-SearchBot", allow: "/" },
+      { userAgent: "Bingbot", allow: "/" },
     ],
     sitemap: "https://www.f4visa.net/sitemap.xml",
   }

@@ -110,7 +110,7 @@ export async function POST(request: Request) {
     // Notion save
     const notionPromise = saveToNotion(body).catch((err) => console.error("Notion error:", err))
 
-    // Notion CRM (unified)
+    // Notion CRM (legacy)
     const { saveToCRM } = await import("@/lib/notion-crm")
     const crmPromise = saveToCRM({
       brand: 'f4visa', formType: 'contact',
@@ -120,7 +120,19 @@ export async function POST(request: Request) {
       rawPayload: body,
     }).catch((err) => console.error("CRM error:", err))
 
-    await Promise.all([telegramPromise, emailPromise, notionPromise, crmPromise])
+    // formconnection-crm intake (보스 msg 13668·13677)
+    const intakePromise = fetch("https://formconnection-crm.vercel.app/api/intake", {
+      method: "POST",
+      headers: { "Content-Type": "application/json",
+        ...(process.env.INTAKE_API_KEY ? { "x-api-key": process.env.INTAKE_API_KEY } : {}) },
+      body: JSON.stringify({
+        site: "f4visa.net", language: "ko",
+        name, email, phone,
+        service_interest: type, message, raw_payload: body,
+      }),
+    }).catch((err) => console.error("Intake error:", err))
+
+    await Promise.all([telegramPromise, emailPromise, notionPromise, crmPromise, intakePromise])
 
     return NextResponse.json({ success: true })
   } catch (error) {

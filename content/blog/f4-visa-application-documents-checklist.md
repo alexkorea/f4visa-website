@@ -1,196 +1,201 @@
 ---
-title: "F-4 재외동포 비자 신청 서류 체크리스트 — 미국·캐나다·호주 재외동포 필독"
-description: "F-4 재외동포 비자 대상자 자격, 국가별 서류 차이, 공통 필수서류 목록, 서류 준비 순서, 영사관 제출 방법까지 실무 중심으로 정리한 체크리스트입니다."
+title: "F-4 재외동포 비자 신청 서류 체크리스트 (미국·캐나다·호주)"
 date: "2026-05-19"
+category: "F-4비자"
+excerpt: "미국·캐나다·호주 재외동포를 위한 F-4 비자 신청 서류 완전 가이드. 공통 필수 서류부터 국가별 차이, 영사관 제출 방법까지 체크리스트로 정리했습니다."
+image: "/blog/immigration-documents.jpg"
 slug: "f4-visa-application-documents-checklist"
 author: "비전행정사사무소"
-category: "신청서류"
-image: "/blog/immigration-documents.jpg"
 ---
 
-# F-4 재외동포 비자 신청 서류 체크리스트 — 미국·캐나다·호주 재외동포 필독
-
-F-4 비자는 대한민국 국적을 보유했거나 혈통상 한국계임을 증명할 수 있는 재외동포가 한국에 장기 체류하며 취업·사업 활동을 자유롭게 할 수 있는 비자입니다. 북미·호주·유럽 재외동포들이 가장 많이 활용하는 비자이지만, 서류 준비 단계에서 혼란을 겪는 경우가 많습니다.
-
----
-
-## 목차
-
-1. [F-4 비자 대상자 자격](#1-f-4-비자-대상자-자격)
-2. [국가별 서류 차이점](#2-국가별-서류-차이점)
-3. [공통 필수서류 목록](#3-공통-필수서류-목록)
-4. [서류 준비 순서](#4-서류-준비-순서)
-5. [영사관 제출 방법](#5-영사관-제출-방법)
-6. [주요 주의사항](#6-주요-주의사항)
-7. [FAQ](#faq)
-
----
-
-## 1. F-4 비자 대상자 자격
-
-F-4(재외동포) 비자는 「재외동포의 출입국과 법적 지위에 관한 법률」에 따라 발급됩니다.
-
-### 대상자 유형
-
-**유형 1. 한국 국적을 보유했다가 외국 국적을 취득한 자**
-- 대한민국 국적을 보유했던 사람으로, 현재 미국·캐나다·호주·일본·유럽 등 외국 국적자
-- 외국 국적 취득 시 한국 국적을 포기한 경우 해당
-
-**유형 2. 부모 또는 조부모 중 한 명이 한국 국적이었던 자**
-- 본인이 외국에서 출생했더라도 부모·조부모 중 한국 국적자가 있으면 자격 취득 가능
-- 혈통 증명서류가 핵심 서류가 됨
-
-### 자격 제외 대상
-
-실무에서 많이 막히는 부분은 F-4 비자 자격이 제외되는 경우입니다. 출입국관리법 및 재외동포법에 따라 다음에 해당하면 F-4 비자를 발급받을 수 없습니다.
-
-- 단순 노무 활동을 주목적으로 하는 경우
-- 대한민국 법률을 위반하여 강제 출국된 이력이 있는 경우
-- 국가 안보·사회 질서에 위해가 되는 경우
-
----
-
-## 2. 국가별 서류 차이점
-
-F-4 비자 신청 서류는 공통 항목이 있지만, 거주국에 따라 추가 서류가 달라집니다.
-
-### 미국 거주자
-
-- 미국 시민권증(U.S. Passport 또는 Naturalization Certificate)
-- 출생증명서 (Birth Certificate) — 주정부 발행본
-- 부모 혈통 증명 시: 부모의 한국 출생 또는 한국 국적 관련 서류
-
-### 캐나다 거주자
-
-- 캐나다 여권 또는 시민권증 (Citizenship Certificate)
-- 출생증명서 (Vital Statistics Office 발행)
-- 부모 혈통 증명 시: 부모의 한국 관련 가족관계 서류
-
-### 호주 거주자
-
-- 호주 여권 또는 시민권증 (Certificate of Australian Citizenship)
-- 출생증명서 (Births, Deaths and Marriages Office 발행)
-- 부모 혈통 증명 시: 한국 측 가족관계증명서 필요
-
-### 일본 거주자
-
-- 일본 여권
-- 일본 호적초본 (戸籍謄本) — 일본 시청 발행
-- 한국 혈통 증명 서류
-
-핵심은 이것입니다. 어느 나라 거주자든 본인의 한국 혈통 또는 과거 한국 국적을 입증하는 서류가 가장 중요합니다. 영어 문서는 번역 공증이 필요하지 않은 경우도 있으나, 영사관별로 다를 수 있으므로 사전 확인이 필수입니다.
-
----
-
-## 3. 공통 필수서류 목록
-
-거주국에 관계없이 공통으로 필요한 서류입니다.
-
-**신원 확인 서류**
-
-1. 여권 원본 및 사본 (유효기간 6개월 이상 남아야 함)
-2. 비자 신청서 (재외공관 양식 또는 온라인 작성)
-3. 여권용 사진 2매 (6개월 이내 촬영, 흰 배경)
-
-**한국 혈통 또는 한국 국적 이력 증명**
-
-4. 한국 가족관계증명서 또는 기본증명서 (대한민국 발행) — 발급일로부터 3개월 이내
-5. 부모 또는 본인의 한국 국적 이력 증명서류
-   - 한국에서 직접 발급받은 경우: 가족관계등록부 관련 서류
-   - 해외 출생 혈통 증명 시: 부모의 한국 출생 서류 또는 한국 여권 사본
-
-**거주국 공식 서류**
-
-6. 거주국 출생증명서 (원본 또는 공증 사본)
-7. 거주국 시민권증 또는 영주권증 사본
-8. 거주국 내 주소 증명 (공과금 고지서, 운전면허증 등)
-
-**추가 서류 (해당 시)**
-
-9. 재직증명서 또는 사업자등록증 (직업 증명용)
-10. 수수료 납부 확인서 (영사관별 수수료 다름)
-
----
-
-## 4. 서류 준비 순서
-
-서류 준비 순서가 중요한 이유는 한국 발급 서류는 해외에서 받는 데 시간이 걸리고, 일부 서류는 유효기간이 있기 때문입니다.
-
-**1단계: 한국 측 서류 발급 (약 2~4주 소요)**
-- 가족관계증명서, 기본증명서는 한국 정부24(gov.kr)에서 온라인 발급 가능
-- 재외공관(영사관)을 통해 대리 발급도 가능
-- 서류 발급 후 원본 우편 수령 또는 전자 발급 선택
-
-**2단계: 거주국 서류 준비 (약 1~2주)**
-- 출생증명서, 시민권증 사본 준비
-- 필요 시 번역·공증 진행
-
-**3단계: 비자 신청서 작성**
-- 재외공관 온라인 예약 시스템에서 신청서 작성 및 예약
-
-**4단계: 영사관 방문 또는 우편 제출**
-- 서류 일체를 지참하고 예약 날짜에 방문
-- 일부 영사관은 우편 또는 온라인 제출 허용
-
----
-
-## 5. 영사관 제출 방법
-
-### 방문 제출
-
-대부분의 재외공관은 예약 후 방문 제출을 원칙으로 합니다. 주요 공관별 예약 시스템은 외교부 홈페이지(www.mofa.go.kr) 또는 각 공관 홈페이지에서 확인합니다.
-
-- 예약 후 지정 날짜·시간에 방문
-- 접수 후 처리 기간: 통상 **5~10 영업일** 이내 (공관별 상이)
-
-### 우편 제출 (일부 공관)
-
-일부 북미·유럽 공관은 우편 제출을 허용합니다. 원본 서류 분실 위험이 있으므로 추적 가능한 등기우편을 사용해야 합니다.
-
-### 국내 신청 (한국 입국 후)
-
-한국에 무비자 또는 단기 비자로 입국한 후 국내 출입국관리사무소에서 F-4 비자(체류자격 변경 또는 신규 발급)를 신청하는 방법도 있습니다. 이 경우 국내 거주 중 처리하므로 영사관 제출과 절차가 다릅니다.
-
----
-
-## 6. 주요 주의사항
-
-**서류 유효기간**: 가족관계증명서 등 한국 발급 서류는 발급일로부터 3개월 이내의 서류만 유효합니다. 서류 준비와 신청 타이밍을 맞추어야 합니다.
-
-**영문 번역 여부**: 한국어 서류는 영사관에서 직접 확인 가능하므로 별도 번역이 불필요한 경우가 많지만, 거주국 서류(영문)는 일부 공관에서 한국어 번역을 요구할 수 있습니다. 방문 전 해당 공관에 반드시 확인하세요.
-
-**혈통 증명 어려운 경우**: 3세 이후 혈통 증명은 서류가 복잡해질 수 있습니다. 이 경우 한국 측 가족관계 서류 발급이 어렵거나 기록이 없는 경우도 발생합니다. 전문가의 도움이 필요할 수 있습니다.
-
----
-
-## FAQ
-
-**Q1. F-4 비자 신청 수수료는 얼마인가요?**
-
-A. 수수료는 거주국 및 공관별로 다릅니다. 미국 기준 약 $45~$80 수준이며, 캐나다·호주도 유사합니다. 정확한 금액은 방문 예약 시 해당 공관 공지를 확인하세요.
-
-**Q2. 한국 가족관계증명서를 해외에서 받으려면 어떻게 하나요?**
-
-A. 한국 정부24(gov.kr) 사이트에서 온라인 발급이 가능합니다. 공동 인증서(구 공인인증서)가 필요하며, 해외 거주자도 재외공관을 통해 인증서를 발급받거나 국내 대리인에게 위임하여 발급받을 수 있습니다.
-
-**Q3. 부모 중 한 명만 한국계여도 F-4 비자 신청이 가능한가요?**
-
-A. 가능합니다. 부모 중 한 명이 한국 국적을 보유했거나 한국에서 출생했음을 증명하면 F-4 비자 자격이 인정됩니다. 조부모까지 범위가 확대될 수 있으니 구체적인 가족 상황에 따라 확인이 필요합니다.
-
-**Q4. F-4 비자 발급 후 한국에서 어떤 활동이 가능한가요?**
-
-A. F-4 비자 소지자는 취업, 사업 활동, 부동산 취득 등 내국인에 준하는 경제 활동이 가능합니다. 단, 단순 노무직 취업은 제한됩니다. 국민건강보험 지역가입자로 가입 가능합니다.
-
-**Q5. F-4 비자로 입국 후 가족도 함께 체류할 수 있나요?**
-
-A. F-4 비자 소지자의 배우자와 자녀는 동반 비자(F-3, F-1)를 신청하여 함께 체류할 수 있습니다. 동반 가족은 별도 비자 신청이 필요합니다.
-
----
-
-F-4 비자 서류 준비는 한국 발급 서류와 거주국 서류를 동시에 진행하면 시간을 단축할 수 있습니다. 특히 가족관계증명서 발급에 예상보다 시간이 걸리는 경우가 많으므로 일찍 시작하는 것이 핵심입니다.
-
-**비전행정사사무소에서는 F-4 재외동포 비자 신청 대행 서비스를 제공합니다.**
-
-서류 검토부터 영사관 제출까지 전 과정을 지원합니다. 해외 거주자도 이메일·카카오톡으로 상담 가능합니다.
-
-📞 **02-363-2251** (월~금 09:30~17:30, KST)
+<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin-bottom:30px;border-left:4px solid #1e40af">
+<strong style="display:block;margin-bottom:12px;font-size:16px;color:#1e40af">📋 목차</strong>
+<ol style="margin:0;padding-left:20px;line-height:2">
+<li><a href="#eligibility" style="color:#1e40af;text-decoration:none">F-4 비자 신청 자격 요건</a></li>
+<li><a href="#common-docs" style="color:#1e40af;text-decoration:none">공통 필수 서류 목록</a></li>
+<li><a href="#country-diff" style="color:#1e40af;text-decoration:none">국가별 추가 서류 차이</a></li>
+<li><a href="#submission" style="color:#1e40af;text-decoration:none">영사관 제출 방법 및 절차</a></li>
+<li><a href="#tips" style="color:#1e40af;text-decoration:none">서류 준비 시 주의사항</a></li>
+<li><a href="#faq" style="color:#1e40af;text-decoration:none">자주 묻는 질문 (FAQ)</a></li>
+</ol>
+</nav>
+
+<div style="background:#f0fdf4;border:2px solid #22c55e;padding:20px;border-radius:8px;margin:20px 0">
+<strong style="display:block;margin-bottom:10px;font-size:16px;color:#15803d">✅ 핵심 요약</strong>
+<ul style="margin:0;padding-left:20px;line-height:1.9">
+<li>F-4 비자는 <strong>외국 국적 재외동포</strong>를 위한 비자로 취업·체류 제한이 거의 없습니다</li>
+<li>기본 서류: 여권·사진·신청서·한국계 입증서류·거주국 체류자격 증명</li>
+<li>국가별로 요구 서류가 다르므로 <strong>관할 영사관 사전 확인 필수</strong></li>
+<li>서류 준비부터 발급까지 평균 2~4주 소요</li>
+<li>하이코리아 온라인 포털에서도 일부 신청 가능</li>
+</ul>
+</div>
+
+<h2 id="eligibility">F-4 비자 신청 자격 요건</h2>
+
+F-4(재외동포) 비자는 대한민국 국적을 보유한 적이 있거나, 직계존속이 대한민국 국적을 보유한 외국 국적자를 대상으로 합니다. 미국·캐나다·호주·뉴질랜드·유럽 등에 거주하는 재외동포 2세, 3세도 일정 요건을 갖추면 신청이 가능합니다.
+
+<table style="width:100%;border-collapse:collapse;margin:20px 0;font-size:15px">
+<tr style="background:#1e40af;color:white">
+<th style="padding:12px;text-align:left;border:1px solid #ddd">구분</th>
+<th style="padding:12px;text-align:left;border:1px solid #ddd">자격 요건</th>
+<th style="padding:12px;text-align:left;border:1px solid #ddd">비고</th>
+</tr>
+<tr style="background:#f8fafc">
+<td style="padding:12px;border:1px solid #ddd"><strong>본인 국적 취득자</strong></td>
+<td style="padding:12px;border:1px solid #ddd">과거 대한민국 국적 보유 후 외국 국적 취득</td>
+<td style="padding:12px;border:1px solid #ddd">귀화·국적상실 증명 필요</td>
+</tr>
+<tr>
+<td style="padding:12px;border:1px solid #ddd"><strong>직계존속 혈통자</strong></td>
+<td style="padding:12px;border:1px solid #ddd">부모 또는 조부모가 대한민국 국적 보유</td>
+<td style="padding:12px;border:1px solid #ddd">혈통 증명 서류 필요</td>
+</tr>
+<tr style="background:#f8fafc">
+<td style="padding:12px;border:1px solid #ddd"><strong>미성년 동반자녀</strong></td>
+<td style="padding:12px;border:1px solid #ddd">F-4 비자 소지자의 미성년 자녀</td>
+<td style="padding:12px;border:1px solid #ddd">F-1 동반비자 별도 신청</td>
+</tr>
+</table>
+
+<h2 id="common-docs">공통 필수 서류 목록</h2>
+
+아래 서류는 거주 국가에 관계없이 모든 F-4 비자 신청자가 준비해야 하는 공통 서류입니다.
+
+<div style="background:#fff7ed;border:2px solid #f97316;padding:20px;border-radius:8px;margin:20px 0">
+<strong style="display:block;margin-bottom:12px;color:#c2410c;font-size:16px">📌 공통 필수 서류 체크리스트</strong>
+<ul style="margin:0;padding-left:20px;line-height:2">
+<li>☐ 여권 원본 (유효기간 6개월 이상 남은 것)</li>
+<li>☐ 여권 사본 (사진면, 개인정보면)</li>
+<li>☐ 비자 신청서 (재외동포(F-4) 비자 신청서)</li>
+<li>☐ 사진 (3.5×4.5cm, 흰 배경, 6개월 이내 촬영)</li>
+<li>☐ 한국계 입증 서류 (아래 중 해당 항목)</li>
+<li>☐ 거주국 합법 체류 증명 (영주권, 시민권 또는 유효한 비자)</li>
+<li>☐ 신청 수수료 (영사관별 상이)</li>
+</ul>
+</div>
+
+**한국계 입증 서류**는 아래 중 하나 이상을 제출합니다:
+
+- **본인 과거 한국 국적자**: 기본증명서, 가족관계증명서, 제적등본 (한국 가족관계등록부)
+- **부모가 한국 국적자였던 경우**: 부모의 기본증명서, 가족관계증명서, 출생증명서 (부모와의 혈연 입증)
+- **조부모가 한국 국적자였던 경우**: 조부모 제적등본, 부모·본인 출생증명서 (혈통 연결 입증)
+
+<h2 id="country-diff">국가별 추가 서류 차이</h2>
+
+거주 국가에 따라 요구하는 추가 서류가 다릅니다. 반드시 관할 총영사관 공식 안내를 먼저 확인하세요.
+
+<table style="width:100%;border-collapse:collapse;margin:20px 0;font-size:15px">
+<tr style="background:#1e40af;color:white">
+<th style="padding:12px;text-align:left;border:1px solid #ddd">국가</th>
+<th style="padding:12px;text-align:left;border:1px solid #ddd">추가 요구 서류</th>
+<th style="padding:12px;text-align:left;border:1px solid #ddd">관할 영사관</th>
+</tr>
+<tr style="background:#f8fafc">
+<td style="padding:12px;border:1px solid #ddd"><strong>미국</strong></td>
+<td style="padding:12px;border:1px solid #ddd">미국 시민권증 또는 영주권(그린카드) 사본, SSN 제공 동의서(선택)</td>
+<td style="padding:12px;border:1px solid #ddd">주미한국대사관·LA·뉴욕·시카고·샌프란시스코 등 10개 총영사관</td>
+</tr>
+<tr>
+<td style="padding:12px;border:1px solid #ddd"><strong>캐나다</strong></td>
+<td style="padding:12px;border:1px solid #ddd">캐나다 시민권증 또는 영주권 카드 사본, 주민등록번호 확인서(선택)</td>
+<td style="padding:12px;border:1px solid #ddd">주캐나다한국대사관(오타와), 밴쿠버·토론트 총영사관</td>
+</tr>
+<tr style="background:#f8fafc">
+<td style="padding:12px;border:1px solid #ddd"><strong>호주</strong></td>
+<td style="padding:12px;border:1px solid #ddd">호주 시민권증 또는 영주 비자 증명서, 거주 증명(공과금 청구서 등)</td>
+<td style="padding:12px;border:1px solid #ddd">주호주한국대사관(캔버라), 시드니 총영사관</td>
+</tr>
+<tr>
+<td style="padding:12px;border:1px solid #ddd"><strong>뉴질랜드</strong></td>
+<td style="padding:12px;border:1px solid #ddd">뉴질랜드 시민권증 또는 영주 비자 증명서</td>
+<td style="padding:12px;border:1px solid #ddd">주뉴질랜드한국대사관(웰링턴)</td>
+</tr>
+<tr style="background:#f8fafc">
+<td style="padding:12px;border:1px solid #ddd"><strong>영국·유럽</strong></td>
+<td style="padding:12px;border:1px solid #ddd">EU 영주권 또는 해당국 시민권 증명, 거주 등록 증명서</td>
+<td style="padding:12px;border:1px solid #ddd">각국 주재 한국대사관 또는 총영사관</td>
+</tr>
+</table>
+
+<div style="background:#fef2f2;border:2px solid #ef4444;padding:16px;border-radius:8px;margin:20px 0">
+<strong style="color:#b91c1c">⚠️ 주의:</strong> 서류는 발급일로부터 <strong>3개월 이내</strong>의 것만 인정되는 경우가 많습니다. 영사관별 기준이 다르므로 <a href="https://www.mofa.go.kr" target="_blank" rel="noopener" style="color:#1e40af">외교부 공식 홈페이지</a>에서 최신 안내를 확인하세요.
+</div>
+
+<h2 id="submission">영사관 제출 방법 및 절차</h2>
+
+F-4 비자 신청은 **현지 한국 영사관 방문 신청**이 원칙이며, 일부 영사관은 우편 신청 또는 <a href="https://www.hikorea.go.kr" target="_blank" rel="noopener" style="color:#1e40af">하이코리아 비자 신청 포털</a>을 통한 온라인 신청을 허용합니다.
+
+**신청 절차 (방문 신청 기준):**
+
+1. **사전 예약**: 관할 영사관 홈페이지에서 방문 예약 (예약 없이 방문 시 접수 불가한 경우 있음)
+2. **서류 준비**: 위 체크리스트 기준 전체 서류 준비, 번역 공증 필요 서류는 사전 처리
+3. **영사관 방문 제출**: 예약 시간에 방문하여 서류 제출 및 수수료 납부
+4. **심사 대기**: 일반적으로 5~15 영업일 소요 (성수기·특수 사유 시 연장 가능)
+5. **비자 발급 확인**: 영사관 알림 또는 온라인 조회로 발급 여부 확인
+6. **여권 수령**: 방문 수령 또는 우편 수령 선택
+
+<h2 id="tips">서류 준비 시 주의사항</h2>
+
+<table style="width:100%;border-collapse:collapse;margin:20px 0;font-size:15px">
+<tr style="background:#1e40af;color:white">
+<th style="padding:12px;text-align:left;border:1px solid #ddd">항목</th>
+<th style="padding:12px;text-align:left;border:1px solid #ddd">주의사항</th>
+</tr>
+<tr style="background:#f8fafc">
+<td style="padding:12px;border:1px solid #ddd"><strong>번역 공증</strong></td>
+<td style="padding:12px;border:1px solid #ddd">한국어 원본 서류는 공인 번역사 번역 공증 필요 (영사관 지정 번역사 사용 권장)</td>
+</tr>
+<tr>
+<td style="padding:12px;border:1px solid #ddd"><strong>아포스티유</strong></td>
+<td style="padding:12px;border:1px solid #ddd">현지 발급 서류는 아포스티유(Apostille) 인증 요구되는 경우 있음</td>
+</tr>
+<tr style="background:#f8fafc">
+<td style="padding:12px;border:1px solid #ddd"><strong>사진 규격</strong></td>
+<td style="padding:12px;border:1px solid #ddd">3.5×4.5cm, 흰 배경, 정면, 모자 착용 금지, 6개월 이내 촬영</td>
+</tr>
+<tr>
+<td style="padding:12px;border:1px solid #ddd"><strong>서류 유효기간</strong></td>
+<td style="padding:12px;border:1px solid #ddd">대부분 발급일 3개월 이내 서류만 인정, 여권은 유효기간 6개월 이상</td>
+</tr>
+<tr style="background:#f8fafc">
+<td style="padding:12px;border:1px solid #ddd"><strong>부본 준비</strong></td>
+<td style="padding:12px;border:1px solid #ddd">모든 서류 사본 2부씩 여유 있게 준비 권장</td>
+</tr>
+</table>
+
+<h2 id="faq">자주 묻는 질문 (FAQ)</h2>
+
+<div style="border:1px solid #e5e7eb;border-radius:8px;overflow:hidden;margin:20px 0">
+<div style="background:#f9fafb;padding:16px;border-bottom:1px solid #e5e7eb">
+<strong>Q. 한국어를 전혀 모르는 3세 재외동포도 F-4 비자를 받을 수 있나요?</strong>
+</div>
+<div style="padding:16px;border-bottom:1px solid #e5e7eb">
+A. 네, 가능합니다. F-4 비자는 언어 능력 요건이 없습니다. 혈통 입증 서류와 거주국 합법 체류 증명만 갖추면 신청할 수 있습니다.
+</div>
+<div style="background:#f9fafb;padding:16px;border-bottom:1px solid #e5e7eb">
+<strong>Q. 한국 가족관계증명서는 어떻게 발급받나요?</strong>
+</div>
+<div style="padding:16px;border-bottom:1px solid #e5e7eb">
+A. 한국 가족관계등록부에 등재되어 있다면 대법원 전자가족관계등록시스템(efamily.scourt.go.kr)에서 인터넷 발급 가능합니다. 등재되지 않은 경우 영사관을 통한 등록 절차가 선행됩니다.
+</div>
+<div style="background:#f9fafb;padding:16px;border-bottom:1px solid #e5e7eb">
+<strong>Q. 한국에 입국 후 내에서도 F-4로 변경할 수 있나요?</strong>
+</div>
+<div style="padding:16px;border-bottom:1px solid #e5e7eb">
+A. 네, 다른 비자로 입국한 후 출입국·외국인청에서 F-4로 체류자격 변경이 가능합니다. 단, 요건을 갖춰야 하며 심사 기간이 소요됩니다.
+</div>
+<div style="background:#f9fafb;padding:16px;border-bottom:1px solid #e5e7eb">
+<strong>Q. 서류가 부족하면 어떻게 되나요?</strong>
+</div>
+<div style="padding:16px">
+A. 서류 미비 시 보완 요청을 받거나 반려될 수 있습니다. 사전에 관할 영사관에 서류 목록을 확인하고 여유 있게 준비하는 것이 중요합니다.
+</div>
+</div>
+
+<div style="background:#1e40af;color:white;padding:24px;border-radius:8px;margin:30px 0;text-align:center">
+<strong style="display:block;font-size:18px;margin-bottom:8px">비전행정사사무소 무료 상담</strong>
+<p style="margin:8px 0;opacity:0.9">F-4 비자 서류 준비부터 신청까지 전문가가 도와드립니다</p>
+<p style="margin:8px 0;font-size:14px;opacity:0.8">월~금 09:30~17:30 (KST) | 토·공휴일 휴무</p>
+<a href="https://inhega.co.kr/consultation" target="_blank" rel="noopener" style="display:inline-block;margin-top:12px;padding:12px 28px;background:#A33344;color:white;border-radius:6px;text-decoration:none;font-weight:bold">무료 상담 신청하기</a>
+</div>

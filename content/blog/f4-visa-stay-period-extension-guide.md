@@ -5,7 +5,7 @@ date: "2026-05-19"
 slug: "f4-visa-stay-period-extension-guide"
 author: "비전행정사사무소"
 category: "체류관리"
-image: "/images/f4-visa-hero.jpg"
+image: "/blog/korean-residence.jpg"
 ---
 
 # F-4 비자 체류기간과 연장 신청 절차 — 1년·3년 선택 기준

@@ -5,7 +5,7 @@ date: "2026-05-19"
 slug: "f4-visa-spouse-child-accompanying-visa"
 author: "비전행정사사무소"
 category: "가족동반"
-image: "/images/f4-visa-hero.jpg"
+image: "/blog/korean-family-diaspora.jpg"
 ---
 
 # F-4 비자 배우자·자녀 동반 비자 신청 방법 — F-3·F-1 동반 절차

@@ -1,193 +1,207 @@
 ---
-title: "F-4 비자 체류기간과 연장 신청 절차 — 1년·3년 선택 기준"
-description: "F-4 재외동포 비자의 체류기간 종류(1년·3년), 연장 신청 시기와 장소, 필요서류, 연장 거절 사례까지 실무 중심으로 정리한 완전 가이드입니다."
+title: "F-4 비자 체류기간 연장 완전 가이드 (신청 방법·서류·주의사항)"
 date: "2026-05-19"
+category: "F-4비자"
+excerpt: "F-4 재외동포 비자 체류기간 연장 요건부터 하이코리아 온라인 신청 방법, 필요 서류, 주의사항까지 단계별로 정리했습니다."
+image: "/blog/korean-residence.jpg"
 slug: "f4-visa-stay-period-extension-guide"
 author: "비전행정사사무소"
-category: "체류관리"
-image: "/blog/korean-residence.jpg"
 ---
 
-# F-4 비자 체류기간과 연장 신청 절차 — 1년·3년 선택 기준
-
-F-4 재외동포 비자로 한국에 체류하고 있는 분들이 실무에서 가장 많이 막히는 부분 중 하나가 체류 연장입니다. 언제 신청해야 하는지, 어디서 해야 하는지, 1년과 3년 중 어떤 걸 선택해야 하는지 헷갈리는 경우가 많습니다.
-
----
-
-## 목차
-
-1. [F-4 비자 체류기간 종류](#1-f-4-비자-체류기간-종류)
-2. [1년 vs 3년 선택 기준](#2-1년-vs-3년-선택-기준)
-3. [연장 신청 시기와 장소](#3-연장-신청-시기와-장소)
-4. [연장 신청 필요서류](#4-연장-신청-필요서류)
-5. [연장 거절 사례와 예방법](#5-연장-거절-사례와-예방법)
-6. [온라인 신청 방법 (Hi Korea)](#6-온라인-신청-방법-hi-korea)
-7. [FAQ](#faq)
-
----
-
-## 1. F-4 비자 체류기간 종류
-
-F-4(재외동포) 체류자격은 출입국관리법 시행령 별표 1에 규정된 체류 자격입니다. 발급 시 부여되는 체류기간은 다음과 같습니다.
-
-### 최초 발급 체류기간
-
-- 기본 체류기간: **1년**
-- 복수 출입국(Multiple Entry) 허용 — 체류기간 내 자유롭게 출입국 가능
-
-### 연장 후 체류기간
-
-- 연장 신청 시 **1년 또는 3년** 선택 가능
-- 연장 횟수에 제한은 없음 (요건 충족 시 계속 연장 가능)
-
-핵심은 이것입니다. F-4 비자는 한 번 발급받으면 갱신만 하면 계속 유지할 수 있습니다. 단, 체류기간이 만료되기 전에 반드시 연장 신청을 해야 하며, 만료 후 신청은 불법 체류로 간주됩니다.
-
----
-
-## 2. 1년 vs 3년 선택 기준
-
-연장 신청 시 1년 또는 3년을 선택할 수 있습니다. 어떤 기간을 선택하는 것이 유리한지는 개인 상황에 따라 다릅니다.
-
-### 3년 연장이 유리한 경우
-
-- 한국에 장기 거주 계획이 확정된 경우
-- 사업 또는 취업 활동을 안정적으로 지속할 경우
-- 연장 신청 번거로움을 줄이고 싶은 경우
-- 체류 중 해외 출국 횟수가 많은 경우 (3년 내 자유로운 재입국 가능)
-
-### 1년 연장이 유리한 경우
-
-- 향후 한국 체류 계획이 유동적인 경우
-- 사정 변경(귀국, 이민 등)이 발생할 가능성이 있는 경우
-- 비자 조건이나 자격 요건이 변경될 가능성을 고려해야 할 때
-
-실무에서는 한국에 안정적으로 장기 거주할 계획이 있다면 **3년 연장이 일반적으로 편리**합니다. 단, 연장 요건(경제 활동, 건강보험 가입 여부 등)을 3년간 지속 유지해야 합니다.
-
----
-
-## 3. 연장 신청 시기와 장소
-
-### 신청 시기
-
-체류기간 만료일 **4개월 전부터** 신청 가능합니다. 만료일 이전에 신청하는 것이 안전하며, 늦어도 만료일 **당일**까지 접수를 완료해야 합니다.
-
-만료일이 지난 후 신청하면 불법 체류로 처리되어 과태료 부과 및 출국명령을 받을 수 있습니다.
-
-### 신청 장소
-
-**오프라인 신청**
-- 체류지 관할 출입국관리사무소 또는 출장소
-- 주요 사무소: 서울 서초, 인천, 부산, 대구, 대전, 광주 등 전국
-
-**온라인 신청**
-- Hi Korea (www.hikorea.go.kr) — 전자정부 출입국 서비스
-- 공인인증서 또는 공동인증서 필요
-- 일부 서류는 온라인 제출 불가하여 출입국사무소 추가 방문 필요할 수 있음
-
----
-
-## 4. 연장 신청 필요서류
-
-F-4 체류기간 연장 신청 시 필요한 서류입니다.
-
-**기본 서류**
-
-1. 체류기간 연장 신청서 (출입국관리사무소 비치 또는 Hi Korea 온라인 작성)
-2. 여권 원본
-3. 외국인등록증 원본
-4. 수수료: **3만 원** (1년 연장 기준), 3년 연장 시 수수료 동일
-
-**체류 자격 증명 서류 (아래 중 해당 사항)**
-
-5. 재직증명서 또는 사업자등록증 (취업·사업 활동 중인 경우)
-6. 국민건강보험 납부확인서 (지역가입자 또는 직장가입자 모두 가능)
-7. 부동산 임대차계약서 또는 주거 확인 서류
-
-**추가 서류 (요건에 따라)**
-
-8. 소득 증빙서류 (근로소득원천징수영수증, 사업소득 확인서 등)
-9. 가족관계증명서 (동반 가족 체류 현황 확인 시)
-
----
-
-## 5. 연장 거절 사례와 예방법
-
-F-4 비자 연장이 거절되는 주요 사례와 그 예방법입니다.
-
-### 사례 1: 건강보험 미가입 또는 장기 체납
-
-F-4 비자 소지자는 국민건강보험에 의무 가입해야 합니다. 보험료를 6개월 이상 체납하거나 아예 미가입 상태이면 연장 거절 또는 조건부 연장이 될 수 있습니다.
-
-**예방법**: 외국인등록 후 건강보험공단에 지역가입자로 등록하고, 매월 보험료를 납부합니다.
-
-### 사례 2: 체류자격에 맞지 않는 활동
-
-F-4 비자는 단순 노무 활동이 금지되어 있습니다. 단순 생산직, 서비스직 등 단순 노무 활동을 주로 한 경우 연장이 제한될 수 있습니다.
-
-**예방법**: F-4 비자로 허용되는 업종(전문직, 사무직, 자영업 등)에서 활동하고, 활동 내용을 서류로 증명할 수 있도록 준비합니다.
-
-### 사례 3: 범법 이력
-
-한국 체류 중 범죄 이력이 있는 경우 연장이 거절될 수 있습니다. 특히 출입국관리법 위반(불법 취업, 체류기간 초과 등) 이력은 심각한 불이익이 됩니다.
-
-**예방법**: 체류 규정을 준수하고, 체류기간 내에 연장 신청을 완료합니다.
-
-### 사례 4: 서류 불충분
-
-필요 서류를 완비하지 않고 방문하면 접수 자체가 되지 않습니다.
-
-**예방법**: 사전에 출입국관리사무소 또는 Hi Korea 사이트에서 최신 서류 목록을 확인하고 완비해서 방문합니다.
-
----
-
-## 6. 온라인 신청 방법 (Hi Korea)
-
-Hi Korea(www.hikorea.go.kr)를 통한 온라인 체류 연장 신청 절차입니다.
-
-**Step 1**: Hi Korea 접속 → 로그인 (공동인증서 필수)
-
-**Step 2**: 전자민원 → 체류자격 연장 신청 선택
-
-**Step 3**: 신청서 작성 (외국인등록번호, 여권번호, 체류기간 등 입력)
-
-**Step 4**: 서류 업로드 (스캔본 업로드 가능 서류 제출)
-
-**Step 5**: 수수료 온라인 납부
-
-**Step 6**: 처리 결과 확인 (이메일 또는 Hi Korea 마이페이지에서 확인)
-
-온라인 신청 후 일부 서류는 원본을 출입국관리사무소에 직접 제출해야 하는 경우도 있습니다. 신청 완료 후 안내 문자 또는 이메일을 반드시 확인하세요.
-
----
-
-## FAQ
-
-**Q1. F-4 비자 연장 신청 처리 기간은 얼마나 걸리나요?**
-
-A. 통상 **5~10 영업일** 이내에 처리됩니다. 성수기(연말연시, 설·추석 전후) 또는 서류 보완 요청이 있을 경우 2~3주까지 소요될 수 있습니다. 만료일에 여유를 두고 미리 신청하는 것이 중요합니다.
-
-**Q2. 체류기간이 만료된 줄 몰랐는데 어떻게 해야 하나요?**
-
-A. 즉시 출입국관리사무소에 방문해 상황을 설명하고 자진 신고해야 합니다. 불법 체류 기간이 짧을수록 처분이 가벼울 수 있으며, 자진 신고가 강제 출국보다 유리합니다. 단, 과태료는 불가피합니다.
-
-**Q3. 한국 외에 다른 나라에 있을 때 F-4 비자 연장 신청이 가능한가요?**
-
-A. 국내에 있는 경우에만 체류기간 연장 신청이 가능합니다. 해외에 나가 있는 동안 체류기간이 만료되면, 귀국 후 새로운 F-4 비자를 재발급받아야 합니다.
-
-**Q4. 외국인등록증은 언제 재발급해야 하나요?**
-
-A. 체류기간 연장 후 외국인등록증의 체류기간도 자동 갱신됩니다. 별도의 외국인등록증 재발급 신청 없이 연장 허가가 나면 새로운 외국인등록증이 발급되거나 기존 증에 체류기간 스티커가 부착됩니다.
-
-**Q5. 3년 연장 후 한국 영주권(F-5)으로 전환 가능한가요?**
-
-A. F-4 소지자는 요건 충족 시 F-5(영주) 자격으로 전환이 가능합니다. 주요 요건은 5년 이상 합법 체류, 일정 소득 수준, 기본 소양 요건(한국어·한국 사회 이해) 등입니다. F-4 체류기간이 F-5 신청 자격 기간에 포함됩니다.
-
----
-
-F-4 비자 연장은 만료일 전에 여유를 두고 신청하는 것이 가장 중요합니다. 건강보험 납부 상태와 체류 활동 내용을 평소에 관리해두면 연장 거절 위험을 크게 줄일 수 있습니다.
-
-**비전행정사사무소에서는 F-4 비자 체류기간 연장 대행 서비스를 제공합니다.**
-
-서류 검토부터 출입국사무소 제출까지 전 과정을 지원합니다.
-
-📞 **02-363-2251** (월~금 09:30~17:30, KST)
+<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin-bottom:30px;border-left:4px solid #1e40af">
+<strong style="display:block;margin-bottom:12px;font-size:16px;color:#1e40af">📋 목차</strong>
+<ol style="margin:0;padding-left:20px;line-height:2">
+<li><a href="#overview" style="color:#1e40af;text-decoration:none">F-4 비자 체류기간 개요</a></li>
+<li><a href="#requirements" style="color:#1e40af;text-decoration:none">연장 신청 요건</a></li>
+<li><a href="#documents" style="color:#1e40af;text-decoration:none">필요 서류 목록</a></li>
+<li><a href="#online-process" style="color:#1e40af;text-decoration:none">하이코리아 온라인 신청 방법</a></li>
+<li><a href="#offline-process" style="color:#1e40af;text-decoration:none">출입국사무소 방문 신청 방법</a></li>
+<li><a href="#caution" style="color:#1e40af;text-decoration:none">연장 시 주의사항</a></li>
+<li><a href="#faq" style="color:#1e40af;text-decoration:none">자주 묻는 질문 (FAQ)</a></li>
+</ol>
+</nav>
+
+<div style="background:#f0fdf4;border:2px solid #22c55e;padding:20px;border-radius:8px;margin:20px 0">
+<strong style="display:block;margin-bottom:10px;font-size:16px;color:#15803d">✅ 핵심 요약</strong>
+<ul style="margin:0;padding-left:20px;line-height:1.9">
+<li>F-4 비자는 최초 발급 시 <strong>2년 체류</strong>, 연장 시 <strong>최대 2년씩 연장</strong> 가능</li>
+<li>체류기간 만료일 <strong>4개월 전부터</strong> 연장 신청 가능</li>
+<li><a href="https://www.hikorea.go.kr" target="_blank" rel="noopener" style="color:#1e40af">하이코리아 포털</a>을 통해 <strong>온라인으로 신청</strong> 가능 (직접 방문 없이)</li>
+<li>체류기간 초과 시 출국 강제, 재입국 금지 등 불이익 발생</li>
+<li>연장 심사 기간 평균 3~7 영업일 소요</li>
+</ul>
+</div>
+
+<h2 id="overview">F-4 비자 체류기간 개요</h2>
+
+F-4(재외동포) 비자는 외국 국적 재외동포에게 발급되는 비자로, 취업 제한이 거의 없고 국내 체류 중 자유롭게 활동할 수 있는 장점이 있습니다. 체류기간은 다음과 같이 구성됩니다.
+
+<table style="width:100%;border-collapse:collapse;margin:20px 0;font-size:15px">
+<tr style="background:#1e40af;color:white">
+<th style="padding:12px;text-align:left;border:1px solid #ddd">구분</th>
+<th style="padding:12px;text-align:left;border:1px solid #ddd">기간</th>
+<th style="padding:12px;text-align:left;border:1px solid #ddd">비고</th>
+</tr>
+<tr style="background:#f8fafc">
+<td style="padding:12px;border:1px solid #ddd"><strong>최초 입국 체류기간</strong></td>
+<td style="padding:12px;border:1px solid #ddd">2년 (일반적)</td>
+<td style="padding:12px;border:1px solid #ddd">비자 발급 시 명시된 기간 기준</td>
+</tr>
+<tr>
+<td style="padding:12px;border:1px solid #ddd"><strong>1회 연장 기간</strong></td>
+<td style="padding:12px;border:1px solid #ddd">최대 2년</td>
+<td style="padding:12px;border:1px solid #ddd">심사 결과에 따라 단기 부여 가능</td>
+</tr>
+<tr style="background:#f8fafc">
+<td style="padding:12px;border:1px solid #ddd"><strong>연장 횟수</strong></td>
+<td style="padding:12px;border:1px solid #ddd">제한 없음</td>
+<td style="padding:12px;border:1px solid #ddd">요건 충족 시 계속 연장 가능</td>
+</tr>
+<tr>
+<td style="padding:12px;border:1px solid #ddd"><strong>신청 가능 시점</strong></td>
+<td style="padding:12px;border:1px solid #ddd">만료일 4개월 전부터</td>
+<td style="padding:12px;border:1px solid #ddd">만료 전에 반드시 신청 완료</td>
+</tr>
+</table>
+
+<h2 id="requirements">연장 신청 요건</h2>
+
+F-4 비자 체류기간 연장은 아래 요건을 모두 충족해야 합니다.
+
+**기본 요건:**
+- 현재 유효한 F-4 체류자격 보유
+- 체류기간 만료일 이전 신청 완료
+- 외국 국적 재외동포 자격 유지 (국적 포기, 취득 여부 변경 없음)
+- 법규 위반·체류 질서 위반 이력 없음
+
+**추가 확인 사항:**
+- 범죄 이력이 있는 경우 심사에서 불리하게 작용할 수 있습니다
+- 세금 체납, 건강보험료 체납 등 공적 의무 이행 여부 확인될 수 있습니다
+- 장기 출국 기간이 있는 경우 체류 의사 확인 요청이 올 수 있습니다
+
+<h2 id="documents">필요 서류 목록</h2>
+
+<div style="background:#fff7ed;border:2px solid #f97316;padding:20px;border-radius:8px;margin:20px 0">
+<strong style="display:block;margin-bottom:12px;color:#c2410c;font-size:16px">📌 F-4 체류기간 연장 서류 체크리스트</strong>
+<ul style="margin:0;padding-left:20px;line-height:2">
+<li>☐ 통합신청서 (출입국·외국인청 서식 또는 하이코리아 온라인 작성)</li>
+<li>☐ 여권 원본 (유효기간 확인)</li>
+<li>☐ 외국인등록증 원본</li>
+<li>☐ 수수료 납부 (6만원, 하이코리아 온라인 결제 또는 방문 납부)</li>
+<li>☐ 체류지 입증 서류 (임대차계약서, 기숙사 확인서 등)</li>
+<li>☐ 재외동포 자격 입증 서류 (최초 신청 시 제출 이력 있으면 생략 가능)</li>
+<li>☐ 사진 1매 (3.5×4.5cm, 흰 배경, 6개월 이내)</li>
+</ul>
+</div>
+
+**서류별 참고사항:**
+
+- **외국인등록증**: F-4 비자 소지자는 국내 체류 중 외국인등록을 완료해야 하며, 등록증이 없는 경우 체류기간 연장 신청 전 등록 절차를 먼저 진행해야 합니다
+- **체류지 입증**: 실제 거주하는 주소지 증명이 필요합니다. 본인 명의 계약서가 없다면 숙박 확인서, 동거인 확인서 등 대체 서류 사용 가능
+- **재외동포 자격 서류**: 처음 F-4 발급 시 제출한 서류가 출입국·외국인청 데이터베이스에 등록되어 있으면 재제출이 불필요할 수 있습니다
+
+<h2 id="online-process">하이코리아 온라인 신청 방법</h2>
+
+하이코리아 포털을 이용하면 출입국사무소 방문 없이 온라인으로 체류기간 연장 신청이 가능합니다.
+
+<table style="width:100%;border-collapse:collapse;margin:20px 0;font-size:15px">
+<tr style="background:#1e40af;color:white">
+<th style="padding:12px;text-align:center;border:1px solid #ddd">단계</th>
+<th style="padding:12px;text-align:left;border:1px solid #ddd">진행 방법</th>
+</tr>
+<tr style="background:#f8fafc">
+<td style="padding:12px;text-align:center;border:1px solid #ddd"><strong>1</strong></td>
+<td style="padding:12px;border:1px solid #ddd"><a href="https://www.hikorea.go.kr" target="_blank" rel="noopener" style="color:#1e40af">하이코리아 포털</a> 접속 → 회원가입 또는 로그인 (외국인등록번호 필요)</td>
+</tr>
+<tr>
+<td style="padding:12px;text-align:center;border:1px solid #ddd"><strong>2</strong></td>
+<td style="padding:12px;border:1px solid #ddd">"체류기간연장허가" 메뉴 선택 → F-4 재외동포 선택</td>
+</tr>
+<tr style="background:#f8fafc">
+<td style="padding:12px;text-align:center;border:1px solid #ddd"><strong>3</strong></td>
+<td style="padding:12px;border:1px solid #ddd">신청서 온라인 작성 (인적사항, 체류지, 연장 사유 등)</td>
+</tr>
+<tr>
+<td style="padding:12px;text-align:center;border:1px solid #ddd"><strong>4</strong></td>
+<td style="padding:12px;border:1px solid #ddd">필요 서류 스캔 파일 업로드 (PDF 또는 JPG, 각 파일 2MB 이하)</td>
+</tr>
+<tr style="background:#f8fafc">
+<td style="padding:12px;text-align:center;border:1px solid #ddd"><strong>5</strong></td>
+<td style="padding:12px;border:1px solid #ddd">수수료 온라인 결제 (신용카드 또는 계좌이체, 60,000원)</td>
+</tr>
+<tr>
+<td style="padding:12px;text-align:center;border:1px solid #ddd"><strong>6</strong></td>
+<td style="padding:12px;border:1px solid #ddd">심사 완료 후 결과 문자·이메일 수신 (3~7 영업일 소요)</td>
+</tr>
+<tr style="background:#f8fafc">
+<td style="padding:12px;text-align:center;border:1px solid #ddd"><strong>7</strong></td>
+<td style="padding:12px;border:1px solid #ddd">승인 시 출입국사무소 방문하여 외국인등록증에 연장 스티커 부착 또는 새 등록증 수령</td>
+</tr>
+</table>
+
+<h2 id="offline-process">출입국사무소 방문 신청 방법</h2>
+
+온라인 신청이 어려운 경우 전국 출입국·외국인청 또는 출장소를 직접 방문하여 신청할 수 있습니다.
+
+**방문 신청 절차:**
+
+1. 필요 서류 모두 준비 후 거주지 관할 출입국·외국인청 방문
+2. 번호표 수령 후 창구 접수 (대기 시간 1~2시간 예상)
+3. 담당자 서류 확인 및 수수료 납부
+4. 처리 기간 내 결과 통지 수령 (사무소 현장 처리 또는 우편)
+5. 외국인등록증에 체류기간 연장 스탬프 날인 또는 새 등록증 발급
+
+**전국 주요 출입국·외국인청:**
+- 서울출입국·외국인청 (서울 양천구 목동)
+- 인천공항출입국·외국인청
+- 부산출입국·외국인청
+- 수원출입국·외국인청 등
+
+<h2 id="caution">연장 시 주의사항</h2>
+
+<div style="background:#fef2f2;border:2px solid #ef4444;padding:20px;border-radius:8px;margin:20px 0">
+<strong style="display:block;margin-bottom:12px;color:#b91c1c;font-size:16px">⚠️ 반드시 지켜야 할 사항</strong>
+<ul style="margin:0;padding-left:20px;line-height:2">
+<li><strong>체류기간 초과 금지</strong>: 만료일을 하루라도 넘기면 불법체류로 처리되어 강제 출국 및 재입국 금지 처분 가능</li>
+<li><strong>조기 신청 권장</strong>: 서류 보완 요청 등 변수를 고려해 만료일 최소 1개월 전에 신청 완료</li>
+<li><strong>주소 변경 신고</strong>: 체류 중 주소가 변경되면 14일 이내에 변경 신고 의무 있음</li>
+<li><strong>결격 사유 발생 시</strong>: 범죄 수사 또는 기소 중인 경우 연장이 제한될 수 있음</li>
+<li><strong>장기 해외 체류</strong>: 연속 1년 이상 국외 체류 시 재외동포 자격 재확인 요구 가능</li>
+</ul>
+</div>
+
+<h2 id="faq">자주 묻는 질문 (FAQ)</h2>
+
+<div style="border:1px solid #e5e7eb;border-radius:8px;overflow:hidden;margin:20px 0">
+<div style="background:#f9fafb;padding:16px;border-bottom:1px solid #e5e7eb">
+<strong>Q. 연장 신청 중 체류기간이 만료되면 어떻게 되나요?</strong>
+</div>
+<div style="padding:16px;border-bottom:1px solid #e5e7eb">
+A. 신청서를 접수한 날부터 결과가 나올 때까지는 합법적으로 체류할 수 있습니다. 단, 신청 이전에 만료된 경우는 해당되지 않으므로 반드시 만료 전에 신청하세요.
+</div>
+<div style="background:#f9fafb;padding:16px;border-bottom:1px solid #e5e7eb">
+<strong>Q. 연장 수수료는 얼마인가요?</strong>
+</div>
+<div style="padding:16px;border-bottom:1px solid #e5e7eb">
+A. 체류기간 연장 수수료는 60,000원입니다. 온라인(하이코리아)과 방문 신청 모두 동일합니다.
+</div>
+<div style="background:#f9fafb;padding:16px;border-bottom:1px solid #e5e7eb">
+<strong>Q. 연장이 거부될 수 있나요?</strong>
+</div>
+<div style="padding:16px;border-bottom:1px solid #e5e7eb">
+A. 네, 범죄 이력, 체류 질서 위반, 재외동포 자격 상실 등의 경우 거부될 수 있습니다. 거부 통지를 받은 경우 이의신청 또는 행정심판을 진행할 수 있습니다.
+</div>
+<div style="background:#f9fafb;padding:16px;border-bottom:1px solid #e5e7eb">
+<strong>Q. 미국 시민권자 재외동포도 연장이 가능한가요?</strong>
+</div>
+<div style="padding:16px">
+A. 네, 미국·캐나다·호주 등 어느 나라의 시민권자라도 F-4 비자를 보유하고 있다면 요건 충족 시 연장 신청이 가능합니다.
+</div>
+</div>
+
+<div style="background:#1e40af;color:white;padding:24px;border-radius:8px;margin:30px 0;text-align:center">
+<strong style="display:block;font-size:18px;margin-bottom:8px">비전행정사사무소 무료 상담</strong>
+<p style="margin:8px 0;opacity:0.9">F-4 체류기간 연장 준비가 복잡하시다면 전문가에게 문의하세요</p>
+<p style="margin:8px 0;font-size:14px;opacity:0.8">월~금 09:30~17:30 (KST) | 토·공휴일 휴무</p>
+<a href="https://inhega.co.kr/consultation" target="_blank" rel="noopener" style="display:inline-block;margin-top:12px;padding:12px 28px;background:#A33344;color:white;border-radius:6px;text-decoration:none;font-weight:bold">무료 상담 신청하기</a>
+</div>

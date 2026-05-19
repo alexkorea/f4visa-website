@@ -38,9 +38,9 @@ F-4(재외동포) 비자는 외국 국적 재외동포에게 발급되는 비자
 
 <table style="width:100%;border-collapse:collapse;margin:20px 0;font-size:15px">
 <tr style="background:#1e40af;color:white">
-<th style="padding:12px;text-align:left;border:1px solid #ddd">구분</th>
-<th style="padding:12px;text-align:left;border:1px solid #ddd">기간</th>
-<th style="padding:12px;text-align:left;border:1px solid #ddd">비고</th>
+<th style="color:white;padding:12px;text-align:left;border:1px solid #ddd">구분</th>
+<th style="color:white;padding:12px;text-align:left;border:1px solid #ddd">기간</th>
+<th style="color:white;padding:12px;text-align:left;border:1px solid #ddd">비고</th>
 </tr>
 <tr style="background:#f8fafc">
 <td style="padding:12px;border:1px solid #ddd"><strong>최초 입국 체류기간</strong></td>
@@ -106,8 +106,8 @@ F-4 비자 체류기간 연장은 아래 요건을 모두 충족해야 합니다
 
 <table style="width:100%;border-collapse:collapse;margin:20px 0;font-size:15px">
 <tr style="background:#1e40af;color:white">
-<th style="padding:12px;text-align:center;border:1px solid #ddd">단계</th>
-<th style="padding:12px;text-align:left;border:1px solid #ddd">진행 방법</th>
+<th style="color:white;padding:12px;text-align:center;border:1px solid #ddd">단계</th>
+<th style="color:white;padding:12px;text-align:left;border:1px solid #ddd">진행 방법</th>
 </tr>
 <tr style="background:#f8fafc">
 <td style="padding:12px;text-align:center;border:1px solid #ddd"><strong>1</strong></td>

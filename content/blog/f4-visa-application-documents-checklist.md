@@ -5,7 +5,7 @@ date: "2026-05-19"
 slug: "f4-visa-application-documents-checklist"
 author: "비전행정사사무소"
 category: "신청서류"
-image: "/images/f4-visa-hero.jpg"
+image: "/blog/immigration-documents.jpg"
 ---
 
 # F-4 재외동포 비자 신청 서류 체크리스트 — 미국·캐나다·호주 재외동포 필독

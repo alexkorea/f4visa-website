@@ -22,11 +22,11 @@ export const metadata: Metadata = {
     google: '3uKewla1bSzyVlVNz1xP2GbGx-4NHiQJ4nKXl_FOk-4',
   },
   title: {
-    default: 'F-4 비자 · 거소증 · 국적상실 · 국적회복 · 영주권 | 비전행정사사무소',
-    template: '%s | 비전행정사사무소',
+    default: 'F-4 Visa Korea (재외동포) · 거소증 · 국적상실·회복 | 비전행정사사무소',
+    template: '%s | F-4 Visa Korea',
   },
-  description: '해외 거주 재외동포를 위한 F-4 비자, 거소증 발급, 국적상실, 국적회복, 영주권 업무를 전문적으로 지원합니다. 복잡한 행정 절차를 정확하고 빠르게 안내해 드립니다.',
-  keywords: ['F-4 비자', '거소증', '국적상실', '국적회복', '영주권', '재외동포', '해외동포', '한국 비자'],
+  description: 'F-4 visa Korea for overseas Koreans (재외동포) — 거소증, 국적상실, 국적회복, 영주권. Expert administrative support. F4 visa Korea application specialist.',
+  keywords: ['F-4 visa Korea', 'F4 visa Korea', 'overseas Korean visa', '재외동포 비자', '거소증', '국적상실', '국적회복', '영주권', 'F-4 비자'],
   robots: { index: true, follow: true },
   alternates: { canonical: 'https://www.f4visa.net' },
   openGraph: {

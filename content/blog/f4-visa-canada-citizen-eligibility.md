@@ -5,7 +5,7 @@ date: "2026-05-23"
 slug: "f4-visa-canada-citizen-eligibility"
 author: "비전행정사사무소"
 category: "F-4 비자 신청"
-image: "/images/f4-visa-hero.jpg"
+image: "/blog/korea-permanent.jpg"
 ---
 
 캐나다 시민권자인 재외동포가 한국에서 장기 체류하거나 사업·취업을 원한다면 F-4 비자가 가장 적합합니다. 캐나다는 아포스티유 협약국이므로 서류 공증 과정이 비교적 간단합니다.

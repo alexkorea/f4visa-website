@@ -3,7 +3,7 @@ title: "F-4 비자 프리랜서 활동 가능 범위 완벽 정리: 실무에서
 date: "2026-05-19"
 category: "취업"
 excerpt: "F-4 비자 소지자가 프리랜서로 활동할 때 허용되는 업종과 막히는 지점을 실무 기준으로 정리합니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/blog/korean-family-diaspora.jpg"
 slug: "f4-visa-freelance-activities"
 ---
 # F-4 비자 프리랜서 활동 가능 범위 완벽 정리: 실무에서 막히는 지점까지

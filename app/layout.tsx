@@ -20,7 +20,7 @@ const JSON_LD = {
     closes: "17:30",
   },
   areaServed: "KR",
-  serviceType: ["F-4 재외동포 비자", "거소증 발급", "국적상실", "국적회복", "F-5 영주권"],
+  serviceType: ["F-4 visa", "거소증", "국적상실", "국적회복", "이중국적", "국적이탈", "거소증 필요서류", "F-4 비자 필요서류", "F-4 비자 건강보험", "재미동포 거소증"],
 }
 
 const notoSansKR = Noto_Sans_KR({ 
@@ -41,11 +41,11 @@ export const metadata: Metadata = {
     google: '3uKewla1bSzyVlVNz1xP2GbGx-4NHiQJ4nKXl_FOk-4',
   },
   title: {
-    default: 'F-4 비자 · 거소증 · 국적상실 · 국적회복 · 영주권 | 비전행정사사무소',
+    default: 'F-4 비자 · 거소증 · 국적이탈 · 이중국적 · 재미동포 거소증 | 비전행정사사무소',
     template: '%s | 비전행정사사무소',
   },
-  description: '해외 거주 재외동포를 위한 F-4 비자, 거소증 발급, 국적상실, 국적회복, 영주권 업무를 전문적으로 지원합니다. 복잡한 행정 절차를 정확하고 빠르게 안내해 드립니다.',
-  keywords: ['F-4 비자', '거소증', '국적상실', '국적회복', '영주권', '재외동포', '해외동포', '한국 비자'],
+  description: 'F-4 비자, 거소증 신청·갱신, 국적상실·국적회복·이중국적·국적이탈 신고, F-4 비자 건강보험 특례, 재미동포 거소증 등 재외동포 행정 업무를 전담합니다.',
+  keywords: ['F-4 visa', '거소증', '국적상실', '국적회복', '이중국적', '국적이탈', '거소증 필요서류', 'F-4 비자 필요서류', 'F-4 비자 건강보험', '재미동포 거소증', '재외동포', '해외동포'],
   robots: { index: true, follow: true },
   alternates: { canonical: 'https://www.f4visa.net' },
   openGraph: {

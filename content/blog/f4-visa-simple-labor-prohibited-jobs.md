@@ -3,7 +3,7 @@ title: "F-4 비자 단순노무 업종 취업 금지 주의 — 자격 박탈로
 date: "2026-05-18"
 category: "취업"
 excerpt: "F-4 재외동포 비자 소지자가 단순노무 업종에 종사하면 체류자격 위반이 되며, 출입국에서 적발 시 강제출국까지 갈 수 있습니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/blog/korean-family-diaspora.jpg"
 slug: "f4-visa-simple-labor-prohibited-jobs"
 ---
 # F-4 비자 단순노무 업종 취업 금지 주의 — 적발 시 체류자격 박탈까지 갑니다

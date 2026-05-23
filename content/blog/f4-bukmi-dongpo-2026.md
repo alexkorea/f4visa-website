@@ -5,7 +5,7 @@ date: "2026-05-22"
 slug: "f4-bukmi-dongpo-2026"
 author: "비전행정사사무소"
 category: "F-4 재외동포비자"
-image: "/images/f4-visa-hero.jpg"
+image: "/blog/korean-family-diaspora.jpg"
 ---
 
 # 미국·캐나다 재외동포 F-4 비자 신청 실무 2026

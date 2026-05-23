@@ -5,7 +5,7 @@ date: "2026-05-22"
 slug: "f4-yureop-ho-gallsin-2026"
 author: "비전행정사사무소"
 category: "F-4 재외동포비자"
-image: "/images/f4-visa-hero.jpg"
+image: "/blog/korean-family-diaspora.jpg"
 ---
 
 # 유럽·호주 재외동포 F-4 비자 갱신 실무 2026

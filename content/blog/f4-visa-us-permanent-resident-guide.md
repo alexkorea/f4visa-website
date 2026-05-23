@@ -5,7 +5,7 @@ date: "2026-05-23"
 slug: "f4-visa-us-permanent-resident-guide"
 author: "비전행정사사무소"
 category: "F-4 비자 신청"
-image: "/images/f4-visa-hero.jpg"
+image: "/blog/korean-passport-visa.jpg"
 ---
 
 미국에 거주하는 한국계 영주권자 중 한국에서 장기 체류하거나 일하고 싶다면 F-4 재외동포 비자가 현실적인 선택입니다. 미국 시민권자와 달리 영주권자의 경우 자격 요건을 꼼꼼히 확인해야 합니다.

@@ -3,7 +3,7 @@ title: "재외동포 국적회복 허가 신청 절차 완벽 가이드"
 date: "2026-05-20"
 category: "국적"
 excerpt: "외국 국적 취득으로 한국 국적을 상실한 재외동포가 다시 한국 국적을 회복하는 신청 절차와 실무 핵심을 정리합니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/blog/korean-nationality.jpg"
 slug: "nationality-recovery-application"
 ---
 # 재외동포 국적회복 허가 신청 절차 완벽 가이드

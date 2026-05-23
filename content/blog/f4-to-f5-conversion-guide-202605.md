@@ -1,11 +1,11 @@
 ---
 title: "F-4에서 F-5 영주권 전환 완벽 가이드 2026 — 요건·서류·절차"
-date: "2026-05-22"
+date: "2026-05-23"
 description: "F-4 재외동포 비자 소지자가 F-5 영주권으로 전환하는 방법, 자산 요건, 체류 기간 요건을 2026년 기준으로 안내합니다."
 slug: "f4-to-f5-conversion-guide-202605"
 author: "비전행정사사무소"
 category: "F-4비자"
-image: "/blog/korea-permanent.jpg"
+image: "/blog/immigration-documents.jpg"
 ---
 
 # F-4에서 F-5 영주권 전환 완벽 가이드 2026

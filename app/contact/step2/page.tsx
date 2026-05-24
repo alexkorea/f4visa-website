@@ -63,11 +63,11 @@ const serviceFields: Record<string, FieldDef[]> = {
     },
     {
       name: "criminalRecord",
-      label: "아포스티유 무범죄조회서를 발급받으셨습니까?",
+      label: "아포스티유 무범죄증명서를 발급받으셨습니까?",
       type: "radio",
       options: ["있습니다", "없습니다 (발급 예정)", "해당 없음 (만 60세 이상)"],
       required: true,
-      hint: "만 60세 미만 필요. 미국은 주정부가 아닌 연방정부 발급",
+      hint: "60세 미만 필수. 미국은 연방정부 발급, 캐나다 RCMP 발급",
     },
     {
       name: "nameChanged",

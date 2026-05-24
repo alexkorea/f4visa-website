@@ -15,56 +15,303 @@ type FieldDef = {
   options?: string[]
   placeholder?: string
   required?: boolean
+  hint?: string
 }
+
+const COMMON_FIELDS: FieldDef[] = [
+  {
+    name: "currentResidence",
+    label: "현재 거주지 (시/도 또는 국가)",
+    type: "text",
+    placeholder: "예: 서울, 부산, 미국 LA, 캐나다 토론토",
+    required: true,
+    hint: "출입국사무소 배정에 사용됩니다",
+  },
+  {
+    name: "currentVisa",
+    label: "현재 비자/체류자격 종류",
+    type: "text",
+    placeholder: "예: F-4, 시민권자, 무비자 입국 등",
+    required: true,
+  },
+]
 
 const serviceFields: Record<string, FieldDef[]> = {
-  "F-4 비자/거소증": [
-    { name: "residenceCountry", label: "현재 거주국", type: "text", placeholder: "예: 미국, 일본, 캐나다", required: true },
-    { name: "citizenshipCountry", label: "시민권 국가", type: "text", placeholder: "예: 미국, 캐나다", required: true },
-    { name: "militaryStatus", label: "병역 상태 (남성)", type: "select", options: ["해당 없음 (여성)", "면제", "미필", "복무 완료", "영주권자 면제"], required: true },
-    { name: "nationalityLossComplete", label: "국적상실 완료 여부", type: "radio", options: ["예", "아니오", "진행 중", "모름"], required: true },
-    { name: "koreaAddress", label: "한국 내 주소 확보 여부", type: "radio", options: ["예", "아니오"], required: true },
-    { name: "hostProvider", label: "숙소 제공자 유무", type: "radio", options: ["예", "아니오"], required: false },
-    { name: "residenceCardType", label: "거소증 신규/갱신", type: "radio", options: ["신규 발급", "갱신"], required: true },
-    { name: "visitDate", label: "한국 방문 예정일", type: "text", placeholder: "예: 2026년 6월", required: false },
+  "F-4 비자 ( 거소증 )": [
+    {
+      name: "passport",
+      label: "여권을 보유하고 계십니까?",
+      type: "radio",
+      options: ["예", "아니오"],
+      required: true,
+    },
+    {
+      name: "citizenshipCertificate",
+      label: "시민권증서 원본을 보유하고 계십니까?",
+      type: "radio",
+      options: ["예", "아니오"],
+      required: true,
+      hint: "2025년 1월부터 원본 제출 의무화",
+    },
+    {
+      name: "nationalityLossProof",
+      label: "국적상실 이메일 회신 또는 신고접수증이 있습니까?",
+      type: "radio",
+      options: ["있습니다", "없습니다 (신고 후 6개월 이상 경과)", "해당 없음"],
+      required: true,
+      hint: "신고 후 6개월 미만인 경우 필요",
+    },
+    {
+      name: "criminalRecord",
+      label: "아포스티유 무범죄조회서를 발급받으셨습니까?",
+      type: "radio",
+      options: ["있습니다", "없습니다 (발급 예정)", "해당 없음 (만 60세 이상)"],
+      required: true,
+      hint: "만 60세 미만 필요. 미국은 주정부가 아닌 연방정부 발급",
+    },
+    {
+      name: "nameChanged",
+      label: "한국에서 사용한 이름과 현재 여권상 이름이 다릅니까?",
+      type: "radio",
+      options: ["같습니다", "다릅니다 (이름변경서류 필요)", "영문이름이 추가된 것 (서류 불필요)"],
+      required: true,
+    },
+    {
+      name: "koreaAddress",
+      label: "한국에서 거주할 주소 상황은?",
+      type: "radio",
+      options: ["본인 주소 있음", "지인 주소 사용 예정", "아직 모름"],
+      required: true,
+    },
+    {
+      name: "visitDate",
+      label: "한국 방문 예정일",
+      type: "text",
+      placeholder: "예: 2026년 7월",
+      required: false,
+    },
   ],
-  "국적상실 신고": [
-    { name: "citizenshipAcquiredCountry", label: "시민권 취득국", type: "text", placeholder: "예: 미국, 캐나다", required: true },
-    { name: "citizenshipDate", label: "시민권 취득일", type: "text", placeholder: "예: 2020년 3월", required: true },
-    { name: "nameChanged", label: "이름 변경 여부", type: "radio", options: ["예", "아니오"], required: true },
+  "국적상실": [
+    {
+      name: "citizenshipCountryDate",
+      label: "시민권 취득국 및 취득일",
+      type: "text",
+      placeholder: "예: 미국, 2020년 3월",
+      required: true,
+    },
+    {
+      name: "passport",
+      label: "여권 원본 및 사본이 있습니까?",
+      type: "radio",
+      options: ["예", "아니오"],
+      required: true,
+    },
+    {
+      name: "photo",
+      label: "사진(3.5×4.5cm)이 있습니까?",
+      type: "radio",
+      options: ["예", "아니오"],
+      required: true,
+    },
+    {
+      name: "citizenshipCert",
+      label: "시민권증서 원본/사본이 있습니까?",
+      type: "radio",
+      options: ["예", "아니오"],
+      required: true,
+    },
+    {
+      name: "basicCertificate",
+      label: "기본증명서(상세)를 발급받으셨습니까?",
+      type: "radio",
+      options: ["예", "아니오", "발급 방법 모름"],
+      required: true,
+    },
+    {
+      name: "familyCertificate",
+      label: "가족관계증명서(상세)를 발급받으셨습니까?",
+      type: "radio",
+      options: ["예", "아니오", "발급 방법 모름"],
+      required: true,
+    },
+    {
+      name: "nameChangedDoc",
+      label: "이름변경 서류가 있습니까? (이름이 변경된 경우)",
+      type: "radio",
+      options: ["해당 없음", "있습니다", "없습니다"],
+      required: true,
+    },
+    {
+      name: "translation",
+      label: "외국어 서류 번역문이 필요합니까?",
+      type: "radio",
+      options: ["예", "아니오", "모름"],
+      required: false,
+    },
   ],
-  "국적회복/복수국적": [
-    { name: "currentCitizenship", label: "현재 시민권 국가", type: "text", placeholder: "예: 미국, 캐나다", required: true },
-    { name: "hasResidenceCard", label: "거소증 유무", type: "radio", options: ["예", "아니오"], required: true },
-    { name: "militaryStatus", label: "병역 상태 (남성)", type: "select", options: ["해당 없음 (여성)", "면제", "미필", "복무 완료"], required: true },
-    { name: "age", label: "만 나이", type: "text", placeholder: "예: 32", required: true },
-    { name: "koreanAbility", label: "한국어 능력", type: "select", options: ["원어민", "유창", "중급", "초급", "없음"], required: false },
+  "국적회복": [
+    {
+      name: "passport",
+      label: "여권 원본 및 사본이 있습니까?",
+      type: "radio",
+      options: ["예", "아니오"],
+      required: true,
+    },
+    {
+      name: "residenceCard",
+      label: "거소증(F-4)이 있습니까?",
+      type: "radio",
+      options: ["예", "아니오"],
+      required: true,
+    },
+    {
+      name: "photo",
+      label: "사진(3.5×4.5cm)이 있습니까?",
+      type: "radio",
+      options: ["예", "아니오"],
+      required: true,
+    },
+    {
+      name: "citizenshipCert",
+      label: "시민권증서 사본이 있습니까?",
+      type: "radio",
+      options: ["예", "아니오"],
+      required: true,
+    },
+    {
+      name: "basicCertificate",
+      label: "기본증명서(상세)를 발급받으셨습니까?",
+      type: "radio",
+      options: ["예", "아니오"],
+      required: true,
+    },
+    {
+      name: "familyCertificate",
+      label: "가족관계증명서(상세)를 발급받으셨습니까?",
+      type: "radio",
+      options: ["예", "아니오"],
+      required: true,
+    },
+    {
+      name: "criminalRecord",
+      label: "아포스티유 범죄경력조회서가 있습니까? (만 65세 이하 필요)",
+      type: "radio",
+      options: ["있습니다", "없습니다 (발급 예정)", "해당 없음 (만 65세 이상)"],
+      required: true,
+    },
+    {
+      name: "feeReady",
+      label: "출입국수수료 20만원 납부 준비가 되어 있습니까?",
+      type: "radio",
+      options: ["예", "아니오 (나중에 준비 가능)"],
+      required: true,
+    },
   ],
-  "F-5 영주권": [
-    { name: "currentVisa", label: "현재 비자 종류", type: "select", options: ["F-4 (재외동포)", "F-2 (거주)", "기타"], required: true },
-    { name: "stayDuration", label: "한국 체류 기간", type: "select", options: ["1년 미만", "1~3년", "3~5년", "5년 이상"], required: true },
-    { name: "koreanAbility", label: "한국어 능력", type: "select", options: ["TOPIK 없음", "TOPIK 1~2급", "TOPIK 3~4급", "TOPIK 5~6급", "사회통합프로그램 이수"], required: false },
-    { name: "income", label: "연간 소득 수준", type: "select", options: ["3,000만 원 미만", "3,000만 ~ 5,000만 원", "5,000만 원 이상"], required: true },
-    { name: "criminalRecord", label: "한국 내 범죄/벌금 이력", type: "radio", options: ["없음", "있음"], required: true },
+  "영주권": [
+    {
+      name: "f4StayDuration",
+      label: "거소증(F-4)으로 한국에 체류한 총 기간은?",
+      type: "select",
+      options: ["1년 미만", "1~2년", "3~4년", "5년 이상"],
+      required: true,
+    },
+    {
+      name: "age",
+      label: "현재 만 나이",
+      type: "text",
+      placeholder: "예: 55",
+      required: true,
+    },
+    {
+      name: "income",
+      label: "전년도 연간 소득 수준",
+      type: "select",
+      options: ["1인당 GNI 미만", "1인당 GNI 이상", "확인 필요"],
+      required: true,
+      hint: "2025년 기준 1인당 GNI 약 3,500만 원",
+    },
+    {
+      name: "topik",
+      label: "한국어능력시험(TOPIK) 또는 사회통합프로그램",
+      type: "select",
+      options: ["없음", "TOPIK 1~2급", "TOPIK 3급 이상", "사회통합프로그램 이수"],
+      required: true,
+    },
+    {
+      name: "criminalRecordKorea",
+      label: "한국 내 범죄 또는 과태료 이력이 있습니까?",
+      type: "radio",
+      options: ["없음", "있음"],
+      required: true,
+    },
+    {
+      name: "criminalRecordAbroad",
+      label: "아포스티유 국외 범죄경력조회서가 있습니까?",
+      type: "radio",
+      options: ["있습니다", "없습니다 (발급 예정)", "해당 없음"],
+      required: true,
+    },
+  ],
+  "F-3 동반비자": [
+    {
+      name: "sponsorVisaType",
+      label: "초청인(배우자/부모)의 현재 비자 종류는?",
+      type: "select",
+      options: ["F-4 (재외동포 거소증)", "F-5 (영주권)", "기타"],
+      required: true,
+    },
+    {
+      name: "sponsorResidenceCard",
+      label: "초청인의 거소증 또는 외국인등록증이 있습니까?",
+      type: "radio",
+      options: ["예", "아니오"],
+      required: true,
+    },
+    {
+      name: "applicantPassport",
+      label: "신청인 여권이 있습니까?",
+      type: "radio",
+      options: ["예", "아니오"],
+      required: true,
+    },
+    {
+      name: "relationship",
+      label: "초청인과의 관계는?",
+      type: "select",
+      options: ["배우자", "부모", "자녀"],
+      required: true,
+    },
+    {
+      name: "familyCertificate",
+      label: "가족관계증명서(상세)를 발급받으셨습니까?",
+      type: "radio",
+      options: ["예", "아니오", "발급 방법 모름"],
+      required: true,
+    },
   ],
   "기타": [
-    { name: "inquiry", label: "문의 내용", type: "textarea", placeholder: "궁금하신 내용을 자유롭게 작성해주세요.", required: true },
+    {
+      name: "inquiry",
+      label: "문의 내용",
+      type: "textarea",
+      placeholder: "궁금하신 내용을 자유롭게 작성해주세요.",
+      required: true,
+    },
   ],
 }
 
-function getFieldsForServices(serviceList: string[]): { service: string; fields: FieldDef[] }[] {
-  const sections: { service: string; fields: FieldDef[] }[] = []
-  const usedFieldNames = new Set<string>()
-  for (const svc of serviceList) {
-    const allFields = serviceFields[svc] || serviceFields["기타"]
-    const uniqueFields = allFields.filter((f) => {
-      if (usedFieldNames.has(f.name)) return false
-      usedFieldNames.add(f.name)
-      return true
-    })
-    if (uniqueFields.length > 0) sections.push({ service: svc, fields: uniqueFields })
-  }
-  return sections
+const NATIONALITY_LOSS_INFO = `국적이탈은 재외공관(미국 주재 한국대사관 등)에서 직접 신청하셔야 합니다. 저희 행정사사무소 업무 범위가 아닙니다.
+
+미국의 경우 주요 절차:
+• 대상: 외국 국적 취득 시 자동으로 한국 국적을 상실하지 않은 분
+• 신청처: 가까운 주미 한국대사관 또는 총영사관
+• 주요 서류: 여권, 시민권증서, 기본증명서(상세), 가족관계증명서(상세)
+• 처리기간: 약 3개월 이상 (대사관마다 다름)
+
+자세한 내용은 가까운 한국 재외공관에 직접 문의하시기 바랍니다.`
+
+function getFieldsForService(service: string): FieldDef[] {
+  return serviceFields[service] || serviceFields["기타"]
 }
 
 function Step2Form() {
@@ -74,9 +321,14 @@ function Step2Form() {
   const [status, setStatus] = useState<"idle" | "sending" | "sent" | "error">("idle")
   const [formData, setFormData] = useState<Record<string, string>>({})
 
-  const serviceList = serviceParam.split(",").map((s) => decodeURIComponent(s).trim()).filter(Boolean)
-  const sections = getFieldsForServices(serviceList.length > 0 ? serviceList : ["기타"])
-  const serviceLabel = serviceList.length > 0 ? serviceList.join(" / ") : "기타"
+  const serviceList = serviceParam
+    .split(",")
+    .map((s) => decodeURIComponent(s).trim())
+    .filter(Boolean)
+
+  const primaryService = serviceList[0] || "기타"
+  const isNationalityRenunciation = primaryService === "국적이탈"
+  const fields = isNationalityRenunciation ? [] : getFieldsForService(primaryService)
 
   function updateField(name: string, value: string) {
     setFormData((prev) => ({ ...prev, [name]: value }))
@@ -86,36 +338,70 @@ function Step2Form() {
     e.preventDefault()
     setStatus("sending")
     const form = e.currentTarget
-    const additionalMessage = (form.elements.namedItem("additionalMessage") as HTMLTextAreaElement)?.value || ""
+    const additionalMessage =
+      (form.elements.namedItem("additionalMessage") as HTMLTextAreaElement)?.value || ""
     try {
       const res = await fetch("/api/contact-step2", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ inquiryId, service: serviceLabel, details: { ...formData }, additionalMessage }),
+        body: JSON.stringify({
+          inquiryId,
+          service: primaryService,
+          details: { ...formData },
+          additionalMessage,
+        }),
       })
       if (res.ok) setStatus("sent")
       else setStatus("error")
-    } catch { setStatus("error") }
+    } catch {
+      setStatus("error")
+    }
   }
 
   if (status === "sent") {
     return (
       <main className="min-h-screen flex flex-col">
         <Header />
-        <PageBreadcrumb items={[{ label: "상담문의", path: "/contact" }, { label: "상담 완료", path: "/contact/step2" }]} />
+        <PageBreadcrumb
+          items={[
+            { label: "상담문의", path: "/contact" },
+            { label: "상담 완료", path: "/contact/step2" },
+          ]}
+        />
         <section className="py-8 flex-1">
           <div className="max-w-xl mx-auto px-6 text-center">
             <div className="rounded-xl border border-border bg-card p-10 shadow-sm">
               <div className="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-6">
-                <svg className="w-8 h-8 text-green-600" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}><path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" /></svg>
+                <svg
+                  className="w-8 h-8 text-green-600"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  stroke="currentColor"
+                  strokeWidth={2.5}
+                >
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" />
+                </svg>
               </div>
-              <h2 className="text-2xl font-bold text-foreground mb-3">상담 신청이 완료되었습니다</h2>
+              <h2 className="text-2xl font-bold text-foreground mb-3">
+                상담 신청이 완료되었습니다
+              </h2>
               <p className="text-muted-foreground mb-6">영업일 기준 1일 이내 연락드리겠습니다.</p>
               <div className="bg-muted rounded-lg p-5 mb-6 space-y-2">
-                <div className="flex items-center justify-center gap-2"><span className="text-sm text-muted-foreground">전화:</span><span className="font-medium text-foreground">02-363-2251</span></div>
-                <div className="flex items-center justify-center gap-2"><span className="text-sm text-muted-foreground">카카오톡:</span><span className="font-medium text-foreground">alexkorea</span></div>
+                <div className="flex items-center justify-center gap-2">
+                  <span className="text-sm text-muted-foreground">전화:</span>
+                  <span className="font-medium text-foreground">02-363-2251</span>
+                </div>
+                <div className="flex items-center justify-center gap-2">
+                  <span className="text-sm text-muted-foreground">카카오톡:</span>
+                  <span className="font-medium text-foreground">alexkorea</span>
+                </div>
               </div>
-              <Link href="/" className="inline-flex items-center justify-center bg-primary hover:bg-primary/90 text-primary-foreground px-8 h-11 rounded-lg font-semibold transition-colors">홈으로 돌아가기</Link>
+              <Link
+                href="/"
+                className="inline-flex items-center justify-center bg-primary hover:bg-primary/90 text-primary-foreground px-8 h-11 rounded-lg font-semibold transition-colors"
+              >
+                홈으로 돌아가기
+              </Link>
             </div>
           </div>
         </section>
@@ -127,88 +413,154 @@ function Step2Form() {
   return (
     <main className="min-h-screen flex flex-col">
       <Header />
-      <PageBreadcrumb items={[{ label: "상담문의", path: "/contact" }, { label: "상세 정보", path: "/contact/step2" }]} />
+      <PageBreadcrumb
+        items={[
+          { label: "상담문의", path: "/contact" },
+          { label: "상세 정보", path: "/contact/step2" },
+        ]}
+      />
       <section className="py-16 flex-1">
         <div className="max-w-2xl mx-auto px-6">
           <div className="flex items-center justify-center gap-3 mb-8">
             <div className="flex items-center gap-2">
-              <div className="w-8 h-8 rounded-full bg-primary text-primary-foreground flex items-center justify-center text-sm font-bold">1</div>
+              <div className="w-8 h-8 rounded-full bg-primary text-primary-foreground flex items-center justify-center text-sm font-bold">
+                1
+              </div>
               <span className="text-sm font-medium text-foreground">기본 정보</span>
             </div>
             <div className="w-8 h-px bg-border" />
             <div className="flex items-center gap-2">
-              <div className="w-8 h-8 rounded-full bg-primary text-primary-foreground flex items-center justify-center text-sm font-bold">2</div>
+              <div className="w-8 h-8 rounded-full bg-primary text-primary-foreground flex items-center justify-center text-sm font-bold">
+                2
+              </div>
               <span className="text-sm font-medium text-foreground">상세 정보</span>
             </div>
           </div>
 
-          <div className="rounded-xl border border-border bg-card p-8 shadow-sm">
-            <div className="flex items-center gap-2 mb-2 flex-wrap">
-              {serviceList.map((svc) => (
-                <span key={svc} className="inline-flex items-center px-3 py-1 rounded-full bg-primary/10 text-primary text-xs font-medium">{svc}</span>
-              ))}
+          {/* 국적이탈: info-only, no form */}
+          {isNationalityRenunciation ? (
+            <div className="rounded-xl border border-border bg-card p-8 shadow-sm">
+              <div className="flex items-center gap-2 mb-4">
+                <span className="inline-flex items-center px-3 py-1 rounded-full bg-primary/10 text-primary text-xs font-medium">
+                  {primaryService}
+                </span>
+              </div>
+              <h2 className="text-xl font-bold text-foreground mb-4">국적이탈 안내</h2>
+              <div className="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-6">
+                <p className="text-sm font-semibold text-amber-800 mb-3">
+                  국적이탈은 재외공관에서 직접 신청하셔야 합니다
+                </p>
+                <p className="text-sm text-amber-700 whitespace-pre-line">{NATIONALITY_LOSS_INFO}</p>
+              </div>
+              <div className="bg-muted rounded-lg p-5 space-y-2">
+                <p className="text-sm font-medium text-foreground mb-2">
+                  다른 업무로 상담이 필요하시면:
+                </p>
+                <div className="flex items-center gap-2">
+                  <span className="text-sm text-muted-foreground">전화:</span>
+                  <span className="font-medium text-foreground">02-363-2251</span>
+                </div>
+                <div className="flex items-center gap-2">
+                  <span className="text-sm text-muted-foreground">카카오톡:</span>
+                  <span className="font-medium text-foreground">alexkorea</span>
+                </div>
+              </div>
+              <div className="mt-4 text-center">
+                <Link
+                  href="/contact"
+                  className="text-sm text-muted-foreground hover:text-primary transition-colors"
+                >
+                  ← 상담 신청으로 돌아가기
+                </Link>
+              </div>
             </div>
-            <h2 className="text-xl font-bold text-foreground mb-1">상세 정보 입력</h2>
-            <p className="text-sm text-muted-foreground mb-6">선택하신 서비스에 맞는 상세 정보를 입력해주세요.</p>
+          ) : (
+            <div className="rounded-xl border border-border bg-card p-8 shadow-sm">
+              <div className="flex items-center gap-2 mb-2 flex-wrap">
+                {serviceList.map((svc) => (
+                  <span
+                    key={svc}
+                    className="inline-flex items-center px-3 py-1 rounded-full bg-primary/10 text-primary text-xs font-medium"
+                  >
+                    {svc}
+                  </span>
+                ))}
+              </div>
+              <h2 className="text-xl font-bold text-foreground mb-1">자격 및 서류 준비 확인</h2>
+              <p className="text-sm text-muted-foreground mb-6">
+                정확한 상담을 위해 아래 내용을 확인해주세요.
+              </p>
 
-            <form onSubmit={handleSubmit} className="space-y-5">
-              {sections.map((section, sectionIdx) => (
-                <div key={section.service}>
-                  {sections.length > 1 && (
-                    <div className={sectionIdx > 0 ? "mt-6 pt-6 border-t border-border" : ""}>
-                      <h3 className="text-sm font-semibold text-primary mb-4">{section.service}</h3>
-                    </div>
-                  )}
-                  {section.fields.map((field) => (
-                    <div key={field.name} className="mb-4">
-                      <label className="block text-sm font-medium text-foreground mb-1">
-                        {field.label} {field.required && <span className="text-red-500">*</span>}
-                      </label>
-                      {field.type === "text" && (
-                        <input type="text" required={field.required} placeholder={field.placeholder} value={formData[field.name] || ""} onChange={(e) => updateField(field.name, e.target.value)} className="w-full rounded-lg border border-border bg-background px-4 py-2.5 text-sm focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary" />
-                      )}
-                      {field.type === "select" && (
-                        <select required={field.required} value={formData[field.name] || ""} onChange={(e) => updateField(field.name, e.target.value)} className="w-full rounded-lg border border-border bg-background px-4 py-2.5 text-sm focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary">
-                          <option value="">선택해주세요</option>
-                          {field.options?.map((opt) => (<option key={opt} value={opt}>{opt}</option>))}
-                        </select>
-                      )}
-                      {field.type === "radio" && (
-                        <div className="flex flex-wrap gap-3 mt-1">
-                          {field.options?.map((opt) => (
-                            <label key={opt} className={`inline-flex items-center gap-2 px-4 py-2 rounded-lg border-2 cursor-pointer transition-all text-sm ${formData[field.name] === opt ? "border-primary bg-primary/5 text-primary" : "border-border hover:border-muted-foreground/30 text-foreground"}`}>
-                              <input type="radio" name={field.name} value={opt} checked={formData[field.name] === opt} onChange={(e) => updateField(field.name, e.target.value)} className="sr-only" required={field.required} />
-                              {opt}
-                            </label>
-                          ))}
-                        </div>
-                      )}
-                      {field.type === "textarea" && (
-                        <textarea required={field.required} placeholder={field.placeholder} rows={5} value={formData[field.name] || ""} onChange={(e) => updateField(field.name, e.target.value)} className="w-full rounded-lg border border-border bg-background px-4 py-2.5 text-sm focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary resize-none" />
-                      )}
-                    </div>
+              <form onSubmit={handleSubmit} className="space-y-6">
+                {/* Common fields */}
+                <div className="pb-4 border-b border-border">
+                  <h3 className="text-sm font-semibold text-primary mb-4">기본 현황</h3>
+                  {COMMON_FIELDS.map((field) => (
+                    <FieldRenderer
+                      key={field.name}
+                      field={field}
+                      value={formData[field.name] || ""}
+                      onChange={(v) => updateField(field.name, v)}
+                    />
                   ))}
                 </div>
-              ))}
 
-              <div>
-                <label className="block text-sm font-medium text-foreground mb-1">추가 메시지 <span className="text-muted-foreground font-normal">(선택사항)</span></label>
-                <textarea name="additionalMessage" rows={3} placeholder="추가적으로 전달하고 싶은 내용이 있으시면 작성해주세요." className="w-full rounded-lg border border-border bg-background px-4 py-2.5 text-sm focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary resize-none" />
-              </div>
+                {/* Service-specific fields */}
+                <div>
+                  <h3 className="text-sm font-semibold text-primary mb-4">
+                    {primaryService} — 서류 및 자격 확인
+                  </h3>
+                  {fields.map((field) => (
+                    <FieldRenderer
+                      key={field.name}
+                      field={field}
+                      value={formData[field.name] || ""}
+                      onChange={(v) => updateField(field.name, v)}
+                    />
+                  ))}
+                </div>
 
-              <Button type="submit" className="w-full" size="lg" disabled={status === "sending"}>
-                {status === "sending" ? "전송 중..." : "상담 신청 완료"}
-              </Button>
+                <div>
+                  <label className="block text-sm font-medium text-foreground mb-1">
+                    추가 메시지{" "}
+                    <span className="text-muted-foreground font-normal">(선택사항)</span>
+                  </label>
+                  <textarea
+                    name="additionalMessage"
+                    rows={3}
+                    placeholder="추가로 전달하실 내용을 자유롭게 적어주세요."
+                    className="w-full rounded-lg border border-border bg-background px-4 py-2.5 text-sm focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary resize-none"
+                  />
+                </div>
 
-              {status === "error" && (
-                <p className="text-red-500 text-sm text-center">전송에 실패했습니다. 잠시 후 다시 시도하거나 전화로 문의해주세요.</p>
-              )}
-              <p className="text-xs text-muted-foreground text-center">제출하신 정보는 상담 목적으로만 사용됩니다.</p>
-            </form>
-          </div>
+                <Button
+                  type="submit"
+                  className="w-full"
+                  size="lg"
+                  disabled={status === "sending"}
+                >
+                  {status === "sending" ? "전송 중..." : "상담 신청 완료"}
+                </Button>
+
+                {status === "error" && (
+                  <p className="text-red-500 text-sm text-center">
+                    전송에 실패했습니다. 잠시 후 다시 시도하거나 전화로 문의해주세요.
+                  </p>
+                )}
+                <p className="text-xs text-muted-foreground text-center">
+                  제출하신 정보는 상담 목적으로만 사용됩니다.
+                </p>
+              </form>
+            </div>
+          )}
 
           <div className="mt-4 text-center">
-            <Link href="/contact" className="text-sm text-muted-foreground hover:text-primary transition-colors">← 이전 단계로 돌아가기</Link>
+            <Link
+              href="/contact"
+              className="text-sm text-muted-foreground hover:text-primary transition-colors"
+            >
+              ← 이전 단계로 돌아가기
+            </Link>
           </div>
         </div>
       </section>
@@ -217,11 +569,107 @@ function Step2Form() {
   )
 }
 
+function FieldRenderer({
+  field,
+  value,
+  onChange,
+}: {
+  field: FieldDef
+  value: string
+  onChange: (v: string) => void
+}) {
+  return (
+    <div className="mb-5">
+      <label className="block text-sm font-medium text-foreground mb-1">
+        {field.label} {field.required && <span className="text-red-500">*</span>}
+      </label>
+      {field.hint && <p className="text-xs text-muted-foreground mb-2">{field.hint}</p>}
+
+      {field.type === "text" && (
+        <input
+          type="text"
+          required={field.required}
+          placeholder={field.placeholder}
+          value={value}
+          onChange={(e) => onChange(e.target.value)}
+          className="w-full rounded-lg border border-border bg-background px-4 py-2.5 text-sm focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary"
+        />
+      )}
+
+      {field.type === "select" && (
+        <select
+          required={field.required}
+          value={value}
+          onChange={(e) => onChange(e.target.value)}
+          className="w-full rounded-lg border border-border bg-background px-4 py-2.5 text-sm focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary"
+        >
+          <option value="">선택해주세요</option>
+          {field.options?.map((opt) => (
+            <option key={opt} value={opt}>
+              {opt}
+            </option>
+          ))}
+        </select>
+      )}
+
+      {field.type === "radio" && (
+        <div className="flex flex-wrap gap-2 mt-1">
+          {field.options?.map((opt) => (
+            <label
+              key={opt}
+              className={`inline-flex items-center gap-2 px-4 py-2 rounded-lg border-2 cursor-pointer transition-all text-sm ${
+                value === opt
+                  ? "border-primary bg-primary/5 text-primary"
+                  : "border-border hover:border-muted-foreground/30 text-foreground"
+              }`}
+            >
+              <input
+                type="radio"
+                name={field.name}
+                value={opt}
+                checked={value === opt}
+                onChange={(e) => onChange(e.target.value)}
+                className="sr-only"
+                required={field.required}
+              />
+              {opt}
+            </label>
+          ))}
+        </div>
+      )}
+
+      {field.type === "textarea" && (
+        <textarea
+          required={field.required}
+          placeholder={field.placeholder}
+          rows={5}
+          value={value}
+          onChange={(e) => onChange(e.target.value)}
+          className="w-full rounded-lg border border-border bg-background px-4 py-2.5 text-sm focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary resize-none"
+        />
+      )}
+    </div>
+  )
+}
+
 export default function Step2Page() {
   return (
-    <Suspense fallback={
-      <main className="min-h-screen"><Header /><section className="py-8"><div className="max-w-2xl mx-auto px-6 text-center"><div className="animate-pulse"><div className="h-8 bg-gray-200 rounded w-48 mx-auto mb-4" /><div className="h-4 bg-gray-200 rounded w-64 mx-auto" /></div></div></section><Footer /></main>
-    }>
+    <Suspense
+      fallback={
+        <main className="min-h-screen">
+          <Header />
+          <section className="py-8">
+            <div className="max-w-2xl mx-auto px-6 text-center">
+              <div className="animate-pulse">
+                <div className="h-8 bg-gray-200 rounded w-48 mx-auto mb-4" />
+                <div className="h-4 bg-gray-200 rounded w-64 mx-auto" />
+              </div>
+            </div>
+          </section>
+          <Footer />
+        </main>
+      }
+    >
       <Step2Form />
     </Suspense>
   )

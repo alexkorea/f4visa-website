@@ -5,10 +5,12 @@ import Link from "next/link"
 import { Button } from "@/components/ui/button"
 
 const services = [
-  { value: "국적상실 신고", label: "국적상실 신고", sub: "Nationality Loss", icon: "📄" },
-  { value: "F-4 비자/거소증", label: "F-4 비자/거소증", sub: "F-4 Visa & Residence Card", icon: "📋" },
-  { value: "F-5 영주권", label: "F-5 영주권", sub: "Permanent Residency", icon: "🏅" },
-  { value: "국적회복/복수국적", label: "국적회복/복수국적", sub: "Nationality Recovery / Dual", icon: "🔄" },
+  { value: "국적이탈", label: "국적이탈", sub: "Nationality Renunciation", icon: "🗂️" },
+  { value: "국적상실", label: "국적상실", sub: "Nationality Loss", icon: "📄" },
+  { value: "F-4 비자 ( 거소증 )", label: "F-4 비자 ( 거소증 )", sub: "F-4 Visa & Residence Card", icon: "📋" },
+  { value: "영주권", label: "영주권", sub: "Permanent Residency", icon: "🏅" },
+  { value: "국적회복", label: "국적회복", sub: "Nationality Recovery", icon: "🔄" },
+  { value: "F-3 동반비자", label: "F-3 동반비자", sub: "F-3 Dependent Visa", icon: "👨‍👩‍👧" },
   { value: "기타", label: "기타", sub: "Other", icon: "💬" },
 ]
 

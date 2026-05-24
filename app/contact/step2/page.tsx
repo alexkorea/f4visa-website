@@ -19,58 +19,43 @@ type FieldDef = {
   dependsOn?: { field: string; value: string }
 }
 
-// Q1–Q7: common to all services
+// Q1–Q5: common to all services
 const COMMON_FIELDS: FieldDef[] = [
   {
+    name: "birthCountry",
+    label: "Q1. 출생국가",
+    type: "text",
+    placeholder: "예: 한국, 미국, 중국",
+    required: true,
+    hint: "출생국이 한국이 아닌 경우 '국적상실'이 아닌 '국적이탈' 절차가 필요합니다",
+  },
+  {
     name: "nationality",
-    label: "Q1. 국적 (시민권 보유 국가)",
+    label: "Q2. 국적 (현재 시민권 보유 국가)",
     type: "text",
     placeholder: "예: 미국, 캐나다, 일본",
     required: true,
   },
   {
-    name: "residenceCountrySame",
-    label: "Q2. 현재 거주국가가 국적과 동일하신가요?",
-    type: "radio",
-    options: ["예", "아니오"],
-    required: true,
-  },
-  {
-    name: "residenceCountry",
-    label: "Q3. 현재 거주국가",
-    type: "text",
-    placeholder: "예: 한국, 호주, 독일",
-    required: false,
-    dependsOn: { field: "residenceCountrySame", value: "아니오" },
-  },
-  {
     name: "koreaEntryDate",
-    label: "Q4. 한국 입국 예정일",
+    label: "Q3. 한국 입국 예정일",
     type: "text",
     placeholder: "한국 체류 중이면 '한국 체류 중'",
     required: false,
   },
   {
     name: "koreaDepartureDate",
-    label: "Q5. 한국 출국 예정일",
+    label: "Q4. 한국 출국 예정일",
     type: "text",
     placeholder: "장기 체류 예정이면 '장기'",
     required: false,
   },
   {
     name: "currentVisa",
-    label: "Q6. 현재 비자/체류자격",
+    label: "Q5. 현재 비자/체류자격",
     type: "text",
     placeholder: "예: 시민권자, F-4, 무비자, 관광비자 등",
     required: true,
-  },
-  {
-    name: "koreaRegion",
-    label: "Q7. 한국 내 거주지역 (시·구 수준)",
-    type: "text",
-    placeholder: "예: 서울시 마포구, 부산시 해운대구",
-    required: false,
-    hint: "출입국사무소 배정(서울/부산 등)에 사용됩니다. 미정이면 비워두세요",
   },
 ]
 
@@ -78,7 +63,7 @@ const serviceFields: Record<string, FieldDef[]> = {
   "F-4 비자 ( 거소증 )": [
     {
       name: "nationalityLossPeriod",
-      label: "Q8. 국적상실 경과 기간",
+      label: "Q6. 국적상실 경과 기간",
       type: "radio",
       options: [
         "국적상실 신고 후 6개월 미만",
@@ -89,14 +74,14 @@ const serviceFields: Record<string, FieldDef[]> = {
     },
     {
       name: "passport",
-      label: "Q9. 여권을 보유하고 계십니까?",
+      label: "Q7. 여권을 보유하고 계십니까?",
       type: "radio",
       options: ["예", "아니오"],
       required: true,
     },
     {
       name: "citizenshipCertificate",
-      label: "Q10. 시민권증서 원본을 보유하고 계십니까?",
+      label: "Q8. 시민권증서 원본을 보유하고 계십니까?",
       type: "radio",
       options: ["예", "아니오"],
       required: true,
@@ -104,7 +89,7 @@ const serviceFields: Record<string, FieldDef[]> = {
     },
     {
       name: "nationalityLossProof",
-      label: "Q11. 국적상실 이메일 회신 또는 신고접수증이 있습니까?",
+      label: "Q9. 국적상실 이메일 회신 또는 신고접수증이 있습니까?",
       type: "radio",
       options: ["있습니다", "없습니다 (신고 후 6개월 이상 경과)", "해당 없음"],
       required: true,
@@ -112,7 +97,7 @@ const serviceFields: Record<string, FieldDef[]> = {
     },
     {
       name: "criminalRecord",
-      label: "Q12. 아포스티유 무범죄증명서를 발급받으셨습니까?",
+      label: "Q10. 아포스티유 무범죄증명서를 발급받으셨습니까?",
       type: "radio",
       options: ["있습니다", "없습니다 (발급 예정)", "해당 없음 (만 60세 이상)"],
       required: true,
@@ -120,7 +105,7 @@ const serviceFields: Record<string, FieldDef[]> = {
     },
     {
       name: "nameChanged",
-      label: "Q13. 한국에서 사용하시던 이름과 현재 여권상 이름이 같으신가요?",
+      label: "Q11. 한국에서 사용하시던 이름과 현재 여권상 이름이 같으신가요?",
       type: "radio",
       options: [
         "같다",
@@ -131,7 +116,7 @@ const serviceFields: Record<string, FieldDef[]> = {
     },
     {
       name: "koreaAddress",
-      label: "Q14. 한국에서 거주할 주소가 정해져 있나요?",
+      label: "Q12. 한국에서 거주할 주소가 정해져 있나요?",
       type: "radio",
       options: ["예", "아직 미정"],
       required: true,
@@ -146,14 +131,14 @@ const serviceFields: Record<string, FieldDef[]> = {
     },
     {
       name: "hostAddress",
-      label: "Q15. 지인 주소지를 거소증 주소로 사용하실 예정인가요?",
+      label: "Q13. 지인 주소지를 거소증 주소로 사용하실 예정인가요?",
       type: "radio",
       options: ["예 (지인 신분증·확인서·집계약서 추가 필요)", "아니오"],
       required: true,
     },
     {
       name: "delegation",
-      label: "Q16. 당사에 한국 내 서류 발급을 위임하실 예정인가요?",
+      label: "Q14. 당사에 한국 내 서류 발급을 위임하실 예정인가요?",
       type: "radio",
       options: ["예", "아니오 (직접 준비)"],
       required: true,
@@ -178,130 +163,87 @@ const serviceFields: Record<string, FieldDef[]> = {
   "국적상실": [
     {
       name: "citizenshipCountryDate",
-      label: "Q8. 시민권 취득국 및 취득일",
+      label: "Q6. 시민권 취득국 및 취득일",
       type: "text",
       placeholder: "예: 미국, 2020년 3월",
       required: true,
     },
     {
       name: "passport",
-      label: "Q9. 여권 원본 및 사본이 있습니까?",
-      type: "radio",
-      options: ["예", "아니오"],
-      required: true,
-    },
-    {
-      name: "photo",
-      label: "Q10. 사진(3.5×4.5cm)이 있습니까?",
+      label: "Q7. 여권 원본 및 사본이 있습니까?",
       type: "radio",
       options: ["예", "아니오"],
       required: true,
     },
     {
       name: "citizenshipCert",
-      label: "Q11. 시민권증서 원본/사본이 있습니까?",
+      label: "Q8. 시민권증서 원본/사본이 있습니까?",
       type: "radio",
       options: ["예", "아니오"],
       required: true,
     },
     {
-      name: "basicCertificate",
-      label: "Q12. 기본증명서(상세)를 발급받으셨습니까?",
-      type: "radio",
-      options: ["예", "아니오", "발급 방법 모름"],
-      required: true,
-    },
-    {
-      name: "familyCertificate",
-      label: "Q13. 가족관계증명서(상세)를 발급받으셨습니까?",
-      type: "radio",
-      options: ["예", "아니오", "발급 방법 모름"],
-      required: true,
-    },
-    {
       name: "nameChangedDoc",
-      label: "Q14. 이름변경 서류가 있습니까? (이름이 변경된 경우)",
+      label: "Q9. 이름변경 서류가 있습니까? (이름이 변경된 경우)",
       type: "radio",
       options: ["해당 없음", "있습니다", "없습니다"],
       required: true,
     },
     {
-      name: "translation",
-      label: "Q15. 외국어 서류 번역문이 필요합니까?",
-      type: "radio",
-      options: ["예", "아니오", "모름"],
-      required: false,
-    },
-    {
-      name: "delegation",
-      label: "Q16. 당사에 한국 내 서류 발급을 위임하실 예정인가요?",
+      name: "preparationDelegation",
+      label: "Q10. 당사에 서류 작성 및 예약을 위임하실 예정인가요?",
       type: "radio",
       options: ["예", "아니오 (직접 준비)"],
       required: true,
-    },
-    {
-      name: "delegationPhone",
-      label: "현재 거주국 전화번호",
-      type: "text",
-      placeholder: "예: +1-234-567-8900",
-      required: false,
-      dependsOn: { field: "delegation", value: "예" },
-    },
-    {
-      name: "delegationAddress",
-      label: "현재 거주국 주소",
-      type: "text",
-      placeholder: "예: 123 Main St, Los Angeles, CA 90001",
-      required: false,
-      dependsOn: { field: "delegation", value: "예" },
+      hint: "국적상실 신고 서류 작성 및 출입국 예약 대행",
     },
   ],
   "국적회복": [
     {
       name: "passport",
-      label: "Q8. 여권 원본 및 사본이 있습니까?",
+      label: "Q6. 여권 원본 및 사본이 있습니까?",
       type: "radio",
       options: ["예", "아니오"],
       required: true,
     },
     {
       name: "residenceCard",
-      label: "Q9. 거소증(F-4)이 있습니까?",
+      label: "Q7. 거소증(F-4)이 있습니까?",
       type: "radio",
       options: ["예", "아니오"],
       required: true,
     },
     {
       name: "photo",
-      label: "Q10. 사진(3.5×4.5cm)이 있습니까?",
+      label: "Q8. 사진(3.5×4.5cm)이 있습니까?",
       type: "radio",
       options: ["예", "아니오"],
       required: true,
     },
     {
       name: "citizenshipCert",
-      label: "Q11. 시민권증서 사본이 있습니까?",
+      label: "Q9. 시민권증서 사본이 있습니까?",
       type: "radio",
       options: ["예", "아니오"],
       required: true,
     },
     {
       name: "basicCertificate",
-      label: "Q12. 기본증명서(상세)를 발급받으셨습니까?",
+      label: "Q10. 기본증명서(상세)를 발급받으셨습니까?",
       type: "radio",
       options: ["예", "아니오"],
       required: true,
     },
     {
       name: "familyCertificate",
-      label: "Q13. 가족관계증명서(상세)를 발급받으셨습니까?",
+      label: "Q11. 가족관계증명서(상세)를 발급받으셨습니까?",
       type: "radio",
       options: ["예", "아니오"],
       required: true,
     },
     {
       name: "criminalRecord",
-      label: "Q14. 아포스티유 범죄경력조회서가 있습니까?",
+      label: "Q12. 아포스티유 범죄경력조회서가 있습니까?",
       type: "radio",
       options: ["있습니다", "없습니다 (발급 예정)", "해당 없음 (만 65세 이상)"],
       required: true,
@@ -309,7 +251,7 @@ const serviceFields: Record<string, FieldDef[]> = {
     },
     {
       name: "delegation",
-      label: "Q15. 당사에 한국 내 서류 발급을 위임하실 예정인가요?",
+      label: "Q13. 당사에 한국 내 서류 발급을 위임하실 예정인가요?",
       type: "radio",
       options: ["예", "아니오 (직접 준비)"],
       required: true,
@@ -334,21 +276,21 @@ const serviceFields: Record<string, FieldDef[]> = {
   "영주권": [
     {
       name: "f4StayDuration",
-      label: "Q8. 거소증(F-4)으로 한국에 체류한 총 기간은?",
+      label: "Q6. 거소증(F-4)으로 한국에 체류한 총 기간은?",
       type: "select",
       options: ["1년 미만", "1~2년", "3~4년", "5년 이상"],
       required: true,
     },
     {
       name: "age",
-      label: "Q9. 현재 만 나이",
+      label: "Q7. 현재 만 나이",
       type: "text",
       placeholder: "예: 55",
       required: true,
     },
     {
       name: "income",
-      label: "Q10. 전년도 연간 소득 수준",
+      label: "Q8. 전년도 연간 소득 수준",
       type: "select",
       options: ["1인당 GNI 미만", "1인당 GNI 이상", "확인 필요"],
       required: true,
@@ -356,21 +298,21 @@ const serviceFields: Record<string, FieldDef[]> = {
     },
     {
       name: "topik",
-      label: "Q11. 한국어능력시험(TOPIK) 또는 사회통합프로그램",
+      label: "Q9. 한국어능력시험(TOPIK) 또는 사회통합프로그램",
       type: "select",
       options: ["없음", "TOPIK 1~2급", "TOPIK 3급 이상", "사회통합프로그램 이수"],
       required: true,
     },
     {
       name: "criminalRecordKorea",
-      label: "Q12. 한국 내 범죄 또는 과태료 이력이 있습니까?",
+      label: "Q10. 한국 내 범죄 또는 과태료 이력이 있습니까?",
       type: "radio",
       options: ["없음", "있음"],
       required: true,
     },
     {
       name: "criminalRecordAbroad",
-      label: "Q13. 아포스티유 국외 범죄경력조회서가 있습니까?",
+      label: "Q11. 아포스티유 국외 범죄경력조회서가 있습니까?",
       type: "radio",
       options: ["있습니다", "없습니다 (발급 예정)", "해당 없음"],
       required: true,
@@ -379,35 +321,35 @@ const serviceFields: Record<string, FieldDef[]> = {
   "F-3 동반비자": [
     {
       name: "sponsorVisaType",
-      label: "Q8. 초청인(배우자/부모)의 현재 비자 종류는?",
+      label: "Q6. 초청인(배우자/부모)의 현재 비자 종류는?",
       type: "select",
       options: ["F-4 (재외동포 거소증)", "F-5 (영주권)", "기타"],
       required: true,
     },
     {
       name: "sponsorResidenceCard",
-      label: "Q9. 초청인의 거소증 또는 외국인등록증이 있습니까?",
+      label: "Q7. 초청인의 거소증 또는 외국인등록증이 있습니까?",
       type: "radio",
       options: ["예", "아니오"],
       required: true,
     },
     {
       name: "applicantPassport",
-      label: "Q10. 신청인 여권이 있습니까?",
+      label: "Q8. 신청인 여권이 있습니까?",
       type: "radio",
       options: ["예", "아니오"],
       required: true,
     },
     {
       name: "relationship",
-      label: "Q11. 초청인과의 관계는?",
+      label: "Q9. 초청인과의 관계는?",
       type: "select",
       options: ["배우자", "부모", "자녀"],
       required: true,
     },
     {
       name: "familyCertificate",
-      label: "Q12. 가족관계증명서(상세)를 발급받으셨습니까?",
+      label: "Q10. 가족관계증명서(상세)를 발급받으셨습니까?",
       type: "radio",
       options: ["예", "아니오", "발급 방법 모름"],
       required: true,
@@ -416,7 +358,7 @@ const serviceFields: Record<string, FieldDef[]> = {
   "기타": [
     {
       name: "inquiry",
-      label: "Q8. 문의 내용",
+      label: "Q6. 문의 내용",
       type: "textarea",
       placeholder: "궁금하신 내용을 자유롭게 작성해주세요.",
       required: true,
@@ -620,9 +562,9 @@ function Step2Form() {
               </p>
 
               <form onSubmit={handleSubmit} className="space-y-6">
-                {/* Q1–Q7 common */}
+                {/* Q1–Q4 common */}
                 <div className="pb-4 border-b border-border">
-                  <h3 className="text-sm font-semibold text-primary mb-4">현재 상황 (Q1–Q7)</h3>
+                  <h3 className="text-sm font-semibold text-primary mb-4">현재 상황</h3>
                   {COMMON_FIELDS.filter((f) => isVisible(f, formData)).map((field) => (
                     <FieldRenderer
                       key={field.name}
@@ -633,7 +575,7 @@ function Step2Form() {
                   ))}
                 </div>
 
-                {/* Q8+ service-specific */}
+                {/* Q5+ service-specific */}
                 <div>
                   <h3 className="text-sm font-semibold text-primary mb-4">
                     {primaryService} — 서류 및 자격 확인

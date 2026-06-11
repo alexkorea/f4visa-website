@@ -3,7 +3,7 @@ title: "복수국적 허용 조건과 국적이탈 vs 국적상실 차이 완벽
 date: "2026-06-09"
 category: "국적"
 excerpt: "복수국적 허용 대상과 국적이탈·국적상실의 실제 차이, 신고 시점과 실무 처리 절차를 한 번에 정리합니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/blog/dual-nationality-conditions-vs-nationality-loss-renunciation.jpg"
 slug: "dual-nationality-conditions-vs-nationality-loss-renunciation"
 ---
 # 복수국적 허용 조건과 국적이탈 vs 국적상실 차이 완벽 정리

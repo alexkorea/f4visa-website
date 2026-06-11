@@ -5,7 +5,7 @@ date: "2026-05-24"
 slug: "f4-visa-goso-registration-guide-2026"
 author: "비전행정사사무소"
 category: "F-4 거소증"
-image: "/images/f4-visa-hero.jpg"
+image: "/blog/2026-05-24-f4-visa-goso-registration.jpg"
 ---
 
 ## 목차

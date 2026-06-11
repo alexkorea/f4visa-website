@@ -3,7 +3,7 @@ title: "재외동포 국내 거주 신고 위반 처벌 규정 총정리"
 date: "2026-06-04"
 category: "거소증"
 excerpt: "F-4 거소증 소지자가 국내 거주 신고를 어기면 과태료부터 강제퇴거까지 이어질 수 있으며, 실제 처분 기준과 대응 절차를 한 번에 정리합니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/blog/overseas-korean-residence-report-violation-penalty.jpg"
 slug: "overseas-korean-residence-report-violation-penalty"
 ---
 # 재외동포 국내 거주 신고 위반 처벌 규정 총정리

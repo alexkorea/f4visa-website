@@ -1,7 +1,7 @@
 ---
 title: "이중국적 허용 기준 — 한국 이중국적 가능한 경우와 불가능한 경우 2026"
 date: "2026-05-23"
-image: "/blog/korean-passport-visa.jpg"
+image: "/blog/dual-nationality-korea-guide-2026.jpg"
 excerpt: "한국에서 이중국적이 허용되는 경우(선천적 이중국적·고령자·우수 인재 등)와 국적 선택 의무, 외국 국적 불행사 서약 절차를 2026년 기준으로 정리합니다."
 ---
 

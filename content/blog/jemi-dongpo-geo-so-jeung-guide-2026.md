@@ -1,7 +1,7 @@
 ---
 title: "재미동포 거소증 신청 방법 — 미국 시민권자·영주권자 완전 가이드 2026"
 date: "2026-05-23"
-image: "/blog/korean-passport-visa.jpg"
+image: "/blog/jemi-dongpo-geo-so-jeung-guide-2026.jpg"
 excerpt: "미국에 거주하는 재외동포(재미동포)의 거소증 신청 자격, 필요서류, 신청 절차를 미국 시민권자와 영주권자로 나누어 안내합니다."
 ---
 

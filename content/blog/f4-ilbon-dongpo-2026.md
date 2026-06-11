@@ -5,7 +5,7 @@ date: "2026-05-22"
 slug: "f4-ilbon-dongpo-2026"
 author: "비전행정사사무소"
 category: "F-4 재외동포비자"
-image: "/blog/korean-family-diaspora.jpg"
+image: "/blog/f4-ilbon-dongpo-2026.jpg"
 ---
 
 # 일본 거주 재외동포 F-4 비자 신청 가이드 2026

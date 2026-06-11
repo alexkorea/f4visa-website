@@ -3,7 +3,7 @@ title: "재외동포 복수국적 허용 대상과 조건 총정리"
 date: "2026-05-22"
 category: "국적"
 excerpt: "65세 이상 영주귀국자, 우수인재, 해외입양인 등 복수국적이 허용되는 대상과 외국국적불행사 서약 조건을 실무 관점에서 정리합니다."
-image: "/blog/korean-nationality.jpg"
+image: "/blog/overseas-korean-dual-nationality-eligibility.jpg"
 slug: "overseas-korean-dual-nationality-eligibility"
 ---
 # 재외동포 복수국적 허용 대상과 조건 총정리

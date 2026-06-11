@@ -5,7 +5,7 @@ date: "2026-05-23"
 slug: "f4-visa-japan-employment-scope"
 author: "비전행정사사무소"
 category: "F-4 취업"
-image: "/blog/korean-family-diaspora.jpg"
+image: "/blog/f4-visa-japan-employment-scope.jpg"
 ---
 
 일본 거주 재외동포 중 한국에서 취업을 원하는 분들이 많습니다. F-4 비자는 취업 허가 없이도 대부분의 직종에서 일할 수 있어 사실상 내국인과 유사한 조건입니다. 단, 단순 노무직은 여전히 제한됩니다.

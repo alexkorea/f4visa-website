@@ -3,6 +3,7 @@ title: "F-4 비자 소지자 건강보험 가입 방법 2026"
 date: "2026-06-02"
 category: "F-4"
 excerpt: "재외동포(F-4) 비자 소지자의 건강보험 가입 조건, 지역가입자 vs 피부양자 선택 기준, 신청 절차를 안내합니다."
+image: "/blog/f4-visa-health-insurance-enrollment-2026-06-02.jpg"
 ---
 
 ## F-4 비자와 건강보험

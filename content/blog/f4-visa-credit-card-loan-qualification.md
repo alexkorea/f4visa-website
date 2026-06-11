@@ -3,7 +3,7 @@ title: "F-4 비자 신용카드 발급과 대출 자격 실무 가이드"
 date: "2026-05-31"
 category: "금융"
 excerpt: "F-4 비자 보유자가 한국에서 신용카드와 대출을 받기 위해 실제로 막히는 지점과 통과 조건을 실무 기준으로 정리합니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/blog/f4-visa-credit-card-loan-qualification.jpg"
 slug: "f4-visa-credit-card-loan-qualification"
 ---
 # F-4 비자 신용카드 발급과 대출 자격 실무 가이드

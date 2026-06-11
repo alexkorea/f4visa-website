@@ -3,7 +3,7 @@ title: "F-4 비자 가족초청 F-1 동반비자 발급 완벽 가이드"
 date: "2026-05-25"
 category: "가족초청"
 excerpt: "F-4 비자 소지자가 외국 국적 배우자와 자녀를 한국으로 초청해 F-1 동반비자를 받는 실제 절차와 서류, 심사 포인트를 정리합니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/blog/f4-family-invitation-f1-dependent-visa.jpg"
 slug: "f4-family-invitation-f1-dependent-visa"
 ---
 # F-4 비자 가족초청 F-1 동반비자 발급 완벽 가이드

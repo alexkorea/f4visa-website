@@ -4,6 +4,7 @@ date: "2026-05-29"
 category: "F-4 비자 실무"
 excerpt: "F-4 재외동포 비자 갱신 절차, 필요 서류, 신청 시기를 2026년 최신 기준으로 안내합니다. 미국·캐나다·호주·일본·유럽 재외동포 필독."
 coverImage: "/blog/korean-passport-visa.jpg"
+image: "/blog/f4-visa-renewal-complete-guide-2026.jpg"
 ---
 
 ## F-4 재외동포 비자 갱신이란?

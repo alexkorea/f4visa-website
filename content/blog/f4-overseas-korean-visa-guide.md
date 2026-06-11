@@ -3,7 +3,7 @@ title: "F-4 재외동포비자 신청 자격과 필요서류 완벽 가이드"
 date: "2026-04-09"
 category: "F-4비자"
 excerpt: "F-4 재외동포비자 신청 자격과 필요서류 완벽 가이드"
-image: "/blog/korean-family-diaspora.jpg"
+image: "/blog/f4-overseas-korean-visa-guide.jpg"
 slug: "f4-overseas-korean-visa-guide"
 ---
 

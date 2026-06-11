@@ -3,7 +3,7 @@ title: "F-4 재외동포 비자 취업 활동 범위와 제한 직종 안내"
 date: "2026-05-31"
 category: "F-4 비자"
 excerpt: "F-4 비자 소지자가 국내에서 합법적으로 종사할 수 있는 직종과 제한 직종을 정리했습니다."
-image: "/public/blog/korean-passport-visa.jpg"
+image: "/blog/f4-visa-employment-activities-guide-20260531.jpg"
 ---
 
 # F-4 재외동포 비자 취업 활동 범위와 제한 직종 안내

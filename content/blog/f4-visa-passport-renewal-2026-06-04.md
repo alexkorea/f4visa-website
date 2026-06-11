@@ -2,7 +2,7 @@
 title: "F-4 재외동포 비자 여권 만료 시 체류자격 갱신 방법 2026"
 date: "2026-06-04"
 category: "F-4 비자"
-image: "/public/blog/korean-passport-visa.jpg"
+image: "/blog/f4-visa-passport-renewal-2026-06-04.jpg"
 excerpt: "F-4 비자 소지자의 여권이 만료될 때 비자 갱신 방법, 외국인 등록증 재발급 절차, 주의사항을 안내합니다."
 ---
 

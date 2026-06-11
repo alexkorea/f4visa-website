@@ -1,7 +1,7 @@
 ---
 title: "국적회복 신청 — 과거 한국 국적자의 국적 회복 절차 완전 가이드 2026"
 date: "2026-05-23"
-image: "/blog/korean-passport-visa.jpg"
+image: "/blog/korean-nationality-recovery-guide-2026.jpg"
 excerpt: "과거 대한민국 국민이었던 분들의 국적회복 신청 요건, 절차, 필요 서류, 국적 회복 후 혜택을 2026년 기준으로 안내합니다."
 ---
 

@@ -3,7 +3,7 @@ title: "F-4 비자 소지자 국내 부동산 취득 완벽 가이드"
 date: "2026-06-01"
 category: "F-4 비자"
 excerpt: "F-4 재외동포 비자 소지자의 국내 부동산 매입 절차, 신고 의무, 세금 사항을 상세히 안내합니다."
-image: "/public/blog/korean-residence.jpg"
+image: "/blog/f4-visa-real-estate-purchase-20260601.jpg"
 ---
 
 # F-4 비자 소지자 국내 부동산 취득 완벽 가이드

@@ -3,7 +3,7 @@ title: "재외동포 부동산 취득 절차와 세금 완벽 안내"
 date: "2026-06-09"
 category: "재외동포"
 excerpt: "재외동포 부동산 취득은 외국인 신고와 다른 절차를 거치며, 거소증·외국환거래 신고·취득세까지 단계별로 체크해야 막히지 않습니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/blog/overseas-korean-real-estate-acquisition-tax-procedure.jpg"
 slug: "overseas-korean-real-estate-acquisition-tax-procedure"
 ---
 # 재외동포 부동산 취득 절차와 세금 완벽 안내

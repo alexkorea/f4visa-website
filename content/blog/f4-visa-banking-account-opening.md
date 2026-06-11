@@ -3,7 +3,7 @@ title: "F-4 비자 소지자 금융 거래 계좌 개설 실무 가이드"
 date: "2026-05-31"
 category: "금융"
 excerpt: "F-4 비자 소지자가 한국에서 은행 계좌를 개설하려면 거소증과 신분증이 핵심이며, 은행별 요구 서류와 비대면 거래 한도가 다릅니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/blog/f4-visa-banking-account-opening.jpg"
 slug: "f4-visa-banking-account-opening"
 ---
 # F-4 비자 소지자 금융 거래 계좌 개설 실무 가이드

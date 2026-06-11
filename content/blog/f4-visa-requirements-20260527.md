@@ -4,7 +4,7 @@ date: "2026-05-27"
 slug: "f4-visa-requirements-20260527"
 description: "F-4 재외동포 비자 신청 자격, 필요 서류, 취업 가능 직종을 2026년 최신 기준으로 정리했습니다. 북미·유럽·일본·호주 재외동포 대상."
 category: "F-4 비자"
-image: "/public/blog/korean-nationality.jpg"
+image: "/blog/f4-visa-requirements-20260527.jpg"
 ---
 
 # F-4 비자 신청 요건 완벽 가이드 2026 — 재외동포 취업 자격 총정리

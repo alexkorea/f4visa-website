@@ -3,7 +3,7 @@ title: "F-4 비자 사업자등록 가능 여부와 절차 완벽 정리"
 date: "2026-05-18"
 category: "사업자등록"
 excerpt: "F-4 재외동포 비자 소지자는 단순노무를 제외한 사업자등록이 가능하며, 업종 제한과 등록 절차를 실제 사례 중심으로 정리합니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/blog/f4-visa-business-registration-procedure.jpg"
 slug: "f4-visa-business-registration-procedure"
 ---
 # F-4 비자 사업자등록 가능 여부와 절차 완벽 정리

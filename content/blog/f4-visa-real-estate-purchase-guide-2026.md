@@ -4,6 +4,7 @@ date: "2026-05-29"
 category: "F-4 비자 실무"
 excerpt: "F-4 재외동포 비자 소지자가 한국에서 부동산을 취득하는 방법과 필요한 절차, 세금, 외국환 송금 규정을 안내합니다."
 coverImage: "/blog/korean-residence.jpg"
+image: "/blog/f4-visa-real-estate-purchase-guide-2026.jpg"
 ---
 
 ## 재외동포의 한국 부동산 취득 가능 여부

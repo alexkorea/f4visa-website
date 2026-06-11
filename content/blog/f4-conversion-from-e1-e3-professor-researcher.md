@@ -3,7 +3,7 @@ title: "F-4 비자 교수·연구원 E-1 E-3 전환 절차와 실무 포인트"
 date: "2026-05-20"
 category: "취업"
 excerpt: "외국 시민권을 가진 한국계 교수·연구원이 E-1·E-3에서 F-4로 전환할 때 실제 심사에서 갈리는 지점과 서류 흐름을 정리합니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/blog/f4-conversion-from-e1-e3-professor-researcher.jpg"
 slug: "f4-conversion-from-e1-e3-professor-researcher"
 ---
 # F-4 비자 교수·연구원 E-1 E-3 전환 절차와 실무 포인트

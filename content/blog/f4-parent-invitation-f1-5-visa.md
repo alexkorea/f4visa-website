@@ -3,7 +3,7 @@ title: "F-4 비자 부모 초청 F-1-5 비자 신청 완벽 가이드"
 date: "2026-05-27"
 category: "가족초청"
 excerpt: "F-4 재외동포 비자 소지자가 부모를 한국에 초청해 F-1-5 동반거주 비자를 받는 실제 절차와 서류, 심사에서 자주 막히는 부분까지 정리합니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/blog/f4-parent-invitation-f1-5-visa.jpg"
 slug: "f4-parent-invitation-f1-5-visa"
 ---
 # F-4 비자 부모 초청 F-1-5 비자 신청 완벽 가이드

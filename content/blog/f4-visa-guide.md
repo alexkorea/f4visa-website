@@ -3,7 +3,7 @@ title: "F-4 비자 신청 완벽 가이드: 자격요건부터 발급까지"
 date: "2026-04-04"
 category: "F-4 비자"
 excerpt: "재외동포 F-4 비자의 자격요건, 필요서류, 신청절차부터 거소증 발급까지 전 과정을 상세히 안내합니다. 병역 관련 주의사항도 함께 확인하세요."
-image: "/blog/korean-passport-visa.jpg"
+image: "/blog/f4-visa-guide.jpg"
 slug: "f4-visa-guide"
 ---
 

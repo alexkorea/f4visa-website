@@ -3,7 +3,7 @@ title: "F-4 비자 국민연금 가입 대상 여부 완벽 정리"
 date: "2026-05-29"
 category: "국민연금"
 excerpt: "F-4 재외동포 비자 소지자의 국민연금 가입 의무 여부와 사업장·지역가입 기준, 반환일시금 청구 가능성까지 실무 기준으로 정리합니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/blog/f4-visa-national-pension-enrollment.jpg"
 slug: "f4-visa-national-pension-enrollment"
 ---
 # F-4 비자 국민연금 가입 대상 여부 완벽 정리

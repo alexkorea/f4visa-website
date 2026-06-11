@@ -4,6 +4,7 @@ date: "2026-05-29"
 category: "F-4 비자 실무"
 excerpt: "F-4 재외동포 비자 소지자가 가족과 함께 한국에 입국할 때 각 가족 구성원의 체류자격 신청 방법을 안내합니다."
 coverImage: "/blog/korean-family-diaspora.jpg"
+image: "/blog/f4-visa-family-entry-guide-2026.jpg"
 ---
 
 ## F-4 비자 소지자의 가족 동반 체류

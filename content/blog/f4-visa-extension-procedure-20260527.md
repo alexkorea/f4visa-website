@@ -4,7 +4,7 @@ date: "2026-05-27"
 slug: "f4-visa-extension-procedure-20260527"
 description: "F-4 재외동포 비자 연장 신청 시기, 필요 서류, 절차를 2026년 기준으로 정리했습니다. 만료 전 반드시 확인할 체크리스트를 포함합니다."
 category: "F-4 비자"
-image: "/public/blog/korean-residence.jpg"
+image: "/blog/f4-visa-extension-procedure-20260527.jpg"
 ---
 
 # F-4 재외동포 비자 연장 절차 2026 — 만료 전 체크리스트

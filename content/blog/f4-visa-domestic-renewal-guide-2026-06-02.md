@@ -3,6 +3,7 @@ title: "F-4 비자 국내 갱신 절차와 준비 서류 2026"
 date: "2026-06-02"
 category: "F-4"
 excerpt: "국내 체류 중 F-4 재외동포 비자 갱신 방법, 필요 서류, 신청 시기, 갱신 거부 사유를 정리합니다."
+image: "/blog/f4-visa-domestic-renewal-guide-2026-06-02.jpg"
 ---
 
 ## F-4 비자 국내 갱신 개요

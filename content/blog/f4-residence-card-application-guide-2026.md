@@ -3,7 +3,7 @@ title: "F-4 재외동포 거소증 신청 방법: 서류·기간·비용 완벽 
 date: "2026-05-08"
 category: "F-4비자"
 excerpt: "F-4 재외동포 거소증 신청 방법과 필요서류, 처리기간, 비용을 비전행정사사무소가 출입국 매뉴얼 기준으로 정리합니다. 2026년 최신 기준."
-image: "/blog/korean-residence.jpg"
+image: "/blog/f4-residence-card-application-guide-2026.jpg"
 slug: "f4-residence-card-application-guide-2026"
 ---
 

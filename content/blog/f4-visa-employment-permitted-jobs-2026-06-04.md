@@ -2,7 +2,7 @@
 title: "F-4 재외동포 비자 취업 가능 업종 총정리 2026"
 date: "2026-06-04"
 category: "F-4 비자"
-image: "/public/blog/korean-family-diaspora.jpg"
+image: "/blog/f4-visa-employment-permitted-jobs-2026-06-04.jpg"
 excerpt: "F-4 재외동포 비자 소지자가 한국에서 할 수 있는 취업 활동과 제한 업종을 2026년 기준으로 정리합니다."
 ---
 

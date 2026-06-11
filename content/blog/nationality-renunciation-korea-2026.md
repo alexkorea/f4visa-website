@@ -1,7 +1,7 @@
 ---
 title: "국적이탈 신고 — 선천적 이중국적자 한국 국적 포기 절차 2026"
 date: "2026-05-23"
-image: "/blog/korean-nationality.jpg"
+image: "/blog/nationality-renunciation-korea-2026.jpg"
 excerpt: "선천적 이중국적자(복수국적자)가 한국 국적을 포기(국적이탈)하는 신고 기한, 절차, 필요 서류, 병역 관계를 2026년 최신 기준으로 안내합니다."
 ---
 

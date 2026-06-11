@@ -3,7 +3,7 @@ title: "F-4 비자 운전면허 교환과 신규 취득, 실무 절차 한눈에
 date: "2026-06-01"
 category: "운전면허"
 excerpt: "F-4 비자 소지자가 한국에서 운전면허를 교환하거나 신규로 취득할 때 실제로 막히는 지점과 서류 흐름을 정리했습니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/blog/f4-driver-license-exchange-acquisition.jpg"
 slug: "f4-driver-license-exchange-acquisition"
 ---
 # F-4 비자 운전면허 교환과 신규 취득, 실무 절차 한눈에 정리

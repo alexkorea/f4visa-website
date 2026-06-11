@@ -1,7 +1,7 @@
 ---
 title: "F-4 비자 필요서류 — 재외동포 비자 신청 서류 완전 체크리스트 2026"
 date: "2026-05-23"
-image: "/blog/korean-passport-visa.jpg"
+image: "/blog/f4-visa-required-documents-2026.jpg"
 excerpt: "F-4 재외동포 비자 신청에 필요한 서류를 신청 국가(미국·캐나다·일본·호주 등), 신청 방법(영사관·국내)별로 정리한 2026년 최신 체크리스트입니다."
 ---
 

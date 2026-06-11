@@ -3,7 +3,7 @@ title: "F-4 재외동포 비자에서 F-5 영주권으로 전환하는 방법"
 date: "2026-05-31"
 category: "영주권"
 excerpt: "F-4 비자 소지자가 F-5 영주권을 신청하기 위한 요건, 절차, 필요 서류를 상세히 설명합니다."
-image: "/public/blog/korea-permanent.jpg"
+image: "/blog/f4-visa-to-f5-permanent-residency-20260531.jpg"
 ---
 
 # F-4 재외동포 비자에서 F-5 영주권으로 전환하는 방법

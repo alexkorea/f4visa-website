@@ -5,7 +5,7 @@ description: "F-4 재외동포 비자 소지자가 F-5 영주권으로 전환하
 slug: "f4-to-f5-conversion-guide-202605"
 author: "비전행정사사무소"
 category: "F-4비자"
-image: "/blog/immigration-documents.jpg"
+image: "/blog/f4-to-f5-conversion-guide-202605.jpg"
 ---
 
 # F-4에서 F-5 영주권 전환 완벽 가이드 2026

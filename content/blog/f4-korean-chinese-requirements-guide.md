@@ -3,7 +3,7 @@ title: "F-4 비자 조선족 신청 요건과 주의점 — 실무에서 가장 
 date: "2026-06-02"
 category: "지역별"
 excerpt: "조선족 F-4 신청에서 가장 자주 막히는 국적·서류·경력 요건을 실무 기준으로 정리합니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/blog/f4-korean-chinese-requirements-guide.jpg"
 slug: "f4-korean-chinese-requirements-guide"
 ---
 # F-4 비자 조선족 신청 요건과 주의점 — 실무에서 가장 많이 막히는 지점

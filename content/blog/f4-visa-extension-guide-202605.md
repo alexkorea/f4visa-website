@@ -5,7 +5,7 @@ description: "F-4 재외동포 비자 체류기간 연장 신청 방법, 필요 
 slug: "f4-visa-extension-guide-202605"
 author: "비전행정사사무소"
 category: "F-4비자"
-image: "/blog/immigration-documents.jpg"
+image: "/blog/f4-visa-extension-guide-202605.jpg"
 ---
 
 # F-4 재외동포 비자 연장 방법 완벽 가이드 2026

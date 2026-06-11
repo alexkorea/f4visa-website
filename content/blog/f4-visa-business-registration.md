@@ -5,7 +5,7 @@ date: "2026-05-17"
 slug: "f4-visa-business-registration"
 author: "비전행정사사무소"
 category: "사업자등록"
-image: "/blog/korean-residence.jpg"
+image: "/blog/f4-visa-business-registration.jpg"
 ---
 
 F-4 재외동포 비자 소지자는 한국에서 개인사업자 등록과 법인 설립이 모두 가능합니다.

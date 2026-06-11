@@ -3,7 +3,7 @@ title: "F-5 영주권 신청 서류와 심사 — F-4 거소증 보유자의 전
 date: "2026-05-25"
 category: "영주권"
 excerpt: "F-5 영주권 심사는 서류 수보다 체류 안정성과 생계능력 설명이 먼저 갈리는 단계입니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/blog/f5-permanent-residency-documents-review-guide.jpg"
 slug: "f5-permanent-residency-documents-review-guide"
 ---
 # F-5 영주권 신청 서류와 심사 — F-4 거소증 보유자가 가장 먼저 확인할 핵심

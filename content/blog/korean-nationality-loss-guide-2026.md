@@ -1,7 +1,7 @@
 ---
 title: "국적상실 신고 방법 — 외국 국적 취득 후 한국 국적 처리 가이드 2026"
 date: "2026-05-23"
-image: "/blog/korean-nationality.jpg"
+image: "/blog/korean-nationality-loss-guide-2026.jpg"
 excerpt: "외국 국적을 자동 취득하거나 귀화 신청으로 한국 국적을 상실한 경우 국적상실 신고 절차, 필요 서류, 기한을 2026년 기준으로 정리합니다."
 ---
 

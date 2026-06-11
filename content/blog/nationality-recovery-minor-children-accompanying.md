@@ -3,7 +3,7 @@ title: "재외동포 국적회복 미성년 자녀 동반 완벽 가이드"
 date: "2026-05-21"
 category: "국적"
 excerpt: "부모의 국적회복과 미성년 자녀의 동시 처리, 신청 자격과 서류 핵심을 실무 관점에서 정리합니다."
-image: "/blog/korean-nationality.jpg"
+image: "/blog/nationality-recovery-minor-children-accompanying.jpg"
 slug: "nationality-recovery-minor-children-accompanying"
 ---
 # 재외동포 국적회복 미성년 자녀 동반, 부모 신청과 함께 처리하는 실무 절차

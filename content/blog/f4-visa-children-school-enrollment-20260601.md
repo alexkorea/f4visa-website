@@ -3,7 +3,7 @@ title: "F-4 비자 소지자 자녀 국내 초·중·고 입학 가이드"
 date: "2026-06-01"
 category: "F-4 비자"
 excerpt: "F-4 재외동포 비자 소지자 자녀의 국내 초·중·고등학교 입학 절차, 학력 인정 방법, 특례 입시 요건을 안내합니다."
-image: "/public/blog/korean-residence.jpg"
+image: "/blog/f4-visa-children-school-enrollment-20260601.jpg"
 ---
 
 # F-4 비자 소지자 자녀 국내 초·중·고 입학 가이드

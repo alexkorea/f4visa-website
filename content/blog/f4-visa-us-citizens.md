@@ -3,7 +3,7 @@ title: "F-4 비자 미국 시민권자 신청 절차 완벽 가이드"
 date: "2026-04-18"
 category: "F-4비자"
 excerpt: "미국 시민권자가 F-4 재외동포 비자를 신청하는 실제 절차와 시민권증서·국적상실·가족관계서류 준비까지 실무 기준으로 정리했습니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/blog/f4-visa-us-citizens.jpg"
 slug: "f4-visa-us-citizens"
 ---
 # F-4 비자 미국 시민권자 신청 절차 완벽 가이드

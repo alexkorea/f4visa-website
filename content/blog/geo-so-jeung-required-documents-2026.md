@@ -1,7 +1,7 @@
 ---
 title: "거소증 필요서류 — F-4 재외동포 거소증 신청 서류 체크리스트 2026"
 date: "2026-05-23"
-image: "/blog/korean-family-diaspora.jpg"
+image: "/blog/geo-so-jeung-required-documents-2026.jpg"
 excerpt: "F-4 비자 거소증 발급에 필요한 서류 목록을 국적별(미국·캐나다·일본·호주 등), 상황별(첫 신청·갱신·분실)로 정리한 체크리스트입니다."
 ---
 

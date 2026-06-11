@@ -1,7 +1,7 @@
 ---
 title: "거소증 신청 방법 — F-4 재외동포 거소증 발급 완전 가이드 2026"
 date: "2026-05-23"
-image: "/blog/korean-residence.jpg"
+image: "/blog/geo-so-jeung-guide-2026.jpg"
 excerpt: "재외동포(F-4) 비자 취득 후 거소증 신청 방법, 필요 서류, 처리 기간, 갱신 절차를 2026년 최신 기준으로 정리합니다."
 ---
 

@@ -3,7 +3,7 @@ title: "F-4 비자 중국동포 신청 자격과 제한 완벽 정리"
 date: "2026-04-19"
 category: "F-4비자"
 excerpt: "중국동포가 F-4 재외동포 비자를 받기 위한 자격 요건, 제한 직종, 실무상 막히는 부분을 정리했습니다."
-image: "/blog/korean-family-diaspora.jpg"
+image: "/blog/f4-visa-chinese-koreans.jpg"
 slug: "f4-visa-chinese-koreans"
 ---
 # F-4 비자 중국동포 신청 자격과 제한 완벽 정리

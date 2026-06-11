@@ -4,7 +4,7 @@ date: "2026-05-27"
 slug: "f4-visa-f5-conversion-20260527"
 description: "F-4 재외동포 비자 소지자가 F-5 영주권으로 전환하는 요건과 절차를 2026년 기준으로 안내합니다. 포인트 점수제, 필요 서류, 신청 방법 총정리."
 category: "F-5 영주권"
-image: "/public/blog/korea-permanent.jpg"
+image: "/blog/f4-visa-f5-conversion-20260527.jpg"
 ---
 
 # F-4 재외동포 비자에서 F-5 영주권 전환 방법 2026

@@ -5,7 +5,7 @@ date: "2026-05-26"
 slug: "f4-visa-employment-work-rights"
 author: "비전행정사사무소"
 category: "취업·활동"
-image: "/images/f4-visa-hero.jpg"
+image: "/blog/f4-visa-employment-work-rights.jpg"
 ---
 
 ## 목차

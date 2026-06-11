@@ -3,7 +3,7 @@ title: "F-4 비자에서 F-5 영주권 전환 요건 완벽 정리"
 date: "2026-05-23"
 category: "영주권"
 excerpt: "F-4 거소증 보유자가 F-5 영주권으로 전환할 때 실제 심사에서 막히는 요건과 서류를 한 번에 정리합니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/blog/f4-to-f5-eligibility-requirements.jpg"
 slug: "f4-to-f5-eligibility-requirements"
 ---
 # F-4 비자에서 F-5 영주권 전환 요건 완벽 정리

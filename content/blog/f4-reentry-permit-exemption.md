@@ -3,7 +3,7 @@ title: "F-4 비자 재입국허가 면제와 유효기간 완벽 정리"
 date: "2026-05-27"
 category: "재입국"
 excerpt: "F-4 비자 소지자의 재입국허가 면제 조건과 유효기간을 실무 기준으로 정리합니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/blog/f4-reentry-permit-exemption.jpg"
 slug: "f4-reentry-permit-exemption"
 ---
 # F-4 비자 재입국허가 면제와 유효기간 완벽 정리

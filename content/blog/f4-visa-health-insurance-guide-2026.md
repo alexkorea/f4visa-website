@@ -1,7 +1,7 @@
 ---
 title: "F-4 비자 건강보험 — 재외동포 건강보험 가입 완전 가이드 2026"
 date: "2026-05-23"
-image: "/blog/korean-residence.jpg"
+image: "/blog/f4-visa-health-insurance-guide-2026.jpg"
 excerpt: "F-4 재외동포 비자 소지자의 건강보험 가입 의무, 지역가입자 보험료 산정 방식, 직장가입자 전환 요건을 출입국관리법 기준으로 정리합니다."
 ---
 

@@ -3,7 +3,7 @@ title: "F-4 거소증 주소 변경 신고 방법 — 기한·서류·절차 총
 date: "2026-05-15"
 category: "거소증"
 excerpt: "F-4 거소증 소지자는 주소 변경일로부터 14일 이내에 출입국사무소에 체류지 변경신고를 해야 하며, 기한을 넘기면 과태료 부과 및 체류 심사 불이익이 생깁니다."
-image: "/blog/korean-residence.jpg"
+image: "/blog/f4-address-change-notification.jpg"
 slug: "f4-address-change-notification"
 ---
 # F-4 거소증 주소 변경 신고 방법 — 기한·서류·절차 총정리

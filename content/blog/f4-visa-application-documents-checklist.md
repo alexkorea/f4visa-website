@@ -3,7 +3,7 @@ title: "F-4 재외동포 비자 신청 서류 체크리스트 (미국·캐나다
 date: "2026-05-19"
 category: "F-4비자"
 excerpt: "미국·캐나다·호주 재외동포를 위한 F-4 비자 신청 서류 완전 가이드. 공통 필수 서류부터 국가별 차이, 영사관 제출 방법까지 체크리스트로 정리했습니다."
-image: "/blog/immigration-documents.jpg"
+image: "/blog/f4-visa-application-documents-checklist.jpg"
 slug: "f4-visa-application-documents-checklist"
 author: "비전행정사사무소"
 ---

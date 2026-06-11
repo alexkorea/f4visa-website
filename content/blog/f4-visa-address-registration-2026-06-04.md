@@ -2,7 +2,7 @@
 title: "F-4 재외동포 비자 외국인 등록과 거주지 신고 의무 2026"
 date: "2026-06-04"
 category: "F-4 비자"
-image: "/public/blog/korean-residence.jpg"
+image: "/blog/f4-visa-address-registration-2026-06-04.jpg"
 excerpt: "F-4 비자 소지자의 외국인 등록 및 거주지 신고 의무, 변경 신고 기한, 미신고 시 과태료를 안내합니다."
 ---
 

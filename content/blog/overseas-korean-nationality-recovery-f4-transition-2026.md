@@ -5,7 +5,7 @@ date: "2026-05-28"
 slug: "overseas-korean-nationality-recovery-f4-transition-2026"
 author: "비전행정사사무소"
 category: "국적회복"
-image: "/images/f4-nationality-guide.jpg"
+image: "/blog/overseas-korean-nationality-recovery-f4-transition-2026.jpg"
 ---
 
 해외 장기 거주 중인 재외동포가 한국으로 귀환을 준비할 때 국적회복을 신청할지, F-4 재외동포 비자로 장기 체류할지 선택이 필요합니다.

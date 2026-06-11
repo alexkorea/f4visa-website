@@ -3,7 +3,7 @@ title: "F-4 비자 취업 신고 의무와 과태료 완전 정리"
 date: "2026-05-19"
 category: ""
 excerpt: "F-4 비자 소지자는 취업 시 15일 이내 신고가 의무이며 미신고 시 과태료가 부과됩니다."
-image: "/blog/korean-family-diaspora.jpg"
+image: "/blog/f4-visa-employment-report-obligation.jpg"
 slug: "f4-visa-employment-report-obligation"
 ---
 # F-4 비자 취업 신고 의무와 과태료 완전 정리

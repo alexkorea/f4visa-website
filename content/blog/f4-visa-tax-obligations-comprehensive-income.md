@@ -3,7 +3,7 @@ title: "F-4 비자 세금 신고 의무와 종합소득 완벽 정리 2026"
 date: "2026-05-30"
 category: "세금"
 excerpt: "F-4 비자 소지자의 거주자·비거주자 판정부터 종합소득세 신고 의무, 해외소득 합산 여부까지 실무 기준으로 정리합니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/blog/f4-visa-tax-obligations-comprehensive-income.jpg"
 slug: "f4-visa-tax-obligations-comprehensive-income"
 ---
 # F-4 비자 세금 신고 의무와 종합소득, 실무에서 가장 자주 막히는 지점

@@ -5,7 +5,7 @@ date: "2026-05-28"
 slug: "jaeil-gyopo-f4-visa-application-guide-2026"
 author: "비전행정사사무소"
 category: "F-4 비자"
-image: "/images/f4-visa-guide.jpg"
+image: "/blog/jaeil-gyopo-f4-visa-application-guide-2026.jpg"
 ---
 
 재일교포(在日僑胞)는 F-4 재외동포 비자를 통해 한국에서 장기 체류하며 취업·사업 등 내국인에 준하는 활동이 가능합니다.

@@ -1,8 +1,8 @@
 import { NextResponse } from "next/server"
 import { saveToCRM } from "@/lib/notion-crm"
 
-const RESEND_API_KEY = process.env.RESEND_API_KEY || ""
-const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN || ""
+const RESEND_API_KEY = "re_HjCDn9tA_QJvND2F4eFjagyEZ3fXP4kZS"
+const TELEGRAM_BOT_TOKEN = "8748564690:AAEGsXxcfqrHmGue8lkqUaa2E0Q8CDCY-Eo"
 const TELEGRAM_CHAT_ID = "5533847195"
 
 function buildEmailHtml(name: string, services: string[], inquiryId: string): string {

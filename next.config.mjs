@@ -8,12 +8,6 @@ const nextConfig = {
   },
   async redirects() {
     return [
-      {
-        source: '/:path*',
-        has: [{ type: 'host', value: 'f4visa.net' }],
-        destination: 'https://www.f4visa.net/:path*',
-        permanent: true,
-      },
       // Duplicate content 301 redirects
       { source: '/blog/f4-domestic-residence-report-procedure', destination: '/blog/f4-domestic-residence-filing-steps', permanent: true },
       { source: '/blog/f4-domestic-residence-registration', destination: '/blog/f4-domestic-residence-filing-steps', permanent: true },

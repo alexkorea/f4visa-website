@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "include": ["/*"],
+  "exclude": [
+    "/_next/static/*",
+    "/team/*",
+    "/qr/*",
+    "/slides/*",
+    "/blog/images/*",
+    "/favicon.ico",
+    "/robots.txt",
+    "/*.png",
+    "/*.svg",
+    "/*.jpg",
+    "/*.ico"
+  ]
+}

@@ -15,3 +15,7 @@ node_modules
 .next/
 .DS_Store
 .vercel
+
+# cloudflare / opennext build output
+.open-next/
+.wrangler/

@@ -5,7 +5,10 @@ const config = {
       wrapper: "cloudflare-node",
       converter: "edge",
       proxyExternalRequest: "fetch",
-      incrementalCache: "dummy",
+      incrementalCache: async () => {
+        const { default: cache } = await import("@opennextjs/cloudflare/overrides/incremental-cache/static-assets-incremental-cache");
+        return cache;
+      },
       tagCache: "dummy",
       queue: "direct",
     },

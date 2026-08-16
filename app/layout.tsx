@@ -37,6 +37,7 @@ const notoSerifKR = Noto_Serif_KR({
 export const metadata: Metadata = {
   metadataBase: new URL('https://www.f4visa.net'),
   verification: {
+    other: { 'naver-site-verification': 'dc4adcc17a4c9ad499c5061d8b6bb6ca120030f6', 'msvalidate.01': '9040F35010B56E1A9C560DD7708280D7' },
     google: '3uKewla1bSzyVlVNz1xP2GbGx-4NHiQJ4nKXl_FOk-4',
   },
   title: {

@@ -22,7 +22,7 @@ slug: "f4-visa-work-permitted-industry-restriction-list"
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 인구감소지역 특례 — 단순노무도 허용되는 경우</a></li>
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 위반 시 불이익과 취업 전 실무 체크</a></li>
     <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 비전행정사사무소 F-4 서비스 안내</a></li>
+    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
     <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
     <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
   </ul>
@@ -198,7 +198,7 @@ E-7 등 취업비자와 달리 근무처 지정·변경 허가가 원칙적으�
 법무부 고시와 [하이코리아](https://www.hikorea.go.kr) 공지에서 확인할 수 있습니다.
 지역·직종 요건을 동시에 봐야 하므로, 본인 사례 기준 적용 여부는 상담으로 확인하는 편이 정확합니다.
 
-<h2 id="section-8">비전행정사사무소 F-4 서비스 안내</h2>
+<h2 id="section-8">행정사사무소 이룸 F-4 서비스 안내</h2>
 
 **가장 신속히 허가되는 출입국사무소를 찾아서 진행해 드립니다.**
 **한국내 최소체류기간으로 처리 가능합니다.**
@@ -214,13 +214,13 @@ E-7 등 취업비자와 달리 근무처 지정·변경 허가가 원칙적으�
 <h2 id="section-9">전문가 상담이 필요하신가요?</h2>
 
 F-4 취업 제한은 직종의 이름이 아니라 업무의 실질로 판단되기 때문에, 취업 전 검토가 적발 후 대응보다 비용과 시간 모두 아낍니다.
-우리 비전행정사는 최대한 빨리 허가받게 하기 위해서 지속적으로 노력하고 있습니다.
+우리 행정사사무소 이룸은 최대한 빨리 허가받게 하기 위해서 지속적으로 노력하고 있습니다.
 비용은 사례별로 상이하므로 무료 상담 시 정확히 안내드립니다.
 
-**비전 행정사사무소 (VISION Administrative Office)**
+**행정사사무소 이룸 (EROOM Administrative Office)**
 
 - 전화: 02-363-2251
-- 이메일: 5000meter@gmail.com
+- 이메일: teamone163@gmail.com
 - 카카오톡: alexkorea
 - 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - 상담시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)

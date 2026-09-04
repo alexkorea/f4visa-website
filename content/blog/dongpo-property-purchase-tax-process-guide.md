@@ -1,12 +1,14 @@
 ---
-title: "재외동포 부동산 취득 절차와 세금, 계약 전에 확인할 것들"
+title: "재외동포 부동산 취득세 — 세율·과세표준·계산법 2026"
 date: "2026-08-08"
 category: "재외동포"
 excerpt: "외국 국적 재외동포의 한국 부동산 취득 절차, 취득 신고 기한, 해외자금 반입, 취득·보유·양도 단계별 세금과 실무에서 자주 막히는 서류 문제를 안내합니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/blog/f4-visa-real-estate-purchase-guide-2026.jpg"
+description: "재외동포 부동산 취득세의 과세표준과 세율 구조, 주택·토지별 계산 방식과 다주택 중과 여부, 신고·납부 절차를 사례 중심으로 설명합니다."
+partner: "taxguide"
 slug: "dongpo-property-purchase-tax-process-guide"
 ---
-# 재외동포 부동산 취득 절차와 세금, 계약 전에 확인할 것들
+# 재외동포 부동산 취득세 — 세율·과세표준·계산법 2026
 
 외국 국적 재외동포도 한국 부동산을 취득할 수 있고, 국내거소신고를 마친 동포는 재외동포법 제11조에 따라 부동산 거래에서 대한민국 국민과 동등한 대우를 받습니다.
 대상은 F-4 비자와 국내거소신고증(거소증)을 가진 외국국적동포, 그리고 거소증 없이 해외에서 취득을 준비하는 동포입니다.
@@ -21,9 +23,6 @@ slug: "dongpo-property-purchase-tax-process-guide"
     <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 취득세부터 양도소득세까지, 단계별 세금 구조</a></li>
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 실무에서 자주 막히는 서류 문제</a></li>
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 비전행정사사무소 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 전문가 상담 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
   </ul>
 </nav>
 
@@ -94,7 +93,6 @@ slug: "dongpo-property-purchase-tax-process-guide"
 현금 휴대 반입이나 가족 간 이체로 자금을 옮긴 경우가 실무에서 가장 자주 걸리는 유형입니다.
 본인 자금 구조에 맞는 신고 방식은 사안마다 달라, 송금 전에 전문가 확인이 필요합니다.
 
-**지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea**
 
 <h2 id="section-4">취득세부터 양도소득세까지, 단계별 세금 구조</h2>
 
@@ -175,7 +173,6 @@ F-4 거소증이 있어도 세법상 비거주자일 수 있고, 그 반대도 �
 시민권 취득 시점에 한국 국적은 이미 자동 상실된 상태입니다.
 주민등록번호로 내국인처럼 계약하면 등기·세무 단계에서 문제가 드러나므로, 국적상실신고와 신분 정리를 먼저 끝내야 안전합니다.
 
-<h2 id="section-7">비전행정사사무소 F-4 서비스 안내</h2>
 
 **가장 신속히 허가되는 출입국사무소를 찾아서 진행해 드립니다.**
 **한국내 최소체류기간으로 처리 가능합니다.**
@@ -187,29 +184,3 @@ F-4 거소증이 있어도 세법상 비거주자일 수 있고, 그 반대도 �
 5. 숙박관련 숙박제공자와의 연락
 
 정확한 비용은 사례별로 상이하므로 무료 상담 시 안내드립니다.
-
-<h2 id="section-8">전문가 상담 안내</h2>
-
-부동산 취득은 신분 정리, 자금 반입, 세금 판정이 맞물려 돌아가는 절차라, 한 단계가 꼬이면 전체 일정이 밀립니다.
-우리 비전행정사는 최대한 빨리 허가받게 하기 위해서 지속적으로 노력하고 있습니다.
-비용은 사례별로 상이하므로 무료 상담 시 정확히 안내드립니다.
-
-**비전 행정사사무소 (VISION Administrative Office)**
-
-- ✔ 한국 서류 발급대행 — 기본증명서(상세), 가족관계증명서(상세), 제적등본
-- ✔ F-4 거소증 신청대행 및 수령·발송 (거소허가번호 발급 후 출국 가능)
-- ✔ 서울 내 임시주소 제공 (별도 비용 안내)
-
-**Tel. 02-363-2251 | E. 5000meter@gmail.com**
-카카오톡 아이디: alexkorea
-주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
-평일 09:30 — 17:30 (점심 12:00 — 13:00)
-
----
-
-<h2 id="section-9">전문가 상담이 필요하신가요?</h2>
-
-복잡한 절차, 혼자 고민하지 마세요. 전문 행정사가 친절하게 안내해 드립니다.
-
-**[무료 상담 신청하기](https://f4visa.net/contact)**
-

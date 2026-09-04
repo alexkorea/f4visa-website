@@ -21,7 +21,7 @@ E-1(교수)·E-3(연구)으로 한국에 체류 중인 한국계 외국인은 �
     <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 실제 심사에서 갈리는 지점</a></li>
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 전환 후 교수·연구원 활동 범위</a></li>
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 처리 기간과 관할 선택</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 비전행정사사무소 F-4 서비스 안내</a></li>
+    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
     <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문</a></li>
     <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
     <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
@@ -66,7 +66,7 @@ E-1·E-3 자격으로 한국 여권을 들고 입국·체류해 온 분이라면
 변경 가능 여부는 현재 자격 잔여기간, 국적상실신고 완료 여부, 시민권 취득 시점에 따라 갈립니다.
 관할 출입국·외국인청별 처리 속도도 다릅니다.
 
-> **실무 팁:** 비전행정사는 가장 신속히 허가되는 출입국사무소를 찾아서 진행해 드립니다. 본인 거주지 관할이 반드시 가장 빠른 곳은 아닙니다.
+> **실무 팁:** 행정사사무소 이룸은 가장 신속히 허가되는 출입국사무소를 찾아서 진행해 드립니다. 본인 거주지 관할이 반드시 가장 빠른 곳은 아닙니다.
 
 ### 기본 서류 흐름
 
@@ -133,7 +133,7 @@ E-1·E-3에서 제한되던 외부 강연, 자문, 저술 활동의 자유도가
 
 > **주의:** 무범죄경력증명서 유효기간이 임박한 상태에서 늦은 관할로 들어가면 재발급이 발생합니다. 처리 기간은 출입국사무소별로 다르며, 가장 빠른 곳을 찾아 진행해 드립니다.
 
-<h2 id="section-7">비전행정사사무소 F-4 서비스 안내</h2>
+<h2 id="section-7">행정사사무소 이룸 F-4 서비스 안내</h2>
 
 **가장 신속히 허가되는 출입국사무소를 찾아서 진행해 드립니다.**
 **한국내 최소체류기간으로 처리 가능합니다.**
@@ -178,15 +178,15 @@ F-4는 부동산 거래·사업자등록에서 제약이 적은 자격입니다.
 E-1·E-3에서 F-4로 전환할 때 실제로 시간이 새는 지점은 국적상실 정리, 시민권증서 원본 처리, 관할 선택입니다.
 학기 일정에 맞추려면 역산이 먼저입니다.
 
-**비전 행정사사무소 (VISION Administrative Office)**
+**행정사사무소 이룸 (EROOM Administrative Office)**
 
 - 전화: 02-363-2251
-- 이메일: 5000meter@gmail.com
+- 이메일: teamone163@gmail.com
 - 카카오톡: alexkorea
 - 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - 상담 시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)
 
-비전행정사는 최대한 빨리 허가받게 하기 위해서 지속적으로 노력하고 있습니다.
+행정사사무소 이룸은 최대한 빨리 허가받게 하기 위해서 지속적으로 노력하고 있습니다.
 
 ---
 

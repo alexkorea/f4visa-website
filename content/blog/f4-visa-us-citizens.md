@@ -23,7 +23,7 @@ slug: "f4-visa-us-citizens"
     <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 처리 기간·수수료·거소증 발급</a></li>
     <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 하는 실수와 반려 사례</a></li>
     <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문(FAQ)</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 비전 행정사사무소 상담 안내</a></li>
+    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 행정사사무소 이룸 상담 안내</a></li>
   </ul>
 </nav>
 
@@ -273,7 +273,7 @@ F-4는 크게 두 경로로 받습니다. 어느 쪽이 빠를지는 현재 위�
 반대로 미국에서 공관 신청이 유리한 경우는, 한국 내 임시 주소 확보가 어렵고 시민권 기록·가족 서류가 이미 잘 정리되어 있는 경우입니다.
 
 <div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 실무 팁:</strong> 미국 공관 신청 대기가 길거나 서류 보완이 반복될 것 같으면, 단기 비자로 한국에 들어와 국내에서 체류자격 변경으로 전환하는 쪽이 실제로 더 빠릅니다. 비전 행정사사무소는 이 경우를 대비해 서울 내 임시주소 제공까지 지원합니다.
+  <strong style="color:#1e40af">💡 실무 팁:</strong> 미국 공관 신청 대기가 길거나 서류 보완이 반복될 것 같으면, 단기 비자로 한국에 들어와 국내에서 체류자격 변경으로 전환하는 쪽이 실제로 더 빠릅니다. 행정사사무소 이룸는 이 경우를 대비해 서울 내 임시주소 제공까지 지원합니다.
 </div>
 
 
@@ -495,9 +495,9 @@ FBI 서류에 아포스티유가 없으면 보완 요구가 나옵니다. 미국
 
 가능합니다. F-4는 재외동포 체류자격으로 별도 고용허가 없이 취업할 수 있고, 사업자등록·법인 설립·부동산 취득도 가능합니다. 다만 단순노무직 등 일부 제한 직종이 있어 해당 업종에 종사할 계획이라면 사전 확인이 필요합니다. 참정권 등 국민에게만 귀속되는 권리는 외국인 신분이라 행사할 수 없습니다.
 
-## 비전 행정사사무소 상담 안내
+## 행정사사무소 이룸 상담 안내
 
-비전 행정사사무소는 F-4 재외동포 비자, 국적상실·국적회복, 거소증 발급 실무를 집중적으로 처리해 왔습니다. 미국 시민권자의 F-4 신청은 서류보다 **국적상실·혈연 서류의 동일인 확인**이 먼저 풀려야 일이 빠르게 흘러가는 영역입니다. 비전행정사는 이 부분을 최대한 빨리 허가받게 하기 위해서 지속적으로 노력하고 있습니다.
+행정사사무소 이룸는 F-4 재외동포 비자, 국적상실·국적회복, 거소증 발급 실무를 집중적으로 처리해 왔습니다. 미국 시민권자의 F-4 신청은 서류보다 **국적상실·혈연 서류의 동일인 확인**이 먼저 풀려야 일이 빠르게 흘러가는 영역입니다. 행정사사무소 이룸은 이 부분을 최대한 빨리 허가받게 하기 위해서 지속적으로 노력하고 있습니다.
 
 ### 지원 업무
 
@@ -519,7 +519,7 @@ FBI 서류에 아포스티유가 없으면 보완 요구가 나옵니다. 미국
   <tbody>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">사무소</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">비전 행정사사무소 (VISION Administrative Office)</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">행정사사무소 이룸 (EROOM Administrative Office)</td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">전화</td>
@@ -527,7 +527,7 @@ FBI 서류에 아포스티유가 없으면 보완 요구가 나옵니다. 미국
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">이메일</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">5000meter@gmail.com</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">teamone163@gmail.com</td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">카카오톡</td>

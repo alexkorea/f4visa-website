@@ -3,7 +3,7 @@ title: "F-4 재외동포 거소증 신청 절차 — 외국인등록과의 차�
 description: "F-4 비자 입국 후 거소신고와 외국인등록의 차이, 거소증 신청 방법, 발급 기관을 실무 기준으로 정리했습니다."
 date: "2026-05-24"
 slug: "f4-visa-goso-registration-guide-2026"
-author: "비전행정사사무소"
+author: "행정사사무소 이룸"
 category: "F-4 거소증"
 image: "/blog/2026-05-24-f4-visa-goso-registration.jpg"
 ---
@@ -123,7 +123,7 @@ F-4 비자로 입국한 재외동포가 **91일 이상 국내 체류**하면 거
 
 ---
 
-거소증 신청과 갱신은 비교적 간단하지만 건강보험 처리와 체류 기간 관리가 중요합니다. **비전행정사사무소(02-363-2251)**에서 거소증 발급·갱신 전 과정을 안내해 드립니다.
+거소증 신청과 갱신은 비교적 간단하지만 건강보험 처리와 체류 기간 관리가 중요합니다. **행정사사무소 이룸(02-363-2251)**에서 거소증 발급·갱신 전 과정을 안내해 드립니다.
 
 <div style="background:#0056B3;color:#fff;padding:20px;border-radius:8px;text-align:center;margin-top:32px;">
 <strong>F-4 거소증 전문 상담</strong><br/>

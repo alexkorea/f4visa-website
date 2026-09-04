@@ -1,0 +1,67 @@
+/* ============================================================
+   f4visa.net DESIGN TOKENS  (행정사사무소 이룸)
+   WEBSITE STANDARD v2.0 §5-1 — 사이트당 토큰 파일 1개.
+   모든 색·타이포·간격·모서리·그림자는 이 파일에서만 정의한다.
+   ============================================================ */
+
+:root {
+  /* ── 색상: 5개 (배경 / 본문 / 보조 / 브랜드 / 강조CTA) ── */
+  --c-bg:        #fafaf8;   /* 배경 (순백 아님) */
+  --c-ink:       #1b2430;   /* 본문 텍스트 (순검정 아님) */
+  --c-muted:     #59636f;   /* 보조 텍스트 (대비 5.9:1) */
+  --c-brand:     #0f4c4a;   /* 브랜드 (딥 틸) */
+  --c-cta:       #b45309;   /* 강조 = CTA 전용. 링크·아이콘·배경 재사용 금지 */
+
+  /* ── 중립 단계: 4단계 (표준 §5-1 "5단계 이내") ── */
+  --c-surface:     #ffffff;
+  --c-surface-alt: #f2f4f1;
+  --c-line:        #e2e6e1;
+  --c-ink-invert:  #f6f7f5;  /* 어두운 면 위 텍스트 (순백 아님) */
+
+  /* 파생값(투명도) — 새 색상이 아니라 위 5색의 알파 변형만 허용 */
+  --c-brand-tint:  rgba(15, 76, 74, 0.08);
+  --c-brand-line:  rgba(15, 76, 74, 0.24);
+  --c-cta-shadow:  rgba(180, 83, 9, 0.28);
+  --c-scrim:       rgba(16, 26, 22, 0.62); /* 히어로 이미지 오버레이 */
+
+  /* ── 타이포: 1종 (Pretendard) ── */
+  --font-body: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont,
+               "Apple SD Gothic Neo", "Segoe UI", Roboto, sans-serif;
+
+  /* 크기 스케일 고정: 14 / 16 / 18 / 20 / 24 / 32 / 40 / 56 */
+  --fs-14: 0.875rem;
+  --fs-16: 1rem;
+  --fs-18: 1.125rem;
+  --fs-20: 1.25rem;
+  --fs-24: 1.5rem;
+  --fs-32: 2rem;
+  --fs-40: 2.5rem;
+  --fs-56: 3.5rem;
+
+  --lh-body:    1.7;   /* 1.6~1.75 */
+  --lh-heading: 1.25;  /* 1.15~1.3 */
+  --fw-regular: 400;
+  --fw-semi:    600;
+  --fw-bold:    700;
+  --measure:    720px; /* 본문 최대 폭 65~75자 */
+
+  /* ── 간격: 8px 배수만 ── */
+  --s-8: 8px;   --s-16: 16px; --s-24: 24px; --s-32: 32px;
+  --s-48: 48px; --s-64: 64px; --s-96: 96px; --s-128: 128px;
+  --section-y-mobile:  64px;
+  --section-y-desktop: 96px;
+
+  /* ── 모서리 2단계 / 그림자 2단계 ── */
+  --tk-radius-sm: 8px;
+  --tk-radius-lg: 16px;
+  --shadow-1: 0 1px 2px rgba(27, 36, 48, 0.06);
+  --shadow-2: 0 8px 24px rgba(27, 36, 48, 0.10);
+
+  /* ── 컴포넌트 규격 ── */
+  --btn-h-mobile:  48px;
+  --btn-h-desktop: 44px;
+  --tap-min:       44px;
+  --container:     1200px;
+  --header-h:      64px;
+  --mobile-bar-h:  64px;
+}

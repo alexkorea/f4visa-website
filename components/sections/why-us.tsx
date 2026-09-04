@@ -3,7 +3,7 @@ import { Users, FileCheck, Send } from "lucide-react"
 const valueProps = [
   {
     title: "풍부한 경험의 행정전문가들",
-    description: "15년 이상의 재외동포 업무 경험을 보유한 행정 전문가들이 복잡한 케이스도 정확하게 처리합니다. 수천 건의 성공 사례를 바탕으로 최적의 솔루션을 제안해 드립니다.",
+    description: "재외동포 업무만 전담하는 행정사가 사안별 요건을 검토하고, 서류 준비부터 제출까지 절차를 관리합니다.",
     icon: Users,
   },
   {
@@ -20,13 +20,13 @@ const valueProps = [
 
 export function WhyUsSection() {
   return (
-    <section className="bg-background py-8 lg:py-10">
-      <div className="mx-auto max-w-7xl px-4 lg:px-8">
+    <section className="section">
+      <div className="container-x">
         <div className="mb-8 text-center">
-          <p className="text-sm font-medium uppercase tracking-wider text-accent">
+          <p className="text-sm font-medium uppercase tracking-wider text-primary">
             Why Choose Us
           </p>
-          <h2 className="mt-3 text-3xl font-bold text-foreground md:text-4xl">
+          <h2 className="mt-4 text-3xl font-bold text-foreground md:text-4xl">
             왜 저희를 선택해야 할까요?
           </h2>
           <p className="mx-auto mt-4 max-w-2xl text-muted-foreground">
@@ -40,18 +40,18 @@ export function WhyUsSection() {
           {valueProps.map((prop, index) => (
             <div 
               key={prop.title} 
-              className="group relative rounded-2xl border border-border/50 bg-card p-8 transition-all hover:border-primary/30 hover:shadow-lg"
+              className="group relative rounded-2xl border border-border bg-card p-8 transition-all hover:border-primary/30 hover:shadow-lg"
             >
               {/* Number indicator */}
               <div className="absolute -top-4 left-6 flex h-8 w-8 items-center justify-center rounded-full bg-primary text-sm font-semibold text-primary-foreground">
                 {index + 1}
               </div>
               
-              <div className="mb-5 flex h-14 w-14 items-center justify-center rounded-xl bg-primary/10">
+              <div className="mb-6 flex h-14 w-14 items-center justify-center rounded-xl bg-primary/10">
                 <prop.icon className="h-7 w-7 text-primary" />
               </div>
               
-              <h3 className="mb-3 text-xl font-semibold text-foreground">
+              <h3 className="mb-4 text-xl font-semibold text-foreground">
                 {prop.title}
               </h3>
               

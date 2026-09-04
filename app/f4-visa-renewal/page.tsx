@@ -1,28 +1,31 @@
 import Link from "next/link"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
+import { PageHero } from "@/components/page-hero"
+import { SITE } from "@/lib/site"
+import { Faq, type FaqItem } from "@/components/faq"
+import { CtaSection } from "@/components/cta-section"
+import { ServiceJsonLd } from "@/components/structured-data"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { Button } from "@/components/ui/button"
 import { CalendarCheck, FileText, Building2, Quote } from "lucide-react"
 
 export const metadata = {
-  title: "F-4 비자 연장 절차 및 필요서류 안내",
+  title: "F-4 비자 연장 — 필요서류와 절차, 신청 시기",
   description:
-    "재외동포 F-4 비자 연장 절차, 필요서류, 신청 방법을 안내합니다. 체류 만료일 4개월 전부터 신청 가능합니다.",
-  alternates: { canonical: "https://www.f4visa.net/f4-visa-renewal" },
+    "F-4 재외동포 비자 체류기간 연장의 신청 시기와 필요 서류, 관할 출입국·외국인청 접수 절차를 정리했습니다. 연장 지연 시 불이익과 준비 순서를 행정사가 안내합니다.",
+  alternates: { canonical: `${SITE.url}/f4-visa-renewal` },
   openGraph: {
-    title: "F-4 비자 연장 절차 및 필요서류 안내 | 비전행정사사무소",
-    description:
-      "재외동포 F-4 비자 연장 절차, 필요서류, 신청 방법을 안내합니다.",
-    url: "https://www.f4visa.net/f4-visa-renewal",
-    siteName: "비전행정사사무소",
+    title: "F-4 비자 연장 — 필요서류와 절차, 신청 시기 | 행정사사무소 이룸",
+    description: "F-4 재외동포 비자 체류기간 연장의 신청 시기와 필요 서류, 관할 출입국·외국인청 접수 절차를 정리했습니다. 연장 지연 시 불이익과 준비 순서를 행정사가 안내합니다.",
+    url: `${SITE.url}/f4-visa-renewal`,
+    siteName: SITE.name,
     type: "website",
   },
   twitter: {
     card: "summary_large_image" as const,
-    title: "F-4 비자 연장 절차 및 필요서류 안내 | 비전행정사사무소",
-    description:
-      "재외동포 F-4 비자 연장 절차, 필요서류, 신청 방법을 안내합니다.",
+    title: "F-4 비자 연장 — 필요서류와 절차, 신청 시기 | 행정사사무소 이룸",
+    description: "F-4 재외동포 비자 체류기간 연장의 신청 시기와 필요 서류, 관할 출입국·외국인청 접수 절차를 정리했습니다. 연장 지연 시 불이익과 준비 순서를 행정사가 안내합니다.",
   },
 }
 
@@ -81,29 +84,23 @@ const faqs = [
 export default function F4VisaRenewalPage() {
   return (
     <div className="flex min-h-screen flex-col">
+      <ServiceJsonLd
+        name="F-4 비자 연장 대행"
+        description="재외동포 F-4 비자 연장 절차, 필요서류, 신청 방법을 안내합니다. 체류 만료일 4개월 전부터 신청 가능합니다."
+        url={`${SITE.url}/f4-visa-renewal`}
+      />
       <Header />
-      <main className="flex-1">
+      <main id="main" className="flex-1">
         <PageBreadcrumb items={[{ label: "F-4 비자 연장", path: "/f4-visa-renewal" }]} />
-        {/* Hero */}
-        <section className="relative w-full min-h-[300px] flex items-center py-16">
-          <div className="hero-bg absolute inset-0">
-            <img src="/slides/documents.jpg" alt="F-4 비자 연장 절차 및 필요서류 안내" className="w-full h-full object-cover" />
-            <div className="absolute inset-0 bg-black/50" />
-          </div>
-          <div className="relative mx-auto max-w-7xl px-4 text-center lg:px-8">
-            <h1 className="text-3xl font-bold text-white md:text-4xl lg:text-5xl">
-              F-4 비자 연장 절차 및 필요서류 안내
-            </h1>
-            <p className="mx-auto mt-4 max-w-2xl text-lg text-white/80">
-              안정적인 체류를 위한 필수 가이드
-            </p>
-          </div>
-        </section>
+        <PageHero
+          title="F-4 비자 연장 절차 및 필요서류 안내"
+          subtitle="안정적인 체류를 위한 필수 가이드"
+        />
 
         {/* Intro */}
-        <section className="bg-background py-8 md:py-12">
-          <div className="mx-auto max-w-7xl px-4 lg:px-8">
-            <div className="mx-auto max-w-3xl">
+        <section className="section">
+          <div className="container-x">
+            <div className="measure">
               <h2 className="text-2xl font-bold text-foreground md:text-3xl">
                 재외동포 F-4 비자 연장
               </h2>
@@ -116,7 +113,7 @@ export default function F4VisaRenewalPage() {
 
               {/* Quote */}
               <div className="mt-6 rounded-2xl border-l-4 border-primary bg-card p-6 lg:p-8">
-                <Quote className="mb-3 h-8 w-8 text-primary/40" />
+                <Quote className="mb-4 h-8 w-8 text-primary/40" />
                 <blockquote className="text-lg italic leading-relaxed text-foreground">
                   &ldquo;F-4비자는 최초 최대 3년의 체류 기간이 부여됩니다. 만료 전
                   반드시 연장(체류기간 연장허가) 신청을 해야 하며, 연장 시에도
@@ -132,9 +129,9 @@ export default function F4VisaRenewalPage() {
         </section>
 
         {/* 신청 방법 */}
-        <section className="bg-secondary/30 py-8 md:py-12">
-          <div className="mx-auto max-w-7xl px-4 lg:px-8">
-            <div className="mx-auto max-w-3xl text-center">
+        <section className="section section-alt">
+          <div className="container-x">
+            <div className="measure">
               <h2 className="text-2xl font-bold text-foreground md:text-3xl">
                 F-4 비자 연장, 언제, 어떻게 신청하나요?
               </h2>
@@ -144,11 +141,11 @@ export default function F4VisaRenewalPage() {
                 있습니다.
               </p>
             </div>
-            <div className="mx-auto mt-12 grid max-w-4xl gap-4 sm:grid-cols-3">
+            <div className="mt-8 grid gap-4 sm:grid-cols-3">
               {steps.map((item) => (
                 <div
                   key={item.step}
-                  className="rounded-2xl border border-border/50 bg-card p-6 text-center"
+                  className="rounded-2xl border border-border bg-card p-6 text-center"
                 >
                   <div className="mx-auto mb-4 flex h-12 w-12 items-center justify-center rounded-xl bg-primary/10">
                     <item.icon className="h-6 w-6 text-primary" />
@@ -168,55 +165,12 @@ export default function F4VisaRenewalPage() {
           </div>
         </section>
 
-        {/* FAQ */}
-        <section className="bg-background py-8 md:py-12">
-          <div className="mx-auto max-w-7xl px-4 lg:px-8">
-            <div className="mx-auto max-w-3xl">
-              <h2 className="mb-6 text-center text-2xl font-bold text-foreground md:text-3xl">
-                자주 묻는 질문
-              </h2>
-              <div className="space-y-6">
-                {faqs.map((faq, i) => (
-                  <div
-                    key={i}
-                    className="rounded-2xl border border-border/50 bg-card p-6"
-                  >
-                    <h3 className="text-lg font-semibold text-foreground">
-                      Q: {faq.question}
-                    </h3>
-                    <p className="mt-3 leading-relaxed text-muted-foreground">
-                      {faq.answer}
-                    </p>
-                  </div>
-                ))}
-              </div>
-            </div>
-          </div>
-        </section>
+        <Faq items={faqs} />
 
-        {/* CTA */}
-        <section className="bg-primary py-8 md:py-12">
-          <div className="mx-auto max-w-7xl px-4 text-center lg:px-8">
-            <h2 className="text-2xl font-bold text-primary-foreground md:text-3xl">
-              F-4 비자 연장, 전문가에게 맡기세요
-            </h2>
-            <p className="mx-auto mt-4 max-w-xl text-primary-foreground/80">
-              비전행정사사무소가 서류 준비부터 접수까지 대행해 드립니다.
-            </p>
-            <div className="mt-8 flex flex-col items-center justify-center gap-4 sm:flex-row">
-              <Button size="lg" variant="secondary" asChild>
-                <Link href="/contact">상담 문의하기</Link>
-              </Button>
-              <Button
-                size="lg"
-                variant="secondary"
-                asChild
-              >
-                <a href="tel:010-2081-3408">전화 상담</a>
-              </Button>
-            </div>
-          </div>
-        </section>
+        <CtaSection
+          title="F-4 비자 연장, 전문가에게 맡기세요"
+          description="행정사사무소 이룸이 서류 준비부터 접수까지 대행해 드립니다."
+        />
       </main>
       <Footer />
     </div>

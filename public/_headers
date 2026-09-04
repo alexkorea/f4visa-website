@@ -1,0 +1,26 @@
+# Cloudflare Pages — WEBSITE STANDARD v2.0 §3 캐시 정책
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Frame-Options: SAMEORIGIN
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Permissions-Policy: geolocation=(), microphone=(), camera=()
+  Cache-Control: public, max-age=0, must-revalidate
+
+/_next/static/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/slides/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/team/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/qr/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/blog/*.jpg
+  Cache-Control: public, max-age=31536000, immutable
+
+/partners/*
+  Cache-Control: public, max-age=31536000, immutable

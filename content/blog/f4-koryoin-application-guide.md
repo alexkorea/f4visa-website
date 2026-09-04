@@ -21,7 +21,7 @@ slug: "f4-koryoin-application-guide"
     <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 실무에서 자주 막히는 지점</a></li>
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 단순노무 활동 제한</a></li>
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 법령 근거와 확인 경로</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 비전행정사사무소 F-4 서비스 안내</a></li>
+    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
     <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
     <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
     <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
@@ -203,7 +203,7 @@ F-4는 취업비자가 아니라 **체류 자격**입니다.
 > **주의:** 동일 서류라도 관할 출입국사무소·공관별로 요구 양식이 미세하게 다릅니다.
 > 본인 사례 기준의 정확한 적용 여부는 사전 확인이 안전합니다.
 
-<h2 id="section-7">비전행정사사무소 F-4 서비스 안내</h2>
+<h2 id="section-7">행정사사무소 이룸 F-4 서비스 안내</h2>
 
 **가장 신속히 허가되는 출입국사무소를 찾아서 진행해 드립니다.**
 **한국내 최소체류기간으로 처리 가능합니다.**
@@ -245,12 +245,12 @@ F-4 신청 시 **시민권증서 원본**이 요구되는 경우가 일반적입
 <h2 id="section-9">전문가 상담이 필요하신가요?</h2>
 
 고려인 F-4 신청은 **혈통 입증 서류의 연결**과 **본국·한국 서류의 동시 진행**이 핵심입니다.
-비전 행정사사무소는 가장 빨리 허가받을 수 있는 출입국사무소를 찾아 지속적으로 진행해 드리고 있습니다.
+행정사사무소 이룸는 가장 빨리 허가받을 수 있는 출입국사무소를 찾아 지속적으로 진행해 드리고 있습니다.
 
-**비전 행정사사무소 (VISION Administrative Office)**
+**행정사사무소 이룸 (EROOM Administrative Office)**
 
 - 전화: 02-363-2251
-- 이메일: 5000meter@gmail.com
+- 이메일: teamone163@gmail.com
 - 카카오톡: alexkorea
 - 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - 상담시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)

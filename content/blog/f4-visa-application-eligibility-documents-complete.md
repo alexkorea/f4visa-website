@@ -23,7 +23,7 @@ F-4 재외동포비자는 "한국 국적을 보유했던 사람" 또는 "그 직
     <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. F-4 비자 신청 절차와 처리 기간</a></li>
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 실무에서 가장 자주 막히는 지점</a></li>
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. F-4 거소증과 신청 자격의 연결</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 비전행정사사무소 F-4 서비스 안내</a></li>
+    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
     <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
     <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
     <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
@@ -141,7 +141,7 @@ C-3-8 사증을 통한 입국 후 국내 전환 방식이 일반적이며, 친�
 
 같은 서류여도 어느 사무소에 접수하느냐에 따라 처리 속도 차이가 크게 납니다.
 
-비전행정사사무소는 **가장 신속히 허가되는 출입국사무소를 찾아서 진행**합니다.
+행정사사무소 이룸는 **가장 신속히 허가되는 출입국사무소를 찾아서 진행**합니다.
 
 정확한 비용과 절차는 전문가 상담을 통해 확인하세요.
 **지금 무료 상담 신청 → 02-363-2251 / 카카오톡: alexkorea**
@@ -204,7 +204,7 @@ F-4 비자 발급과 거소증(외국인등록증) 발급은 별개의 절차입
 
 자세한 거소증 절차는 [하이코리아](https://www.hikorea.go.kr) 또는 [출입국·외국인정책본부](https://www.immigration.go.kr) 공식 안내를 함께 확인하세요.
 
-<h2 id="section-7">비전행정사사무소 F-4 서비스 안내</h2>
+<h2 id="section-7">행정사사무소 이룸 F-4 서비스 안내</h2>
 
 **가장 신속히 허가되는 출입국사무소를 찾아서 진행해 드립니다.**
 
@@ -262,12 +262,12 @@ F-4 비자 신청 자격과 필요서류는 **국적 이력·거주국·가족�
 
 서류 하나가 빠지거나 유효기간이 지나면 처음부터 다시 시작해야 하는 경우도 흔합니다.
 
-비전 행정사사무소는 가장 신속히 허가되는 출입국사무소를 찾아 진행하며, 한국 내 최소체류기간으로 처리할 수 있도록 안내드립니다.
+행정사사무소 이룸는 가장 신속히 허가되는 출입국사무소를 찾아 진행하며, 한국 내 최소체류기간으로 처리할 수 있도록 안내드립니다.
 
-**비전 행정사사무소 (VISION Administrative Office)**
+**행정사사무소 이룸 (EROOM Administrative Office)**
 
 - 전화: 02-363-2251
-- 이메일: 5000meter@gmail.com
+- 이메일: teamone163@gmail.com
 - 카카오톡: alexkorea
 - 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - 상담시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)

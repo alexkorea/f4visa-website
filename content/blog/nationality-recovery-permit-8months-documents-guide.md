@@ -24,7 +24,7 @@ slug: "nationality-recovery-permit-8months-documents-guide"
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 국적회복 신청 절차 단계별 흐름</a></li>
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적회복 허가 이후 절차</a></li>
     <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 거부·반려가 발생하는 실제 사유</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 비전행정사사무소 F-4 서비스 안내</a></li>
+    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
     <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 자주 묻는 질문 (FAQ)</a></li>
     <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
     <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
@@ -72,7 +72,7 @@ slug: "nationality-recovery-permit-8months-documents-guide"
 
 특히 1970~1990년대에 부모를 따라 출국·이민한 분들은 제적 정리가 누락된 사례가 많습니다.
 
-> **실무 팁:** 비전행정사사무소는 최대한 빨리 허가받게 하기 위해 지속적으로 노력하고 있으며, 제적·가족관계 보정도 동시에 진행합니다.
+> **실무 팁:** 행정사사무소 이룸는 최대한 빨리 허가받게 하기 위해 지속적으로 노력하고 있으며, 제적·가족관계 보정도 동시에 진행합니다.
 
 <h2 id="section-3">국적회복 신청 자격과 결격 사유</h2>
 
@@ -113,7 +113,7 @@ slug: "nationality-recovery-permit-8months-documents-guide"
 
 위 한국 서류는 본인이 해외에서 직접 발급받기 어렵습니다.
 
-비전행정사사무소가 발급대행을 진행해 드립니다.
+행정사사무소 이룸가 발급대행을 진행해 드립니다.
 
 ### 외국(거주국)에서 준비해야 할 서류
 
@@ -230,7 +230,7 @@ slug: "nationality-recovery-permit-8months-documents-guide"
 
 거부 사유를 정확히 짚어 보완 전략을 세우는 것이 먼저입니다.
 
-<h2 id="section-8">비전행정사사무소 F-4 서비스 안내</h2>
+<h2 id="section-8">행정사사무소 이룸 F-4 서비스 안내</h2>
 
 **가장 신속히 허가되는 출입국사무소를 찾아서 진행해 드립니다.**
 
@@ -244,7 +244,7 @@ slug: "nationality-recovery-permit-8months-documents-guide"
 
 정확한 비용은 사례별로 상이하므로 무료 상담 시 안내드립니다.
 
-비전행정사사무소가 함께 진행하는 부가 서비스는 다음과 같습니다.
+행정사사무소 이룸가 함께 진행하는 부가 서비스는 다음과 같습니다.
 
 - 한국 서류 발급대행 — 기본증명서(상세), 가족관계증명서(상세), 제적등본
 - F-4 거소증 신청대행 및 수령·발송 (거소허가번호 발급 후 출국 가능)
@@ -298,10 +298,10 @@ slug: "nationality-recovery-permit-8months-documents-guide"
 
 서류 한 장 한 장보다 먼저 봐야 할 것은 본인의 전체 이력 흐름입니다.
 
-### 비전 행정사사무소 (VISION Administrative Office)
+### 행정사사무소 이룸 (EROOM Administrative Office)
 
 - **전화:** 02-363-2251
-- **이메일:** 5000meter@gmail.com
+- **이메일:** teamone163@gmail.com
 - **카카오톡 아이디:** alexkorea
 - **주소:** (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - **상담 시간:** 평일 09:30 — 17:30 (점심 12:00 — 13:00)

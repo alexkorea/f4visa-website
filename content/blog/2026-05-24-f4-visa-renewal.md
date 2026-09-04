@@ -3,7 +3,7 @@ title: "F-4 재외동포 비자 갱신 완벽 가이드 — 체류 기간 연장
 description: "F-4 체류 기간 만료 전 갱신 방법, 준비 서류, 주의사항을 정리했습니다. 갱신 거절 사례와 예방법도 포함."
 date: "2026-05-24"
 slug: "f4-visa-renewal-guide-2026"
-author: "비전행정사사무소"
+author: "행정사사무소 이룸"
 category: "F-4 비자 갱신"
 image: "/blog/2026-05-24-f4-visa-renewal.jpg"
 ---
@@ -131,7 +131,7 @@ F-4 갱신 자체에는 한국어 시험이 없습니다. F-5 전환 시 일부 
 
 ---
 
-F-4 갱신은 건강보험·세금 정리와 서류 준비가 핵심입니다. **비전행정사사무소(02-363-2251)**에서 갱신 신청부터 F-5 전환까지 전 과정을 지원합니다.
+F-4 갱신은 건강보험·세금 정리와 서류 준비가 핵심입니다. **행정사사무소 이룸(02-363-2251)**에서 갱신 신청부터 F-5 전환까지 전 과정을 지원합니다.
 
 <div style="background:#0056B3;color:#fff;padding:20px;border-radius:8px;text-align:center;margin-top:32px;">
 <strong>F-4 갱신·F-5 전환 전문 상담</strong><br/>

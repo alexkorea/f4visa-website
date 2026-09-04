@@ -22,7 +22,7 @@ slug: "f4-visa-allowed-restricted-job-categories"
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 위반하면 어떻게 되나 — 체류 연장에서 드러납니다</a></li>
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. H-2 방문취업 비자와 비교하면 차이가 분명합니다</a></li>
     <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. FAQ — F-4 취업 업종 관련 자주 묻는 질문</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 비전행정사사무소 F-4 서비스 안내</a></li>
+    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
     <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 무료 상담 안내</a></li>
     <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
   </ul>
@@ -183,7 +183,7 @@ H-2에서 F-4로 자격 변경을 노리는 분들이 많은데, 이때도 변�
 예외는 지역 요건과 묶여 있어서, 예외 지역을 벗어나면 같은 직종이라도 다시 제한 대상이 될 수 있습니다.
 이직 전에 새 근무지 기준으로 재확인해야 합니다.
 
-<h2 id="section-8">비전행정사사무소 F-4 서비스 안내</h2>
+<h2 id="section-8">행정사사무소 이룸 F-4 서비스 안내</h2>
 
 **가장 신속히 허가되는 출입국사무소를 찾아서 진행해 드립니다.**
 **한국내 최소체류기간으로 처리 가능합니다.**
@@ -200,12 +200,12 @@ H-2에서 F-4로 자격 변경을 노리는 분들이 많은데, 이때도 변�
 
 취업 업종 판단은 고시 개정에 따라 계속 달라지고, 경계선 직종은 계약서 문구 하나로 결과가 갈립니다.
 본인 직종이 제한에 해당하는지, 거소증 발급을 얼마나 앞당길 수 있는지 무료 상담으로 확인하세요.
-우리 비전행정사는 최대한 빨리 허가받게 하기 위해서 지속적으로 노력하고 있습니다.
+우리 행정사사무소 이룸은 최대한 빨리 허가받게 하기 위해서 지속적으로 노력하고 있습니다.
 
-**비전 행정사사무소 (VISION Administrative Office)**
+**행정사사무소 이룸 (EROOM Administrative Office)**
 
 - 전화: 02-363-2251
-- 이메일: 5000meter@gmail.com
+- 이메일: teamone163@gmail.com
 - 카카오톡: alexkorea
 - 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - 상담 시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)

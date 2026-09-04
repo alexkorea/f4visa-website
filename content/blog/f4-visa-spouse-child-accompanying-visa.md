@@ -5,7 +5,7 @@ category: "F-4비자"
 excerpt: "F-4 재외동포 비자 소지자의 배우자(F-3)와 자녀(F-1) 동반 비자 신청 절차, 필요 서류, 주의사항을 단계별로 안내합니다."
 image: "/blog/f4-visa-spouse-child-accompanying-visa.jpg"
 slug: "f4-visa-spouse-child-accompanying-visa"
-author: "비전행정사사무소"
+author: "행정사사무소 이룸"
 ---
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin-bottom:30px;border-left:4px solid #1e40af">
@@ -218,7 +218,7 @@ A. 단기 관광 비자(B-2) 등으로 먼저 입국 후 국내에서 F-3·F-1�
 </div>
 
 <div style="background:#1e40af;color:white;padding:24px;border-radius:8px;margin:30px 0;text-align:center">
-<strong style="display:block;font-size:18px;margin-bottom:8px">비전행정사사무소 무료 상담</strong>
+<strong style="display:block;font-size:18px;margin-bottom:8px">행정사사무소 이룸 무료 상담</strong>
 <p style="margin:8px 0;opacity:0.9">가족과 함께 한국 생활을 시작하려는 재외동포를 도와드립니다</p>
 <p style="margin:8px 0;font-size:14px;opacity:0.8">월~금 09:30~17:30 (KST) | 토·공휴일 휴무</p>
 <a href="https://inhega.co.kr/consultation" target="_blank" rel="noopener" style="display:inline-block;margin-top:12px;padding:12px 28px;background:#A33344;color:white;border-radius:6px;text-decoration:none;font-weight:bold">무료 상담 신청하기</a>

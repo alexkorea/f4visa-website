@@ -1,9 +1,9 @@
 import { NextResponse } from "next/server"
 import { saveToCRM } from "@/lib/notion-crm"
 
-const RESEND_API_KEY = "re_HjCDn9tA_QJvND2F4eFjagyEZ3fXP4kZS"
-const TELEGRAM_BOT_TOKEN = "8748564690:AAEGsXxcfqrHmGue8lkqUaa2E0Q8CDCY-Eo"
-const TELEGRAM_CHAT_ID = "5533847195"
+const RESEND_API_KEY = process.env.RESEND_API_KEY || ""
+const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN || ""
+const TELEGRAM_CHAT_ID = process.env.TELEGRAM_CHAT_ID || ""
 
 function buildEmailHtml(name: string, services: string[], inquiryId: string): string {
   const serviceParam = encodeURIComponent(services.join(","))
@@ -24,7 +24,7 @@ function buildEmailHtml(name: string, services: string[], inquiryId: string): st
         </tr>
         <tr>
           <td style="padding:40px;">
-            <h2 style="margin:0 0 8px;color:#1e3a5f;font-size:22px;font-weight:700;">${name}님, 비전행정사사무소에 상담요청해 주셔서 감사합니다.</h2>
+            <h2 style="margin:0 0 8px;color:#1e3a5f;font-size:22px;font-weight:700;">${name}님, 행정사사무소 이룸에 상담요청해 주셔서 감사합니다.</h2>
             <p style="margin:0 0 24px;color:#555;font-size:15px;line-height:1.6;">
               상담 신청이 접수되었습니다.<br/>맞춤 상담을 위해 아래 추가 정보를 입력해주세요.
             </p>
@@ -44,7 +44,7 @@ function buildEmailHtml(name: string, services: string[], inquiryId: string): st
           <td style="background-color:#f8f9fb;padding:24px 40px;border-top:1px solid #eee;">
             <table width="100%" cellpadding="0" cellspacing="0">
               <tr><td style="color:#888;font-size:13px;line-height:1.8;">
-                <strong style="color:#1e3a5f;">VISION 행정사사무소</strong><br/>전화: 02-363-2251<br/>카카오톡: alexkorea<br/>서울특별시 중구 퇴계로 324, 3층
+                <strong style="color:#1e3a5f;">행정사사무소 이룸</strong><br/>전화: 02-363-2251<br/>카카오톡: alexkorea<br/>서울특별시 중구 퇴계로 324, 3층
               </td></tr>
             </table>
           </td>
@@ -89,9 +89,9 @@ export async function POST(request: Request) {
       method: "POST",
       headers: { "Authorization": `Bearer ${RESEND_API_KEY}`, "Content-Type": "application/json" },
       body: JSON.stringify({
-        from: "비전행정사사무소 <noreply@ko-visas.com>",
+        from: "행정사사무소 이룸 <noreply@ko-visas.com>",
         to: [email],
-        subject: "[비전행정사사무소] 비전행정사사무소에 상담요청해 주셔서 감사합니다.",
+        subject: "[행정사사무소 이룸] 행정사사무소 이룸에 상담요청해 주셔서 감사합니다.",
         html: buildEmailHtml(name, Array.isArray(services) ? services : [services], inquiryId),
       }),
     }).catch((err) => console.error("Resend email error:", err))

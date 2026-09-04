@@ -22,7 +22,7 @@ slug: "dual-citizenship-permission-criteria-renunciation-vs-loss"
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 국적상실 후 F-4 비자, 순서가 꼬이면 오히려 늦어집니다</a></li>
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적회복과의 관계 — 다시 한국 국적을 원한다면</a></li>
     <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 비전행정사사무소 F-4 서비스 안내</a></li>
+    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
     <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 무료 상담 안내</a></li>
     <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
   </ul>
@@ -144,7 +144,7 @@ slug: "dual-citizenship-permission-criteria-renunciation-vs-loss"
 
 가족관계등록부에 국적상실이 기재되지 않은 상태로 F-4를 신청하면, 심사 단계에서 등록부 정리부터 요구받아 전체 일정이 뒤로 밀립니다.
 순서는 "국적상실신고 → 등록부 정리 → F-4 신청"이 기본입니다.
-출입국사무소별로 거소증 발급 대기 기간 차이가 크며, 우리 비전행정사는 가장 신속히 허가되는 사무소를 찾아 최대한 빨리 허가받도록 지속적으로 노력하고 있습니다.
+출입국사무소별로 거소증 발급 대기 기간 차이가 크며, 우리 행정사사무소 이룸은 가장 신속히 허가되는 사무소를 찾아 최대한 빨리 허가받도록 지속적으로 노력하고 있습니다.
 
 <h2 id="section-6">국적회복과의 관계 — 다시 한국 국적을 원한다면</h2>
 
@@ -190,7 +190,7 @@ slug: "dual-citizenship-permission-criteria-renunciation-vs-loss"
 발급일로부터 6개월만 유효합니다.
 접수 예정일 기준으로 역산해 발급 시점을 잡아야 하며, 너무 일찍 받으면 유효기간이 지나 다시 발급받는 경우가 흔합니다.
 
-<h2 id="section-8">비전행정사사무소 F-4 서비스 안내</h2>
+<h2 id="section-8">행정사사무소 이룸 F-4 서비스 안내</h2>
 
 **가장 신속히 허가되는 출입국사무소를 찾아서 진행해 드립니다.**
 **한국내 최소체류기간으로 처리 가능합니다.**
@@ -208,14 +208,14 @@ slug: "dual-citizenship-permission-criteria-renunciation-vs-loss"
 복수국적 허용 여부, 국적이탈 기한, 국적상실신고와 F-4 신청까지 — 본인 사안에 맞는 정확한 판단은 서류를 보고 나서야 갈립니다.
 비용은 사례별로 상이하므로 무료 상담 시 정확히 안내드립니다.
 
-**비전 행정사사무소 (VISION Administrative Office)**
+**행정사사무소 이룸 (EROOM Administrative Office)**
 
 - ✔ 한국 서류 발급대행 — 기본증명서(상세), 가족관계증명서(상세), 제적등본
 - ✔ F-4 거소증 신청대행 및 수령·발송 (거소허가번호 발급 후 출국 가능)
 - ✔ 서울 내 임시주소 제공 (별도 비용 안내)
 
 전화: 02-363-2251
-이메일: 5000meter@gmail.com
+이메일: teamone163@gmail.com
 카카오톡 아이디: alexkorea
 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 평일 09:30 — 17:30 (점심 12:00 — 13:00)

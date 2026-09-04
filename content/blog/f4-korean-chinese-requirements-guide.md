@@ -26,7 +26,7 @@ slug: "f4-korean-chinese-requirements-guide"
     <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 거소증(외국인등록증) 단계</a></li>
     <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 막히는 5가지 실무 포인트</a></li>
     <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. FAQ</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 비전행정사사무소 F-4 서비스 안내</a></li>
+    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 행정사사무소 이룸 F-4 서비스 안내</a></li>
     <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
     <li style="margin:8px 0"><a href="#section-12" style="color:#2563eb;text-decoration:none">12. 전문가 상담이 필요하신가요?</a></li>
   </ul>
@@ -222,7 +222,7 @@ F-4 비자를 받고 입국하면 90일 이내에 **국내거소신고(거소증
 **Q6. F-4를 받으면 바로 영주권(F-5)으로 갈 수 있나요?**
 F-4 체류 후 일정 요건(소득·체류기간 등) 충족 시 F-5 신청이 가능합니다. 요건 변동이 있어 상담으로 확인하세요.
 
-<h2 id="section-10">비전행정사사무소 F-4 서비스 안내</h2>
+<h2 id="section-10">행정사사무소 이룸 F-4 서비스 안내</h2>
 
 **가장 신속히 허가되는 출입국사무소를 찾아서 진행해 드립니다.**
 **한국내 최소체류기간으로 처리 가능합니다.**
@@ -241,11 +241,11 @@ F-4 체류 후 일정 요건(소득·체류기간 등) 충족 시 F-5 신청이 
 
 <h2 id="section-11">전문가 상담이 필요하신가요?</h2>
 
-비전 행정사사무소는 F-4 재외동포 비자 전문 사무소로, 조선족 신청자의 국적 추적부터 거소증 수령까지 일괄 처리합니다.
+행정사사무소 이룸는 F-4 재외동포 비자 전문 사무소로, 조선족 신청자의 국적 추적부터 거소증 수령까지 일괄 처리합니다.
 
 - **전화:** 02-363-2251
 - **카카오톡:** alexkorea
-- **이메일:** 5000meter@gmail.com
+- **이메일:** teamone163@gmail.com
 - **주소:** (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - **상담시간:** 평일 09:30 — 17:30 (점심 12:00 — 13:00)
 

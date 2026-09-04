@@ -1,12 +1,14 @@
 ---
-title: "재외동포 부동산 취득 절차와 세금, 계약 전에 먼저 확인할 것"
+title: "재외동포 국내주택 매입 자금출처조사와 해외송금 신고"
 date: "2026-08-02"
 category: "재외동포"
 excerpt: "재외동포가 한국 부동산을 취득할 때 거치는 신고·등기 절차와 취득세·보유세·양도세 구조, 실무에서 자주 막히는 지점을 정리한 안내입니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/blog/f4-visa-banking-account-opening.jpg"
+description: "재외동포가 국내 주택 매입 시 해외 자금 반입과 외국환거래 신고, 자금출처 소명 방법과 증여세 리스크를 실무 관점에서 안내합니다."
+partner: "taxguide"
 slug: "overseas-korean-korea-home-purchase-tax-steps"
 ---
-# 재외동포 부동산 취득 절차와 세금, 계약 전에 먼저 확인할 것
+# 재외동포 국내주택 매입 자금출처조사와 해외송금 신고
 
 재외동포는 한국 국민과 거의 같은 조건으로 한국 부동산을 취득할 수 있지만, 신고 절차와 등록번호 준비에서 내국인과 다른 단계를 거칩니다.
 대상은 외국 국적을 취득한 외국국적동포(F-4 대상자)와 영주권만 보유한 재외국민이며, 두 경우 절차가 서로 다릅니다.
@@ -21,9 +23,6 @@ slug: "overseas-korean-korea-home-purchase-tax-steps"
     <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 재외동포 부동산 세금 — 살 때, 보유할 때, 팔 때</a></li>
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 거소증이 부동산 취득에서 갈리는 지점</a></li>
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 비전행정사사무소 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
   </ul>
 </nav>
 
@@ -96,7 +95,6 @@ F-4 거소증을 이미 보유했다면 거소신고번호가 등기용등록번
 제출 대상 기준과 규제지역 범위는 최근 몇 년 사이 여러 차례 바뀌었으므로, 본인 거래가 해당되는지는 계약 전에 확인해야 안전합니다.
 현재 적용되는 기준은 사안별로 달라 상담을 통해 확인하는 편이 정확합니다.
 
-지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea
 
 <h2 id="section-4">재외동포 부동산 세금 — 살 때, 보유할 때, 팔 때</h2>
 
@@ -177,7 +175,6 @@ F-4 신청 시에는 시민권증서 원본이 있어야 하고, 무범죄조회
 세법상 비거주자로 판정되면 1세대 1주택 비과세와 일부 공제가 제한될 수 있습니다.
 매각 시점과 거주자 판정이 결과를 좌우하므로, 매각 전에 판정부터 받아 보는 순서가 맞습니다.
 
-<h2 id="section-7">비전행정사사무소 F-4 서비스 안내</h2>
 
 **가장 신속히 허가되는 출입국사무소를 찾아서 진행해 드립니다.**
 **한국내 최소체류기간으로 처리 가능합니다.**
@@ -189,25 +186,3 @@ F-4 신청 시에는 시민권증서 원본이 있어야 하고, 무범죄조회
 5. 숙박관련 숙박제공자와의 연락
 
 정확한 비용은 사례별로 상이하므로 무료 상담 시 안내드립니다.
-
-<h2 id="section-8">전문가 상담이 필요하신가요?</h2>
-
-부동산 일정과 거소증 일정을 따로 진행하면 서류를 두 번 준비하게 됩니다.
-비전행정사사무소는 최대한 빨리 허가받을 수 있도록 지속적으로 노력하고 있으며, 계약 전 단계부터 등기·세금 신고 일정까지 한 번에 설계해 드립니다.
-
-**비전 행정사사무소 (VISION Administrative Office)**
-
-- 전화: 02-363-2251
-- 카카오톡: alexkorea
-- 이메일: 5000meter@gmail.com
-- 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
-- 상담 시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)
-
----
-
-<h2 id="section-9">전문가 상담이 필요하신가요?</h2>
-
-복잡한 절차, 혼자 고민하지 마세요. 전문 행정사가 친절하게 안내해 드립니다.
-
-**[무료 상담 신청하기](https://f4visa.net/contact)**
-

@@ -18,22 +18,22 @@ const staff = [
 
 export function TeamSection() {
   return (
-    <section className="bg-secondary pt-2 pb-2">
-      <div className="mx-auto max-w-7xl px-4 lg:px-8">
-        <div className="mb-3 text-center">
+    <section className="section section-alt">
+      <div className="container-x">
+        <div className="mb-4 text-center">
           <h2 className="text-2xl font-bold text-foreground">전문가 소개</h2>
-          <p className="mt-1 text-sm text-muted-foreground">
+          <p className="mt-2 text-sm text-muted-foreground">
             풍부한 경험과 전문 지식을 갖춘 행정 전문가들이 함께합니다.
           </p>
         </div>
 
         {/* 행정사 */}
         <h3 className="text-lg font-bold text-foreground mb-2 text-center">행정사</h3>
-        <div className="grid gap-3 grid-cols-3 sm:grid-cols-3 lg:grid-cols-6 mb-2">
+        <div className="grid gap-4 grid-cols-3 sm:grid-cols-3 lg:grid-cols-6 mb-2">
           {admins.map((member) => (
             <Card key={member.name} className="border-0 bg-card shadow-sm transition-shadow hover:shadow-md">
-              <CardContent className="px-2 py-1 text-center">
-                <div className="mx-auto mb-1 w-28 h-28 rounded-full overflow-hidden border-2 border-border">
+              <CardContent className="px-2 py-2 text-center">
+                <div className="mx-auto mb-2 w-28 h-28 rounded-full overflow-hidden border-2 border-border">
                   <Image
                     src={member.photo}
                     alt={member.name}
@@ -51,11 +51,11 @@ export function TeamSection() {
 
         {/* 사무장 · 실장 */}
         <h3 className="text-lg font-bold text-foreground mb-2 text-center">사무장 · 실장</h3>
-        <div className="grid gap-3 grid-cols-3 max-w-lg mx-auto">
+        <div className="grid gap-4 grid-cols-3 max-w-lg mx-auto">
           {staff.map((member) => (
             <Card key={member.name} className="border-0 bg-card shadow-sm transition-shadow hover:shadow-md">
-              <CardContent className="px-2 py-1 text-center">
-                <div className="mx-auto mb-1 w-28 h-28 rounded-full overflow-hidden border-2 border-border">
+              <CardContent className="px-2 py-2 text-center">
+                <div className="mx-auto mb-2 w-28 h-28 rounded-full overflow-hidden border-2 border-border">
                   <Image
                     src={member.photo}
                     alt={member.name}

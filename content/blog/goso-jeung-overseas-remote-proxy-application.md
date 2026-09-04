@@ -23,7 +23,7 @@ slug: "goso-jeung-overseas-remote-proxy-application"
     <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 원격 대행 절차 — 입국 전·후 흐름</a></li>
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 서울 임시주소가 필요한 경우</a></li>
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 실무에서 자주 막히는 부분</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 비전행정사사무소 F-4 서비스 안내</a></li>
+    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
     <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문(FAQ)</a></li>
     <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
     <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
@@ -168,7 +168,7 @@ slug: "goso-jeung-overseas-remote-proxy-application"
 
 길게 준비하는 것보다, 입국 시점을 기준으로 서류 발급일을 역산하는 것이 먼저입니다.
 
-<h2 id="section-7">비전행정사사무소 F-4 서비스 안내</h2>
+<h2 id="section-7">행정사사무소 이룸 F-4 서비스 안내</h2>
 
 **가장 신속히 허가되는 출입국사무소를 찾아서 진행해 드립니다.**
 **한국내 최소체류기간으로 처리 가능합니다.**
@@ -217,13 +217,13 @@ slug: "goso-jeung-overseas-remote-proxy-application"
 
 해외에서 거소증 신청을 준비 중이라면, 입국 시점을 기준으로 서류 발급일을 맞추는 것이 가장 먼저입니다.
 
-우리 비전행정사는 최대한 빨리 허가받게 하기 위해서 지속적으로 노력하고 있습니다.
+우리 행정사사무소 이룸은 최대한 빨리 허가받게 하기 위해서 지속적으로 노력하고 있습니다.
 
-**비전 행정사사무소 (VISION Administrative Office)**
+**행정사사무소 이룸 (EROOM Administrative Office)**
 
 - 전화: 02-363-2251
 - 카카오톡 아이디: alexkorea
-- 이메일: 5000meter@gmail.com
+- 이메일: teamone163@gmail.com
 - 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - 상담시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)
 

@@ -22,7 +22,7 @@ slug: "f4-visa-eligibility-preparation-documents-guide"
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 실제 심사에서 자주 막히는 지점</a></li>
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 신청 전 체크리스트</a></li>
     <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 비전행정사사무소 F-4 서비스 안내</a></li>
+    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
     <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 상담 안내</a></li>
     <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
   </ul>
@@ -92,7 +92,7 @@ slug: "f4-visa-eligibility-preparation-documents-guide"
 ### 한국 서류 — 해외에서 준비하기 가장 까다로운 부분
 
 기본증명서, 가족관계증명서, 제적등본은 한국에서 발급됩니다.
-해외 체류 중이라면 국내 대리 발급이 현실적인 방법이며, 비전 행정사사무소가 발급대행을 진행하고 있습니다.
+해외 체류 중이라면 국내 대리 발급이 현실적인 방법이며, 행정사사무소 이룸가 발급대행을 진행하고 있습니다.
 개명·창씨명·한자 표기 차이로 제적등본에서 본인 기록을 못 찾는 사례가 흔하고, 바로 이 부분에서 전문 검토가 갈립니다.
 
 지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea
@@ -114,7 +114,7 @@ slug: "f4-visa-eligibility-preparation-documents-guide"
 ### 처리 기간은 사무소마다 다릅니다
 
 같은 서류라도 어느 출입국사무소에 접수하느냐에 따라 대기 기간이 크게 갈립니다.
-비전 행정사사무소는 **가장 신속히 허가되는 출입국사무소를 찾아서 진행**하며, 한국 내 최소 체류 기간으로 처리가 가능하도록 일정 설계를 하고 있습니다.
+행정사사무소 이룸는 **가장 신속히 허가되는 출입국사무소를 찾아서 진행**하며, 한국 내 최소 체류 기간으로 처리가 가능하도록 일정 설계를 하고 있습니다.
 현재 사무소별 실제 소요 기간은 수시로 바뀌므로, 신청 시점의 정확한 상황은 무료 상담에서 안내드립니다.
 
 ### 거소허가번호가 나오면 출국할 수 있습니다
@@ -187,7 +187,7 @@ F-4 신청에는 시민권증서 원본이 요구됩니다.
 비용은 사례별로 상이하므로 무료 상담 시 정확히 안내드립니다.
 정부 관납 비용은 정부 고시 수수료 + 행정 처리비로 구성됩니다.
 
-<h2 id="section-8">비전행정사사무소 F-4 서비스 안내</h2>
+<h2 id="section-8">행정사사무소 이룸 F-4 서비스 안내</h2>
 
 **가장 신속히 허가되는 출입국사무소를 찾아서 진행해 드립니다.**
 **한국내 최소체류기간으로 처리 가능합니다.**
@@ -202,7 +202,7 @@ F-4 신청에는 시민권증서 원본이 요구됩니다.
 
 <h2 id="section-9">상담 안내</h2>
 
-우리 비전행정사는 최대한 빨리 허가받게 하기 위해서 지속적으로 노력하고 있습니다.
+우리 행정사사무소 이룸은 최대한 빨리 허가받게 하기 위해서 지속적으로 노력하고 있습니다.
 서류 준비 순서부터 출입국사무소 선택, 거소증 발송까지 한 번에 진행됩니다.
 
 ✔ 한국 서류 발급대행 — 기본증명서(상세), 가족관계증명서(상세), 제적등본
@@ -211,11 +211,11 @@ F-4 신청에는 시민권증서 원본이 요구됩니다.
 
 ✔ 서울 내 임시주소 제공 (별도 비용 안내)
 
-**비전 행정사사무소 (VISION Administrative Office)**
+**행정사사무소 이룸 (EROOM Administrative Office)**
 
 - 전화: 02-363-2251
 - 카카오톡 아이디: alexkorea
-- 이메일: 5000meter@gmail.com
+- 이메일: teamone163@gmail.com
 - 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - 상담 시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)
 

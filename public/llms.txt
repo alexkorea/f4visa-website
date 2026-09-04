@@ -1,13 +1,13 @@
 # f4visa.net — F-4 재외동포 비자 전문 행정사 컨설팅
 
-> 비전행정사사무소가 운영하는 F-4 재외동포 비자 전문 안내 사이트입니다.
+> 행정사사무소 이룸이 운영하는 F-4 재외동포 비자 전문 안내 사이트입니다.
 > F-4 비자 신청, 거소증 발급, 체류 연장, 국적 요건 등 재외동포 체류 실무 정보를 제공합니다.
 
 ## 주요 서비스
 
 - [F-4 비자 안내](https://www.f4visa.net/)
 - [비자 상담 문의](https://www.f4visa.net/contact)
-- [견적 문의](https://www.f4visa.net/quote)
+- [세금 이야기(협력 세무사)](https://www.f4visa.net/tax-stories)
 
 ## 핵심 가이드 (한국어)
 
@@ -27,7 +27,8 @@
 ## 사이트 정보
 
 - 홈페이지: https://www.f4visa.net
-- 운영: 비전행정사사무소 (서울 중구)
+- 운영: 행정사사무소 이룸 (서울 중구)
 - 전화: 02-363-2251
+- 이메일: teamone163@gmail.com
 - 문의: https://www.f4visa.net/contact
 - 사이트맵: https://www.f4visa.net/sitemap.xml

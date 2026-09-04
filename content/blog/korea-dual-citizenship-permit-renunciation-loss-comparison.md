@@ -22,7 +22,7 @@ slug: "korea-dual-citizenship-permit-renunciation-loss-comparison"
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 국적상실신고 서류 — 실무에서 준비할 것</a></li>
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적상실 정리 후 F-4 비자로 — 재외동포의 다음 단계</a></li>
     <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. FAQ — 복수국적 허용 조건 관련 자주 묻는 질문</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 비전행정사사무소 F-4 서비스 안내</a></li>
+    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
     <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
     <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
   </ul>
@@ -137,7 +137,7 @@ F-4 신청 시 시민권증서 원본과 정리된 가족관계 서류가 그대
 ### 처리 기간은 출입국사무소별로 다릅니다
 
 거소증 발급 속도는 관할 [출입국·외국인청](https://www.hikorea.go.kr)마다 차이가 큽니다.
-저희 비전행정사는 가장 신속히 허가되는 출입국사무소를 찾아 진행하며, 최대한 빨리 허가받도록 지속적으로 노력하고 있습니다.
+저희 행정사사무소 이룸은 가장 신속히 허가되는 출입국사무소를 찾아 진행하며, 최대한 빨리 허가받도록 지속적으로 노력하고 있습니다.
 거소허가번호 발급 후에는 출국이 가능하므로, 한국 체류 일정을 짧게 잡는 것도 가능합니다.
 
 ### 국적회복이라는 반대 방향도 있습니다
@@ -178,7 +178,7 @@ F-4 신청 시 시민권증서 원본과 정리된 가족관계 서류가 그대
 비용은 사례별로 상이하므로 무료 상담 시 정확히 안내드립니다.
 정부 고시 수수료 + 행정 처리비 구조로 안내해 드립니다.
 
-<h2 id="section-8">비전행정사사무소 F-4 서비스 안내</h2>
+<h2 id="section-8">행정사사무소 이룸 F-4 서비스 안내</h2>
 
 **가장 신속히 허가되는 출입국사무소를 찾아서 진행해 드립니다.**
 **한국내 최소체류기간으로 처리 가능합니다.**
@@ -196,14 +196,14 @@ F-4 신청 시 시민권증서 원본과 정리된 가족관계 서류가 그대
 국적이탈·국적상실 판단과 F-4 연결은 출생 경위와 병역, 신고 이력에 따라 갈립니다.
 혼자 판단하기 어려운 지점은 서류 준비 전에 확인하는 것이 일정이 가장 짧습니다.
 
-**비전 행정사사무소 (VISION Administrative Office)**
+**행정사사무소 이룸 (EROOM Administrative Office)**
 
 - ✔ 한국 서류 발급대행 — 기본증명서(상세), 가족관계증명서(상세), 제적등본
 - ✔ F-4 거소증 신청대행 및 수령·발송 (거소허가번호 발급 후 출국 가능)
 - ✔ 서울 내 임시주소 제공 (별도 비용 안내)
 
 전화: 02-363-2251
-이메일: 5000meter@gmail.com
+이메일: teamone163@gmail.com
 카카오톡: alexkorea
 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 평일 09:30 — 17:30 (점심 12:00 — 13:00)

@@ -3,7 +3,7 @@ title: "F-4 재외동포 비자 건강보험 가입 방법 2026 — 직장·지�
 date: "2026-05-25"
 description: "F-4 비자 소지자의 한국 건강보험 가입 방법을 직장가입자와 지역가입자로 나눠 정리합니다. 재외동포 특례, 미국 건강보험과의 관계, 보험료 산정 기준을 안내합니다."
 slug: "f4-visa-health-insurance-202605"
-author: "비전행정사사무소"
+author: "행정사사무소 이룸"
 category: "F-4 재외동포비자"
 image: "/blog/f4-visa-health-insurance-202605.jpg"
 ---

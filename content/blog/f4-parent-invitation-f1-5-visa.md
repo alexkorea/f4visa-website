@@ -23,7 +23,7 @@ F-4 재외동포 비자를 가진 자녀가 부모를 한국에 초청할 때 �
     <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. F-1-5 신청 절차와 처리 기간</a></li>
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-1-5 비자 체류기간 연장과 활동 범위</a></li>
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 막히는 부분 — 실제 심사 포인트</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 비전행정사사무소 F-4 서비스 안내</a></li>
+    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
     <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
     <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
     <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
@@ -147,7 +147,7 @@ F-4 동포가 한국에서 안정적으로 생활하면서 본국의 부모를 �
 
 > **주의:** "한국에 와서 변경하면 된다"는 조언만 믿고 입국했다가 변경 불가 판단을 받는 사례가 실제로 있습니다. 입국 전 경로 결정이 핵심입니다.
 
-처리 기간은 출입국사무소별로 차이가 있으며, 비전행정사는 **가장 빨리 허가되는 출입국사무소를 찾아 진행**해 드립니다.
+처리 기간은 출입국사무소별로 차이가 있으며, 행정사사무소 이룸은 **가장 빨리 허가되는 출입국사무소를 찾아 진행**해 드립니다.
 
 지금 무료 상담 신청하기 → **02-363-2251 / 카카오톡: alexkorea**
 
@@ -200,7 +200,7 @@ F-1-5는 원칙적으로 **취업 활동이 제한**됩니다.
 
 길게 쓰는 것보다 한 장으로 정리된 흐름 설명이 더 통합니다.
 
-<h2 id="section-7">비전행정사사무소 F-4 서비스 안내</h2>
+<h2 id="section-7">행정사사무소 이룸 F-4 서비스 안내</h2>
 
 **가장 신속히 허가되는 출입국사무소를 찾아서 진행해 드립니다.**
 **한국내 최소체류기간으로 처리 가능합니다.**
@@ -243,7 +243,7 @@ F-4 자녀가 부모를 모셔올 때는 F-1-5가 맞는 경로입니다.
 
 출입국사무소와 사례에 따라 달라집니다.
 
-비전행정사는 가장 빨리 허가되는 관할을 찾아 진행하므로, 본인 거주 예정지 기준 예상 일정은 무료 상담 시 안내드립니다.
+행정사사무소 이룸은 가장 빨리 허가되는 관할을 찾아 진행하므로, 본인 거주 예정지 기준 예상 일정은 무료 상담 시 안내드립니다.
 
 **Q5. 부모가 단기비자로 입국한 후 F-1-5로 변경할 수 있나요?**
 
@@ -261,13 +261,13 @@ F-4 자녀가 부모를 모셔올 때는 F-1-5가 맞는 경로입니다.
 
 F-1-5는 서류 자체보다 **초청인의 자격 정리와 가족관계 라인 입증**에서 결과가 갈리는 비자입니다.
 
-비전 행정사사무소는 F-4와 F-1-5 가족초청 실무를 오래 다뤄왔고, 가장 빨리 허가되는 출입국사무소를 찾아 신속하게 진행해 드립니다.
+행정사사무소 이룸는 F-4와 F-1-5 가족초청 실무를 오래 다뤄왔고, 가장 빨리 허가되는 출입국사무소를 찾아 신속하게 진행해 드립니다.
 
-**비전 행정사사무소 (VISION Administrative Office)**
+**행정사사무소 이룸 (EROOM Administrative Office)**
 
 - 전화: **02-363-2251**
 - 카카오톡 아이디: **alexkorea**
-- 이메일: **5000meter@gmail.com**
+- 이메일: **teamone163@gmail.com**
 - 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - 상담시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)
 

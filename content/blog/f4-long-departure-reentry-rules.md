@@ -23,7 +23,7 @@ F-4 거소증을 가진 재외동포가 1년 넘게 한국을 떠날 계획이�
     <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 출국 전 반드시 확인할 체크리스트</a></li>
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 장기 출국 중 발생하는 실무 이슈</a></li>
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 재입국 후 신고 의무</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 비전행정사사무소 F-4 서비스 안내</a></li>
+    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
     <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
     <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
     <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
@@ -190,7 +190,7 @@ F-5 전환은 한국 내 실거주 실적이 핵심 요건 중 하나입니다.
 
 관련 법령은 [국가법령정보센터](https://www.law.go.kr) 「재외동포의 출입국과 법적 지위에 관한 법률」에서 확인할 수 있습니다.
 
-<h2 id="section-7">비전행정사사무소 F-4 서비스 안내</h2>
+<h2 id="section-7">행정사사무소 이룸 F-4 서비스 안내</h2>
 
 **가장 신속히 허가되는 출입국사무소를 찾아서 진행해 드립니다.**
 **한국내 최소체류기간으로 처리 가능합니다.**
@@ -245,15 +245,15 @@ F-5 전환은 한국 내 실거주 실적이 핵심 요건 중 하나입니다.
 
 F-4 장기 출국과 재입국은 출국 전 하루이틀의 준비로 결과가 갈립니다.
 
-비전 행정사사무소는 거소증 갱신·재입국허가·해외 사증 재발급까지 한 번에 진행해 드립니다.
+행정사사무소 이룸는 거소증 갱신·재입국허가·해외 사증 재발급까지 한 번에 진행해 드립니다.
 
 - **전화:** 02-363-2251
-- **이메일:** 5000meter@gmail.com
+- **이메일:** teamone163@gmail.com
 - **카카오톡:** alexkorea
 - **주소:** (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - **상담시간:** 평일 09:30 — 17:30 (점심 12:00 — 13:00)
 
-우리 비전행정사는 최대한 빨리 허가받게 하기 위해서 지속적으로 노력하고 있습니다.
+우리 행정사사무소 이룸은 최대한 빨리 허가받게 하기 위해서 지속적으로 노력하고 있습니다.
 
 ---
 

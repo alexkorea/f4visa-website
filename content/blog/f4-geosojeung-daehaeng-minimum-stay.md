@@ -22,7 +22,7 @@ slug: "f4-geosojeung-daehaeng-minimum-stay"
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 출입국사무소 선택 — 발급 속도가 여기서 갈립니다</a></li>
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 거소증 수령대행과 해외 발송 — 출국 후 절차</a></li>
     <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 비전행정사사무소 F-4 서비스 안내</a></li>
+    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
     <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 상담 안내</a></li>
     <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
   </ul>
@@ -128,7 +128,7 @@ slug: "f4-geosojeung-daehaeng-minimum-stay"
 
 ### 임시주소와 숙박제공자 연락
 
-비전행정사는 서울 내 임시주소 제공(별도 비용 안내)과 숙박제공자와의 연락을 함께 처리해, 체류지 입증에서 걸리는 일 없이 접수가 되도록 돕고 있습니다.
+행정사사무소 이룸은 서울 내 임시주소 제공(별도 비용 안내)과 숙박제공자와의 연락을 함께 처리해, 체류지 입증에서 걸리는 일 없이 접수가 되도록 돕고 있습니다.
 
 지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea
 
@@ -143,7 +143,7 @@ slug: "f4-geosojeung-daehaeng-minimum-stay"
 
 같은 서류를 내도 사무소에 따라 거소허가번호 부여와 카드 제작 기간이 다르게 나옵니다.
 예약 대기 기간까지 합치면 사무소 선택만으로 전체 일정이 몇 주 차이 나는 경우도 있습니다.
-처리 기간은 출입국사무소별로 다르며, 비전행정사는 가장 빠른 곳을 찾아 진행해 드립니다.
+처리 기간은 출입국사무소별로 다르며, 행정사사무소 이룸은 가장 빠른 곳을 찾아 진행해 드립니다.
 
 ### 관할과 예약의 관계
 
@@ -168,7 +168,7 @@ slug: "f4-geosojeung-daehaeng-minimum-stay"
 - 거소증 유효기간은 체류기간과 연동되므로 만료 전 연장을 챙겨야 합니다.
 - 여권을 갱신하면 여권정보 변경 신고 대상이 됩니다.
 
-우리 비전행정사는 최대한 빨리 허가받게 하기 위해서 지속적으로 노력하고 있습니다.
+우리 행정사사무소 이룸은 최대한 빨리 허가받게 하기 위해서 지속적으로 노력하고 있습니다.
 
 <h2 id="section-7">자주 묻는 질문 (FAQ)</h2>
 
@@ -200,7 +200,7 @@ F-4 신청 시 시민권증서 **원본**이 요구됩니다.
 비용은 사례별로 상이하므로 무료 상담 시 정확히 안내드립니다.
 정부 관납 비용은 정부 고시 수수료 + 행정 처리비로 구성됩니다.
 
-<h2 id="section-8">비전행정사사무소 F-4 서비스 안내</h2>
+<h2 id="section-8">행정사사무소 이룸 F-4 서비스 안내</h2>
 
 **가장 신속히 허가되는 출입국사무소를 찾아서 진행해 드립니다.**
 **한국내 최소체류기간으로 처리 가능합니다.**
@@ -218,10 +218,10 @@ F-4 신청 시 시민권증서 **원본**이 요구됩니다.
 일정이 짧을수록 입국 전 준비의 완성도에서 결과가 갈립니다.
 서류 검토부터 사무소 선택, 수령·발송까지 한 번에 설계해 드립니다.
 
-**비전 행정사사무소 (VISION Administrative Office)**
+**행정사사무소 이룸 (EROOM Administrative Office)**
 
 - 전화: 02-363-2251
-- 이메일: 5000meter@gmail.com
+- 이메일: teamone163@gmail.com
 - 카카오톡: alexkorea
 - 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - 상담시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)

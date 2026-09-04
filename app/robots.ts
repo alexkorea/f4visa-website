@@ -18,7 +18,7 @@ export default function robots(): MetadataRoute.Robots {
       { userAgent: "Claude-SearchBot", allow: "/" },
       { userAgent: "Bingbot", allow: "/" },
     ],
-    sitemap: "https://f4visa.net/sitemap.xml",
-    host: "https://f4visa.net",
+    sitemap: "https://www.f4visa.net/sitemap.xml",
+    host: "https://www.f4visa.net",
   }
 }

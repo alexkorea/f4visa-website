@@ -1,28 +1,31 @@
 import Link from "next/link"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
+import { PageHero } from "@/components/page-hero"
+import { SITE } from "@/lib/site"
+import { Faq, type FaqItem } from "@/components/faq"
+import { CtaSection } from "@/components/cta-section"
+import { ServiceJsonLd } from "@/components/structured-data"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { Button } from "@/components/ui/button"
 import { CheckCircle, FileText, ClipboardList, UserCheck } from "lucide-react"
 
 export const metadata = {
-  title: "F-4 비자와 거소증",
+  title: "F-4 비자와 거소증 — 발급 대상·효과·신청 절차",
   description:
-    "재외동포 체류자격(F-4) 비자와 거소증(외국국적동포 국내거소신고증)에 대한 안내. 발급 대상, 효과, 신청 절차를 확인하세요.",
-  alternates: { canonical: "https://www.f4visa.net/f4-visa-resident-card" },
+    "재외동포 체류자격(F-4)과 국내거소신고증(거소증)의 발급 대상과 효과, 신청 절차를 정리했습니다. 체류기간, 병역 관련 제한, 사업자등록·부동산 취득 가능 여부까지 행정사가 안내합니다.",
+  alternates: { canonical: `${SITE.url}/f4-visa-resident-card` },
   openGraph: {
-    title: "F-4 비자와 거소증 | 비전행정사사무소",
-    description:
-      "재외동포 체류자격(F-4) 비자와 거소증에 대한 안내. 발급 대상, 효과, 신청 절차를 확인하세요.",
-    url: "https://www.f4visa.net/f4-visa-resident-card",
-    siteName: "비전행정사사무소",
+    title: "F-4 비자와 거소증 — 발급 대상·효과·신청 절차 | 행정사사무소 이룸",
+    description: "재외동포 체류자격(F-4)과 국내거소신고증(거소증)의 발급 대상과 효과, 신청 절차를 정리했습니다. 체류기간, 병역 관련 제한, 사업자등록·부동산 취득 가능 여부까지 행정사가 안내합니다.",
+    url: `${SITE.url}/f4-visa-resident-card`,
+    siteName: SITE.name,
     type: "website",
   },
   twitter: {
     card: "summary_large_image" as const,
-    title: "F-4 비자와 거소증 | 비전행정사사무소",
-    description:
-      "재외동포 체류자격(F-4) 비자와 거소증에 대한 안내. 발급 대상, 효과, 신청 절차를 확인하세요.",
+    title: "F-4 비자와 거소증 — 발급 대상·효과·신청 절차 | 행정사사무소 이룸",
+    description: "재외동포 체류자격(F-4)과 국내거소신고증(거소증)의 발급 대상과 효과, 신청 절차를 정리했습니다. 체류기간, 병역 관련 제한, 사업자등록·부동산 취득 가능 여부까지 행정사가 안내합니다.",
   },
 }
 
@@ -85,29 +88,23 @@ const faqs = [
 export default function F4VisaResidentCardPage() {
   return (
     <div className="flex min-h-screen flex-col">
+      <ServiceJsonLd
+        name="F-4 비자·거소증 신청 대행"
+        description="재외동포 체류자격(F-4) 비자와 거소증(외국국적동포 국내거소신고증)에 대한 안내. 발급 대상, 효과, 신청 절차를 확인하세요."
+        url={`${SITE.url}/f4-visa-resident-card`}
+      />
       <Header />
-      <main className="flex-1">
+      <main id="main" className="flex-1">
         <PageBreadcrumb items={[{ label: "F-4 비자 거소증", path: "/f4-visa-resident-card" }]} />
-        {/* Hero */}
-        <section className="relative w-full min-h-[300px] flex items-center py-16">
-          <div className="hero-bg absolute inset-0">
-            <img src="/slides/documents.jpg" alt="F-4 비자와 거소증" className="w-full h-full object-cover" />
-            <div className="absolute inset-0 bg-black/50" />
-          </div>
-          <div className="relative mx-auto max-w-7xl px-4 text-center lg:px-8">
-            <h1 className="text-3xl font-bold text-white md:text-4xl lg:text-5xl">
-              F-4 비자와 거소증
-            </h1>
-            <p className="mx-auto mt-4 max-w-2xl text-lg text-white/80">
-              재외동포 체류자격과 외국인등록증
-            </p>
-          </div>
-        </section>
+        <PageHero
+          title="F-4 비자와 거소증"
+          subtitle="재외동포 체류자격과 외국인등록증"
+        />
 
         {/* F-4 비자란? */}
-        <section className="bg-background py-8 md:py-12">
-          <div className="mx-auto max-w-7xl px-4 lg:px-8">
-            <div className="mx-auto max-w-3xl">
+        <section className="section">
+          <div className="container-x">
+            <div className="measure">
               <h2 className="text-2xl font-bold text-foreground md:text-3xl">
                 F-4 비자란?
               </h2>
@@ -116,20 +113,20 @@ export default function F4VisaResidentCardPage() {
                 자격으로, 한국에서 자유롭게 체류하며 취업 등 경제활동을 할 수 있는
                 권리를 부여합니다.
               </p>
-              <div className="mt-8 rounded-2xl border border-border/50 bg-card p-6">
+              <div className="mt-8 rounded-2xl border border-border bg-card p-6">
                 <h3 className="text-lg font-semibold text-foreground">
                   F-4 비자 발급대상
                 </h3>
                 <ul className="mt-4 space-y-2 text-muted-foreground">
-                  <li className="flex items-start gap-3">
-                    <CheckCircle className="mt-0.5 h-5 w-5 shrink-0 text-primary" />
+                  <li className="flex items-start gap-4">
+                    <CheckCircle className="mt-2 h-5 w-5 shrink-0 text-primary" />
                     <span>
                       출생에 의하여 대한민국 국적을 보유하였던 자로서 외국 국적을
                       취득한 사람
                     </span>
                   </li>
-                  <li className="flex items-start gap-3">
-                    <CheckCircle className="mt-0.5 h-5 w-5 shrink-0 text-primary" />
+                  <li className="flex items-start gap-4">
+                    <CheckCircle className="mt-2 h-5 w-5 shrink-0 text-primary" />
                     <span>
                       위 대상자의 직계비속으로서 외국 국적을 취득한 사람
                     </span>
@@ -141,9 +138,9 @@ export default function F4VisaResidentCardPage() {
         </section>
 
         {/* 거소증 */}
-        <section className="bg-secondary/30 py-8 md:py-12">
-          <div className="mx-auto max-w-7xl px-4 lg:px-8">
-            <div className="mx-auto max-w-3xl">
+        <section className="section section-alt">
+          <div className="container-x">
+            <div className="measure">
               <h2 className="text-2xl font-bold text-foreground md:text-3xl">
                 거소증 (외국국적동포 국내거소신고증)
               </h2>
@@ -154,8 +151,8 @@ export default function F4VisaResidentCardPage() {
 
               <div className="mt-6 grid gap-4 sm:grid-cols-3">
                 {/* 대상자 */}
-                <div className="rounded-2xl border border-border/50 bg-card p-6">
-                  <h3 className="mb-3 text-lg font-semibold text-foreground">
+                <div className="rounded-2xl border border-border bg-card p-6">
+                  <h3 className="mb-4 text-lg font-semibold text-foreground">
                     대상자
                   </h3>
                   <p className="text-sm text-muted-foreground">
@@ -164,11 +161,11 @@ export default function F4VisaResidentCardPage() {
                 </div>
 
                 {/* 효과 */}
-                <div className="rounded-2xl border border-border/50 bg-card p-6">
-                  <h3 className="mb-3 text-lg font-semibold text-foreground">
+                <div className="rounded-2xl border border-border bg-card p-6">
+                  <h3 className="mb-4 text-lg font-semibold text-foreground">
                     효과
                   </h3>
-                  <ul className="space-y-1 text-sm text-muted-foreground">
+                  <ul className="space-y-2 text-sm text-muted-foreground">
                     <li>- 은행 계좌 개설</li>
                     <li>- 휴대폰 개통</li>
                     <li>- 부동산/자동차 등록</li>
@@ -177,15 +174,15 @@ export default function F4VisaResidentCardPage() {
                 </div>
 
                 {/* 발급 절차 */}
-                <div className="rounded-2xl border border-border/50 bg-card p-6">
-                  <h3 className="mb-3 text-lg font-semibold text-foreground">
+                <div className="rounded-2xl border border-border bg-card p-6">
+                  <h3 className="mb-4 text-lg font-semibold text-foreground">
                     발급 절차
                   </h3>
-                  <ol className="space-y-1 text-sm text-muted-foreground">
+                  <ol className="space-y-2 text-sm text-muted-foreground">
                     <li>1. 한국에 입국하여 F-4비자와 거소증을 동시에 신청</li>
                     <li>2. 또는 재외공관에서 F-4 비자를 받은 후 입국하여 거소증만 신청</li>
                   </ol>
-                  <p className="mt-3 text-sm font-medium text-foreground">
+                  <p className="mt-4 text-sm font-medium text-foreground">
                     거소증은 반드시 국내에서 신청해야 합니다.
                   </p>
                 </div>
@@ -195,21 +192,21 @@ export default function F4VisaResidentCardPage() {
         </section>
 
         {/* 신청 절차 */}
-        <section className="bg-background py-8 md:py-12">
-          <div className="mx-auto max-w-7xl px-4 lg:px-8">
-            <div className="mx-auto max-w-3xl text-center">
+        <section className="section">
+          <div className="container-x">
+            <div className="measure">
               <h2 className="text-2xl font-bold text-foreground md:text-3xl">
                 F-4 비자 &amp; 거소증 신청 절차
               </h2>
               <p className="mt-4 text-muted-foreground">
-                비전행정사사무소가 단계별로 안내해 드립니다.
+                행정사사무소 이룸이 단계별로 안내해 드립니다.
               </p>
             </div>
-            <div className="mx-auto mt-12 grid max-w-4xl gap-4 sm:grid-cols-2 lg:grid-cols-4">
+            <div className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
               {steps.map((item) => (
                 <div
                   key={item.step}
-                  className="relative rounded-2xl border border-border/50 bg-card p-6 text-center"
+                  className="relative rounded-2xl border border-border bg-card p-6 text-center"
                 >
                   <div className="mx-auto mb-4 flex h-12 w-12 items-center justify-center rounded-xl bg-primary/10">
                     <item.icon className="h-6 w-6 text-primary" />
@@ -229,59 +226,12 @@ export default function F4VisaResidentCardPage() {
           </div>
         </section>
 
-        {/* FAQ */}
-        <section className="bg-secondary/30 py-8 md:py-12">
-          <div className="mx-auto max-w-7xl px-4 lg:px-8">
-            <div className="mx-auto max-w-3xl">
-              <h2 className="mb-6 text-center text-2xl font-bold text-foreground md:text-3xl">
-                자주 묻는 질문
-              </h2>
-              <div className="space-y-6">
-                {faqs.map((faq, i) => (
-                  <div
-                    key={i}
-                    className="rounded-2xl border border-border/50 bg-card p-6"
-                  >
-                    <h3 className="text-lg font-semibold text-foreground">
-                      Q: {faq.question}
-                    </h3>
-                    <p className="mt-3 leading-relaxed text-muted-foreground">
-                      {faq.answer}
-                    </p>
-                  </div>
-                ))}
-              </div>
-            </div>
-          </div>
-        </section>
+        <Faq items={faqs} />
 
-        {/* CTA */}
-        <section className="bg-primary py-8 md:py-12">
-          <div className="mx-auto max-w-7xl px-4 text-center lg:px-8">
-            <h2 className="text-2xl font-bold text-primary-foreground md:text-3xl">
-              F-4 비자 및 거소증 신청, 지금 상담하세요
-            </h2>
-            <p className="mx-auto mt-4 max-w-xl text-primary-foreground/80">
-              비전행정사사무소가 복잡한 절차를 대행해 드립니다.
-            </p>
-            <div className="mt-8 flex flex-col items-center justify-center gap-4 sm:flex-row">
-              <Button
-                size="lg"
-                variant="secondary"
-                asChild
-              >
-                <Link href="/contact">상담 문의하기</Link>
-              </Button>
-              <Button
-                size="lg"
-                variant="secondary"
-                asChild
-              >
-                <a href="tel:010-2081-3408">전화 상담</a>
-              </Button>
-            </div>
-          </div>
-        </section>
+        <CtaSection
+          title="F-4 비자 및 거소증 신청, 지금 상담하세요"
+          description="행정사사무소 이룸이 복잡한 절차를 대행해 드립니다."
+        />
       </main>
       <Footer />
     </div>

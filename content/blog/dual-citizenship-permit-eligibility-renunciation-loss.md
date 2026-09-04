@@ -22,7 +22,7 @@ slug: "dual-citizenship-permit-eligibility-renunciation-loss"
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 국적상실 후 F-4 비자, 서류보다 순서가 먼저입니다</a></li>
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 꼬이는 사례, 통과 여부보다 먼저 볼 것</a></li>
     <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 비전행정사사무소 F-4 서비스 안내</a></li>
+    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
     <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
     <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
   </ul>
@@ -132,7 +132,7 @@ slug: "dual-citizenship-permit-eligibility-renunciation-loss"
 ### 처리 속도는 출입국사무소마다 다릅니다
 
 같은 서류라도 접수하는 출입국·외국인청에 따라 거소증 발급 기간이 크게 갈립니다.
-저희 비전행정사는 최대한 빨리 허가받을 수 있도록 가장 신속한 출입국사무소를 찾아 진행하며, 거소허가번호 발급 후에는 출국이 가능해 한국 체류 기간을 최소로 줄일 수 있습니다.
+저희 행정사사무소 이룸은 최대한 빨리 허가받을 수 있도록 가장 신속한 출입국사무소를 찾아 진행하며, 거소허가번호 발급 후에는 출국이 가능해 한국 체류 기간을 최소로 줄일 수 있습니다.
 사무소별 처리 기간은 수시로 변동되므로, 신청 시점의 가장 빠른 경로는 상담을 통해 확인하세요.
 
 <h2 id="section-6">자주 꼬이는 사례, 통과 여부보다 먼저 볼 것</h2>
@@ -177,7 +177,7 @@ slug: "dual-citizenship-permit-eligibility-renunciation-loss"
 
 기본증명서·가족관계증명서·제적등본은 발급대행이 가능하며, 거소증도 신청대행과 수령·발송까지 지원됩니다.
 
-<h2 id="section-8">비전행정사사무소 F-4 서비스 안내</h2>
+<h2 id="section-8">행정사사무소 이룸 F-4 서비스 안내</h2>
 
 **가장 신속히 허가되는 출입국사무소를 찾아서 진행해 드립니다.**
 **한국내 최소체류기간으로 처리 가능합니다.**
@@ -198,11 +198,11 @@ slug: "dual-citizenship-permit-eligibility-renunciation-loss"
 - ✔ F-4 거소증 신청대행 및 수령·발송 (거소허가번호 발급 후 출국 가능)
 - ✔ 서울 내 임시주소 제공 (별도 비용 안내)
 
-**비전 행정사사무소 (VISION Administrative Office)**
+**행정사사무소 이룸 (EROOM Administrative Office)**
 
 - 전화: 02-363-2251
 - 카카오톡 아이디: alexkorea
-- 이메일: 5000meter@gmail.com
+- 이메일: teamone163@gmail.com
 - 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - 상담 시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)
 

@@ -21,7 +21,7 @@ F-4 비자는 외국 국적의 재외동포에게 부여되는 체류자격이�
     <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 실무에서 자주 막히는 상황</a></li>
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 거소증과 주민등록증의 효력 차이</a></li>
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. F-4에서 F-5(영주)로 전환 시 변화</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 비전행정사사무소 F-4 서비스 안내</a></li>
+    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
     <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문(FAQ)</a></li>
     <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
     <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
@@ -156,7 +156,7 @@ F-4에서 F-5 영주권으로 전환되어도 한국 국적이 회복되는 것�
 국적회복 절차와 요건은 [법무부 출입국·외국인정책본부](https://www.immigration.go.kr) 공식 안내를 확인하세요.
 최근 국적회복 심사 기준이 강화된 부분이 있어, 본인 상황에 맞는 적용 가능성은 사전 검토가 필요합니다.
 
-<h2 id="section-7">비전행정사사무소 F-4 서비스 안내</h2>
+<h2 id="section-7">행정사사무소 이룸 F-4 서비스 안내</h2>
 
 **가장 신속히 허가되는 출입국사무소를 찾아서 진행해 드립니다.**
 **한국내 최소체류기간으로 처리 가능합니다.**
@@ -202,12 +202,12 @@ A. 14일 이내에 거소이전신고를 하지 않으면 과태료가 부과될
 <h2 id="section-9">전문가 상담이 필요하신가요?</h2>
 
 F-4 거소증과 주민등록 관련 행정 처리는 사례별로 갈리는 지점이 많습니다.
-비전 행정사사무소는 F-4 비자·거소증·국적회복 실무를 전담하며, 가장 빠르게 처리되는 출입국사무소를 찾아 진행해 드립니다.
+행정사사무소 이룸는 F-4 비자·거소증·국적회복 실무를 전담하며, 가장 빠르게 처리되는 출입국사무소를 찾아 진행해 드립니다.
 
-**비전 행정사사무소(VISION Administrative Office)**
+**행정사사무소 이룸(EROOM Administrative Office)**
 
 - 전화: 02-363-2251
-- 이메일: 5000meter@gmail.com
+- 이메일: teamone163@gmail.com
 - 카카오톡 아이디: alexkorea
 - 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - 상담 시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)

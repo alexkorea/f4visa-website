@@ -435,9 +435,9 @@ function Step2Form() {
         <section className="py-8 flex-1">
           <div className="max-w-xl mx-auto px-6 text-center">
             <div className="rounded-xl border border-border bg-card p-10 shadow-sm">
-              <div className="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-6">
+              <div className="w-16 h-16 bg-secondary rounded-full flex items-center justify-center mx-auto mb-6">
                 <svg
-                  className="w-8 h-8 text-green-600"
+                  className="w-8 h-8 text-primary"
                   fill="none"
                   viewBox="0 0 24 24"
                   stroke="currentColor"
@@ -446,11 +446,11 @@ function Step2Form() {
                   <path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" />
                 </svg>
               </div>
-              <h2 className="text-2xl font-bold text-foreground mb-3">
+              <h2 className="text-2xl font-bold text-foreground mb-4">
                 상담 신청이 완료되었습니다
               </h2>
               <p className="text-muted-foreground mb-6">영업일 기준 1일 이내 연락드리겠습니다.</p>
-              <div className="bg-muted rounded-lg p-5 mb-6 space-y-2">
+              <div className="bg-muted rounded-lg p-6 mb-6 space-y-2">
                 <div className="flex items-center justify-center gap-2">
                   <span className="text-sm text-muted-foreground">전화:</span>
                   <span className="font-medium text-foreground">02-363-2251</span>
@@ -485,7 +485,7 @@ function Step2Form() {
       />
       <section className="py-16 flex-1">
         <div className="max-w-2xl mx-auto px-6">
-          <div className="flex items-center justify-center gap-3 mb-8">
+          <div className="flex items-center justify-center gap-4 mb-8">
             <div className="flex items-center gap-2">
               <div className="w-8 h-8 rounded-full bg-primary text-primary-foreground flex items-center justify-center text-sm font-bold">
                 1
@@ -504,18 +504,18 @@ function Step2Form() {
           {isNationalityRenunciation ? (
             <div className="rounded-xl border border-border bg-card p-8 shadow-sm">
               <div className="flex items-center gap-2 mb-4">
-                <span className="inline-flex items-center px-3 py-1 rounded-full bg-primary/10 text-primary text-xs font-medium">
+                <span className="inline-flex items-center px-4 py-2 rounded-full bg-primary/10 text-primary text-xs font-medium">
                   {primaryService}
                 </span>
               </div>
               <h2 className="text-xl font-bold text-foreground mb-4">국적이탈 안내</h2>
-              <div className="bg-amber-50 border border-amber-200 rounded-lg p-5 mb-6">
-                <p className="text-sm font-semibold text-amber-800 mb-3">
+              <div className="bg-secondary border border-border rounded-lg p-6 mb-6">
+                <p className="text-sm font-semibold text-foreground mb-4">
                   국적이탈은 재외공관에서 직접 신청하셔야 합니다
                 </p>
-                <p className="text-sm text-amber-700 whitespace-pre-line">{NATIONALITY_LOSS_INFO}</p>
+                <p className="text-sm text-foreground whitespace-pre-line">{NATIONALITY_LOSS_INFO}</p>
               </div>
-              <div className="bg-muted rounded-lg p-5 space-y-2">
+              <div className="bg-muted rounded-lg p-6 space-y-2">
                 <p className="text-sm font-medium text-foreground mb-2">
                   다른 업무로 상담이 필요하시면:
                 </p>
@@ -543,13 +543,13 @@ function Step2Form() {
                 {serviceList.map((svc) => (
                   <span
                     key={svc}
-                    className="inline-flex items-center px-3 py-1 rounded-full bg-primary/10 text-primary text-xs font-medium"
+                    className="inline-flex items-center px-4 py-2 rounded-full bg-primary/10 text-primary text-xs font-medium"
                   >
                     {svc}
                   </span>
                 ))}
               </div>
-              <h2 className="text-xl font-bold text-foreground mb-1">자격 및 서류 준비 확인</h2>
+              <h2 className="text-xl font-bold text-foreground mb-2">자격 및 서류 준비 확인</h2>
               <p className="text-sm text-muted-foreground mb-6">
                 정확한 상담을 위해 아래 내용을 확인해주세요.
               </p>
@@ -584,7 +584,7 @@ function Step2Form() {
                 </div>
 
                 <div>
-                  <label className="block text-sm font-medium text-foreground mb-1">
+                  <label className="block text-sm font-medium text-foreground mb-2">
                     추가 메시지{" "}
                     <span className="text-muted-foreground font-normal">(선택사항)</span>
                   </label>
@@ -592,7 +592,7 @@ function Step2Form() {
                     name="additionalMessage"
                     rows={3}
                     placeholder="추가로 전달하실 내용을 자유롭게 적어주세요."
-                    className="w-full rounded-lg border border-border bg-background px-4 py-2.5 text-sm focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary resize-none"
+                    className="w-full rounded-lg border border-border bg-background px-4 py-2 text-sm focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary resize-none"
                   />
                 </div>
 
@@ -601,7 +601,7 @@ function Step2Form() {
                 </Button>
 
                 {status === "error" && (
-                  <p className="text-red-500 text-sm text-center">
+                  <p className="text-destructive text-sm text-center">
                     전송에 실패했습니다. 잠시 후 다시 시도하거나 전화로 문의해주세요.
                   </p>
                 )}
@@ -637,9 +637,9 @@ function FieldRenderer({
   onChange: (v: string) => void
 }) {
   return (
-    <div className="mb-5">
-      <label className="block text-sm font-medium text-foreground mb-1">
-        {field.label} {field.required && <span className="text-red-500">*</span>}
+    <div className="mb-6">
+      <label className="block text-sm font-medium text-foreground mb-2">
+        {field.label} {field.required && <span className="text-destructive">*</span>}
       </label>
       {field.hint && <p className="text-xs text-muted-foreground mb-2">{field.hint}</p>}
 
@@ -650,7 +650,7 @@ function FieldRenderer({
           placeholder={field.placeholder}
           value={value}
           onChange={(e) => onChange(e.target.value)}
-          className="w-full rounded-lg border border-border bg-background px-4 py-2.5 text-sm focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary"
+          className="w-full rounded-lg border border-border bg-background px-4 py-2 text-sm focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary"
         />
       )}
 
@@ -659,7 +659,7 @@ function FieldRenderer({
           required={field.required}
           value={value}
           onChange={(e) => onChange(e.target.value)}
-          className="w-full rounded-lg border border-border bg-background px-4 py-2.5 text-sm focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary"
+          className="w-full rounded-lg border border-border bg-background px-4 py-2 text-sm focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary"
         >
           <option value="">선택해주세요</option>
           {field.options?.map((opt) => (
@@ -671,7 +671,7 @@ function FieldRenderer({
       )}
 
       {field.type === "radio" && (
-        <div className="flex flex-wrap gap-2 mt-1">
+        <div className="flex flex-wrap gap-2 mt-2">
           {field.options?.map((opt) => (
             <label
               key={opt}
@@ -703,7 +703,7 @@ function FieldRenderer({
           rows={5}
           value={value}
           onChange={(e) => onChange(e.target.value)}
-          className="w-full rounded-lg border border-border bg-background px-4 py-2.5 text-sm focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary resize-none"
+          className="w-full rounded-lg border border-border bg-background px-4 py-2 text-sm focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary resize-none"
         />
       )}
     </div>
@@ -719,8 +719,8 @@ export default function Step2Page() {
           <section className="py-8">
             <div className="max-w-2xl mx-auto px-6 text-center">
               <div className="animate-pulse">
-                <div className="h-8 bg-gray-200 rounded w-48 mx-auto mb-4" />
-                <div className="h-4 bg-gray-200 rounded w-64 mx-auto" />
+                <div className="h-8 bg-secondary rounded w-48 mx-auto mb-4" />
+                <div className="h-4 bg-secondary rounded w-64 mx-auto" />
               </div>
             </div>
           </section>

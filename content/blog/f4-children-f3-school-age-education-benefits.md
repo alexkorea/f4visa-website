@@ -24,7 +24,7 @@ F-4 재외동포 비자 보유자의 자녀는 F-3 동반비자로 한국에 입
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-3 자녀 신청·연장 절차의 실무 흐름</a></li>
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 막히는 지점 — 실무에서 본 사례</a></li>
     <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. FAQ</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 비전행정사사무소 F-4 서비스 안내</a></li>
+    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
     <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
     <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
   </ul>
@@ -201,7 +201,7 @@ F-3 자녀는 부모의 직장 건강보험에 피부양자로 등재되거나, 
 
 부모의 직장가입자 피부양자 등재 또는 지역가입자 가입 모두 가능하며, 외국인등록 직후 신청이 빠릅니다.
 
-<h2 id="section-8">비전행정사사무소 F-4 서비스 안내</h2>
+<h2 id="section-8">행정사사무소 이룸 F-4 서비스 안내</h2>
 
 **가장 신속히 허가되는 출입국사무소를 찾아서 진행해 드립니다.**
 **한국내 최소체류기간으로 처리 가능합니다.**
@@ -218,11 +218,11 @@ F-3 자녀는 부모의 직장 건강보험에 피부양자로 등재되거나, 
 
 F-4 부모와 F-3 자녀의 비자 일정은 서로 묶여 있어, 한쪽이 흔들리면 자녀의 학적까지 같이 흔들립니다.
 
-비전 행정사사무소는 부모-자녀 비자 일정과 학교 등록 시점을 동시에 맞추는 실무를 진행합니다.
+행정사사무소 이룸는 부모-자녀 비자 일정과 학교 등록 시점을 동시에 맞추는 실무를 진행합니다.
 
-- **사무소명:** 비전 행정사사무소 (VISION Administrative Office)
+- **사무소명:** 행정사사무소 이룸 (EROOM Administrative Office)
 - **전화:** 02-363-2251
-- **이메일:** 5000meter@gmail.com
+- **이메일:** teamone163@gmail.com
 - **카카오톡 아이디:** alexkorea
 - **주소:** (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - **상담시간:** 평일 09:30 — 17:30 (점심 12:00 — 13:00)

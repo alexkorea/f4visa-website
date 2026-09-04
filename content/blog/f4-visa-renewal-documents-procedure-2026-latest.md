@@ -24,7 +24,7 @@ F-4 비자 갱신은 만료 4개월 전부터 신청 가능하며, 핵심은 **�
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 해외 체류 중 F-4 갱신 — 본국 발급과 재입국</a></li>
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. F-4 갱신과 향후 F-5 영주권 연결 — 2026년 시점</a></li>
     <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. F-4 비자 갱신 FAQ</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 비전행정사사무소 F-4 서비스 안내</a></li>
+    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
     <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
     <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
   </ul>
@@ -201,7 +201,7 @@ F-4 체류 이력은 향후 F-5 영주권 신청 시 체류·소득·세무 자�
 
 가장 빠른 곳을 찾아 진행하는 것이 갱신 전체 일정에 큰 영향을 줍니다.
 
-<h2 id="section-8">비전행정사사무소 F-4 서비스 안내</h2>
+<h2 id="section-8">행정사사무소 이룸 F-4 서비스 안내</h2>
 
 **가장 신속히 허가되는 출입국사무소를 찾아서 진행해 드립니다.**
 **한국내 최소체류기간으로 처리 가능합니다.**
@@ -218,12 +218,12 @@ F-4 체류 이력은 향후 F-5 영주권 신청 시 체류·소득·세무 자�
 
 F-4 갱신은 서류 수보다 신분·체류·소명자료의 일치가 결과를 가릅니다.
 
-빠르고 안정적인 갱신을 원하시면 비전 행정사사무소로 문의해 주세요.
+빠르고 안정적인 갱신을 원하시면 행정사사무소 이룸로 문의해 주세요.
 
-**비전 행정사사무소 (VISION Administrative Office)**
+**행정사사무소 이룸 (EROOM Administrative Office)**
 
 - 전화: 02-363-2251
-- 이메일: 5000meter@gmail.com
+- 이메일: teamone163@gmail.com
 - 카카오톡 ID: alexkorea
 - 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - 상담 시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)

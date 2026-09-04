@@ -2,6 +2,11 @@ import type { Metadata } from "next"
 import Link from "next/link"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
+import { PageHero } from "@/components/page-hero"
+import { SITE } from "@/lib/site"
+import { Faq, type FaqItem } from "@/components/faq"
+import { CtaSection } from "@/components/cta-section"
+import { ServiceJsonLd } from "@/components/structured-data"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import {
   FileText,
@@ -13,49 +18,56 @@ import {
 } from "lucide-react"
 
 export const metadata: Metadata = {
-  title: "국적이탈신고 / 신고 절차 및 필수 서류",
+  title: "국적이탈 신고 — 절차·기한·필수 서류",
   description:
-    "복수국적자의 국적이탈 신고 절차, 병역의무 기한, 국적상실과의 차이점 안내. 비전행정사사무소가 전 과정을 대행합니다.",
+    "복수국적자의 국적이탈 신고 기한과 절차, 재외공관 제출 서류를 정리했습니다. 병역 관련 기한을 놓쳤을 때의 제한과 확인해야 할 사항을 행정사가 안내합니다.",
   alternates: {
     canonical: "https://www.f4visa.net/nationality-renunciation-report",
   },
   openGraph: {
-    title: "국적이탈신고 / 신고 절차 및 필수 서류",
-    description:
-      "복수국적자의 국적이탈 신고 절차, 병역의무 기한, 국적상실과의 차이점 안내.",
-    url: "https://www.f4visa.net/nationality-renunciation-report",
-    siteName: "비전행정사사무소",
+    title: "국적이탈 신고 — 절차·기한·필수 서류 | 행정사사무소 이룸",
+    description: "복수국적자의 국적이탈 신고 기한과 절차, 재외공관 제출 서류를 정리했습니다. 병역 관련 기한을 놓쳤을 때의 제한과 확인해야 할 사항을 행정사가 안내합니다.",
+    url: `${SITE.url}/nationality-renunciation-report`,
+    siteName: SITE.name,
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "국적이탈신고 / 신고 절차 및 필수 서류",
-    description:
-      "복수국적자의 국적이탈 신고 절차, 병역의무 기한, 국적상실과의 차이점 안내.",
+    title: "국적이탈 신고 — 절차·기한·필수 서류 | 행정사사무소 이룸",
+    description: "복수국적자의 국적이탈 신고 기한과 절차, 재외공관 제출 서류를 정리했습니다. 병역 관련 기한을 놓쳤을 때의 제한과 확인해야 할 사항을 행정사가 안내합니다.",
   },
 }
+
+const faqs: FaqItem[] = [
+  {
+                  question: "국적이탈 신고를 하지 않으면?",
+                  answer: "신고하지 않으면 대한민국 국적자가 유지된 상태로 간주되며, 병역의무 발생, 출입국 제한, 외국 국적 활용에 제약 등의 불이익이 따를 수 있습니다.",
+                },
+                {
+                  question: "어디서 신고하나요?",
+                  answer: "반드시 재외공관에서 신청해야 합니다. 해외에 주소를 두고 거주하는 사람에 한해 해당 주소지 관할 재외공관(대사관/영사관)을 통해 신고할 수 있습니다.",
+                },
+                {
+                  question: "처리 기간은?",
+                  answer: "국적이탈 처리 후 가족관계부에 등록될 때까지 약 3개월 이상 소요됩니다. 서류 미비나 심사 상황에 따라 더 길어질 수 있습니다.",
+                },
+]
 
 export default function NationalityRenunciationReportPage() {
   return (
     <div className="flex min-h-screen flex-col">
+      <ServiceJsonLd
+        name="국적이탈 신고 대행"
+        description="복수국적자의 국적이탈 신고 절차, 병역의무 기한, 국적상실과의 차이점 안내. 행정사사무소 이룸이 전 과정을 대행합니다."
+        url={`${SITE.url}/nationality-renunciation-report`}
+      />
       <Header />
-      <main className="flex-1">
+      <main id="main" className="flex-1">
         <PageBreadcrumb items={[{ label: "국적이탈 신고", path: "/nationality-renunciation-report" }]} />
-        {/* Hero */}
-        <section className="relative w-full min-h-[300px] flex items-center py-16">
-          <div className="hero-bg absolute inset-0">
-            <img src="/slides/passport.jpg" alt="국적이탈신고 / 신고 절차 및 필수 서류" className="w-full h-full object-cover" />
-            <div className="absolute inset-0 bg-black/50" />
-          </div>
-          <div className="relative mx-auto max-w-7xl px-4 text-center lg:px-8">
-            <h1 className="text-3xl font-bold text-white md:text-4xl lg:text-5xl">
-              국적이탈신고 / 신고 절차 및 필수 서류
-            </h1>
-            <p className="mx-auto mt-4 max-w-2xl text-lg text-white/80">
-              복수국적자의 고민, 국적이탈 신고 절차 및 필수 서류 종합 안내
-            </p>
-          </div>
-        </section>
+        <PageHero
+          title="국적이탈신고 / 신고 절차 및 필수 서류"
+          subtitle="복수국적자의 고민, 국적이탈 신고 절차 및 필수 서류 종합 안내"
+        />
 
         {/* 국적이탈 신고란? */}
         <section className="py-8 md:py-12">
@@ -127,7 +139,7 @@ export default function NationalityRenunciationReportPage() {
                 <h3 className="text-xl font-semibold text-foreground">
                   일반적인 경우
                 </h3>
-                <p className="mt-3 leading-relaxed text-muted-foreground">
+                <p className="mt-4 leading-relaxed text-muted-foreground">
                   국적이탈 신고는 외국에 주소를 두고 거주하는 사람에 한해 해당
                   주소지 관할 재외공관(영사관)을 통해 신청해야 합니다. 만 15세
                   이상인 경우에는 본인이 직접 신청해야 하며, 15세 미만인 경우에는
@@ -137,7 +149,7 @@ export default function NationalityRenunciationReportPage() {
 
               {/* 병역의무 경고 */}
               <div className="rounded-xl border-2 border-destructive/30 bg-destructive/5 p-6 lg:p-8">
-                <div className="flex items-center gap-3">
+                <div className="flex items-center gap-4">
                   <AlertTriangle className="h-6 w-6 shrink-0 text-destructive" />
                   <h3 className="text-xl font-semibold text-destructive">
                     남성 복수국적자의 특별한 시기: 병역의무
@@ -158,7 +170,7 @@ export default function NationalityRenunciationReportPage() {
                   <p className="text-sm font-medium text-foreground">
                     기한 경과 시
                   </p>
-                  <p className="mt-1 text-sm leading-relaxed text-muted-foreground">
+                  <p className="mt-2 text-sm leading-relaxed text-muted-foreground">
                     만약 이 기한을 넘겨 4월 1일 이후에 신고를 하는 경우에는
                     병역을 필했거나 면제받았음을 증명하는 서류를 제출해야만
                     국적이탈이 가능합니다. 이 시기를 놓치게 되면 사실상 국적이탈이
@@ -176,7 +188,7 @@ export default function NationalityRenunciationReportPage() {
             <h2 className="text-3xl font-bold text-foreground">
               국적이탈 신고 절차
             </h2>
-            <p className="mt-3 text-muted-foreground">
+            <p className="mt-4 text-muted-foreground">
               전체 소요 기간은 약 1년 정도이므로, 미리미리 준비하는 것이
               좋습니다.
             </p>
@@ -217,7 +229,7 @@ export default function NationalityRenunciationReportPage() {
                   <span className="text-xs font-semibold uppercase tracking-wider text-primary">
                     Step {item.step}
                   </span>
-                  <h3 className="mt-1 text-lg font-semibold text-foreground">
+                  <h3 className="mt-2 text-lg font-semibold text-foreground">
                     {item.title}
                   </h3>
                   <p className="mt-2 text-sm leading-relaxed text-muted-foreground">
@@ -229,58 +241,12 @@ export default function NationalityRenunciationReportPage() {
           </div>
         </section>
 
-        {/* FAQ */}
-        <section className="py-8 md:py-12">
-          <div className="mx-auto max-w-4xl px-4 lg:px-8">
-            <h2 className="text-3xl font-bold text-foreground">
-              자주 묻는 질문 (FAQ)
-            </h2>
-            <div className="mt-8 space-y-6">
-              {[
-                {
-                  q: "국적이탈 신고를 하지 않으면?",
-                  a: "신고하지 않으면 대한민국 국적자가 유지된 상태로 간주되며, 병역의무 발생, 출입국 제한, 외국 국적 활용에 제약 등의 불이익이 따를 수 있습니다.",
-                },
-                {
-                  q: "어디서 신고하나요?",
-                  a: "반드시 재외공관에서 신청해야 합니다. 해외에 주소를 두고 거주하는 사람에 한해 해당 주소지 관할 재외공관(대사관/영사관)을 통해 신고할 수 있습니다.",
-                },
-                {
-                  q: "처리 기간은?",
-                  a: "국적이탈 처리 후 가족관계부에 등록될 때까지 약 3개월 이상 소요됩니다. 서류 미비나 심사 상황에 따라 더 길어질 수 있습니다.",
-                },
-              ].map((item) => (
-                <div
-                  key={item.q}
-                  className="rounded-xl border border-border bg-background p-6"
-                >
-                  <h3 className="text-lg font-semibold text-foreground">
-                    Q. {item.q}
-                  </h3>
-                  <p className="mt-3 leading-relaxed text-muted-foreground">
-                    {item.a}
-                  </p>
-                </div>
-              ))}
-            </div>
-          </div>
-        </section>
+        <Faq items={faqs} />
 
-        {/* CTA */}
-        <section className="bg-primary py-16 text-center text-primary-foreground">
-          <div className="mx-auto max-w-7xl px-4">
-            <h2 className="text-2xl font-bold">전문 상담이 필요하신가요?</h2>
-            <p className="mt-4 text-primary-foreground/80">
-              비전행정사사무소가 국적이탈 신고 전 과정을 대행합니다.
-            </p>
-            <Link
-              href="/contact"
-              className="mt-8 inline-flex items-center rounded-lg bg-white px-8 py-3 font-semibold text-primary transition-colors hover:bg-white/90"
-            >
-              상담 문의하기
-            </Link>
-          </div>
-        </section>
+        <CtaSection
+          title="전문 상담이 필요하신가요?"
+          description="행정사사무소 이룸이 국적이탈 신고 전 과정을 대행합니다."
+        />
       </main>
       <Footer />
     </div>

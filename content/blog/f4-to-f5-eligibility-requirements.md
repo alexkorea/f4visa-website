@@ -24,7 +24,7 @@ F-4 거소증을 일정 기간 유지한 재외동포라면, 소득·체류·품
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4와 F-5의 차이점 비교</a></li>
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. F-5 신청 전 반드시 확인할 사항</a></li>
     <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 비전행정사사무소 F-4 서비스 안내</a></li>
+    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
     <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
     <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
   </ul>
@@ -138,7 +138,7 @@ F-4로 2년을 채웠어도 출국 일수가 많으면 "국내 정착 의사"가
 
 처리 기간은 출입국사무소별로 다르며, 보통 수개월이 소요됩니다.
 
-비전 행정사사무소는 가장 빠른 출입국사무소를 찾아 진행해 드립니다.
+행정사사무소 이룸는 가장 빠른 출입국사무소를 찾아 진행해 드립니다.
 
 > **실무 팁:** 같은 서류라도 접수 관할청에 따라 보정 요청 빈도와 처리 속도가 크게 차이 납니다.
 
@@ -208,7 +208,7 @@ F-4가 "동포로서의 거주권"이라면, F-5는 "국민에 가까운 영주�
 
 벌금형 정도라면 일정 기간 경과 후 재신청 가능한 사례가 있습니다.
 
-<h2 id="section-8">비전행정사사무소 F-4 서비스 안내</h2>
+<h2 id="section-8">행정사사무소 이룸 F-4 서비스 안내</h2>
 
 **가장 신속히 허가되는 출입국사무소를 찾아서 진행해 드립니다.**
 **한국내 최소체류기간으로 처리 가능합니다.**
@@ -225,10 +225,10 @@ F-4가 "동포로서의 거주권"이라면, F-5는 "국민에 가까운 영주�
 
 F-4에서 F-5로의 전환은 서류 한 장 차이로 결과가 갈리는 경우가 많습니다.
 
-비전 행정사사무소는 재외동포 비자·영주권 전문 사무소로, 본인 사례에 맞는 가장 빠른 경로를 찾아 드립니다.
+행정사사무소 이룸는 재외동포 비자·영주권 전문 사무소로, 본인 사례에 맞는 가장 빠른 경로를 찾아 드립니다.
 
 - **전화:** 02-363-2251
-- **이메일:** 5000meter@gmail.com
+- **이메일:** teamone163@gmail.com
 - **카카오톡:** alexkorea
 - **주소:** (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - **상담시간:** 평일 09:30 — 17:30 (점심 12:00 — 13:00)

@@ -23,7 +23,7 @@ F-4 재외동포 비자 소지자가 한국에서 취업할 경우, 근무 시�
     <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 미신고 시 과태료 산정 방식</a></li>
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 이직·퇴사 시 추가 신고 의무</a></li>
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. F-4 취업 활동 시 자주 발생하는 실무 문제</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 비전행정사사무소 F-4 서비스 안내</a></li>
+    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
     <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문(FAQ)</a></li>
     <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
     <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
@@ -197,7 +197,7 @@ F-4 비자로 사업자등록을 한 경우, 별도의 활동 신고 절차가 �
 
 본인이 어느 쪽에 해당하는지 명확히 구분되지 않으면 신고가 꼬일 수 있습니다.
 
-<h2 id="section-7">비전행정사사무소 F-4 서비스 안내</h2>
+<h2 id="section-7">행정사사무소 이룸 F-4 서비스 안내</h2>
 
 **가장 신속히 허가되는 출입국사무소를 찾아서 진행해 드립니다.**
 
@@ -255,10 +255,10 @@ F-4 비자 취업 신고는 단순 행정 절차로 보이지만, 신고 시점�
 
 특히 이미 기한이 지난 경우, 자진 신고 시점과 사유 소명을 어떻게 구성하느냐에 따라 결과가 달라집니다.
 
-**비전 행정사사무소**
+**행정사사무소 이룸**
 
 - 전화: 02-363-2251
-- 이메일: 5000meter@gmail.com
+- 이메일: teamone163@gmail.com
 - 카카오톡: alexkorea
 - 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - 상담 시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)

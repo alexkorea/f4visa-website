@@ -33,26 +33,26 @@ export function InlineCTAForm() {
 
   if (status === "success") {
     return (
-      <div className="my-10 rounded-xl border-2 border-orange-200 bg-orange-50 p-6 text-center">
-        <p className="text-lg font-semibold text-orange-800">신청 완료! 곧 연락드리겠습니다.</p>
+      <div className="my-10 rounded-xl border-2 border-border bg-secondary p-6 text-center">
+        <p className="text-lg font-semibold text-foreground">신청 완료! 곧 연락드리겠습니다.</p>
       </div>
     )
   }
 
   return (
-    <div className="my-10 rounded-xl border-2 border-orange-200 bg-orange-50/60 p-5 md:p-6">
-      <h3 className="mb-4 text-lg font-bold text-orange-900">
-        ⚡ 30초 빠른 상담 신청
+    <div className="my-10 rounded-xl border-2 border-border bg-secondary/60 p-6 md:p-6">
+      <h3 className="mb-4 text-lg font-bold text-foreground">
+        30초 빠른 상담 신청
       </h3>
       <form onSubmit={handleSubmit}>
-        <div className="grid gap-3 sm:grid-cols-3">
+        <div className="grid gap-4 sm:grid-cols-3">
           <input
             type="text"
             placeholder="이름 *"
             required
             value={name}
             onChange={(e) => setName(e.target.value)}
-            className="h-11 rounded-lg border border-orange-300 bg-white px-4 text-sm text-gray-900 placeholder:text-gray-400 focus:outline-none focus:ring-2 focus:ring-orange-500"
+            className="h-11 rounded-lg border border-border bg-white px-4 text-sm text-foreground placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-orange-500"
           />
           <input
             type="text"
@@ -60,14 +60,14 @@ export function InlineCTAForm() {
             required
             value={contact}
             onChange={(e) => setContact(e.target.value)}
-            className="h-11 rounded-lg border border-orange-300 bg-white px-4 text-sm text-gray-900 placeholder:text-gray-400 focus:outline-none focus:ring-2 focus:ring-orange-500"
+            className="h-11 rounded-lg border border-border bg-white px-4 text-sm text-foreground placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-orange-500"
           />
           <input
             type="email"
             placeholder="이메일"
             value={email}
             onChange={(e) => setEmail(e.target.value)}
-            className="h-11 rounded-lg border border-orange-300 bg-white px-4 text-sm text-gray-900 placeholder:text-gray-400 focus:outline-none focus:ring-2 focus:ring-orange-500"
+            className="h-11 rounded-lg border border-border bg-white px-4 text-sm text-foreground placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-orange-500"
           />
         </div>
         <button
@@ -78,7 +78,7 @@ export function InlineCTAForm() {
           {status === "loading" ? "전송 중..." : "상담 신청"}
         </button>
         {status === "error" && (
-          <p className="mt-2 text-sm text-red-600">전송에 실패했습니다. 다시 시도해주세요.</p>
+          <p className="mt-2 text-sm text-destructive">전송에 실패했습니다. 다시 시도해주세요.</p>
         )}
       </form>
     </div>

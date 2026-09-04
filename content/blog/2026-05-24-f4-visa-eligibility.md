@@ -3,7 +3,7 @@ title: "F-4 재외동포 비자 신청 자격 완벽 가이드 — 미국·캐�
 description: "미국·캐나다·호주·일본 재외동포의 F-4 비자 신청 자격, 제출 서류, 주의사항을 실무 기준으로 정리했습니다."
 date: "2026-05-24"
 slug: "f4-visa-eligibility-overseas-koreans-2026"
-author: "비전행정사사무소"
+author: "행정사사무소 이룸"
 category: "F-4 비자 신청"
 image: "/blog/2026-05-24-f4-visa-eligibility.jpg"
 ---
@@ -136,7 +136,7 @@ F-4 비자로 입국 후 91일 이상 체류하면 외국인등록이 의무이�
 
 ---
 
-재외동포 F-4 비자는 서류 준비와 동포 자격 입증이 핵심입니다. **비전행정사사무소(02-363-2251)**에서 해외 동포 비자 전 과정을 지원합니다.
+재외동포 F-4 비자는 서류 준비와 동포 자격 입증이 핵심입니다. **행정사사무소 이룸(02-363-2251)**에서 해외 동포 비자 전 과정을 지원합니다.
 
 <div style="background:#0056B3;color:#fff;padding:20px;border-radius:8px;text-align:center;margin-top:32px;">
 <strong>F-4 재외동포 비자 전문 상담</strong><br/>

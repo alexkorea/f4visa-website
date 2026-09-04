@@ -5,7 +5,7 @@ category: "F-4비자"
 excerpt: "F-4 재외동포 비자 체류기간 연장 요건부터 하이코리아 온라인 신청 방법, 필요 서류, 주의사항까지 단계별로 정리했습니다."
 image: "/blog/f4-visa-stay-period-extension-guide.jpg"
 slug: "f4-visa-stay-period-extension-guide"
-author: "비전행정사사무소"
+author: "행정사사무소 이룸"
 ---
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin-bottom:30px;border-left:4px solid #1e40af">
@@ -200,7 +200,7 @@ A. 네, 미국·캐나다·호주 등 어느 나라의 시민권자라도 F-4 �
 </div>
 
 <div style="background:#1e40af;color:white;padding:24px;border-radius:8px;margin:30px 0;text-align:center">
-<strong style="display:block;font-size:18px;margin-bottom:8px">비전행정사사무소 무료 상담</strong>
+<strong style="display:block;font-size:18px;margin-bottom:8px">행정사사무소 이룸 무료 상담</strong>
 <p style="margin:8px 0;opacity:0.9">F-4 체류기간 연장 준비가 복잡하시다면 전문가에게 문의하세요</p>
 <p style="margin:8px 0;font-size:14px;opacity:0.8">월~금 09:30~17:30 (KST) | 토·공휴일 휴무</p>
 <a href="https://inhega.co.kr/consultation" target="_blank" rel="noopener" style="display:inline-block;margin-top:12px;padding:12px 28px;background:#A33344;color:white;border-radius:6px;text-decoration:none;font-weight:bold">무료 상담 신청하기</a>

@@ -14,6 +14,7 @@ export interface BlogPost {
   category: string
   excerpt: string
   image: string
+  partner: string
   content: string
 }
 
@@ -34,6 +35,7 @@ function readPost(filePath: string): BlogPost | null {
       category: data.category || '',
       excerpt: data.excerpt || data.description || '',
       image: data.image || '/slides/documents.jpg',
+      partner: data.partner || '',
       content,
     }
   } catch {

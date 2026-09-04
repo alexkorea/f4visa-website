@@ -2,52 +2,63 @@ import type { Metadata } from "next"
 import Link from "next/link"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
+import { PageHero } from "@/components/page-hero"
+import { SITE } from "@/lib/site"
+import { Faq, type FaqItem } from "@/components/faq"
+import { CtaSection } from "@/components/cta-section"
+import { ServiceJsonLd } from "@/components/structured-data"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { FileText, Building2, ClipboardCheck, CheckCircle2 } from "lucide-react"
 
 export const metadata: Metadata = {
-  title: "국적상실 신고 절차와 준비서류 총정리",
+  title: "국적상실 신고 — 절차·준비서류 총정리",
   description:
-    "외국 국적 취득 시 한국 국적 상실 신고 절차, 필수 서류, 국적법 제15조 안내. 비전행정사사무소가 국적상실 신고를 대행합니다.",
-  alternates: { canonical: "https://www.f4visa.net/nationality-loss-report" },
+    "외국 국적 취득으로 대한민국 국적을 상실한 경우의 신고 절차와 준비 서류, 신고를 미룰 때 생기는 문제를 정리했습니다. 재외공관·국내 접수 방법을 행정사가 안내합니다.",
+  alternates: { canonical: `${SITE.url}/nationality-loss-report` },
   openGraph: {
-    title: "국적상실 신고 절차와 준비서류 총정리",
-    description:
-      "외국 국적 취득 시 한국 국적 상실 신고 절차, 필수 서류, 국적법 제15조 안내.",
-    url: "https://www.f4visa.net/nationality-loss-report",
-    siteName: "비전행정사사무소",
+    title: "국적상실 신고 — 절차·준비서류 총정리 | 행정사사무소 이룸",
+    description: "외국 국적 취득으로 대한민국 국적을 상실한 경우의 신고 절차와 준비 서류, 신고를 미룰 때 생기는 문제를 정리했습니다. 재외공관·국내 접수 방법을 행정사가 안내합니다.",
+    url: `${SITE.url}/nationality-loss-report`,
+    siteName: SITE.name,
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "국적상실 신고 절차와 준비서류 총정리",
-    description:
-      "외국 국적 취득 시 한국 국적 상실 신고 절차, 필수 서류, 국적법 제15조 안내.",
+    title: "국적상실 신고 — 절차·준비서류 총정리 | 행정사사무소 이룸",
+    description: "외국 국적 취득으로 대한민국 국적을 상실한 경우의 신고 절차와 준비 서류, 신고를 미룰 때 생기는 문제를 정리했습니다. 재외공관·국내 접수 방법을 행정사가 안내합니다.",
   },
 }
+
+const faqs: FaqItem[] = [
+  {
+                  question: "서류 유효기간이 있나요?",
+                  answer: "일반적으로 3개월 이내 발급 원본을 권장합니다. 기관 안내 기준을 우선합니다.",
+                },
+                {
+                  question: "국적상실 신고를 하지 않으면?",
+                  answer: "국내 행정, 금융 등에서 기록 불일치로 불이익이 발생할 수 있습니다. 가급적 조속히 신고하세요.",
+                },
+                {
+                  question: "병역의무 대상자는 어떻게 되나요?",
+                  answer: "병역의무 대상자는 국적상실 전후 제한 요건을 별도로 검토해야 합니다. 전문가 상담을 권장합니다.",
+                },
+]
 
 export default function NationalityLossReportPage() {
   return (
     <div className="flex min-h-screen flex-col">
+      <ServiceJsonLd
+        name="국적상실 신고 대행"
+        description="외국 국적 취득 시 한국 국적 상실 신고 절차, 필수 서류, 국적법 제15조 안내. 행정사사무소 이룸이 국적상실 신고를 대행합니다."
+        url={`${SITE.url}/nationality-loss-report`}
+      />
       <Header />
-      <main className="flex-1">
+      <main id="main" className="flex-1">
         <PageBreadcrumb items={[{ label: "국적상실 신고", path: "/nationality-loss-report" }]} />
-        {/* Hero */}
-        <section className="relative w-full min-h-[300px] flex items-center py-16">
-          <div className="hero-bg absolute inset-0">
-            <img src="/slides/passport.jpg" alt="국적상실 신고 절차와 준비서류 총정리" className="w-full h-full object-cover" />
-            <div className="absolute inset-0 bg-black/50" />
-          </div>
-          <div className="relative mx-auto max-w-7xl px-4 text-center lg:px-8">
-            <h1 className="text-3xl font-bold text-white md:text-4xl lg:text-5xl">
-              국적상실 신고 절차와 준비서류 총정리
-            </h1>
-            <p className="mx-auto mt-4 max-w-2xl text-lg text-white/80">
-              재외동포 필독 가이드 -- 외국 국적 취득 후 반드시 필요한 국적상실
-              신고의 모든 것
-            </p>
-          </div>
-        </section>
+        <PageHero
+          title="국적상실 신고 절차와 준비서류 총정리"
+          subtitle="재외동포 필독 가이드 -- 외국 국적 취득 후 반드시 필요한 국적상실 신고의 모든 것"
+        />
 
         {/* 국적상실이란? */}
         <section className="py-8 md:py-12">
@@ -86,10 +97,10 @@ export default function NationalityLossReportPage() {
                 제15조 (외국 국적 취득에 따른 국적 상실)
               </h3>
 
-              <article className="space-y-6 rounded-xl border border-border bg-background p-6 text-[15px] leading-relaxed text-muted-foreground lg:p-8">
+              <article className="space-y-6 rounded-xl border border-border bg-background p-6 leading-relaxed text-muted-foreground lg:p-8">
                 <div>
                   <p className="font-medium text-foreground">제1항</p>
-                  <p className="mt-1">
+                  <p className="mt-2">
                     대한민국의 국민으로서 자진하여 외국 국적을 취득한 자는 그 외국
                     국적을 취득한 때에 대한민국 국적을 상실한다.
                   </p>
@@ -97,13 +108,13 @@ export default function NationalityLossReportPage() {
 
                 <div>
                   <p className="font-medium text-foreground">제2항</p>
-                  <p className="mt-1">
+                  <p className="mt-2">
                     대한민국의 국민으로서 다음 각 호의 어느 하나에 해당하는 자는 그
                     외국 국적을 취득한 때부터 6개월 내에 법무부장관에게 대한민국
                     국적을 보유할 의사가 있다는 뜻을 신고하지 아니하면 그 외국
                     국적을 취득한 때로 소급하여 대한민국 국적을 상실한 것으로 본다.
                   </p>
-                  <ol className="mt-3 list-inside list-decimal space-y-2 pl-4">
+                  <ol className="mt-4 list-inside list-decimal space-y-2 pl-4">
                     <li>
                       외국인과의 혼인으로 그 배우자의 국적을 취득하게 된 자
                     </li>
@@ -124,7 +135,7 @@ export default function NationalityLossReportPage() {
 
                 <div>
                   <p className="font-medium text-foreground">제3항</p>
-                  <p className="mt-1">
+                  <p className="mt-2">
                     외국 국적을 취득함으로써 대한민국 국적을 상실하게 된 자에
                     대하여 그 외국 국적의 취득일을 알 수 없으면 그가 사용하는 외국
                     여권의 최초 발급일에 그 외국 국적을 취득한 것으로 추정한다.
@@ -133,7 +144,7 @@ export default function NationalityLossReportPage() {
 
                 <div>
                   <p className="font-medium text-foreground">제4항</p>
-                  <p className="mt-1">
+                  <p className="mt-2">
                     제2항에 따른 신고 절차와 그 밖에 필요한 사항은 대통령령으로
                     정한다.
                   </p>
@@ -180,7 +191,7 @@ export default function NationalityLossReportPage() {
                   <span className="text-xs font-semibold uppercase tracking-wider text-primary">
                     Step {item.step}
                   </span>
-                  <h3 className="mt-1 text-lg font-semibold text-foreground">
+                  <h3 className="mt-2 text-lg font-semibold text-foreground">
                     {item.title}
                   </h3>
                   <p className="mt-2 text-sm leading-relaxed text-muted-foreground">
@@ -223,9 +234,9 @@ export default function NationalityLossReportPage() {
               ].map((doc) => (
                 <li
                   key={doc.name}
-                  className="flex items-start gap-3 rounded-lg border border-border bg-background p-4"
+                  className="flex items-start gap-4 rounded-lg border border-border bg-background p-4"
                 >
-                  <CheckCircle2 className="mt-0.5 h-5 w-5 shrink-0 text-primary" />
+                  <CheckCircle2 className="mt-2 h-5 w-5 shrink-0 text-primary" />
                   <div>
                     <p className="font-medium text-foreground">{doc.name}</p>
                     <p className="text-sm text-muted-foreground">
@@ -238,58 +249,12 @@ export default function NationalityLossReportPage() {
           </div>
         </section>
 
-        {/* FAQ */}
-        <section className="py-8 md:py-12">
-          <div className="mx-auto max-w-4xl px-4 lg:px-8">
-            <h2 className="text-3xl font-bold text-foreground">
-              자주 묻는 질문 (FAQ)
-            </h2>
-            <div className="mt-8 space-y-6">
-              {[
-                {
-                  q: "서류 유효기간이 있나요?",
-                  a: "일반적으로 3개월 이내 발급 원본을 권장합니다. 기관 안내 기준을 우선합니다.",
-                },
-                {
-                  q: "국적상실 신고를 하지 않으면?",
-                  a: "국내 행정, 금융 등에서 기록 불일치로 불이익이 발생할 수 있습니다. 가급적 조속히 신고하세요.",
-                },
-                {
-                  q: "병역의무 대상자는 어떻게 되나요?",
-                  a: "병역의무 대상자는 국적상실 전후 제한 요건을 별도로 검토해야 합니다. 전문가 상담을 권장합니다.",
-                },
-              ].map((item) => (
-                <div
-                  key={item.q}
-                  className="rounded-xl border border-border bg-background p-6"
-                >
-                  <h3 className="text-lg font-semibold text-foreground">
-                    Q. {item.q}
-                  </h3>
-                  <p className="mt-3 leading-relaxed text-muted-foreground">
-                    {item.a}
-                  </p>
-                </div>
-              ))}
-            </div>
-          </div>
-        </section>
+        <Faq items={faqs} />
 
-        {/* CTA */}
-        <section className="bg-primary py-16 text-center text-primary-foreground">
-          <div className="mx-auto max-w-7xl px-4">
-            <h2 className="text-2xl font-bold">전문 상담이 필요하신가요?</h2>
-            <p className="mt-4 text-primary-foreground/80">
-              비전행정사사무소가 국적상실 신고 전 과정을 대행합니다.
-            </p>
-            <Link
-              href="/contact"
-              className="mt-8 inline-flex items-center rounded-lg bg-white px-8 py-3 font-semibold text-primary transition-colors hover:bg-white/90"
-            >
-              상담 문의하기
-            </Link>
-          </div>
-        </section>
+        <CtaSection
+          title="전문 상담이 필요하신가요?"
+          description="행정사사무소 이룸이 국적상실 신고 전 과정을 대행합니다."
+        />
       </main>
       <Footer />
     </div>

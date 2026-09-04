@@ -1,27 +1,30 @@
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
+import { PageHero } from "@/components/page-hero"
+import { SITE } from "@/lib/site"
+import { Faq, type FaqItem } from "@/components/faq"
+import { CtaSection } from "@/components/cta-section"
+import { ServiceJsonLd } from "@/components/structured-data"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
 
 export const metadata = {
-  title: "F-4 비자 종류",
+  title: "F-4 비자 종류 — 대상별 사증발급 첨부서류",
   description:
-    "F-4 비자 종류별 대상 및 제출 서류 안내. F-4-11부터 F-4-99까지 모든 세부 자격을 확인하세요.",
-  alternates: { canonical: "https://www.f4visa.net/f4-visa-types" },
+    "F-4 재외동포 비자의 대상 구분과 사증발급신청 시 첨부서류 고시 내용을 유형별로 정리했습니다. 본인 상황에 해당하는 서류 목록을 확인하고 준비 순서를 잡을 수 있습니다.",
+  alternates: { canonical: `${SITE.url}/f4-visa-types` },
   openGraph: {
-    title: "F-4 비자 종류 | 비전행정사사무소",
-    description:
-      "F-4 비자 종류별 대상 및 제출 서류 안내. F-4-11부터 F-4-99까지 모든 세부 자격을 확인하세요.",
-    url: "https://www.f4visa.net/f4-visa-types",
-    siteName: "비전행정사사무소",
+    title: "F-4 비자 종류 — 대상별 사증발급 첨부서류 | 행정사사무소 이룸",
+    description: "F-4 재외동포 비자의 대상 구분과 사증발급신청 시 첨부서류 고시 내용을 유형별로 정리했습니다. 본인 상황에 해당하는 서류 목록을 확인하고 준비 순서를 잡을 수 있습니다.",
+    url: `${SITE.url}/f4-visa-types`,
+    siteName: SITE.name,
     type: "website",
   },
   twitter: {
     card: "summary_large_image" as const,
-    title: "F-4 비자 종류 | 비전행정사사무소",
-    description:
-      "F-4 비자 종류별 대상 및 제출 서류 안내. F-4-11부터 F-4-99까지 모든 세부 자격을 확인하세요.",
+    title: "F-4 비자 종류 — 대상별 사증발급 첨부서류 | 행정사사무소 이룸",
+    description: "F-4 재외동포 비자의 대상 구분과 사증발급신청 시 첨부서류 고시 내용을 유형별로 정리했습니다. 본인 상황에 해당하는 서류 목록을 확인하고 준비 순서를 잡을 수 있습니다.",
   },
 }
 
@@ -168,31 +171,43 @@ const table2Rows = [
   },
 ]
 
+const faqs: FaqItem[] = [
+  {
+    question: "F-4 비자 세부코드는 어떻게 나뉘나요?",
+    answer:
+      "「사증발급신청 등 첨부서류에 관한 고시」 국가에 해당하는지 여부에 따라 표가 나뉘며, 각 표에서 대상과 제출 서류가 세부코드별로 정해져 있습니다. 위 표에서 본인에게 해당하는 코드를 먼저 확인하세요.",
+  },
+  {
+    question: "F-4-11, F-4-12 코드는 그대로 사용하나요?",
+    answer:
+      "F-4-11은 F-4-41로, F-4-12는 F-4-42로 변경되었습니다. 과거 안내 자료의 코드와 다를 수 있으므로 신청 전 현재 코드를 확인해야 합니다.",
+  },
+  {
+    question: "제출 서류는 세부코드마다 다른가요?",
+    answer:
+      "네. 같은 F-4라도 세부코드에 따라 요구되는 증빙이 다릅니다. 표의 제출 서류 항목을 기준으로 준비하되, 개별 사안에 따라 관할 기관이 추가 서류를 요청할 수 있습니다.",
+  },
+]
+
 export default function F4VisaTypesPage() {
   return (
     <div className="flex min-h-screen flex-col">
+      <ServiceJsonLd
+        name="F-4 비자 종류별 안내"
+        description="F-4 비자 종류별 대상 및 제출 서류 안내. F-4-11부터 F-4-99까지 모든 세부 자격을 확인하세요."
+        url={`${SITE.url}/f4-visa-types`}
+      />
       <Header />
-      <main className="flex-1">
+      <main id="main" className="flex-1">
         <PageBreadcrumb items={[{ label: "F-4 비자 종류", path: "/f4-visa-types" }]} />
-        {/* Hero */}
-        <section className="relative w-full min-h-[300px] flex items-center py-16">
-          <div className="hero-bg absolute inset-0">
-            <img src="/slides/legal-docs.jpg" alt="F-4 비자 종류" className="w-full h-full object-cover" />
-            <div className="absolute inset-0 bg-black/50" />
-          </div>
-          <div className="relative mx-auto max-w-7xl px-4 text-center lg:px-8">
-            <h1 className="text-3xl font-bold text-white md:text-4xl lg:text-5xl">
-              F-4 비자 종류
-            </h1>
-            <p className="mx-auto mt-4 max-w-2xl text-lg text-white/80">
-              사증발급신청 등 첨부서류에 관한 고시
-            </p>
-          </div>
-        </section>
+        <PageHero
+          title="F-4 비자 종류"
+          subtitle="사증발급신청 등 첨부서류에 관한 고시"
+        />
 
         {/* Table 1 */}
-        <section className="bg-background py-8 md:py-12">
-          <div className="mx-auto max-w-7xl px-4 lg:px-8">
+        <section className="section">
+          <div className="container-x">
             <h2 className="mb-2 text-2xl font-bold text-foreground md:text-3xl">
               &ldquo;사증발급신청 등 첨부서류에 관한 고시&rdquo;국가 외의
               외국국적동포
@@ -203,17 +218,17 @@ export default function F4VisaTypesPage() {
             <p className="mb-8 text-sm text-primary font-medium">
               F-4-11은 F-4-41로, F-4-12는 F-4-42로 변경되었습니다.
             </p>
-            <div className="overflow-x-auto rounded-2xl border border-border/50">
+            <div className="overflow-x-auto rounded-2xl border border-border">
               <table className="w-full min-w-[700px] text-sm">
                 <thead>
                   <tr className="border-b border-border bg-secondary/50">
-                    <th className="px-4 py-3 text-left font-semibold text-foreground w-24">
+                    <th className="px-4 py-4 text-left font-semibold text-foreground w-24">
                       코드
                     </th>
-                    <th className="px-4 py-3 text-left font-semibold text-foreground w-[40%]">
+                    <th className="px-4 py-4 text-left font-semibold text-foreground w-[40%]">
                       대상
                     </th>
-                    <th className="px-4 py-3 text-left font-semibold text-foreground">
+                    <th className="px-4 py-4 text-left font-semibold text-foreground">
                       제출 서류
                     </th>
                   </tr>
@@ -222,7 +237,7 @@ export default function F4VisaTypesPage() {
                   {table1Rows.map((row, i) => (
                     <tr
                       key={row.code}
-                      className={`border-b border-border/50 ${
+                      className={`border-b border-border ${
                         i % 2 === 0 ? "bg-card" : "bg-background"
                       }`}
                     >
@@ -244,8 +259,8 @@ export default function F4VisaTypesPage() {
         </section>
 
         {/* Table 2 */}
-        <section className="bg-secondary/30 py-8 md:py-12">
-          <div className="mx-auto max-w-7xl px-4 lg:px-8">
+        <section className="section section-alt">
+          <div className="container-x">
             <h2 className="mb-2 text-2xl font-bold text-foreground md:text-3xl">
               &ldquo;사증발급신청 등 첨부서류에 관한 고시&rdquo;국가의
               외국국적동포
@@ -256,17 +271,17 @@ export default function F4VisaTypesPage() {
             <p className="mb-8 text-sm text-primary font-medium">
               세부코드의 확인이 필요합니다.
             </p>
-            <div className="overflow-x-auto rounded-2xl border border-border/50">
+            <div className="overflow-x-auto rounded-2xl border border-border">
               <table className="w-full min-w-[700px] text-sm">
                 <thead>
                   <tr className="border-b border-border bg-secondary/50">
-                    <th className="px-4 py-3 text-left font-semibold text-foreground w-24">
+                    <th className="px-4 py-4 text-left font-semibold text-foreground w-24">
                       코드
                     </th>
-                    <th className="px-4 py-3 text-left font-semibold text-foreground w-[40%]">
+                    <th className="px-4 py-4 text-left font-semibold text-foreground w-[40%]">
                       세부 대상
                     </th>
-                    <th className="px-4 py-3 text-left font-semibold text-foreground">
+                    <th className="px-4 py-4 text-left font-semibold text-foreground">
                       제출 서류
                     </th>
                   </tr>
@@ -275,7 +290,7 @@ export default function F4VisaTypesPage() {
                   {table2Rows.map((row, i) => (
                     <tr
                       key={row.code}
-                      className={`border-b border-border/50 ${
+                      className={`border-b border-border ${
                         i % 2 === 0 ? "bg-card" : "bg-background"
                       }`}
                     >
@@ -296,25 +311,12 @@ export default function F4VisaTypesPage() {
           </div>
         </section>
 
-        {/* CTA */}
-        <section className="bg-primary py-8 md:py-12">
-          <div className="mx-auto max-w-7xl px-4 text-center lg:px-8">
-            <h2 className="text-2xl font-bold text-primary-foreground md:text-3xl">
-              나에게 맞는 F-4 비자 유형이 궁금하신가요?
-            </h2>
-            <p className="mx-auto mt-4 max-w-xl text-primary-foreground/80">
-              비전행정사사무소에서 개인별 자격 진단과 서류 준비를 도와드립니다.
-            </p>
-            <div className="mt-8 flex flex-col items-center justify-center gap-4 sm:flex-row">
-              <Button size="lg" variant="secondary" asChild>
-                <Link href="/contact">상담 문의하기</Link>
-              </Button>
-              <Button size="lg" variant="secondary" asChild>
-                <a href="tel:010-2081-3408">전화 상담</a>
-              </Button>
-            </div>
-          </div>
-        </section>
+        <Faq items={faqs} />
+
+        <CtaSection
+          title="나에게 맞는 F-4 비자 유형이 궁금하신가요?"
+          description="행정사사무소 이룸에서 개인별 자격 진단과 서류 준비를 도와드립니다."
+        />
       </main>
       <Footer />
     </div>

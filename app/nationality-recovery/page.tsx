@@ -2,52 +2,63 @@ import type { Metadata } from "next"
 import Link from "next/link"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
+import { PageHero } from "@/components/page-hero"
+import { SITE } from "@/lib/site"
+import { Faq, type FaqItem } from "@/components/faq"
+import { CtaSection } from "@/components/cta-section"
+import { ServiceJsonLd } from "@/components/structured-data"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { FileText, Building2, Scale, Award, ShieldCheck } from "lucide-react"
 
 export const metadata: Metadata = {
-  title: "국적회복 / 65세 이상 국적회복 특별 규정",
+  title: "국적회복 — 신청 자격·절차·65세 이상 특례",
   description:
-    "한국 국적회복 신청 자격, 65세 이상 복수국적 유지 특례, 필수 서류 및 절차 안내. 비전행정사사무소가 전 과정을 대행합니다.",
-  alternates: { canonical: "https://www.f4visa.net/nationality-recovery" },
+    "과거 대한민국 국민이었던 분의 국적회복 허가 신청 자격과 절차, 필요 서류, 65세 이상 복수국적 허용 특례를 정리했습니다. 심사 기간과 준비 순서를 행정사가 안내합니다.",
+  alternates: { canonical: `${SITE.url}/nationality-recovery` },
   openGraph: {
-    title: "국적회복 / 65세 이상 국적회복 특별 규정",
-    description:
-      "한국 국적회복 신청 자격, 65세 이상 복수국적 유지 특례, 필수 서류 및 절차 안내.",
-    url: "https://www.f4visa.net/nationality-recovery",
-    siteName: "비전행정사사무소",
+    title: "국적회복 — 신청 자격·절차·65세 이상 특례 | 행정사사무소 이룸",
+    description: "과거 대한민국 국민이었던 분의 국적회복 허가 신청 자격과 절차, 필요 서류, 65세 이상 복수국적 허용 특례를 정리했습니다. 심사 기간과 준비 순서를 행정사가 안내합니다.",
+    url: `${SITE.url}/nationality-recovery`,
+    siteName: SITE.name,
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "국적회복 / 65세 이상 국적회복 특별 규정",
-    description:
-      "한국 국적회복 신청 자격, 65세 이상 복수국적 유지 특례, 필수 서류 및 절차 안내.",
+    title: "국적회복 — 신청 자격·절차·65세 이상 특례 | 행정사사무소 이룸",
+    description: "과거 대한민국 국민이었던 분의 국적회복 허가 신청 자격과 절차, 필요 서류, 65세 이상 복수국적 허용 특례를 정리했습니다. 심사 기간과 준비 순서를 행정사가 안내합니다.",
   },
 }
+
+const faqs: FaqItem[] = [
+  {
+                  question: "외국국적 불행사 서약은 필수인가요?",
+                  answer: "네, 복수국적 유지를 희망하는 경우 반드시 '외국국적 불행사 서약'을 해야 합니다. 이 서약을 하지 않으면 외국 국적을 포기해야 합니다.",
+                },
+                {
+                  question: "F-4 비자는 어떻게 되나요?",
+                  answer: "국적회복을 통해 대한민국 국적을 취득하게 되면 F-4 비자는 소멸되며, 주민등록을 하고 대한민국 여권을 발급받아 사용하게 됩니다.",
+                },
+                {
+                  question: "서류 준비가 어렵다면?",
+                  answer: "서류 준비가 어렵게 느껴진다면 출입국/외국인청의 '사전 상담'을 이용하거나, 전문가의 도움을 받는 것도 좋은 방법입니다.",
+                },
+]
 
 export default function NationalityRecoveryPage() {
   return (
     <div className="flex min-h-screen flex-col">
+      <ServiceJsonLd
+        name="국적회복 허가 신청 대행"
+        description="한국 국적회복 신청 자격, 65세 이상 복수국적 유지 특례, 필수 서류 및 절차 안내. 행정사사무소 이룸이 전 과정을 대행합니다."
+        url={`${SITE.url}/nationality-recovery`}
+      />
       <Header />
-      <main className="flex-1">
+      <main id="main" className="flex-1">
         <PageBreadcrumb items={[{ label: "국적회복", path: "/nationality-recovery" }]} />
-        {/* Hero */}
-        <section className="relative w-full min-h-[300px] flex items-center py-16">
-          <div className="hero-bg absolute inset-0">
-            <img src="/slides/korea-flag.jpg" alt="국적회복 / 65세 이상 국적회복 특별 규정" className="w-full h-full object-cover" />
-            <div className="absolute inset-0 bg-black/50" />
-          </div>
-          <div className="relative mx-auto max-w-7xl px-4 text-center lg:px-8">
-            <h1 className="text-3xl font-bold text-white md:text-4xl lg:text-5xl">
-              국적회복 / 65세 이상 국적회복 특별 규정
-            </h1>
-            <p className="mx-auto mt-4 max-w-2xl text-lg text-white/80">
-              잃어버린 한국 국적을 되찾는 법 -- 복수국적 유지까지 가능한 국적회복
-              종합 안내
-            </p>
-          </div>
-        </section>
+        <PageHero
+          title="국적회복 / 65세 이상 국적회복 특별 규정"
+          subtitle="잃어버린 한국 국적을 되찾는 법 -- 복수국적 유지까지 가능한 국적회복 종합 안내"
+        />
 
         {/* 누가 신청할 수 있나요? */}
         <section className="py-8 md:py-12">
@@ -62,8 +73,8 @@ export default function NationalityRecoveryPage() {
                 "대한민국 안보, 질서유지 등에 지장을 초래하지 않는 자",
                 "65세 이상 재외동포는 연령 특례로 복수국적 유지가 가능합니다.",
               ].map((item) => (
-                <li key={item} className="flex items-start gap-3">
-                  <ShieldCheck className="mt-0.5 h-5 w-5 shrink-0 text-primary" />
+                <li key={item} className="flex items-start gap-4">
+                  <ShieldCheck className="mt-2 h-5 w-5 shrink-0 text-primary" />
                   <span className="text-muted-foreground">{item}</span>
                 </li>
               ))}
@@ -143,11 +154,11 @@ export default function NationalityRecoveryPage() {
                   <div className="relative z-10 flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-primary text-sm font-bold text-primary-foreground">
                     {item.step}
                   </div>
-                  <div className="pt-1">
+                  <div className="pt-2">
                     <h3 className="text-lg font-semibold text-foreground">
                       {item.title}
                     </h3>
-                    <p className="mt-1 text-sm leading-relaxed text-muted-foreground">
+                    <p className="mt-2 text-sm leading-relaxed text-muted-foreground">
                       {item.desc}
                     </p>
                   </div>
@@ -167,13 +178,13 @@ export default function NationalityRecoveryPage() {
               <table className="w-full border-collapse text-sm">
                 <thead>
                   <tr className="border-b border-border bg-secondary/50">
-                    <th className="px-4 py-3 text-left font-semibold text-foreground">
+                    <th className="px-4 py-4 text-left font-semibold text-foreground">
                       서류 종류
                     </th>
-                    <th className="px-4 py-3 text-left font-semibold text-foreground">
+                    <th className="px-4 py-4 text-left font-semibold text-foreground">
                       상세 내용
                     </th>
-                    <th className="px-4 py-3 text-left font-semibold text-foreground">
+                    <th className="px-4 py-4 text-left font-semibold text-foreground">
                       비고
                     </th>
                   </tr>
@@ -210,13 +221,13 @@ export default function NationalityRecoveryPage() {
                       key={row.doc}
                       className="transition-colors hover:bg-secondary/30"
                     >
-                      <td className="px-4 py-3 font-medium text-foreground">
+                      <td className="px-4 py-4 font-medium text-foreground">
                         {row.doc}
                       </td>
-                      <td className="px-4 py-3 text-muted-foreground">
+                      <td className="px-4 py-4 text-muted-foreground">
                         {row.detail}
                       </td>
-                      <td className="px-4 py-3 text-muted-foreground">
+                      <td className="px-4 py-4 text-muted-foreground">
                         {row.note || "-"}
                       </td>
                     </tr>
@@ -227,58 +238,12 @@ export default function NationalityRecoveryPage() {
           </div>
         </section>
 
-        {/* FAQ */}
-        <section className="py-8 md:py-12">
-          <div className="mx-auto max-w-4xl px-4 lg:px-8">
-            <h2 className="text-3xl font-bold text-foreground">
-              자주 묻는 질문 (FAQ)
-            </h2>
-            <div className="mt-8 space-y-6">
-              {[
-                {
-                  q: "외국국적 불행사 서약은 필수인가요?",
-                  a: "네, 복수국적 유지를 희망하는 경우 반드시 '외국국적 불행사 서약'을 해야 합니다. 이 서약을 하지 않으면 외국 국적을 포기해야 합니다.",
-                },
-                {
-                  q: "F-4 비자는 어떻게 되나요?",
-                  a: "국적회복을 통해 대한민국 국적을 취득하게 되면 F-4 비자는 소멸되며, 주민등록을 하고 대한민국 여권을 발급받아 사용하게 됩니다.",
-                },
-                {
-                  q: "서류 준비가 어렵다면?",
-                  a: "서류 준비가 어렵게 느껴진다면 출입국/외국인청의 '사전 상담'을 이용하거나, 전문가의 도움을 받는 것도 좋은 방법입니다.",
-                },
-              ].map((item) => (
-                <div
-                  key={item.q}
-                  className="rounded-xl border border-border bg-background p-6"
-                >
-                  <h3 className="text-lg font-semibold text-foreground">
-                    Q. {item.q}
-                  </h3>
-                  <p className="mt-3 leading-relaxed text-muted-foreground">
-                    {item.a}
-                  </p>
-                </div>
-              ))}
-            </div>
-          </div>
-        </section>
+        <Faq items={faqs} />
 
-        {/* CTA */}
-        <section className="bg-primary py-16 text-center text-primary-foreground">
-          <div className="mx-auto max-w-7xl px-4">
-            <h2 className="text-2xl font-bold">전문 상담이 필요하신가요?</h2>
-            <p className="mt-4 text-primary-foreground/80">
-              비전행정사사무소가 국적회복 전 과정을 대행합니다.
-            </p>
-            <Link
-              href="/contact"
-              className="mt-8 inline-flex items-center rounded-lg bg-white px-8 py-3 font-semibold text-primary transition-colors hover:bg-white/90"
-            >
-              상담 문의하기
-            </Link>
-          </div>
-        </section>
+        <CtaSection
+          title="전문 상담이 필요하신가요?"
+          description="행정사사무소 이룸이 국적회복 전 과정을 대행합니다."
+        />
       </main>
       <Footer />
     </div>

@@ -23,7 +23,7 @@ F-4 재외동포 비자는 **해외 재외공관에서 사증 발급 신청**을
     <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 어느 쪽을 선택해야 하는가 - 경우별 결정표</a></li>
     <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주하는 실수</a></li>
     <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 비전 행정사사무소 상담 안내</a></li>
+    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 행정사사무소 이룸 상담 안내</a></li>
   </ul>
 </nav>
 
@@ -414,14 +414,14 @@ A. F-4는 본인이 과거 한국 국적자였거나, 직계존비속이 한국 
 
 A. 원칙은 **국가 단위 연방 기록(FBI)** 이고 아포스티유가 붙어야 합니다. 주 경찰 기록은 범위가 제한적이라 반려되는 경우가 많습니다. 실무에서는 FBI 기록 + 아포스티유 조합이 표준입니다.
 
-## <span id="section-9"></span>9. 비전 행정사사무소 상담 안내
+## <span id="section-9"></span>9. 행정사사무소 이룸 상담 안내
 
 F-4 비자는 **어디서 받느냐**가 아니라 **어떤 순서로 준비하느냐**가 전체 기간을 좌우합니다. 해외 영사관 예약, 국내 하이코리아 예약, 무범죄서 6개월 유효기간, 기본증명서 국적상실 반영까지 연동해서 역산해야 합니다.
 
-비전 행정사사무소는 F-4 신청 전 과정을 국내·해외 상관없이 대행합니다. 최대한 빨리 허가받게 하기 위해서 지속적으로 노력하고 있습니다.
+행정사사무소 이룸는 F-4 신청 전 과정을 국내·해외 상관없이 대행합니다. 최대한 빨리 허가받게 하기 위해서 지속적으로 노력하고 있습니다.
 
 <div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 비전 행정사사무소 제공 서비스</strong>
+  <strong style="color:#166534">✅ 행정사사무소 이룸 제공 서비스</strong>
   <ul style="margin-top:12px">
     <li>한국 서류 발급대행 — 기본증명서(상세), 가족관계증명서(상세), 제적등본</li>
     <li>F-4 거소증 신청대행 및 수령·발송 (거소허가번호 발급 후 출국 가능)</li>
@@ -431,10 +431,10 @@ F-4 비자는 **어디서 받느냐**가 아니라 **어떤 순서로 준비하�
   </ul>
 </div>
 
-**비전 행정사사무소 (VISION Administrative Office)**
+**행정사사무소 이룸 (EROOM Administrative Office)**
 
 - 전화: 02-363-2251
-- 이메일: 5000meter@gmail.com
+- 이메일: teamone163@gmail.com
 - 카카오톡 아이디: alexkorea
 - 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - 상담시간: 평일 09:30 – 17:30 (점심 12:00 — 13:00)

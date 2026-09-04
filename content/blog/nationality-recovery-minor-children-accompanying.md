@@ -26,7 +26,7 @@ slug: "nationality-recovery-minor-children-accompanying"
     <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 처리 기간과 자주 막히는 지점</a></li>
     <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 공식 출처와 법령 근거</a></li>
     <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 자주 묻는 질문(FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 비전행정사사무소 F-4 서비스 안내</a></li>
+    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 행정사사무소 이룸 F-4 서비스 안내</a></li>
     <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
     <li style="margin:8px 0"><a href="#section-12" style="color:#2563eb;text-decoration:none">12. 전문가 상담이 필요하신가요?</a></li>
   </ul>
@@ -237,7 +237,7 @@ slug: "nationality-recovery-minor-children-accompanying"
 
 선택 의무 시점과 외국국적불행사서약 가능 여부는 자녀별로 다르므로 개별 확인이 필요합니다.
 
-<h2 id="section-10">비전행정사사무소 F-4 서비스 안내</h2>
+<h2 id="section-10">행정사사무소 이룸 F-4 서비스 안내</h2>
 
 **가장 신속히 허가되는 출입국사무소를 찾아서 진행해 드립니다.**
 **한국내 최소체류기간으로 처리 가능합니다.**
@@ -252,12 +252,12 @@ slug: "nationality-recovery-minor-children-accompanying"
 
 <h2 id="section-11">전문가 상담이 필요하신가요?</h2>
 
-비전 행정사사무소는 재외동포 국적회복과 미성년 자녀 수반취득, F-4 거소증 연계까지 한 흐름으로 진행합니다.
+행정사사무소 이룸는 재외동포 국적회복과 미성년 자녀 수반취득, F-4 거소증 연계까지 한 흐름으로 진행합니다.
 
 서류 누락·표기 불일치로 일정이 길어지는 사례가 많아, 사전 검토만으로도 전체 일정이 크게 단축됩니다.
 
 - 전화: **02-363-2251**
-- 이메일: **5000meter@gmail.com**
+- 이메일: **teamone163@gmail.com**
 - 카카오톡: **alexkorea**
 - 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - 상담 시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)

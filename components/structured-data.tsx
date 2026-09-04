@@ -1,36 +1,44 @@
+import { SITE } from "@/lib/site"
+
+const ORG_ID = `${SITE.url}/#organization`
+
 export function OrganizationJsonLd() {
   const data = {
     "@context": "https://schema.org",
     "@type": "ProfessionalService",
-    name: "비전행정사사무소",
-    alternateName: "VISION Administrative Office",
-    url: "https://www.f4visa.net",
-    telephone: "010-2081-3408",
-    email: "5000meter@gmail.com",
+    "@id": ORG_ID,
+    name: SITE.name,
+    alternateName: SITE.nameEn,
+    url: SITE.url,
+    telephone: SITE.phoneOfficeIntl,
+    email: SITE.email,
+    logo: `${SITE.url}/logo.png`,
+    image: `${SITE.url}/og-image.png`,
     address: {
       "@type": "PostalAddress",
-      streetAddress: "퇴계로 324, 3층 (성우빌딩)",
-      addressLocality: "중구",
-      addressRegion: "서울특별시",
-      postalCode: "04620",
-      addressCountry: "KR",
+      streetAddress: SITE.address.street,
+      addressLocality: SITE.address.locality,
+      addressRegion: SITE.address.region,
+      postalCode: SITE.address.postalCode,
+      addressCountry: SITE.address.country,
     },
-    image: "https://www.f4visa.net/og-image.png",
+    founder: { "@type": "Person", name: SITE.representative, jobTitle: "대표행정사" },
+    openingHoursSpecification: {
+      "@type": "OpeningHoursSpecification",
+      dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      opens: "09:30",
+      closes: "18:30",
+    },
     serviceType: [
-      "F-4 비자 신청",
-      "거소증 발급",
+      "F-4 재외동포 비자 신청",
+      "국내거소신고증(거소증) 발급",
       "F-4 비자 연장",
       "국적상실 신고",
-      "국적회복",
       "국적이탈 신고",
-      "영주권 신청",
-      "재외동포 행정서비스",
+      "국적회복 신청",
+      "F-5 영주권 신청",
     ],
-    areaServed: {
-      "@type": "Country",
-      name: "KR",
-    },
-    priceRange: "$$",
+    areaServed: { "@type": "Country", name: "KR" },
   }
 
   return (
@@ -45,9 +53,11 @@ export function WebSiteJsonLd() {
   const data = {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    name: "비전행정사사무소",
-    alternateName: "VISION Administrative Office",
-    url: "https://www.f4visa.net",
+    name: SITE.name,
+    alternateName: SITE.nameEn,
+    url: SITE.url,
+    publisher: { "@id": ORG_ID },
+    inLanguage: "ko-KR",
   }
 
   return (
@@ -76,13 +86,12 @@ export function ServiceJsonLd({
     url,
     provider: {
       "@type": "ProfessionalService",
-      name: "비전행정사사무소",
-      url: "https://www.f4visa.net",
+      "@id": ORG_ID,
+      name: SITE.name,
+      url: SITE.url,
+      telephone: SITE.phoneOfficeIntl,
     },
-    areaServed: {
-      "@type": "Country",
-      name: "KR",
-    },
+    areaServed: { "@type": "Country", name: "KR" },
   }
 
   return (
@@ -100,6 +109,7 @@ export function ArticleJsonLd({
   image,
   datePublished,
   dateModified,
+  partner,
 }: {
   title: string
   description: string
@@ -107,6 +117,7 @@ export function ArticleJsonLd({
   image: string
   datePublished: string
   dateModified?: string
+  partner?: boolean
 }) {
   const data = {
     "@context": "https://schema.org",
@@ -122,17 +133,17 @@ export function ArticleJsonLd({
       "@id": url,
     },
     author: {
-      "@type": "Organization",
-      name: "비전행정사사무소",
-      url: "https://www.f4visa.net",
+      "@type": partner ? "Person" : "Organization",
+      name: partner ? "박동국 세무사" : SITE.name,
+      url: SITE.url,
     },
     publisher: {
       "@type": "Organization",
-      name: "비전행정사사무소",
-      url: "https://www.f4visa.net",
+      name: partner ? "택스가이드 세무사사무소" : SITE.name,
+      url: SITE.url,
       logo: {
         "@type": "ImageObject",
-        url: "https://www.f4visa.net/og-image.png",
+        url: `${SITE.url}/og-image.png`,
       },
     },
   }

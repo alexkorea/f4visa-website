@@ -3,7 +3,7 @@ title: "일본 재외동포 F-4 비자 — 취업 범위와 주의사항 (2026)"
 description: "일본에 거주하는 재외동포가 F-4 비자로 한국에서 일할 수 있는 범위와 제한 직종, 실무 주의사항을 정리합니다."
 date: "2026-05-23"
 slug: "f4-visa-japan-employment-scope"
-author: "비전행정사사무소"
+author: "행정사사무소 이룸"
 category: "F-4 취업"
 image: "/blog/f4-visa-japan-employment-scope.jpg"
 ---
@@ -62,7 +62,7 @@ image: "/blog/f4-visa-japan-employment-scope.jpg"
 
 또는 한국 입국 후 출입국·외국인사무소에서 체류 자격 변경도 가능합니다.
 
-## 비전행정사사무소의 지원
+## 행정사사무소 이룸의 지원
 
 F-4 비자 취업 범위 문의, 직종 해당 여부 사전 검토, 신청 서류 준비를 지원합니다.
 

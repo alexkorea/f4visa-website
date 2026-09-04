@@ -2,6 +2,11 @@ import type { Metadata } from "next"
 import Link from "next/link"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
+import { PageHero } from "@/components/page-hero"
+import { SITE } from "@/lib/site"
+import { Faq, type FaqItem } from "@/components/faq"
+import { CtaSection } from "@/components/cta-section"
+import { ServiceJsonLd } from "@/components/structured-data"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { AlertTriangle, ShieldCheck, Gavel, Clock } from "lucide-react"
 
@@ -9,7 +14,7 @@ export const metadata: Metadata = {
   title:
     "국적선택과 이중국적 / 복수국적자 종합가이드",
   description:
-    "복수국적자의 법적 처우, 직무상 제한, 국적선택 기한, 불행사서약 위반 시 국적선택 명령 안내. 비전행정사사무소 전문 상담.",
+    "복수국적자의 법적 지위와 국적선택 기한, 외국국적불행사 서약의 의미와 위반 사례를 정리했습니다. 국적이탈·국적상실과의 차이를 사례로 비교해 행정사가 안내합니다.",
   alternates: {
     canonical:
       "https://www.f4visa.net/nationality-selection-dual-nationality",
@@ -18,8 +23,8 @@ export const metadata: Metadata = {
     title: "국적선택과 이중국적 / 복수국적자 종합가이드",
     description:
       "복수국적자의 법적 처우, 직무상 제한, 국적선택 기한, 불행사서약 위반 시 국적선택 명령 안내.",
-    url: "https://www.f4visa.net/nationality-selection-dual-nationality",
-    siteName: "비전행정사사무소",
+    url: `${SITE.url}/nationality-selection-dual-nationality`,
+    siteName: SITE.name,
     type: "website",
   },
   twitter: {
@@ -30,28 +35,32 @@ export const metadata: Metadata = {
   },
 }
 
+const faqs: FaqItem[] = [
+  {
+                  question: "복수국적자의 법적 지위는?",
+                  answer: "국적법 제11조의2 제1항 요건을 충족하는 복수국적자는 대한민국 법령 적용에서 대한민국 국민으로만 처우됩니다. 다만 직무상 제한이 있는 분야는 외국 국적 포기가 요구될 수 있습니다.",
+                },
+                {
+                  question: "외국국적 불행사 서약 위반 시?",
+                  answer: "시행령 제18조의4 제4항의 행위에 해당하면 법무부장관이 6개월 내 국적선택을 명할 수 있습니다.",
+                },
+]
+
 export default function NationalitySelectionDualNationalityPage() {
   return (
     <div className="flex min-h-screen flex-col">
+      <ServiceJsonLd
+        name="국적선택·복수국적 안내"
+        description="복수국적자의 법적 처우, 직무상 제한, 국적선택 기한, 불행사서약 위반 시 국적선택 명령 안내. 행정사사무소 이룸 전문 상담."
+        url={`${SITE.url}/nationality-selection-dual-nationality`}
+      />
       <Header />
-      <main className="flex-1">
+      <main id="main" className="flex-1">
         <PageBreadcrumb items={[{ label: "국적선택과 이중국적", path: "/nationality-selection-dual-nationality" }]} />
-        {/* Hero */}
-        <section className="relative w-full min-h-[300px] flex items-center py-16">
-          <div className="hero-bg absolute inset-0">
-            <img src="/slides/legal-docs.jpg" alt="국적선택과 이중국적 / 복수국적자 종합가이드" className="w-full h-full object-cover" />
-            <div className="absolute inset-0 bg-black/50" />
-          </div>
-          <div className="relative mx-auto max-w-7xl px-4 text-center lg:px-8">
-            <h1 className="text-3xl font-bold text-white md:text-4xl lg:text-5xl">
-              국적선택과 이중국적 / 복수국적자 종합가이드
-            </h1>
-            <p className="mx-auto mt-4 max-w-2xl text-lg text-white/80">
-              복수국적자의 법적 지위, 국적선택 기한, 불행사 서약 위반 사례까지
-              한눈에 정리
-            </p>
-          </div>
-        </section>
+        <PageHero
+          title="국적선택과 이중국적 / 복수국적자 종합가이드"
+          subtitle="복수국적자의 법적 지위, 국적선택 기한, 불행사 서약 위반 사례까지 한눈에 정리"
+        />
 
         {/* 복수국적자의 법적 처우 */}
         <section className="py-8 md:py-12">
@@ -71,14 +80,14 @@ export default function NationalitySelectionDualNationalityPage() {
                 (국적법 제11조의2 제1항, 국적법 시행령 제16조 제1항)
               </span>
             </p>
-            <ul className="mt-6 space-y-3">
+            <ul className="mt-6 space-y-4">
               {[
                 "대한민국 국적 취득 후 외국국적불행사서약을 한 사람",
                 "대한민국의 국민으로서 외국 국적을 취득한 후 6개월 내 법무부장관에게 대한민국 국적 보유 의사 신고를 한 사람",
                 "국적법 부칙 제2조 제1항에 따라 법무부장관에게 외국국적불행사서약을 하고 대한민국 국적을 재취득한 후 외국국적불행사서약을 한 사람",
               ].map((item) => (
-                <li key={item} className="flex items-start gap-3">
-                  <ShieldCheck className="mt-0.5 h-5 w-5 shrink-0 text-primary" />
+                <li key={item} className="flex items-start gap-4">
+                  <ShieldCheck className="mt-2 h-5 w-5 shrink-0 text-primary" />
                   <span className="text-muted-foreground">{item}</span>
                 </li>
               ))}
@@ -113,8 +122,8 @@ export default function NationalitySelectionDualNationalityPage() {
             <h2 className="text-3xl font-bold text-foreground">
               국적선택 기한
             </h2>
-            <div className="mt-6 flex items-start gap-3 rounded-xl border border-border bg-background p-6">
-              <Clock className="mt-0.5 h-6 w-6 shrink-0 text-primary" />
+            <div className="mt-6 flex items-start gap-4 rounded-xl border border-border bg-background p-6">
+              <Clock className="mt-2 h-6 w-6 shrink-0 text-primary" />
               <p className="leading-relaxed text-muted-foreground">
                 복수국적자는 법에서 정한 기한 내에 하나의 국적을 선택해야 합니다.
                 <span className="text-sm">(국적법 제12조 제1항)</span>
@@ -136,13 +145,13 @@ export default function NationalitySelectionDualNationalityPage() {
             <div className="mt-8 space-y-8">
               {/* 기한 경과 시 */}
               <div className="rounded-xl border border-border bg-background p-6">
-                <div className="flex items-center gap-3">
+                <div className="flex items-center gap-4">
                   <Gavel className="h-5 w-5 text-primary" />
                   <h3 className="text-xl font-semibold text-foreground">
                     기한 경과 시 명령
                   </h3>
                 </div>
-                <p className="mt-3 leading-relaxed text-muted-foreground">
+                <p className="mt-4 leading-relaxed text-muted-foreground">
                   복수국적자가 선택 기한 내 국적을 선택하지 않으면,
                   법무부장관은{" "}
                   <strong className="text-foreground">1년 내</strong> 하나의
@@ -155,13 +164,13 @@ export default function NationalitySelectionDualNationalityPage() {
 
               {/* 불행사서약 위반 시 */}
               <div className="rounded-xl border border-border bg-background p-6">
-                <div className="flex items-center gap-3">
+                <div className="flex items-center gap-4">
                   <AlertTriangle className="h-5 w-5 text-destructive" />
                   <h3 className="text-xl font-semibold text-foreground">
                     불행사서약 위반 시 명령
                   </h3>
                 </div>
-                <p className="mt-3 leading-relaxed text-muted-foreground">
+                <p className="mt-4 leading-relaxed text-muted-foreground">
                   대한민국에서 외국 국적을 행사하지 않겠다는 서약을 한 사람이
                   현저히 반하는 행위를 한 경우,{" "}
                   <strong className="text-foreground">6개월 내</strong> 하나의
@@ -192,9 +201,9 @@ export default function NationalitySelectionDualNationalityPage() {
               ].map((item, idx) => (
                 <div
                   key={idx}
-                  className="flex items-start gap-3 rounded-lg border border-destructive/20 bg-destructive/5 p-4"
+                  className="flex items-start gap-4 rounded-lg border border-destructive/20 bg-destructive/5 p-4"
                 >
-                  <AlertTriangle className="mt-0.5 h-5 w-5 shrink-0 text-destructive" />
+                  <AlertTriangle className="mt-2 h-5 w-5 shrink-0 text-destructive" />
                   <span className="text-sm leading-relaxed text-muted-foreground">
                     {item}
                   </span>
@@ -249,54 +258,12 @@ export default function NationalitySelectionDualNationalityPage() {
           </div>
         </section>
 
-        {/* FAQ */}
-        <section className="border-t border-border bg-secondary/20 py-8 md:py-12">
-          <div className="mx-auto max-w-4xl px-4 lg:px-8">
-            <h2 className="text-3xl font-bold text-foreground">
-              자주 묻는 질문 (FAQ)
-            </h2>
-            <div className="mt-8 space-y-6">
-              {[
-                {
-                  q: "복수국적자의 법적 지위는?",
-                  a: "국적법 제11조의2 제1항 요건을 충족하는 복수국적자는 대한민국 법령 적용에서 대한민국 국민으로만 처우됩니다. 다만 직무상 제한이 있는 분야는 외국 국적 포기가 요구될 수 있습니다.",
-                },
-                {
-                  q: "외국국적 불행사 서약 위반 시?",
-                  a: "시행령 제18조의4 제4항의 행위에 해당하면 법무부장관이 6개월 내 국적선택을 명할 수 있습니다.",
-                },
-              ].map((item) => (
-                <div
-                  key={item.q}
-                  className="rounded-xl border border-border bg-background p-6"
-                >
-                  <h3 className="text-lg font-semibold text-foreground">
-                    Q. {item.q}
-                  </h3>
-                  <p className="mt-3 leading-relaxed text-muted-foreground">
-                    {item.a}
-                  </p>
-                </div>
-              ))}
-            </div>
-          </div>
-        </section>
+        <Faq items={faqs} />
 
-        {/* CTA */}
-        <section className="bg-primary py-16 text-center text-primary-foreground">
-          <div className="mx-auto max-w-7xl px-4">
-            <h2 className="text-2xl font-bold">전문 상담이 필요하신가요?</h2>
-            <p className="mt-4 text-primary-foreground/80">
-              비전행정사사무소가 전 과정을 대행합니다.
-            </p>
-            <Link
-              href="/contact"
-              className="mt-8 inline-flex items-center rounded-lg bg-white px-8 py-3 font-semibold text-primary transition-colors hover:bg-white/90"
-            >
-              상담 문의하기
-            </Link>
-          </div>
-        </section>
+        <CtaSection
+          title="전문 상담이 필요하신가요?"
+          description="행정사사무소 이룸이 전 과정을 대행합니다."
+        />
       </main>
       <Footer />
     </div>

@@ -14,7 +14,7 @@ async function sendEmail(fields: Record<string, string>, senderName: string, sen
   const transporter = nodemailer.createTransport({
     service: "gmail",
     auth: {
-      user: "5000meter@gmail.com",
+      user: "teamone163@gmail.com",
       pass: appPassword,
     },
   })
@@ -34,8 +34,8 @@ async function sendEmail(fields: Record<string, string>, senderName: string, sen
   `
 
   await transporter.sendMail({
-    from: { name: senderName + " via " + SITE_NAME, address: "5000meter@gmail.com" },
-    to: "5000meter@gmail.com",
+    from: { name: senderName + " via " + SITE_NAME, address: "teamone163@gmail.com" },
+    to: "teamone163@gmail.com",
     replyTo: senderEmail,
     subject: `[${SITE_NAME_KR}] 새 상담 신청 - ${fields["이름"] || "고객"}`,
     html,
@@ -87,12 +87,12 @@ export async function POST(request: Request) {
 
     // Telegram notification
     const telegramPromise = fetch(
-      `https://api.telegram.org/bot8748564690:AAEGsXxcfqrHmGue8lkqUaa2E0Q8CDCY-Eo/sendMessage`,
+      `https://api.telegram.org/bot${process.env.TELEGRAM_BOT_TOKEN || ""}/sendMessage`,
       {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
-          chat_id: "-5295922532",
+          chat_id: process.env.TELEGRAM_GROUP_CHAT_ID || "-5295922532",
           text,
         }),
       }

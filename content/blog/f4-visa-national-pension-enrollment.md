@@ -18,7 +18,7 @@ F-4 재외동포의 가입 의무 기준, 보험료 부담, 반환일시금 청�
     <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 소지자의 국민연금 가입 의무</a></li>
     <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 가입 제외 대상과 예외 사유</a></li>
     <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 보험료 산정 방식과 부담 구조</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 비전행정사사무소 F-4 서비스 안내</a></li>
+    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 행정사사무소 이룸 F-4 서비스 안내</a></li>
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 반환일시금 청구 가능성</a></li>
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 본국 연금과의 관계 — 사회보장협정</a></li>
     <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 가입 신고와 자격 변동 관리</a></li>
@@ -97,7 +97,7 @@ F-4 소지자라고 해서 별도의 요율이 적용되지 않습니다.
 
 보험료율과 기준소득월액 상하한선은 매년 변경되므로, 올해 정확한 기준은 [국민연금공단](https://www.nps.or.kr)에서 확인하거나 상담을 통해 안내받으시길 권합니다.
 
-<h2 id="section-4">비전행정사사무소 F-4 서비스 안내</h2>
+<h2 id="section-4">행정사사무소 이룸 F-4 서비스 안내</h2>
 
 **가장 신속히 허가되는 출입국사무소를 찾아서 진행해 드립니다.**
 **한국내 최소체류기간으로 처리 가능합니다.**
@@ -226,11 +226,11 @@ A. 일반 취업이나 자영업의 경우 면제되지 않습니다. 본국 회
 F-4 비자 소지자의 국민연금 가입 의무, 보험료 부담, 반환일시금 청구, 본국 연금과의 관계는 국적과 체류 형태에 따라 갈립니다.
 잘못 처리하면 보험료 손실이나 비자 갱신 차질로 이어질 수 있습니다.
 
-**비전 행정사사무소**는 F-4 재외동포 비자 전문 사무소로서, 거소증 신청·갱신과 함께 국민연금·건강보험 관련 실무 문의까지 안내드리고 있습니다.
+**행정사사무소 이룸**는 F-4 재외동포 비자 전문 사무소로서, 거소증 신청·갱신과 함께 국민연금·건강보험 관련 실무 문의까지 안내드리고 있습니다.
 가장 신속히 허가되는 출입국사무소를 찾아 진행해 드리며, 한국 내 최소체류기간으로 처리 가능합니다.
 
 **📞 전화:** 02-363-2251
-**📧 이메일:** 5000meter@gmail.com
+**📧 이메일:** teamone163@gmail.com
 **💬 카카오톡 ID:** alexkorea
 **🏢 주소:** (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 **🕒 상담시간:** 평일 09:30 — 17:30 (점심 12:00 — 13:00)

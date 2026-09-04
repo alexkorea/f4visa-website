@@ -3,7 +3,7 @@ title: "캐나다 시민권자 재외동포 자격확인서 발급과 F-4 비자
 description: "캐나다 시민권을 취득한 재외동포가 F-4 비자를 받기 위한 자격 요건, 재외동포 확인서 발급 절차, 주의사항을 정리합니다."
 date: "2026-05-23"
 slug: "f4-visa-canada-citizen-eligibility"
-author: "비전행정사사무소"
+author: "행정사사무소 이룸"
 category: "F-4 비자 신청"
 image: "/blog/f4-visa-canada-citizen-eligibility.jpg"
 ---
@@ -65,7 +65,7 @@ image: "/blog/f4-visa-canada-citizen-eligibility.jpg"
 
 **이름 표기 불일치**: 캐나다 여권의 영문 이름과 한국 서류의 한자·한글 이름이 다를 수 있습니다. 공증된 번역본을 준비하거나 영사관에 미리 문의하는 것이 좋습니다.
 
-## 비전행정사사무소의 지원
+## 행정사사무소 이룸의 지원
 
 재외동포 혈통 확인 서류 정리부터 F-4 신청까지 지원합니다.
 

@@ -24,7 +24,7 @@ slug: "overseas-resident-registration-application-benefits"
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 재외국민 주민등록의 실제 혜택</a></li>
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 발생하는 문제와 해결</a></li>
     <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 신청 전 체크리스트</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 비전행정사사무소 F-4 서비스 안내</a></li>
+    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
     <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 자주 묻는 질문 (FAQ)</a></li>
     <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
     <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
@@ -221,7 +221,7 @@ slug: "overseas-resident-registration-application-benefits"
 - 가족관계증명서 등 보조 서류 발급
 - 본인 직접 출석 일정 확보
 
-<h2 id="section-8">비전행정사사무소 F-4 서비스 안내</h2>
+<h2 id="section-8">행정사사무소 이룸 F-4 서비스 안내</h2>
 
 **가장 신속히 허가되는 출입국사무소를 찾아서 진행해 드립니다.**
 **한국내 최소체류기간으로 처리 가능합니다.**
@@ -278,12 +278,12 @@ slug: "overseas-resident-registration-application-benefits"
 
 시민권자인지 영주권자인지에 따라 가야 할 길 자체가 완전히 달라지며, 한 번 잘못 신청하면 정정 절차가 복잡해집니다.
 
-비전 행정사사무소는 재외동포 행정업무 전반에 대한 실무 경험을 바탕으로 본인 상황에 맞는 정확한 경로를 안내합니다.
+행정사사무소 이룸는 재외동포 행정업무 전반에 대한 실무 경험을 바탕으로 본인 상황에 맞는 정확한 경로를 안내합니다.
 
-**비전 행정사사무소 (VISION Administrative Office)**
+**행정사사무소 이룸 (EROOM Administrative Office)**
 
 - 전화: 02-363-2251
-- 이메일: 5000meter@gmail.com
+- 이메일: teamone163@gmail.com
 - 카카오톡: alexkorea
 - 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - 상담 시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)

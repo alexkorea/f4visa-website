@@ -8,7 +8,7 @@ description: "F-4 재외동포 비자로 한국 부동산을 취득할 때의 �
 partner: "taxguide"
 slug: "f4-real-estate-acquisition-tax-guide"
 ---
-# F-4 비자 부동산 취득세 절차와 세율 가이드 2026
+# F-4 비자 부동산 취득세 절차와 세율 가이드
 
 F-4 재외동포 비자 소지자는 외국인이지만 사실상 내국인에 준하는 조건으로 한국 부동산을 취득할 수 있습니다.
 

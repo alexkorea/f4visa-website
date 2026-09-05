@@ -2,11 +2,11 @@
 title: "F-4 비자 갱신 서류와 절차 — 최신 기준 완벽 정리"
 date: "2026-06-06"
 category: "F-4비자"
-excerpt: "2026년 F-4 비자 갱신 서류와 실제 심사에서 막히는 지점을 실무 기준으로 정리한 갱신 가이드입니다."
+excerpt: "F-4 비자 갱신 서류와 실제 심사에서 막히는 지점을 실무 기준으로 정리한 갱신 가이드입니다."
 image: "/blog/f4-visa-renewal-documents-procedure-latest.jpg"
 slug: "f4-visa-renewal-documents-procedure-latest"
 ---
-# F-4 비자 갱신 서류와 절차 — 2026년 최신 기준 완벽 정리
+# F-4 비자 갱신 서류와 절차 — 최신 기준 완벽 정리
 
 F-4 비자 갱신은 만료 4개월 전부터 신청 가능하며, 핵심은 **서류 수보다 신분·체류실적·소명자료의 일치 여부**입니다.
 

@@ -6,7 +6,7 @@ excerpt: "F-4 비자 갱신은 서류 종류보다 발급일자와 본인 신분
 image: "/blog/korean-passport-visa.jpg"
 slug: "f4-visa-renewal-paperwork-immigration"
 ---
-# F-4 비자 갱신 서류 2026 — 실무에서 막히는 지점과 최신 절차
+# F-4 비자 갱신 서류 — 실무에서 막히는 지점과 최신 절차
 
 F-4 비자 갱신은 서류 가짓수보다 **발급일자, 본인 신분, 거주지 일치** 이 세 가지에서 가장 많이 걸립니다.
 

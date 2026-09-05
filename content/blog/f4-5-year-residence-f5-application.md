@@ -6,7 +6,7 @@ excerpt: "F-4 비자로 한국에 5년 이상 거주한 재외동포가 F-5 영�
 image: "/blog/f4-5-year-residence-f5-application.jpg"
 slug: "f4-5-year-residence-f5-application"
 ---
-# F-4 비자 5년 거주 F-5 신청 조건 완벽 정리 (2026년 기준)
+# F-4 비자 5년 거주 F-5 신청 조건 완벽 정리 기준)
 
 F-4 비자로 한국에 5년 이상 거주했다면 F-5 영주권 신청 자격이 열립니다.
 

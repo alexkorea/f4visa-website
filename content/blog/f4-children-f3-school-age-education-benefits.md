@@ -6,7 +6,7 @@ excerpt: "F-4 비자 보유자의 자녀가 F-3 동반비자로 한국에서 초
 image: "/blog/f4-children-f3-school-age-education-benefits.jpg"
 slug: "f4-children-f3-school-age-education-benefits"
 ---
-# F-4 비자 자녀 학령기 F-3 교육 혜택 완전정리 (2026년 기준)
+# F-4 비자 자녀 학령기 F-3 교육 혜택 완전정리 기준)
 
 F-4 재외동포 비자 보유자의 자녀는 F-3 동반비자로 한국에 입국하면 한국 국적 학생과 거의 동일한 조건으로 초·중·고 정규 학교에 다닐 수 있습니다.
 

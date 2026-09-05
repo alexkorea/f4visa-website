@@ -1,11 +1,31 @@
+"use client"
+
 import Link from "next/link"
+import { useEffect, useState } from "react"
 import { Phone, MessageCircle, FileText } from "lucide-react"
 import { SITE } from "@/lib/site"
 
-/** 모바일 하단 고정 CTA 바 (STANDARD v2.0 §7 / §6-10) */
+const FORM_FIELDS = new Set(["INPUT", "TEXTAREA", "SELECT"])
+
+/** 모바일 하단 고정 CTA 바 (STANDARD v2.0 §7 / §6-10) — 폼 입력 중 숨김 */
 export function MobileCtaBar() {
+  const [hidden, setHidden] = useState(false)
+
+  useEffect(() => {
+    const isFormField = (target: EventTarget | null) =>
+      target instanceof HTMLElement && FORM_FIELDS.has(target.tagName)
+    const onFocusIn = (e: FocusEvent) => isFormField(e.target) && setHidden(true)
+    const onFocusOut = (e: FocusEvent) => isFormField(e.target) && setHidden(false)
+    document.addEventListener("focusin", onFocusIn)
+    document.addEventListener("focusout", onFocusOut)
+    return () => {
+      document.removeEventListener("focusin", onFocusIn)
+      document.removeEventListener("focusout", onFocusOut)
+    }
+  }, [])
+
   return (
-    <nav className="mobile-cta" aria-label="빠른 상담">
+    <nav className={`mobile-cta${hidden ? " is-hidden" : ""}`} aria-label="빠른 상담">
       <a href={SITE.phoneOfficeHref} aria-label={`전화 상담 ${SITE.phoneOffice}`}>
         <Phone className="h-5 w-5" aria-hidden />
         전화상담

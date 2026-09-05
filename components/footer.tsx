@@ -33,10 +33,10 @@ export function Footer() {
         <div className="grid gap-12 lg:grid-cols-4">
           <div>
             <p className="text-xl font-bold">{SITE.name}</p>
-            <p className="mt-4 text-base leading-relaxed" style={{ color: "rgba(246,247,245,0.78)" }}>
+            <p className="mt-4 text-base leading-relaxed" style={{ color: "rgba(255,255,255,0.78)" }}>
               F-4 재외동포 비자, 거소증, 국적상실·회복, F-5 영주권 업무를 대행하는 행정사사무소입니다.
             </p>
-            <ul className="mt-8 flex flex-col gap-4 text-base" style={{ color: "rgba(246,247,245,0.78)" }}>
+            <ul className="mt-8 flex flex-col gap-4 text-base" style={{ color: "rgba(255,255,255,0.78)" }}>
               <li className="flex items-start gap-4">
                 <MapPin className="mt-2 h-4 w-4 shrink-0" aria-hidden />
                 <span>{SITE.address.full}</span>
@@ -65,7 +65,7 @@ export function Footer() {
 
         <div
           className="mt-16 flex flex-col gap-4 border-t pt-8 text-base sm:flex-row sm:items-center sm:justify-between"
-          style={{ borderColor: "rgba(246,247,245,0.2)", color: "rgba(246,247,245,0.7)" }}
+          style={{ borderColor: "rgba(255,255,255,0.2)", color: "rgba(255,255,255,0.7)" }}
         >
           <div>
             <p>
@@ -97,7 +97,7 @@ function FooterColumn({ title, links }: { title: string; links: { title: string;
             <Link
               href={link.href}
               className="inline-flex min-h-[44px] items-center text-base hover:underline"
-              style={{ color: "rgba(246,247,245,0.78)" }}
+              style={{ color: "rgba(255,255,255,0.78)" }}
             >
               {link.title}
             </Link>

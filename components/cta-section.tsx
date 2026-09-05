@@ -15,7 +15,7 @@ export function CtaSection({
       <div className="container-x">
         <div className="measure">
           <h2>{title}</h2>
-          <p className="mt-4 text-lg" style={{ color: "rgba(246,247,245,0.82)" }}>
+          <p className="mt-4 text-lg" style={{ color: "rgba(255,255,255,0.82)" }}>
             {description}
           </p>
           <div className="mt-8 flex flex-col gap-4 sm:flex-row">

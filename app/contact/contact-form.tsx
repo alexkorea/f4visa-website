@@ -104,7 +104,7 @@ export function ContactForm() {
           href={`/contact/step2?service=${encodeURIComponent(selectedServices.join(','))}&inquiryId=${inquiryId}`}
           className="inline-flex items-center justify-center bg-primary hover:bg-primary/90 text-primary-foreground px-8 h-12 rounded-lg font-semibold transition-colors text-lg mb-2"
         >
-          상세정보 입력하기 →
+          상세정보 입력하기
         </Link>
         <p className="text-sm text-muted-foreground mb-6">약 1분 소요</p>
 

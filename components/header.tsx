@@ -65,7 +65,7 @@ export function Header() {
   }, [isOpen])
 
   return (
-    <header className="sticky top-0 z-50 w-full border-b border-border bg-background/95 backdrop-blur">
+    <header className="sticky top-0 z-50 w-full border-b border-border bg-background">
       <div className="container-x flex h-16 items-center justify-between">
         <Link href="/" aria-label="행정사사무소 이룸 홈" className="py-2">
           <Logo />

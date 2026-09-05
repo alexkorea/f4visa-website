@@ -25,13 +25,31 @@ export function Faq({
       <div className="container-x">
         <div className="measure">
           <h2>{title}</h2>
-          <div className="mt-8">
-            {items.map((f) => (
-              <details key={f.question} className="faq-item">
-                <summary>{f.question}</summary>
-                <div>{f.answer}</div>
-              </details>
-            ))}
+          <div className="faq-table mt-8">
+            <table className="faq-table-desktop">
+              <thead>
+                <tr>
+                  <th>질문</th>
+                  <th>답변</th>
+                </tr>
+              </thead>
+              <tbody>
+                {items.map((f) => (
+                  <tr key={f.question}>
+                    <td>{f.question}</td>
+                    <td>{f.answer}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+            <div className="faq-stack-mobile">
+              {items.map((f) => (
+                <div className="faq-stack-item" key={f.question}>
+                  <p className="faq-q">{f.question}</p>
+                  <p className="faq-a">{f.answer}</p>
+                </div>
+              ))}
+            </div>
           </div>
         </div>
       </div>

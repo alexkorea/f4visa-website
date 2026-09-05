@@ -72,7 +72,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
         <section style={{ background: "var(--c-brand)", color: "var(--c-ink-invert)" }}>
           <div className="container-x py-16">
             <div className="measure">
-              <div className="flex flex-wrap items-center gap-4 text-sm" style={{ color: "rgba(246,247,245,0.8)" }}>
+              <div className="flex flex-wrap items-center gap-4 text-sm" style={{ color: "rgba(255,255,255,0.8)" }}>
                 <span className="inline-flex items-center gap-2">
                   <Tag className="h-4 w-4" aria-hidden />
                   {post.category}
@@ -83,7 +83,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
                 </span>
               </div>
               <h1 className="mt-4 text-3xl lg:text-4xl">{post.title}</h1>
-              <p className="mt-4 text-base" style={{ color: "rgba(246,247,245,0.75)" }}>
+              <p className="mt-4 text-base" style={{ color: "rgba(255,255,255,0.75)" }}>
                 {isTaxGuide ? "협력 세무사 박동국 (택스가이드 세무사사무소)" : `${SITE.name} · 최종 업데이트 ${post.date}`}
               </p>
             </div>

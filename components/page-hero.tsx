@@ -23,7 +23,7 @@ export function PageHero({
       <div className="container-x py-16 lg:py-24">
         <div className="measure">
           <h1 className="text-3xl lg:text-4xl">{title}</h1>
-          <p className="mt-4 text-lg" style={{ color: "rgba(246,247,245,0.82)" }}>
+          <p className="mt-4 text-lg" style={{ color: "rgba(255,255,255,0.82)" }}>
             {subtitle}
           </p>
           <div className="mt-8">
@@ -31,7 +31,7 @@ export function PageHero({
               {ctaLabel}
             </Link>
           </div>
-          <p className="mt-8 text-base" style={{ color: "rgba(246,247,245,0.7)" }}>
+          <p className="mt-8 text-base" style={{ color: "rgba(255,255,255,0.7)" }}>
             {trust}
           </p>
         </div>

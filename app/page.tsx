@@ -123,7 +123,7 @@ export default function HomePage() {
           <div className="container-x relative py-16 lg:py-24">
             <div className="measure">
               <h1 className="text-3xl lg:text-5xl">재외동포 F-4 비자와 거소증, 행정사가 대행합니다</h1>
-              <p className="mt-4 text-lg" style={{ color: "rgba(246,247,245,0.86)" }}>
+              <p className="mt-4 text-lg" style={{ color: "rgba(255,255,255,0.86)" }}>
                 국적상실·국적회복·영주권까지, 해외에 있어도 서류 준비부터 발급까지 진행할 수 있습니다.
               </p>
               <div className="mt-8">
@@ -131,7 +131,7 @@ export default function HomePage() {
                   무료 상담 신청
                 </Link>
               </div>
-              <p className="mt-8 text-base" style={{ color: "rgba(246,247,245,0.75)" }}>
+              <p className="mt-8 text-base" style={{ color: "rgba(255,255,255,0.75)" }}>
                 {SITE.trustLine}
               </p>
             </div>

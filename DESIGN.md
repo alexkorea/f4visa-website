@@ -1,7 +1,7 @@
 ---
 version: alpha
-name: VISION Immigration Services
-description: 비전행정사사무소 디자인 시스템 v1.2 — 블로그 포스트 규격(v1.0)에 웹사이트 레이아웃·컴포넌트 토큰을 추가하고 Google DESIGN.md 스펙에 맞게 정리
+name: EROOM Administrative Office
+description: 행정사사무소 이룸(f4visa.net) 디자인 시스템 v1.2(정체성만 이룸, 색·토큰·컴포넌트는 VISION 표준) — 블로그 포스트 규격(v1.0)에 웹사이트 레이아웃·컴포넌트 토큰을 추가하고 Google DESIGN.md 스펙에 맞게 정리
 colors:
   primary: "#235099"
   primary-light: "#f0f4ff"
@@ -165,11 +165,11 @@ components:
     width: 4px
 ---
 
-# VISION 행정사사무소 Design System v1.2
+# 행정사사무소 이룸 Design System v1.2
 
 ## Overview
 
-VISION 행정사사무소(VISION Administrative Attorney Agent)의 디자인 시스템입니다.
+행정사사무소 이룸(EROOM Administrative Office, f4visa.net)의 디자인 시스템입니다. 색·서체·간격·컴포넌트는 VISION 표준을 따르고 회사 정체성만 이룸 고유값을 씁니다.
 한국 비자·인허가 전문 서비스를 제공하는 6개 사이트에 일관된 브랜드 경험을 제공합니다.
 전문적이고 신뢰감 있는 톤을 유지하면서, 한국어·영어·중국어·일본어 다국어 콘텐츠에 최적화되어 있습니다.
 
@@ -213,11 +213,11 @@ Pretendard는 한자(중국어)를 포함하지 않으므로 언어별 body 토�
 ### 크기 스케일
 display 40 / h1 32 / h2 19 / h3 17 / body 16.5 / caption 13.5 / button 16 (px). 이 외 크기 사용 금지. 모바일에서 display는 28px, h1은 26px로 축소. 최소 텍스트 크기 13.5px — 그 이하 금지. (v1.1 추가)
 
-### 회사명 다국어 표기
-- 한국어: 비전행정사사무소
-- 영어: VISION Administrative Attorney Agent
-- 일본어: VISION行政書士事務所
-- 중국어: 飞展行政士事务所
+### 회사명 표기 (이룸 고유)
+- 한국어: 행정사사무소 이룸
+- 영어: EROOM Administrative Office
+- 대표: 이시정 대표행정사(사진 leesj.jpg) / 이원중 행정사
+- 이메일: teamone163@gmail.com · 도메인: f4visa.net · 협력: 박동국 세무사
 
 ## Layout
 
@@ -311,7 +311,7 @@ primary 색, 밑줄. 방문 후 색 변화 없음. 외부 정부·공식 출처 
 - 가격/수수료 금액 명시 금지
 - HTML 코드를 마크다운에 혼합 금지
 - 같은 사진 재사용 금지
-- Agency/Office 사용 금지 (Agent만 사용)
+- 회사명은 행정사사무소 이룸 / EROOM Administrative Office로 통일
 - 일본어에서 行政士 사용 금지 (行政書士만 사용)
 - 지어낸 고객명·후기·별점·처리건수·긴급성 문구 금지 (v1.1 추가)
 - 다크 배경 섹션, 유리효과, 노이즈 오버레이, 무한 애니메이션 금지 (v1.1 추가)

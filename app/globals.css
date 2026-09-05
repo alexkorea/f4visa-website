@@ -329,6 +329,7 @@
   vertical-align: top;
 }
 .faq-table-desktop tbody tr:nth-child(even) td { background: var(--c-surface-alt); }
+.faq-table-desktop th:first-child, .faq-table-desktop td:first-child { width: 32%; }
 .faq-table-desktop tbody tr:hover td { background: var(--c-brand-light); transition: background-color 0.2s ease; }
 
 .faq-stack-mobile { display: flex; flex-direction: column; }

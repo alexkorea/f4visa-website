@@ -23,9 +23,8 @@ export function Faq({
   return (
     <section className="section section-alt">
       <div className="container-x">
-        <div className="measure">
-          <h2>{title}</h2>
-          <div className="faq-table mt-8">
+        <h2>{title}</h2>
+        <div className="faq-table mt-8">
             <table className="faq-table-desktop">
               <thead>
                 <tr>
@@ -49,7 +48,6 @@ export function Faq({
                   <p className="faq-a">{f.answer}</p>
                 </div>
               ))}
-            </div>
           </div>
         </div>
       </div>

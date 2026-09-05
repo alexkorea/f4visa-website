@@ -199,6 +199,26 @@ export default function PermanentResidencyPage() {
                 </p>
               </div>
 
+              {/* 소득요건 완화 (동포 F-5) */}
+              <div className="rounded-xl border border-primary/40 bg-primary/5 p-6 lg:p-8">
+                <div className="flex items-center gap-3">
+                  <span className="rounded-full bg-primary px-3 py-1 text-xs font-bold text-primary-foreground">완화 안내</span>
+                  <h3 className="text-xl font-semibold text-foreground">동포 영주자격(F-5) 소득요건 완화</h3>
+                </div>
+                <p className="mt-4 leading-relaxed text-muted-foreground">
+                  <strong className="text-foreground">현황</strong> — 동포 영주자격 신청 시 생계유지 능력 확인을 위해 전년도 1인당 국민총소득(GNI) 이상을 충족해야 합니다.
+                </p>
+                <p className="mt-3 leading-relaxed text-foreground font-medium">
+                  한국어 우수자·우수 자원봉사자는 소득요건이 완화됩니다.
+                </p>
+                <ul className="mt-3 space-y-2 leading-relaxed text-muted-foreground">
+                  <li>· <strong className="text-foreground">한국어 우수자</strong>: 전년도 GNI의 70% 이상 충족 시 인정 (사회통합프로그램 5단계 이수, 국내 초·중·고 모두 졸업, 또는 국내 학사 이상 학위 취득자)</li>
+                  <li>· <strong className="text-foreground">우수 자원봉사자</strong>: 전년도 GNI의 80% 이상 충족 시 인정 (최근 6개월간 100시간 이상 자원봉사, 한국중앙자원봉사센터 1365 &lsquo;실적확인서&rsquo;로 입증)</li>
+                  <li>· <strong className="text-foreground">두 요건 모두 해당</strong>: 전년도 GNI의 60% 이상으로 완화</li>
+                </ul>
+                <p className="mt-4 text-sm text-muted-foreground">※ 본인 상황의 적용 여부는 상담으로 정확히 확인해 드립니다.</p>
+              </div>
+
               {/* 3. 기본소양 요건 */}
               <div className="rounded-xl border border-border bg-background p-6 lg:p-8">
                 <div className="flex items-center gap-4">

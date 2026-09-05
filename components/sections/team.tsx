@@ -2,11 +2,11 @@ import Image from "next/image"
 import { Card, CardContent } from "@/components/ui/card"
 
 const admins = [
-  { name: "이원중", role: "대표행정사", photo: "/team/leewj.jpg" },
+  { name: "이시정", role: "대표행정사", photo: "/team/leesj.jpg" },
+  { name: "이원중", role: "행정사", photo: "/team/leewj.jpg" },
   { name: "정유선", role: "행정사", photo: "/team/jungyus.jpg" },
   { name: "한경택", role: "행정사", photo: "/team/hankt.jpg" },
   { name: "김정은", role: "행정사", photo: "/team/kimje.jpg" },
-  { name: "이시정", role: "행정사", photo: "/team/leesj.jpg" },
   { name: "정희정", role: "행정사", photo: "/team/junghj.jpg" },
 ]
 

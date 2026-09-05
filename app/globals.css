@@ -72,6 +72,8 @@
   }
 
   body {
+  word-break: keep-all;
+  overflow-wrap: anywhere;
     background: var(--c-bg);
     color: var(--c-ink);
     font-family: var(--font-body);
@@ -371,3 +373,5 @@
   border-radius: var(--tk-radius-sm);
 }
 .skip-link:focus { left: var(--s-16); top: var(--s-8); }
+
+h1,h2,h3,h4,p,li,span { word-break: keep-all; }

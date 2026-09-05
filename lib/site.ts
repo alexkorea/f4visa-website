@@ -31,7 +31,7 @@ export const SITE = {
   },
 
   businessNumber: "405-05-54079",
-  representative: "이원중",
+  representative: "이시정",
   privacyOfficer: "김영주",
   openingHours: "평일 09:30 ~ 18:30",
 

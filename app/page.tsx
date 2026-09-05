@@ -1,4 +1,5 @@
 import Image from "next/image"
+import { TeamSection } from "@/components/sections/team"
 import Link from "next/link"
 import { ArrowRight } from "lucide-react"
 import { Header } from "@/components/header"
@@ -136,6 +137,30 @@ export default function HomePage() {
             </div>
           </div>
         </section>
+        <section id="messenger" className="section section-alt">
+          <div className="container-x">
+            <div className="section-head measure">
+              <span className="eyebrow">상담 채널</span>
+              <h2>사용하시는 메신저로 상담하세요</h2>
+              <p>해외 거주 중에도 익숙한 메신저로 서류와 일정을 주고받을 수 있습니다.</p>
+            </div>
+            <ul className="grid grid-cols-2 gap-4 lg:grid-cols-4">
+              {messengers.map((m) => (
+                <li key={m.name} className="card-x text-center">
+                  <Image
+                    src={m.qr}
+                    alt={`${m.name} 상담 QR 코드`}
+                    width={112}
+                    height={112}
+                    className="mx-auto rounded-[8px]"
+                  />
+                  <h3 className="mt-4 text-lg">{m.name}</h3>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </section>
+        <TeamSection />
 
         {/* 핵심 서비스 */}
         <section className="section">
@@ -204,35 +229,12 @@ export default function HomePage() {
         </section>
 
         {/* 상담 채널 */}
-        <section id="messenger" className="section section-alt">
-          <div className="container-x">
-            <div className="section-head measure">
-              <span className="eyebrow">상담 채널</span>
-              <h2>사용하시는 메신저로 상담하세요</h2>
-              <p>해외 거주 중에도 익숙한 메신저로 서류와 일정을 주고받을 수 있습니다.</p>
-            </div>
-            <ul className="grid grid-cols-2 gap-4 lg:grid-cols-4">
-              {messengers.map((m) => (
-                <li key={m.name} className="card-x text-center">
-                  <Image
-                    src={m.qr}
-                    alt={`${m.name} 상담 QR 코드`}
-                    width={160}
-                    height={160}
-                    className="mx-auto rounded-[8px]"
-                  />
-                  <h3 className="mt-4 text-lg">{m.name}</h3>
-                </li>
-              ))}
-            </ul>
-          </div>
-        </section>
 
         {/* FAQ */}
         <Faq items={faqs} />
 
         {/* CTA */}
-        <CtaSection />
+      <CtaSection />
       </main>
 
       <Footer />

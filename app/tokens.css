@@ -48,8 +48,8 @@
   /* ── 간격: 8px 배수만 ── */
   --s-8: 8px;   --s-16: 16px; --s-24: 24px; --s-32: 32px;
   --s-48: 48px; --s-64: 64px; --s-96: 96px; --s-128: 128px;
-  --section-y-mobile:  64px;
-  --section-y-desktop: 96px;
+  --section-y-mobile:  40px;
+  --section-y-desktop: 56px;
 
   /* ── 모서리 2단계 / 그림자 2단계 ── */
   --tk-radius-sm: 8px;

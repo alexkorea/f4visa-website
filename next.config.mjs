@@ -45,6 +45,16 @@ const nextConfig = {
       { source: '/blog/f4-visa-to-f5-permanent-residency', destination: '/blog/f4-to-f5-permanent-residency-conversion', permanent: true },
     ]
   },
+  async headers() {
+    return [
+      {
+        source: '/',
+        headers: [
+          { key: 'Link', value: '</slides/family.webp>; rel=preload; as=image; fetchpriority=high' },
+        ],
+      },
+    ]
+  },
 }
 
 export default nextConfig

@@ -1,4 +1,6 @@
-# Cloudflare Pages — WEBSITE STANDARD v2.0 §3 캐시 정책
+# Cloudflare Pages — WEBSITE STANDARD v2.0 §3 캐시 정책 + Early Hints(히어로 LCP)
+/
+  Link: </slides/family.webp>; rel=preload; as=image; fetchpriority=high
 /*
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
@@ -6,21 +8,3 @@
   Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
   Permissions-Policy: geolocation=(), microphone=(), camera=()
   Cache-Control: public, max-age=0, must-revalidate
-
-/_next/static/*
-  Cache-Control: public, max-age=31536000, immutable
-
-/slides/*
-  Cache-Control: public, max-age=31536000, immutable
-
-/team/*
-  Cache-Control: public, max-age=31536000, immutable
-
-/qr/*
-  Cache-Control: public, max-age=31536000, immutable
-
-/blog/*.jpg
-  Cache-Control: public, max-age=31536000, immutable
-
-/partners/*
-  Cache-Control: public, max-age=31536000, immutable

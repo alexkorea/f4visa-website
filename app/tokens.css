@@ -55,10 +55,10 @@
   --measure:    780px;  /* 본문(article) 최대 폭 */
 
   /* ── 간격: 8·16·24·44·64·96 (DESIGN.md spacing, 이 외 금지) ── */
-  --s-8:  8px;   --s-16: 16px;  --s-24: 24px;
+  --s-8:  8px;   --s-16: 16px;  --s-24: 24px;  --s-32: 32px;  --s-48: 48px;
   --s-44: 44px;  --s-64: 64px;  --s-96: 96px;
-  --section-y-mobile:  64px;   /* 웹페이지 큰 섹션 사이 (DESIGN.md) */
-  --section-y-desktop: 96px;
+  --section-y-mobile:  24px;   /* 웹페이지 큰 섹션 사이 (DESIGN.md) */
+  --section-y-desktop: 32px;
   --section-y-article: 44px;   /* 본문 섹션 사이 */
 
   /* ── 모서리 3단계 (DESIGN.md rounded) ── */

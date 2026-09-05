@@ -1,7 +1,6 @@
 import Image from "next/image"
 import { TeamSection } from "@/components/sections/team"
 import Link from "next/link"
-import { ArrowRight } from "lucide-react"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { CtaSection } from "@/components/cta-section"
@@ -111,7 +110,7 @@ export default function HomePage() {
         {/* 히어로 */}
         <section className="relative isolate overflow-hidden" style={{ color: "var(--c-ink-invert)" }}>
           <Image
-            src="/slides/family.jpg"
+            src="/slides/family.webp"
             alt=""
             fill
             priority
@@ -175,9 +174,8 @@ export default function HomePage() {
                 <li key={s.href} className="card-x flex flex-col">
                   <h3>{s.title}</h3>
                   <p className="flex-1">{s.desc}</p>
-                  <Link href={s.href} className="btn-text mt-4 inline-flex items-center gap-2">
+                  <Link href={s.href} className="btn-text mt-4">
                     자세히 보기
-                    <ArrowRight className="h-4 w-4" aria-hidden />
                   </Link>
                 </li>
               ))}

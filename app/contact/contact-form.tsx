@@ -189,8 +189,9 @@ export function ContactForm() {
               <button
                 key={svc.value}
                 type="button"
+                aria-pressed={selectedServices.includes(svc.value)}
                 onClick={() => toggleService(svc.value)}
-                className={`relative flex items-center gap-4 p-4 rounded-xl border-2 text-left transition-all ${
+                className={`relative flex items-center gap-4 p-4 rounded-xl border-2 text-left transition-colors ${
                   selectedServices.includes(svc.value)
                     ? "border-primary bg-primary/5 shadow-sm"
                     : "border-border hover:border-muted-foreground/30 hover:bg-muted/50"

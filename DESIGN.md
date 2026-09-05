@@ -1,7 +1,7 @@
 ---
 version: alpha
 name: EROOM Administrative Office
-description: 행정사사무소 이룸(f4visa.net) 디자인 시스템 v1.2 — 정체성만 이룸, 토큰은 VISION 표준
+description: 행정사사무소 이룸(f4visa.net) 디자인 시스템 v1.2 — 정체성만 이룸
 colors:
   primary: "#235099"
   primary-light: "#f0f4ff"
@@ -169,7 +169,7 @@ components:
 
 ## Overview
 
-행정사사무소 이룸(EROOM Administrative Office, f4visa.net)의 디자인 시스템입니다. 색·서체·간격·컴포넌트는 VISION 표준을 따르고 회사 정체성만 이룸 고유값을 씁니다.
+행정사사무소 이룸(EROOM Administrative Office, f4visa.net)의 디자인 시스템입니다. 색·서체·간격·컴포넌트는 VISION 표준, 정체성만 이룸.
 한국 비자·인허가 전문 서비스를 제공하는 6개 사이트에 일관된 브랜드 경험을 제공합니다.
 전문적이고 신뢰감 있는 톤을 유지하면서, 한국어·영어·중국어·일본어 다국어 콘텐츠에 최적화되어 있습니다.
 
@@ -216,7 +216,7 @@ display 40 / h1 32 / h2 19 / h3 17 / body 16.5 / caption 13.5 / button 16 (px). 
 ### 회사명 다국어 표기
 - 한국어: 행정사사무소 이룸
 - 영어: EROOM Administrative Office
-- 대표: 이시정 대표행정사(leesj.jpg) / 이원중 행정사 · 이메일 teamone163@gmail.com · f4visa.net
+- 대표: 이시정 대표행정사(leesj.jpg)/이원중 행정사 · teamone163@gmail.com · f4visa.net
 
 ## Layout
 
@@ -258,7 +258,10 @@ H2 하위의 세부 항목 구분에 사용.
 FAQ는 표가 아니라 **세로 Q/A 목록 하나**로만 만든다. 데스크톱·모바일 동일 구조, DOM에 한 번만 존재.
 - 질문: `typography.h3` 크기, 700, `colors.primary`. 앞에 "Q." 접두 없이 질문문 그대로.
 - 답변: `typography.body`, `colors.text`. 질문 아래 8px, 항목 사이 24px, 항목 구분은 `1px solid {colors.border}` 하단선.
-- 컨테이너 폭을 100% 채운다 (홈은 1200px 안에서 최대 900px 중앙, 정보 페이지는 본문 780px).
+- 다른 섹션과 같은 컨테이너 왼쪽 선에서 시작하고 폭 100%를 쓴다. 중앙 정렬·좁은 박스 금지.
+  · 홈·서비스 페이지(1200px): 데스크톱 2열 그리드(열 간격 48px, 항목을 좌우로 번갈아 배치), 태블릿 이하 1열.
+  · 정보 페이지·블로그(본문 780px): 1열.
+- 섹션 헤더는 다른 섹션과 동일(라벨 → h2 → 한 줄 설명). FAQ만 헤더 구성을 다르게 하지 않는다.
 - 항목이 8개를 넘을 때만 `<details>` 아코디언 허용. 그 외엔 펼친 상태.
 - 파란 헤더 바, 2열 표, 짝수 행 배경, 호버 색 — FAQ에는 사용 금지. 두 버전(표+목록)을 DOM에 함께 넣고 CSS로 숨기는 방식 금지.
 - FAQPage JSON-LD의 Q/A는 이 목록과 1:1 일치.

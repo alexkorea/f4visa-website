@@ -1,5 +1,6 @@
 ---
 title: "F-4 비자 갱신 절차와 기간 안내"
+visa: F-4
 date: "2026-04-10"
 category: "F-4비자"
 excerpt: "F-4 비자 갱신 절차와 기간 안내"

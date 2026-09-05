@@ -1,5 +1,6 @@
 ---
 title: "재미교포 F-4 비자 신청 방법 — 자격·서류·절차 완벽 가이드"
+visa: F-4
 description: "재미교포(미국 국적 한국계)가 F-4 재외동포 비자를 신청하는 방법을 상세히 안내합니다. 자격 요건, 필요 서류, 신청 절차를 기준으로 정리했습니다."
 date: "2026-05-28"
 slug: "jaemi-gyopo-f4-visa-application-guide"

@@ -1,5 +1,6 @@
 ---
 title: "F-4 비자 신청 자격 완벽 정리 — 재외동포 해당 여부 확인"
+visa: F-4
 description: "F-4 재외동포 비자 신청 자격을 국적·출생·혈통 기준으로 완벽 정리했습니다. 북미·일본·유럽·호주 거주 재외동포를 위한 최신 기준입니다."
 date: "2026-05-26"
 slug: "f4-visa-overseas-korean-eligibility"

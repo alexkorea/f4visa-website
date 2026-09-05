@@ -1,5 +1,6 @@
 ---
 title: "미국 영주권자 F-4 재외동포 비자 신청 방법"
+visa: F-5
 description: "미국 영주권(그린카드) 보유자가 F-4 비자를 신청하는 절차, 자격 요건, 필요 서류를 실무 기준으로 안내합니다."
 date: "2026-05-23"
 slug: "f4-visa-us-permanent-resident-guide"

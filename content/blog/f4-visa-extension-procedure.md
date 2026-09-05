@@ -1,5 +1,6 @@
 ---
 title: "F-4 재외동포 비자 연장 절차 — 만료 전 체크리스트"
+visa: F-4
 date: "2026-05-27"
 slug: "f4-visa-extension-procedure"
 description: "F-4 재외동포 비자 연장 신청 시기, 필요 서류, 절차를 기준으로 정리했습니다. 만료 전 반드시 확인할 체크리스트를 포함합니다."

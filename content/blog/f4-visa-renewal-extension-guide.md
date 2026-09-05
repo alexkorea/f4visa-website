@@ -1,5 +1,6 @@
 ---
 title: "F-4 비자 갱신 절차와 체류기간 연장 방법"
+visa: F-4
 description: "F-4 재외동포 비자 갱신 방법, 체류기간 연장 신청 시기와 서류, 주의사항을 최신 기준으로 정리했습니다."
 date: "2026-05-26"
 slug: "f4-visa-renewal-extension-guide"

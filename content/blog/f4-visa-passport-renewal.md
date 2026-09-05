@@ -1,5 +1,6 @@
 ---
 title: "F-4 재외동포 비자 여권 만료 시 체류자격 갱신 방법"
+visa: F-4
 date: "2026-06-04"
 category: "F-4 비자"
 image: "/blog/f4-visa-passport-renewal.jpg"

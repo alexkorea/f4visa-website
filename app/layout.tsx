@@ -71,8 +71,8 @@ export default function RootLayout({
         <a href="#main" className="skip-link">본문 바로가기</a>
         {children}
         <DeferredCtaBar />
-        <Script src="https://www.googletagmanager.com/gtag/js?id=G-TNDB1XVX2R" strategy="afterInteractive" />
-        <Script id="gtag-init" strategy="afterInteractive">
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-TNDB1XVX2R" strategy="lazyOnload" />
+        <Script id="gtag-init" strategy="lazyOnload">
           {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}

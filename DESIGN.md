@@ -1,7 +1,7 @@
 ---
 version: alpha
 name: EROOM Administrative Office
-description: 행정사사무소 이룸(f4visa.net) 디자인 시스템 v1.2(정체성만 이룸, 색·토큰·컴포넌트는 VISION 표준) — 블로그 포스트 규격(v1.0)에 웹사이트 레이아웃·컴포넌트 토큰을 추가하고 Google DESIGN.md 스펙에 맞게 정리
+description: 행정사사무소 이룸(f4visa.net) 디자인 시스템 v1.2 — 정체성만 이룸, 토큰은 VISION 표준
 colors:
   primary: "#235099"
   primary-light: "#f0f4ff"
@@ -83,8 +83,8 @@ spacing:
   sm: 16px
   md: 24px
   lg: 44px
-  xl: 64px
-  2xl: 96px
+  xl: 48px
+  2xl: 64px
 components:
   h2-bar:
     backgroundColor: "{colors.primary}"
@@ -213,17 +213,17 @@ Pretendard는 한자(중국어)를 포함하지 않으므로 언어별 body 토�
 ### 크기 스케일
 display 40 / h1 32 / h2 19 / h3 17 / body 16.5 / caption 13.5 / button 16 (px). 이 외 크기 사용 금지. 모바일에서 display는 28px, h1은 26px로 축소. 최소 텍스트 크기 13.5px — 그 이하 금지. (v1.1 추가)
 
-### 회사명 표기 (이룸 고유)
+### 회사명 다국어 표기
 - 한국어: 행정사사무소 이룸
 - 영어: EROOM Administrative Office
-- 대표: 이시정 대표행정사(사진 leesj.jpg) / 이원중 행정사
-- 이메일: teamone163@gmail.com · 도메인: f4visa.net · 협력: 박동국 세무사
+- 대표: 이시정 대표행정사(leesj.jpg) / 이원중 행정사 · 이메일 teamone163@gmail.com · f4visa.net
 
 ## Layout
 
 **본문(article) 폭 780px** — 블로그 포스트·정보 페이지 본문. v1.0 유지.
 **페이지 컨테이너 폭 1200px** — 홈·서비스 소개·목록 등 웹사이트 페이지의 바깥 컨테이너. 본문 텍스트 블록은 그 안에서 780px을 넘지 않는다. (v1.1 추가)
-섹션 간격 44px (`spacing.lg`). 웹사이트 페이지의 큰 섹션 사이는 64px(모바일)/96px(데스크톱). (v1.1 추가)
+섹션 간격 44px (`spacing.lg`) — 본문 H2 섹션 사이 총 거리.
+웹사이트 페이지의 큰 섹션 사이 **총 거리**(위 섹션 마지막 요소 하단 → 아래 섹션 첫 요소 상단): 데스크톱 64px, 모바일 48px. 구현은 각 섹션 padding-top/bottom 32px(모바일 24px)로 하고, 섹션 안 제목 블록의 margin은 이 거리에 더하지 않는다(h2 margin-top 0). 배경색이 바뀌는 섹션도 같은 값. (v1.2: 96/64 → 64/48, 총 거리 기준으로 정의)
 H2 제목 위 여백 44px, 아래 여백 20px.
 테이블은 전체 폭 사용.
 간격은 spacing 스케일(8·16·24·44·64·96)만 사용. (v1.1 추가)

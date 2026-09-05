@@ -305,7 +305,7 @@
 /* ============================================================
    FAQ: 세로 Q/A 목록 (DESIGN.md v1.2) — 표 없음
    ============================================================ */
-.faq-list { max-width: 780px; margin-inline: auto; }
+.faq-list { max-width: 780px; }
 .faq-list--home { max-width: 900px; }
 .faq-items { margin-top: var(--s-24); }
 .faq-item { padding-bottom: var(--s-24); border-bottom: 1px solid var(--c-line); }

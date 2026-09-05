@@ -51,6 +51,7 @@ const nextConfig = {
         source: '/',
         headers: [
           { key: 'Link', value: '</slides/family.webp>; rel=preload; as=image; fetchpriority=high' },
+          { key: 'Cache-Control', value: 'public, max-age=0, s-maxage=300, stale-while-revalidate=86400, must-revalidate' },
         ],
       },
     ]

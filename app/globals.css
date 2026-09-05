@@ -303,48 +303,15 @@
 .prose nav a:hover { text-decoration: underline; }
 
 /* ============================================================
-   FAQ: 데스크톱 표 / 모바일 세로 스택 (DESIGN_GUIDE 5-1)
+   FAQ: 세로 Q/A 목록 (DESIGN.md v1.2) — 표 없음
    ============================================================ */
-.faq-table-desktop {
-  display: none;
-  width: 100%;
-  border-collapse: collapse;
-  border: 1px solid var(--c-line);
-  border-radius: var(--tk-radius-sm);
-  overflow: hidden;
-}
-.faq-table-desktop th {
-  background: var(--c-brand);
-  color: var(--c-ink-invert);
-  font-size: var(--fs-caption);
-  font-weight: var(--fw-semi);
-  text-align: left;
-  padding: 11px var(--s-16);
-}
-.faq-table-desktop td {
-  padding: 11px var(--s-16);
-  font-size: var(--fs-body);
-  color: var(--c-ink);
-  border-top: 1px solid var(--c-line-light);
-  vertical-align: top;
-}
-.faq-table-desktop tbody tr:nth-child(even) td { background: var(--c-surface-alt); }
-.faq-table-desktop th:first-child, .faq-table-desktop td:first-child { width: 32%; }
-.faq-table-desktop tbody tr:hover td { background: var(--c-brand-light); transition: background-color 0.2s ease; }
-
-.faq-stack-mobile { display: flex; flex-direction: column; }
-.faq-stack-item + .faq-stack-item {
-  margin-top: var(--s-16);
-  padding-top: var(--s-16);
-  border-top: 1px solid var(--c-line);
-}
-.faq-q { font-weight: var(--fw-bold); color: var(--c-brand); }
-.faq-a { margin-top: var(--s-8); color: var(--c-ink); line-height: var(--lh-body); }
-
-@media (min-width: 768px) {
-  .faq-table-desktop { display: table; }
-  .faq-stack-mobile { display: none; }
-}
+.faq-list { max-width: 780px; margin-inline: auto; }
+.faq-list--home { max-width: 900px; }
+.faq-items { margin-top: var(--s-24); }
+.faq-item { padding-bottom: var(--s-24); border-bottom: 1px solid var(--c-line); }
+.faq-item + .faq-item { margin-top: var(--s-24); }
+.faq-q { font-size: var(--fs-h3); font-weight: var(--fw-bold); color: var(--c-brand); line-height: var(--lh-heading); }
+.faq-a { margin-top: var(--s-8); color: var(--c-ink); font-size: var(--fs-body); line-height: var(--lh-body); }
 
 /* ============================================================
    모바일 하단 고정 CTA 바

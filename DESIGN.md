@@ -1,7 +1,7 @@
 ---
 version: alpha
-name: EROOM Administrative Office
-description: 행정사사무소 이룸(f4visa.net) 디자인 시스템 v1.1 — VISION 표준 디자인 시스템의 색·서체·간격·컴포넌트 토큰을 이룸 정체성으로 적용. Google DESIGN.md 스펙 준수
+name: VISION Immigration Services
+description: 비전행정사사무소 디자인 시스템 v1.2 — 블로그 포스트 규격(v1.0)에 웹사이트 레이아웃·컴포넌트 토큰을 추가하고 Google DESIGN.md 스펙에 맞게 정리
 colors:
   primary: "#235099"
   primary-light: "#f0f4ff"
@@ -165,15 +165,15 @@ components:
     width: 4px
 ---
 
-# 행정사사무소 이룸 Design System v1.1
+# VISION 행정사사무소 Design System v1.2
 
 ## Overview
 
-행정사사무소 이룸(EROOM Administrative Office, f4visa.net)의 디자인 시스템입니다.
-재외동포(F-4)·영주권(F-5)·비자·체류 전문 서비스를 신뢰감 있고 전문적인 톤으로 전달합니다.
-색·서체·간격·컴포넌트 값은 VISION 표준 디자인 시스템 v1.1을 그대로 따르며, 회사 정체성(명칭·대표·연락처)만 이룸 고유값을 사용합니다.
-※ f4visa는 비전행정사사무소 소속이나 외부에는 '행정사사무소 이룸' 고유 명칭으로 노출합니다.
+VISION 행정사사무소(VISION Administrative Attorney Agent)의 디자인 시스템입니다.
+한국 비자·인허가 전문 서비스를 제공하는 6개 사이트에 일관된 브랜드 경험을 제공합니다.
+전문적이고 신뢰감 있는 톤을 유지하면서, 한국어·영어·중국어·일본어 다국어 콘텐츠에 최적화되어 있습니다.
 
+v1.2 변경: FAQ를 표에서 세로 Q/A 목록 단일 컴포넌트로 변경(f4visa 파일럿에서 표+목록 중복·폭 미충족 문제 확인).
 v1.1 변경: v1.0은 블로그 포스트(본문) 규격만 정의했습니다. v1.1은 v1.0의 색·서체·컴포넌트 결정을 그대로 유지하고, 웹사이트 페이지 제작에 필요한 레이아웃·버튼·카드·모바일 토큰과 다국어 서체 슬롯을 추가했으며, `npx @google/design.md lint` 오류 0건이 되도록 토큰 구조를 스펙에 맞췄습니다. (v1.1 추가)로 표시된 항목은 새로 정한 값이므로 필요하면 조정합니다.
 
 적용 범위: 이 파일이 색·서체·간격·컴포넌트의 최상위 기준입니다. 여기에 없는 항목(브레이크포인트 동작, 모션, SEO 구조, 검수)은 WEBSITE_STANDARD v2.0이 정합니다.
@@ -213,12 +213,11 @@ Pretendard는 한자(중국어)를 포함하지 않으므로 언어별 body 토�
 ### 크기 스케일
 display 40 / h1 32 / h2 19 / h3 17 / body 16.5 / caption 13.5 / button 16 (px). 이 외 크기 사용 금지. 모바일에서 display는 28px, h1은 26px로 축소. 최소 텍스트 크기 13.5px — 그 이하 금지. (v1.1 추가)
 
-### 회사명 표기 (이룸 고유)
-- 한국어: 행정사사무소 이룸
-- 영어: EROOM Administrative Office
-- 대표: 이시정 대표행정사 (사진 leesj.jpg) / 이원중 행정사
-- 이메일: teamone163@gmail.com · 도메인: f4visa.net
-- 협력: 박동국 세무사 '세금이야기' 유지
+### 회사명 다국어 표기
+- 한국어: 비전행정사사무소
+- 영어: VISION Administrative Attorney Agent
+- 일본어: VISION行政書士事務所
+- 중국어: 飞展行政士事务所
 
 ## Layout
 
@@ -255,10 +254,18 @@ sm 6px — H2 바, 태그. md 8px — 버튼, 입력폼, 이미지. lg 12px — 
 왼쪽 파란 바 (4px solid #235099) + 투명 배경.
 H2 하위의 세부 항목 구분에 사용.
 
-### FAQ Table (`table-header`, `table-cell`, `table-row-even`, `table-row-hover`)
-데스크톱: 질문/답변 2열 테이블. 헤더 파란 배경 + 흰색 텍스트, 짝수 행 #fafbfc, 호버 #f0f4ff.
-모바일(768 미만): 2열 테이블은 가독성이 떨어지므로 질문(굵게, primary 색) 아래 답변이 오는 세로 스택으로 전환. HTML은 동일한 Q/A 쌍을 유지해 FAQPage 스키마와 일치시킨다. (v1.1 추가)
-데이터 표 일반: 모바일에서 가로 스크롤 래퍼 적용.
+### FAQ (`faq-item`) (v1.2 변경)
+FAQ는 표가 아니라 **세로 Q/A 목록 하나**로만 만든다. 데스크톱·모바일 동일 구조, DOM에 한 번만 존재.
+- 질문: `typography.h3` 크기, 700, `colors.primary`. 앞에 "Q." 접두 없이 질문문 그대로.
+- 답변: `typography.body`, `colors.text`. 질문 아래 8px, 항목 사이 24px, 항목 구분은 `1px solid {colors.border}` 하단선.
+- 컨테이너 폭을 100% 채운다 (홈은 1200px 안에서 최대 900px 중앙, 정보 페이지는 본문 780px).
+- 항목이 8개를 넘을 때만 `<details>` 아코디언 허용. 그 외엔 펼친 상태.
+- 파란 헤더 바, 2열 표, 짝수 행 배경, 호버 색 — FAQ에는 사용 금지. 두 버전(표+목록)을 DOM에 함께 넣고 CSS로 숨기는 방식 금지.
+- FAQPage JSON-LD의 Q/A는 이 목록과 1:1 일치.
+
+### Data Table (`table-header`, `table-cell`, `table-row-even`, `table-row-hover`)
+비교·수치 데이터 전용 (예: F-4 vs F-5 비교, 필요서류 목록). 헤더 파란 배경 + 흰색 텍스트, 짝수 행 #fafbfc, 호버 #f0f4ff, 폭 100%.
+모바일(768 미만): 가로 스크롤 래퍼 적용. FAQ에는 쓰지 않는다.
 
 ### CTA Button (`button-primary`)
 빨간 배경 (#dc2626) + 흰색 텍스트. 패딩 14px 32px, 둥근 모서리 8px, 높이 48px.
@@ -296,7 +303,7 @@ primary 색, 밑줄. 방문 후 색 변화 없음. 외부 정부·공식 출처 
 - word-break: keep-all 적용 (한국어·일본어)
 - 한 줄에 한 문장 (마침표/물음표 후 줄바꿈)
 - 정부/공식 출처 외부링크 포함
-- FAQ를 테이블 형식으로 작성 (모바일은 세로 스택)
+- FAQ는 세로 Q/A 목록 하나로 (표 금지, DOM 중복 금지)
 - 모든 이미지에 width·height·alt 지정
 
 ### Don'ts
@@ -304,7 +311,8 @@ primary 색, 밑줄. 방문 후 색 변화 없음. 외부 정부·공식 출처 
 - 가격/수수료 금액 명시 금지
 - HTML 코드를 마크다운에 혼합 금지
 - 같은 사진 재사용 금지
-- 회사명은 '행정사사무소 이룸 / EROOM Administrative Office'로 통일 (다른 표기 혼용 금지)
+- Agency/Office 사용 금지 (Agent만 사용)
+- 일본어에서 行政士 사용 금지 (行政書士만 사용)
 - 지어낸 고객명·후기·별점·처리건수·긴급성 문구 금지 (v1.1 추가)
 - 다크 배경 섹션, 유리효과, 노이즈 오버레이, 무한 애니메이션 금지 (v1.1 추가)
 - 이모지를 아이콘으로 사용 금지, 아이콘 세트는 1종 선형 (v1.1 추가)

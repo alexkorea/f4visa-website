@@ -240,7 +240,7 @@ export default function HomePage() {
         {/* 상담 채널 */}
 
         {/* FAQ */}
-        <Faq items={faqs} />
+        <Faq items={faqs} width="home" />
 
         {/* CTA */}
       <CtaSection />

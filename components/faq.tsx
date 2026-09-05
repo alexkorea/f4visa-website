@@ -1,14 +1,20 @@
 export type FaqItem = { question: string; answer: string }
 
-/** FAQ 아코디언 + FAQPage 스키마 (본문과 스키마 내용 일치) */
+/**
+ * FAQ (DESIGN.md v1.2) — 세로 Q/A 목록 단일 컴포넌트. 표 없음.
+ * width: 'home' → 900px 중앙, 'article'(기본) → 780px 중앙.
+ * FAQPage JSON-LD는 목록과 1:1.
+ */
 export function Faq({
   items,
   title = "자주 묻는 질문",
   withSchema = true,
+  width = "article",
 }: {
   items: FaqItem[]
   title?: string
   withSchema?: boolean
+  width?: "home" | "article"
 }) {
   const schema = {
     "@context": "https://schema.org",
@@ -23,32 +29,16 @@ export function Faq({
   return (
     <section className="section section-alt">
       <div className="container-x">
-        <h2>{title}</h2>
-        <div className="faq-table mt-8">
-            <table className="faq-table-desktop">
-              <thead>
-                <tr>
-                  <th>질문</th>
-                  <th>답변</th>
-                </tr>
-              </thead>
-              <tbody>
-                {items.map((f) => (
-                  <tr key={f.question}>
-                    <td>{f.question}</td>
-                    <td>{f.answer}</td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
-            <div className="faq-stack-mobile">
-              {items.map((f) => (
-                <div className="faq-stack-item" key={f.question}>
-                  <p className="faq-q">{f.question}</p>
-                  <p className="faq-a">{f.answer}</p>
-                </div>
-              ))}
-          </div>
+        <div className={`faq-list${width === "home" ? " faq-list--home" : ""}`}>
+          <h2>{title}</h2>
+          <dl className="faq-items">
+            {items.map((f) => (
+              <div className="faq-item" key={f.question}>
+                <dt className="faq-q">{f.question}</dt>
+                <dd className="faq-a">{f.answer}</dd>
+              </div>
+            ))}
+          </dl>
         </div>
       </div>
       {withSchema && (

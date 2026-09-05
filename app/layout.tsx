@@ -64,6 +64,14 @@ export default function RootLayout({
     <html lang="ko">
       <head>
         <link rel="preconnect" href="https://cdn.jsdelivr.net" crossOrigin="anonymous" />
+        {/* 히어로 LCP 이미지 우선 프리로드 */}
+        <link rel="preload" as="image" href="/slides/family.webp" fetchPriority="high" />
+        {/* 폰트: 조기 프리로드 후 적용 (렌더 차단 최소화) */}
+        <link
+          rel="preload"
+          as="style"
+          href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css"
+        />
         <link
           rel="stylesheet"
           href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css"

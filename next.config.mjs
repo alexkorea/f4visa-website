@@ -8,6 +8,9 @@ const nextConfig = {
   },
   async redirects() {
     return [
+      { source: '/blog/f4-visa-goso-registration-guide-2026', destination: '/blog/f4-visa-goso-registration', permanent: true },
+      { source: '/blog/f4-visa-renewal-guide-2026', destination: '/blog/f4-visa-renewal', permanent: true },
+      { source: '/blog/f4-visa-eligibility-overseas-koreans-2026', destination: '/blog/f4-visa-eligibility', permanent: true },
       { source: '/blog/f4-visa-eligibility-documents-2026', destination: '/blog/f4-visa-eligibility-documents', permanent: true },
       { source: '/blog/f4-visa-extension-guide-202605', destination: '/blog/f4-visa-extension-guide', permanent: true },
       { source: '/blog/f4-visa-renewal-complete-guide-2026', destination: '/blog/f4-visa-renewal-complete-guide', permanent: true },

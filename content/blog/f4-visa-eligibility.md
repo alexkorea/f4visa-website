@@ -2,7 +2,7 @@
 title: "F-4 재외동포 비자 신청 자격 완벽 가이드 — 미국·캐나다·호주 동포 필독"
 description: "미국·캐나다·호주·일본 재외동포의 F-4 비자 신청 자격, 제출 서류, 주의사항을 실무 기준으로 정리했습니다."
 date: "2026-05-24"
-slug: "f4-visa-eligibility-overseas-koreans-2026"
+slug: "f4-visa-eligibility"
 author: "행정사사무소 이룸"
 category: "F-4 비자 신청"
 image: "/blog/f4-visa-eligibility.jpg"

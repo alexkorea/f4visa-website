@@ -2,7 +2,7 @@
 title: "F-4 재외동포 거소증 신청 절차 — 외국인등록과의 차이점"
 description: "F-4 비자 입국 후 거소신고와 외국인등록의 차이, 거소증 신청 방법, 발급 기관을 실무 기준으로 정리했습니다."
 date: "2026-05-24"
-slug: "f4-visa-goso-registration-guide-2026"
+slug: "f4-visa-goso-registration"
 author: "행정사사무소 이룸"
 category: "F-4 거소증"
 image: "/blog/f4-visa-goso-registration.jpg"

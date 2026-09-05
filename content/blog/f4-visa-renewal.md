@@ -2,7 +2,7 @@
 title: "F-4 재외동포 비자 갱신 완벽 가이드 — 체류 기간 연장 실무 절차"
 description: "F-4 체류 기간 만료 전 갱신 방법, 준비 서류, 주의사항을 정리했습니다. 갱신 거절 사례와 예방법도 포함."
 date: "2026-05-24"
-slug: "f4-visa-renewal-guide-2026"
+slug: "f4-visa-renewal"
 author: "행정사사무소 이룸"
 category: "F-4 비자 갱신"
 image: "/blog/f4-visa-renewal.jpg"

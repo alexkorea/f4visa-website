@@ -63,7 +63,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ko" className={pretendard.variable}>
-      {/* 히어로 LCP 프리로드는 next.config headers()의 Link 응답헤더로 단일화(head 중복 제거) */}
+      <head>
+        {/* 히어로 LCP 프리로드(단일 소스): 모바일 750 / 데스크톱 1400 AVIF */}
+        <link rel="preload" as="image" href="/slides/family-750.avif" media="(max-width: 767px)" type="image/avif" fetchPriority="high" />
+        <link rel="preload" as="image" href="/slides/family-1400.avif" media="(min-width: 768px)" type="image/avif" fetchPriority="high" />
+      </head>
       <body>
         <a href="#main" className="skip-link">본문 바로가기</a>
         {children}

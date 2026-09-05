@@ -45,17 +45,6 @@ const nextConfig = {
       { source: '/blog/f4-visa-to-f5-permanent-residency', destination: '/blog/f4-to-f5-permanent-residency-conversion', permanent: true },
     ]
   },
-  async headers() {
-    return [
-      {
-        source: '/',
-        headers: [
-          { key: 'Link', value: '</slides/family-750.avif>; rel=preload; as=image; type=image/avif; fetchpriority=high; media="(max-width: 767px)"' },
-          { key: 'Link', value: '</slides/family-1400.avif>; rel=preload; as=image; type=image/avif; fetchpriority=high; media="(min-width: 768px)"' },
-        ],
-      },
-    ]
-  },
 }
 
 export default nextConfig

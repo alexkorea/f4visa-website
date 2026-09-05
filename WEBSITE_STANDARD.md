@@ -47,9 +47,9 @@ STEP 7  ATOMIC FULL DEPLOY → 9장 형식으로 보고
 
 ## 3. 검색·AI 노출 (SEO + AEO + GEO + Entity/Schema)
 
-- 페이지별 title(50~60자)·description(120~155자)·H1 유일. H1은 페이지당 1개.
-- 첫 문단(150자 이내)에 검색 질문의 직접 답변. 이후 요건·절차·서류 순으로 전개.
-- FAQ 섹션 + FAQPage 스키마. 질문은 실제 검색어 형태로.
+- 페이지별 title(한글 60자·영문 70자 이내)·description(한글 80자·영문 160자 이내, CTA 동사 포함)·H1 유일. H1은 페이지당 1개. (inhega-blog-writer 스킬과 동일 기준)
+- 도입부 3문장 룰: ① 결론/핵심 답변 ② 대상자/조건 ③ 다룰 범위. 이후 요건·절차·서류 순으로 전개. (inhega-blog-writer 스킬과 동일)
+- FAQ 4~6개 + FAQPage JSON-LD. 질문은 실제 검색어 형태로. 블로그 글은 inhega-blog-writer 스킬의 구조(H1 → 도입부 → H2 5~7개 → FAQ → CTA → 관련 글)를 그대로 따른다.
 - AI 인용 대응: 정의·요건·절차를 명확한 소제목+리스트로, 출처·최종수정일 표기.
 - 스키마: Organization / Person(대표 행정사) / Service / Article / BreadcrumbList / FAQPage. 페이지 성격에 맞는 것만.
 - 엔티티 일관성: 회사명·대표명·주소·전화·서비스명이 전 페이지·전 사이트 동일.

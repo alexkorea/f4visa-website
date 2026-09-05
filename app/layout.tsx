@@ -65,16 +65,8 @@ export default function RootLayout({
     <html lang="ko" className={pretendard.variable}>
       <head>
         {/* 히어로 LCP 이미지 우선 프리로드: 모바일 750w AVIF (폰트는 next/font 자체호스팅, 렌더 비차단) */}
-        <link
-          rel="preload"
-          as="image"
-          href="/slides/family-750.avif"
-          // @ts-expect-error responsive preload
-          imageSrcSet="/slides/family-750.avif 750w, /slides/family-1400.avif 1400w"
-          imageSizes="100vw"
-          type="image/avif"
-          fetchPriority="high"
-        />
+        <link rel="preload" as="image" href="/slides/family-750.avif" media="(max-width: 767px)" type="image/avif" fetchPriority="high" />
+        <link rel="preload" as="image" href="/slides/family-1400.avif" media="(min-width: 768px)" type="image/avif" fetchPriority="high" />
       </head>
       <body>
         <a href="#main" className="skip-link">본문 바로가기</a>

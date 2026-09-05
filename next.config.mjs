@@ -50,7 +50,7 @@ const nextConfig = {
       {
         source: '/',
         headers: [
-          { key: 'Link', value: '</slides/family-750.avif>; rel=preload; as=image; imagesrcset="/slides/family-750.avif 750w, /slides/family-1400.avif 1400w"; imagesizes=100vw' },
+          { key: 'Link', value: '</slides/family-750.avif>; rel=preload; as=image; type=image/avif; fetchpriority=high' },
         ],
       },
     ]

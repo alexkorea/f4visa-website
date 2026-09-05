@@ -109,17 +109,13 @@ export default function HomePage() {
       <main id="main" className="flex-1">
         {/* 히어로 */}
         <section className="relative isolate overflow-hidden" style={{ color: "var(--c-ink-invert)" }}>
-          {/* 히어로 LCP: 정적 picture, 모바일 750w AVIF (Next/Image 미사용) */}
+          {/* 히어로 LCP: 정적 picture, 모바일(≤767px)=750w AVIF 강제 (Next/Image 미사용) */}
           <picture>
-            <source
-              type="image/avif"
-              srcSet="/slides/family-750.avif 750w, /slides/family-1400.avif 1400w"
-              sizes="100vw"
-            />
+            <source media="(max-width: 767px)" type="image/avif" srcSet="/slides/family-750.avif" />
+            <source media="(max-width: 767px)" type="image/webp" srcSet="/slides/family-750.webp" />
+            <source type="image/avif" srcSet="/slides/family-1400.avif" />
             <img
               src="/slides/family.webp"
-              srcSet="/slides/family-750.webp 750w, /slides/family.webp 1400w"
-              sizes="100vw"
               alt=""
               width={1400}
               height={933}

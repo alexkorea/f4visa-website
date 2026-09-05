@@ -1,7 +1,8 @@
 import type { Metadata, Viewport } from 'next'
 import Script from 'next/script'
 import './globals.css'
-import { MobileCtaBar } from '@/components/mobile-cta-bar'
+import { pretendard } from './fonts'
+import { DeferredCtaBar } from '@/components/deferred-cta-bar'
 import { SITE } from '@/lib/site'
 
 const TITLE_DEFAULT = `F-4 비자 · 거소증 · 국적상실 · 국적회복 · 영주권 | ${SITE.name}`
@@ -61,26 +62,15 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang="ko">
+    <html lang="ko" className={pretendard.variable}>
       <head>
-        <link rel="preconnect" href="https://cdn.jsdelivr.net" crossOrigin="anonymous" />
-        {/* 히어로 LCP 이미지 우선 프리로드 */}
+        {/* 히어로 LCP 이미지 우선 프리로드 (폰트는 next/font로 자체 호스팅, 렌더 비차단) */}
         <link rel="preload" as="image" href="/slides/family.webp" fetchPriority="high" />
-        {/* 폰트: 조기 프리로드 후 적용 (렌더 차단 최소화) */}
-        <link
-          rel="preload"
-          as="style"
-          href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css"
-        />
-        <link
-          rel="stylesheet"
-          href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css"
-        />
       </head>
       <body>
         <a href="#main" className="skip-link">본문 바로가기</a>
         {children}
-        <MobileCtaBar />
+        <DeferredCtaBar />
         <Script src="https://www.googletagmanager.com/gtag/js?id=G-TNDB1XVX2R" strategy="afterInteractive" />
         <Script id="gtag-init" strategy="afterInteractive">
           {`

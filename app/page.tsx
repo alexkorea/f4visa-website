@@ -109,13 +109,15 @@ export default function HomePage() {
       <main id="main" className="flex-1">
         {/* 히어로 */}
         <section className="relative isolate overflow-hidden" style={{ color: "var(--c-ink-invert)" }}>
-          <Image
+          {/* [LCP-TEST] 순수 정적 img (Next/Image 미사용) */}
+          <img
             src="/slides/family.webp"
             alt=""
-            fill
-            priority
-            sizes="100vw"
-            className="object-cover"
+            width={1400}
+            height={933}
+            fetchPriority="high"
+            decoding="async"
+            className="absolute inset-0 -z-10 h-full w-full object-cover"
             aria-hidden
           />
           <div className="absolute inset-0 -z-0" style={{ background: "var(--c-scrim)" }} aria-hidden />

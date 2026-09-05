@@ -109,17 +109,26 @@ export default function HomePage() {
       <main id="main" className="flex-1">
         {/* 히어로 */}
         <section className="relative isolate overflow-hidden" style={{ color: "var(--c-ink-invert)" }}>
-          {/* [LCP-TEST] 순수 정적 img (Next/Image 미사용) */}
-          <img
-            src="/slides/family.webp"
-            alt=""
-            width={1400}
-            height={933}
-            fetchPriority="high"
-            decoding="async"
-            className="absolute inset-0 -z-10 h-full w-full object-cover"
-            aria-hidden
-          />
+          {/* 히어로 LCP: 정적 picture, 모바일 750w AVIF (Next/Image 미사용) */}
+          <picture>
+            <source
+              type="image/avif"
+              srcSet="/slides/family-750.avif 750w, /slides/family-1400.avif 1400w"
+              sizes="100vw"
+            />
+            <img
+              src="/slides/family.webp"
+              srcSet="/slides/family-750.webp 750w, /slides/family.webp 1400w"
+              sizes="100vw"
+              alt=""
+              width={1400}
+              height={933}
+              fetchPriority="high"
+              decoding="async"
+              className="absolute inset-0 -z-10 h-full w-full object-cover"
+              aria-hidden
+            />
+          </picture>
           <div className="absolute inset-0 -z-0" style={{ background: "var(--c-scrim)" }} aria-hidden />
           <div className="container-x relative py-16 lg:py-24">
             <div className="measure">

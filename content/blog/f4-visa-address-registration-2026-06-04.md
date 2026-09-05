@@ -1,5 +1,5 @@
 ---
-title: "F-4 재외동포 비자 외국인 등록과 거주지 신고 의무 2026"
+title: "F-4 재외동포 비자 외국인 등록과 거주지 신고 의무"
 date: "2026-06-04"
 category: "F-4 비자"
 image: "/blog/f4-visa-address-registration-2026-06-04.jpg"

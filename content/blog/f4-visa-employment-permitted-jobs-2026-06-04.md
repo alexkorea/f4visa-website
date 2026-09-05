@@ -1,5 +1,5 @@
 ---
-title: "F-4 재외동포 비자 취업 가능 업종 총정리 2026"
+title: "F-4 재외동포 비자 취업 가능 업종 총정리"
 date: "2026-06-04"
 category: "F-4 비자"
 image: "/blog/f4-visa-employment-permitted-jobs-2026-06-04.jpg"

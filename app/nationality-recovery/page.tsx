@@ -62,7 +62,7 @@ export default function NationalityRecoveryPage() {
 
         {/* 누가 신청할 수 있나요? */}
         <section className="py-8 md:py-12">
-          <div className="mx-auto max-w-4xl px-4 lg:px-8">
+          <div className="container-x">
             <h2 className="text-3xl font-bold text-foreground">
               누가 신청할 수 있나요?
             </h2>
@@ -84,7 +84,7 @@ export default function NationalityRecoveryPage() {
 
         {/* 65세 이상 특별 혜택 */}
         <section className="border-t border-border bg-secondary/20 py-8 md:py-12">
-          <div className="mx-auto max-w-4xl px-4 lg:px-8">
+          <div className="container-x">
             <h2 className="text-3xl font-bold text-foreground">
               65세 이상 국적회복의 특별한 혜택: 복수국적 유지
             </h2>
@@ -109,7 +109,7 @@ export default function NationalityRecoveryPage() {
 
         {/* 신청 절차 */}
         <section className="py-8 md:py-12">
-          <div className="mx-auto max-w-4xl px-4 lg:px-8">
+          <div className="container-x">
             <h2 className="text-3xl font-bold text-foreground">
               국적회복 신청 절차
             </h2>
@@ -170,7 +170,7 @@ export default function NationalityRecoveryPage() {
 
         {/* 서류 table */}
         <section className="border-t border-border bg-secondary/20 py-8 md:py-12">
-          <div className="mx-auto max-w-4xl px-4 lg:px-8">
+          <div className="container-x">
             <h2 className="text-3xl font-bold text-foreground">
               65세 이상 국적회복 신청 시 필수 서류
             </h2>

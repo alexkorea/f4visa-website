@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-08-08"
 category: "재외동포"
 excerpt: "외국 국적 재외동포의 한국 부동산 취득 절차, 취득 신고 기한, 해외자금 반입, 취득·보유·양도 단계별 세금과 실무에서 자주 막히는 서류 문제를 안내합니다."
-image: "/blog/f4-visa-real-estate-purchase-guide-2026.jpg"
+image: "/og/dongpo-property-purchase-tax-process-guide.png"
 description: "재외동포 부동산 취득세의 과세표준과 세율 구조, 주택·토지별 계산 방식과 다주택 중과 여부, 신고·납부 절차를 사례 중심으로 설명합니다."
 partner: "taxguide"
 slug: "dongpo-property-purchase-tax-process-guide"

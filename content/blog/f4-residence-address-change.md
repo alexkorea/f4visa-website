@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-04-25"
 category: "거소증"
 excerpt: "F-4 거소증을 가진 재외동포가 이사한 뒤 14일 안에 신고하지 않으면 과태료가 부과됩니다. 신고 방법, 필요 서류, 실수하기 쉬운 부분을 실무 기준으로 정리했습니다."
-image: "/blog/address-change-korea.jpg"
+image: "/og/f4-residence-address-change.png"
 slug: "f4-residence-address-change"
 ---
 # F-4 거소증 주소 변경 신고 방법 — 기한·서류·과태료까지 한 번에 정리

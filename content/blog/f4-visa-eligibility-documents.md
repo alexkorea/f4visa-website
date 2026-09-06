@@ -6,7 +6,7 @@ date: "2026-05-13"
 slug: "f4-visa-eligibility-documents"
 author: "행정사사무소 이룸"
 category: "F-4비자"
-image: "/blog/diaspora-eligibility.jpg"
+image: "/og/f4-visa-eligibility-documents.png"
 ---
 
 # F-4 재외동포 비자 신청 자격과 제출 서류 총정리

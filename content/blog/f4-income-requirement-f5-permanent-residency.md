@@ -4,7 +4,7 @@ visa: F-5
 date: "2026-05-24"
 category: "영주권"
 excerpt: "F-4에서 F-5 영주권 전환 시 소득요건은 단순 금액보다 안정성과 입증력에서 갈립니다."
-image: "/blog/f4-income-requirement-f5-permanent-residency.jpg"
+image: "/og/f4-income-requirement-f5-permanent-residency.png"
 slug: "f4-income-requirement-f5-permanent-residency"
 ---
 # F-4 비자 소득과 F-5 영주권 기준, 실제 심사에서 갈리는 지점

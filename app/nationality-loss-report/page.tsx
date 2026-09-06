@@ -62,7 +62,7 @@ export default function NationalityLossReportPage() {
 
         {/* 국적상실이란? */}
         <section className="py-8 md:py-12">
-          <div className="mx-auto max-w-4xl px-4 lg:px-8">
+          <div className="container-x">
             <h2 className="text-3xl font-bold text-foreground">
               국적상실이란?
             </h2>
@@ -88,7 +88,7 @@ export default function NationalityLossReportPage() {
 
         {/* 관련 법령 */}
         <section className="border-t border-border bg-secondary/20 py-8 md:py-12">
-          <div className="mx-auto max-w-4xl px-4 lg:px-8">
+          <div className="container-x">
             <h2 className="text-3xl font-bold text-foreground">
               관련 법령 (국적법 제15조)
             </h2>
@@ -156,7 +156,7 @@ export default function NationalityLossReportPage() {
 
         {/* 업무 처리 절차 */}
         <section className="py-8 md:py-12">
-          <div className="mx-auto max-w-4xl px-4 lg:px-8">
+          <div className="container-x">
             <h2 className="text-3xl font-bold text-foreground">
               업무 처리 절차
             </h2>
@@ -205,7 +205,7 @@ export default function NationalityLossReportPage() {
 
         {/* 필수 서류 체크리스트 */}
         <section className="border-t border-border bg-secondary/20 py-8 md:py-12">
-          <div className="mx-auto max-w-4xl px-4 lg:px-8">
+          <div className="container-x">
             <h2 className="text-3xl font-bold text-foreground">
               필수 서류 체크리스트
             </h2>

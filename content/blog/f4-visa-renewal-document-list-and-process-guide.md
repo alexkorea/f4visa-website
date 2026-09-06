@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-07-31"
 category: "F-4비자"
 excerpt: "기준 F-4 비자 갱신(체류기간 연장)에 드는 서류 목록과 신청 절차, 실제 심사에서 자주 막히는 지점을 정리한 안내입니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/og/f4-visa-renewal-document-list-and-process-guide.png"
 slug: "f4-visa-renewal-document-list-and-process-guide"
 ---
 # F-4 비자 갱신 서류 — 준비 목록과 절차, 실제로 걸리는 부분까지

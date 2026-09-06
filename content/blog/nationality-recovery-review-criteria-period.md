@@ -4,7 +4,7 @@ visa: 국적
 date: "2026-05-21"
 category: "국적"
 excerpt: "재외동포 국적회복은 서류 통과 여부보다 심사관이 보는 실제 라인이 더 중요합니다. 기준과 기간을 실무 관점에서 정리합니다."
-image: "/blog/nationality-recovery-review-criteria-period.jpg"
+image: "/og/nationality-recovery-review-criteria-period.png"
 slug: "nationality-recovery-review-criteria-period"
 ---
 # 재외동포 국적회복 심사 기준과 기간, 실제 통과 라인은 어디인가

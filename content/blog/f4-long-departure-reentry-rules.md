@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-05-28"
 category: "재입국"
 excerpt: "F-4 비자 소지자가 1년 이상 출국할 때 거소증 유지와 재입국허가 신청을 놓치면 거소증이 실효되어 재입국이 막힐 수 있습니다."
-image: "/blog/f4-long-departure-reentry-rules.jpg"
+image: "/og/f4-long-departure-reentry-rules.png"
 slug: "f4-long-departure-reentry-rules"
 ---
 # F-4 비자 장기 출국 유의사항과 재입국 — 거소증 유지부터 재입국허가까지

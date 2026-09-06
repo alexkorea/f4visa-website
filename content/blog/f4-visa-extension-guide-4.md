@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "F-4 재외동포 비자 연장 방법 완벽 가이드 — 서류·기간·절차"
 visa: F-4
 date: "2026-07-03"
@@ -6,7 +7,7 @@ description: "F-4 재외동포 비자 체류기간 연장 신청 방법, 필요 
 slug: "f4-visa-extension-guide-4"
 author: "행정사사무소 이룸"
 category: "F-4비자"
-image: "/blog/immigration-documents.jpg"
+image: "/og/f4-visa-extension-guide-4.png"
 ---
 
 # F-4 재외동포 비자 연장 방법 완벽 가이드

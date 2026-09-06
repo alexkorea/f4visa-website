@@ -30,10 +30,10 @@ export const SITE = {
     country: "KR",
   },
 
-  businessNumber: "405-05-54079",
+  businessNumber: "207-52-00648",
   representative: "이시정",
   privacyOfficer: "김영주",
-  openingHours: "평일 09:30 ~ 18:30",
+  openingHours: "평일 09:30 ~ 17:30",
 
   /** 히어로 신뢰 요소 (실제 사실만 기재) */
   trustLine: "재외동포 행정 전문 · 해외 거주자 원격 진행 · 서류 해외 송달",

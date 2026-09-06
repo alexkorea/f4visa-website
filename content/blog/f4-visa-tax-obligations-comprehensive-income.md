@@ -4,7 +4,7 @@ visa: 세금
 date: "2026-05-30"
 category: "세금"
 excerpt: "F-4 비자 소지자의 거주자·비거주자 판정부터 종합소득세 신고 의무, 해외소득 합산 여부까지 실무 기준으로 정리합니다."
-image: "/blog/f4-visa-tax-obligations-comprehensive-income.jpg"
+image: "/og/f4-visa-tax-obligations-comprehensive-income.png"
 description: "F-4 비자 소지자의 한국 내 종합소득세 신고 의무와 대상 소득, 거주자·비거주자 판정, 신고 시기와 준비 서류를 실무 기준으로 정리했습니다."
 partner: "taxguide"
 slug: "f4-visa-tax-obligations-comprehensive-income"

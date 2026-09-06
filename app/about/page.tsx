@@ -72,7 +72,7 @@ const jsonLd = {
         postalCode: SITE.address.postalCode,
         addressCountry: "KR",
       },
-      openingHours: "Mo-Fr 09:30-18:30",
+      openingHours: "Mo-Fr 09:30-17:30",
       areaServed: { "@type": "Country", name: "South Korea" },
       availableLanguage: ["Korean", "English", "Chinese", "Japanese"],
       serviceType: ["F-4 재외동포 비자", "거소증 발급", "국적상실 신고", "국적회복", "F-5 영주권"],
@@ -93,7 +93,7 @@ const jsonLd = {
         { "@type": "Question", name: "상담은 무료인가요?", acceptedAnswer: { "@type": "Answer", text: "네, 초기 상담은 무료입니다. 한국어, 영어, 중국어, 일본어로 상담이 가능합니다. 해외 거주 재외동포도 온라인·메신저 상담이 가능합니다." } },
         { "@type": "Question", name: "해외에 거주해도 F-4 신청 대행이 가능한가요?", acceptedAnswer: { "@type": "Answer", text: "네. 해외 거주자도 서류를 우편 또는 이메일로 보내주시면 한국 내 신청 대행이 가능합니다. 완성된 서류나 카드는 전 세계로 안전하게 송달해 드립니다." } },
         { "@type": "Question", name: "F-4 비자 처리 기간은 얼마나 걸리나요?", acceptedAnswer: { "@type": "Answer", text: "통상 출입국관리소 접수 후 2~4주 내외입니다. 서류 준비 기간을 포함하면 전체 소요 기간은 1~2개월입니다. 개인 상황에 따라 다를 수 있으며 상담 시 더 정확하게 안내해 드립니다." } },
-        { "@type": "Question", name: "어떤 언어로 상담이 가능한가요?", acceptedAnswer: { "@type": "Answer", text: "한국어, 영어, 중국어(보통화), 일본어로 상담이 가능합니다. KakaoTalk, WeChat, LINE, WhatsApp을 통한 메신저 상담도 제공합니다. 전화: 02-363-2251 (평일 09:30~18:30)." } },
+        { "@type": "Question", name: "어떤 언어로 상담이 가능한가요?", acceptedAnswer: { "@type": "Answer", text: "한국어, 영어, 중국어(보통화), 일본어로 상담이 가능합니다. KakaoTalk, WeChat, LINE, WhatsApp을 통한 메신저 상담도 제공합니다. 전화: 02-363-2251 (평일 09:30~17:30)." } },
       ],
     },
   ],
@@ -106,7 +106,7 @@ const faqs: FaqItem[] = [
                 { question: "상담은 무료인가요?", answer: "네, 초기 상담은 무료입니다. 한국어, 영어, 중국어, 일본어로 상담이 가능합니다. 해외 거주 재외동포도 온라인·메신저 상담이 가능합니다." },
                 { question: "해외에 거주해도 F-4 신청 대행이 가능한가요?", answer: "네. 해외 거주자도 서류를 우편 또는 이메일로 보내주시면 한국 내 신청 대행이 가능합니다. 완성된 서류나 카드는 전 세계로 안전하게 송달해 드립니다." },
                 { question: "F-4 비자 처리 기간은 얼마나 걸리나요?", answer: "통상 출입국관리소 접수 후 2~4주 내외입니다. 서류 준비 기간을 포함하면 전체 소요 기간은 1~2개월입니다. 개인 상황에 따라 다를 수 있으며 상담 시 더 정확하게 안내해 드립니다." },
-                { question: "어떤 언어로 상담이 가능한가요?", answer: "한국어, 영어, 중국어(보통화), 일본어로 상담이 가능합니다. KakaoTalk, WeChat, LINE, WhatsApp을 통한 메신저 상담도 제공합니다. 전화: 02-363-2251 (평일 09:30~18:30)." },
+                { question: "어떤 언어로 상담이 가능한가요?", answer: "한국어, 영어, 중국어(보통화), 일본어로 상담이 가능합니다. KakaoTalk, WeChat, LINE, WhatsApp을 통한 메신저 상담도 제공합니다. 전화: 02-363-2251 (평일 09:30~17:30)." },
 ]
 
 export default function AboutPage() {

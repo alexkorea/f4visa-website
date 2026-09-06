@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-06-17"
 category: "F-4비자"
 excerpt: "F-4 비자 갱신은 서류 종류보다 발급일자와 본인 신분 일치 여부에서 가장 많이 막힙니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/og/f4-visa-renewal-paperwork-immigration.png"
 slug: "f4-visa-renewal-paperwork-immigration"
 ---
 # F-4 비자 갱신 서류 — 실무에서 막히는 지점과 최신 절차

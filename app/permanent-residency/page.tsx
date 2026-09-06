@@ -72,7 +72,7 @@ export default function PermanentResidencyPage() {
 
         {/* 영주권이란? */}
         <section className="py-8 md:py-12">
-          <div className="mx-auto max-w-4xl px-4 lg:px-8">
+          <div className="container-x">
             <h2 className="text-3xl font-bold text-foreground">
               영주권(F-5 비자)이란?
             </h2>
@@ -88,7 +88,7 @@ export default function PermanentResidencyPage() {
 
         {/* F-4 vs F-5 비교 table */}
         <section className="border-t border-border bg-secondary/20 py-8 md:py-12">
-          <div className="mx-auto max-w-4xl px-4 lg:px-8">
+          <div className="container-x">
             <h2 className="text-3xl font-bold text-foreground">
               재외동포 비자(F-4)와 영주권(F-5) 비교
             </h2>
@@ -157,7 +157,7 @@ export default function PermanentResidencyPage() {
 
         {/* 신청 요건 */}
         <section className="py-8 md:py-12">
-          <div className="mx-auto max-w-4xl px-4 lg:px-8">
+          <div className="container-x">
             <h2 className="text-3xl font-bold text-foreground">
               재외동포 비자(F-4) 취득 후 영주권(F-5) 신청 요건
             </h2>

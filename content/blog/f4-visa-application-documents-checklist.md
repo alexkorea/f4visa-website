@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-05-19"
 category: "F-4비자"
 excerpt: "미국·캐나다·호주 재외동포를 위한 F-4 비자 신청 서류 완전 가이드. 공통 필수 서류부터 국가별 차이, 영사관 제출 방법까지 체크리스트로 정리했습니다."
-image: "/blog/f4-visa-application-documents-checklist.jpg"
+image: "/og/f4-visa-application-documents-checklist.png"
 slug: "f4-visa-application-documents-checklist"
 author: "행정사사무소 이룸"
 ---

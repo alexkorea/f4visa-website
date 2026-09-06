@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-07-29"
 category: "거소증"
 excerpt: "F-4 거소증 발급 기간은 출입국사무소마다 2주에서 6주 이상까지 차이가 나며, 어느 사무소에 접수하느냐가 출국 일정을 좌우합니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/og/f4-geosojeung-issuance-duration-by-office-guide.png"
 slug: "f4-geosojeung-issuance-duration-by-office-guide"
 ---
 # F-4 거소증 발급 기간 — 출입국사무소별 소요시간 비교와 빨리 받는 방법

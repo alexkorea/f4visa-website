@@ -6,7 +6,7 @@ date: "2026-05-26"
 slug: "f4-visa-overseas-korean-eligibility"
 author: "행정사사무소 이룸"
 category: "F-4 비자 자격"
-image: "/blog/f4-visa-overseas-korean-eligibility.jpg"
+image: "/og/f4-visa-overseas-korean-eligibility.png"
 ---
 
 ## 목차

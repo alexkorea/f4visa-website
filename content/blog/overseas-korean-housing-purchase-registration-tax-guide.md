@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-08-03"
 category: "재외동포"
 excerpt: "재외동포가 한국 부동산을 취득할 때 거쳐야 하는 거래신고·자금반입·등기 절차와 취득세 신고 기한, 실무에서 자주 막히는 지점을 안내합니다."
-image: "/blog/immigration-documents.jpg"
+image: "/og/overseas-korean-housing-purchase-registration-tax-guide.png"
 description: "재외동포 부동산 소유권 이전등기 절차와 등록면허세, 부동산등기용등록번호 발급, 필요 서류와 등기 단계에서 자주 막히는 지점을 정리했습니다."
 partner: "taxguide"
 slug: "overseas-korean-housing-purchase-registration-tax-guide"

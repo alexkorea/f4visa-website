@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-08-04"
 category: "F-4비자"
 excerpt: "F-4 재외동포 비자로 일할 수 있는 업종과 법무부 고시로 제한되는 단순노무·사행·풍속 업종을 실무 기준으로 구분해 정리했습니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/og/f4-visa-work-industry-scope-guide.png"
 slug: "f4-visa-work-industry-scope-guide"
 ---
 # F-4 비자 취업 가능 업종과 제한 업종 총정리

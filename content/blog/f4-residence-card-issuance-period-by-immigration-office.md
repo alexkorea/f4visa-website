@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-06-15"
 category: ""
 excerpt: "F-4 거소증 발급 기간은 출입국사무소마다 크게 갈리며, 어디서 신청하느냐가 출국 일정을 좌우합니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/og/f4-residence-card-issuance-period-by-immigration-office.png"
 slug: "f4-residence-card-issuance-period-by-immigration-office"
 ---
 # F-4 거소증 발급 기간 완벽 정리 — 출입국사무소별 소요시간 비교

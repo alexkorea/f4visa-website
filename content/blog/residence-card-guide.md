@@ -4,7 +4,7 @@ visa: 국적
 date: "2026-04-03"
 category: "거소증"
 excerpt: "F-4 비자 소지자를 위한 거소증 발급 절차, 필요서류, 소요기간, 그리고 거소증으로 할 수 있는 모든 것을 상세히 안내합니다."
-image: "/blog/residence-report-korea.jpg"
+image: "/og/residence-card-guide.png"
 slug: "residence-card-guide"
 ---
 

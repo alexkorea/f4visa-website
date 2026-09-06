@@ -4,7 +4,7 @@ visa: 국적
 date: "2026-06-14"
 category: "국적"
 excerpt: "복수국적 허용 조건과 국적이탈, 국적상실의 차이를 실무 기준으로 정리합니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/og/multiple-nationality-permission-conditions-vs-departure-loss-difference.png"
 slug: "multiple-nationality-permission-conditions-vs-departure-loss-difference"
 ---
 # 복수국적 허용 조건과 국적이탈·국적상실의 실제 차이

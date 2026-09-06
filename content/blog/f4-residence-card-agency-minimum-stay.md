@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-06-05"
 category: ""
 excerpt: "F-4 거소증은 가장 빠른 출입국사무소를 선택하고 서류를 미리 갖추면 한국 체류 며칠 안에 거소허가번호를 받고 출국할 수 있습니다."
-image: "/blog/f4-residence-card-agency-minimum-stay.jpg"
+image: "/og/f4-residence-card-agency-minimum-stay.png"
 slug: "f4-residence-card-agency-minimum-stay"
 ---
 # F-4 거소증 신청대행 — 한국 최소 체류로 발급받는 방법

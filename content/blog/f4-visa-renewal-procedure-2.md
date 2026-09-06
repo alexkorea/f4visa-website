@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-05-13"
 category: "F-4비자"
 excerpt: "F-4 재외동포 비자 갱신(체류기간 연장) 신청 절차, 필요 서류, 주의사항을 최신 기준으로 정리합니다. 갱신 거절 방지 체크리스트 포함."
-image: "/blog/f4-visa-general-2.jpg"
+image: "/og/f4-visa-renewal-procedure-2.png"
 slug: "f4-visa-renewal-procedure-2"
 ---
 

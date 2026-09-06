@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-04-20"
 category: "F-4비자"
 excerpt: "F-4 비자 만 25세 이상 요건은 단순 나이 제한이 아니라 병역 문제와 직결된 조건이며, 남성 재외동포에게 특히 민감한 기준입니다."
-image: "/blog/f4-visa-age-25-requirement-explained.jpg"
+image: "/og/f4-visa-age-25-requirement-explained.png"
 slug: "f4-visa-age-25-requirement-explained"
 ---
 # F-4 비자 만 25세 이상 요건 설명 — 병역과 얽혀 꼬이는 실무 포인트

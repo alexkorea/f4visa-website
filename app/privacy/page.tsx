@@ -15,7 +15,7 @@ export default function PrivacyPage() {
     <div className="flex min-h-screen flex-col">
       <Header />
       <main className="flex-1 py-8">
-        <div className="mx-auto max-w-3xl px-4 lg:px-8">
+        <div className="container-x">
           <h1 className="text-3xl font-bold text-foreground mb-8">개인정보처리방침</h1>
           <div className="prose prose-slate dark:prose-invert max-w-none">
             <p className="text-muted-foreground mb-8">
@@ -77,7 +77,7 @@ export default function PrivacyPage() {
 
             <div className="mt-6 pt-6 border-t border-border text-sm text-muted-foreground">
               <p>상호: 행정사사무소 이룸</p>
-              <p>사업자등록번호: 405-05-54079</p>
+              <p>사업자등록번호: 207-52-00648</p>
               <p>대표: 이원중</p>
               <p>주소: 서울특별시 중구 퇴계로 324, 3층</p>
               <p className="mt-4">본 방침은 2025년 4월 25일부터 시행됩니다.</p>

@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-05-30"
 category: "부동산"
 excerpt: "F-4 재외동포 비자 소지자가 한국 부동산을 취득할 때 필요한 신고 절차, 세금 부담, 실무에서 막히는 지점을 한 번에 정리."
-image: "/blog/f4-real-estate-acquisition-tax-guide.jpg"
+image: "/og/f4-real-estate-acquisition-tax-guide.png"
 description: "F-4 재외동포 비자로 한국 부동산을 취득할 때의 절차와 취득세·재산세·양도세 구조, 외환 송금 신고, 거소신고 요건까지 단계별로 안내합니다."
 partner: "taxguide"
 slug: "f4-real-estate-acquisition-tax-guide"

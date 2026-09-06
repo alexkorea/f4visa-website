@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-04-04"
 category: "F-4 비자"
 excerpt: "재외동포 F-4 비자의 자격요건, 필요서류, 신청절차부터 거소증 발급까지 전 과정을 상세히 안내합니다. 병역 관련 주의사항도 함께 확인하세요."
-image: "/blog/f4-visa-guide.jpg"
+image: "/og/f4-visa-guide.png"
 slug: "f4-visa-guide"
 ---
 

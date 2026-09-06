@@ -1,11 +1,12 @@
 ---
+draft: true
 title: "F-4 재외동포에서 F-5 영주권 전환 방법"
 visa: F-5
 date: "2026-06-03"
 category: "재외동포"
 tags: ["F-4비자", "F-5영주권", "재외동포"]
 excerpt: "F-4 재외동포 비자에서 F-5 영주권으로 전환하는 요건, 절차, 제출 서류를 최신 기준으로 안내합니다."
-image: "/blog/f4-to-f5-conversion-guide-5.jpg"
+image: "/og/f4-to-f5-conversion-guide-5.png"
 ---
 
 ## F-4에서 F-5 전환 개요

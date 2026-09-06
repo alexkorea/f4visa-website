@@ -6,7 +6,7 @@ date: "2026-05-17"
 slug: "f4-visa-simple-labor-restriction"
 author: "행정사사무소 이룸"
 category: "취업"
-image: "/blog/f4-visa-simple-labor-restriction.jpg"
+image: "/og/f4-visa-simple-labor-restriction.png"
 ---
 
 F-4 재외동포 비자로 단순노무 직종에 취업하면 출입국관리법 위반으로 처벌받습니다.

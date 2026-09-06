@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "F-4에서 F-5 영주권 전환 완벽 가이드 — 요건·서류·절차"
 visa: F-5
 date: "2026-05-31"
@@ -6,7 +7,7 @@ description: "F-4 재외동포 비자 소지자가 F-5 영주권으로 전환하
 slug: "f4-to-f5-conversion-guide-6"
 author: "행정사사무소 이룸"
 category: "F-4비자"
-image: "/blog/f4-to-f5-conversion-guide-6.jpg"
+image: "/og/f4-to-f5-conversion-guide-6.png"
 ---
 
 # F-4에서 F-5 영주권 전환 완벽 가이드

@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-06-06"
 category: "F-4비자"
 excerpt: "F-4 비자 갱신 서류와 실제 심사에서 막히는 지점을 실무 기준으로 정리한 갱신 가이드입니다."
-image: "/blog/f4-visa-renewal-documents-procedure-latest.jpg"
+image: "/og/f4-visa-renewal-documents-procedure-latest.png"
 slug: "f4-visa-renewal-documents-procedure-latest"
 ---
 # F-4 비자 갱신 서류와 절차 — 최신 기준 완벽 정리

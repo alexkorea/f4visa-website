@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-05-14"
 category: "거소증"
 excerpt: "F-4 거소증을 분실하거나 훼손한 경우 관할 출입국·외국인관서 방문 또는 하이코리아 온라인으로 재발급 신청이 가능하며, 분실·훼손 여부에 따라 준비 서류와 절차가 달라집니다."
-image: "/blog/residence-card-issuance.jpg"
+image: "/og/f4-residence-card-reissue.png"
 slug: "f4-residence-card-reissue"
 ---
 # F-4 거소증 재발급 분실·훼손 절차 완전 정리

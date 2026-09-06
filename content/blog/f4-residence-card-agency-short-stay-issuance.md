@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-07-29"
 category: "거소증"
 excerpt: "F-4 거소증 대행을 이용하면 거소허가번호 발급 후 바로 출국할 수 있어, 한국 체류 기간을 최소로 줄이면서 거소증을 받을 수 있습니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/og/f4-residence-card-agency-short-stay-issuance.png"
 slug: "f4-residence-card-agency-short-stay-issuance"
 ---
 # F-4 거소증 대행, 한국 최소 체류로 발급받는 방법

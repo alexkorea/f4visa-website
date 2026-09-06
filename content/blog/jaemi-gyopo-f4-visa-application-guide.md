@@ -6,7 +6,7 @@ date: "2026-05-28"
 slug: "jaemi-gyopo-f4-visa-application-guide"
 author: "행정사사무소 이룸"
 category: "F-4 비자"
-image: "/blog/jaemi-gyopo-f4-visa-application-guide.jpg"
+image: "/og/jaemi-gyopo-f4-visa-application-guide.png"
 ---
 
 재미교포(미국 국적 취득 한국계)는 F-4 재외동포 비자를 통해 대한민국에서 장기 체류하며 취업, 부동산 취득, 금융 거래 등 내국인에 준하는 활동이 가능합니다.

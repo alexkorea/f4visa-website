@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-05-17"
 category: "취업"
 excerpt: "F-4 비자는 자유로운 취업이 가능하지만 단순노무·유흥·사행성 업종은 금지되며, 직종 분류 해석에서 실제로 많이 막힙니다."
-image: "/blog/f4-visa-allowed-jobs-restricted-industries.jpg"
+image: "/og/f4-visa-allowed-jobs-restricted-industries.png"
 slug: "f4-visa-allowed-jobs-restricted-industries"
 ---
 # F-4 비자 취업 허용 직종과 업종 제한 — 단순노무 금지 기준 실무 정리

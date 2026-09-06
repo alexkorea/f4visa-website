@@ -4,7 +4,7 @@ visa: 국적
 date: "2026-05-22"
 category: "국적"
 excerpt: "복수국적자의 국적선택 기한은 만 22세 전까지가 원칙이며, 기한을 놓치면 한국 국적 자동 상실 등 불이익이 따릅니다."
-image: "/blog/nationality-selection-deadline-procedure.jpg"
+image: "/og/nationality-selection-deadline-procedure.png"
 slug: "nationality-selection-deadline-procedure"
 ---
 # 재외동포 국적선택 기한과 절차 완벽 가이드

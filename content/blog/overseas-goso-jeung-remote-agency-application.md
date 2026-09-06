@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-07-22"
 category: "거소증"
 excerpt: "해외 거소증 신청은 본인이 직접 입국하지 않고도 대행으로 진행할 수 있으며, 거소허가번호 발급 후 출국이 가능합니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/og/overseas-goso-jeung-remote-agency-application.png"
 slug: "overseas-goso-jeung-remote-agency-application"
 ---
 # 해외 거소증 신청, 한국에 오래 머물지 않고 원격 대행하는 실제 방법

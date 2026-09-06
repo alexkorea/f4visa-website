@@ -4,7 +4,7 @@ visa: F-5
 date: "2026-04-10"
 category: "영주권"
 excerpt: "F-4에서 F-5 영주권 전환 요건과 절차"
-image: "/blog/f4-to-f5-permanent-residency-conversion.jpg"
+image: "/og/f4-to-f5-permanent-residency-conversion.png"
 slug: "f4-to-f5-permanent-residency-conversion"
 ---
 

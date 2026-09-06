@@ -4,7 +4,7 @@ visa: F-3
 date: "2026-05-19"
 category: "F-4비자"
 excerpt: "F-4 재외동포 비자 소지자의 배우자(F-3)와 자녀(F-1) 동반 비자 신청 절차, 필요 서류, 주의사항을 단계별로 안내합니다."
-image: "/blog/f4-visa-spouse-child-accompanying-visa.jpg"
+image: "/og/f4-visa-spouse-child-accompanying-visa.png"
 slug: "f4-visa-spouse-child-accompanying-visa"
 author: "행정사사무소 이룸"
 ---

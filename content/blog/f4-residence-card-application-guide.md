@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-05-08"
 category: "F-4비자"
 excerpt: "F-4 재외동포 거소증 신청 방법과 필요서류, 처리기간, 비용을 행정사사무소 이룸가 출입국 매뉴얼 기준으로 정리합니다. 최신 기준."
-image: "/blog/f4-residence-card-application-guide.jpg"
+image: "/og/f4-residence-card-application-guide.png"
 slug: "f4-residence-card-application-guide"
 ---
 

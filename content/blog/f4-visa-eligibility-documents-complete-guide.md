@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-07-25"
 category: "F-4비자"
 excerpt: "과거 한국 국적자였거나 그 직계비속이라면 F-4 재외동포비자 신청 자격이 생기며, 자격 판단 기준과 필요서류, 실제 심사에서 걸리는 지점을 실무 중심으로 정리했습니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/og/f4-visa-eligibility-documents-complete-guide.png"
 slug: "f4-visa-eligibility-documents-complete-guide"
 ---
 # F-4 비자 신청 자격 총정리 — 재외동포비자 자격 요건과 필요서류 완벽 가이드

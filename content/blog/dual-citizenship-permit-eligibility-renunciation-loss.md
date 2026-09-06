@@ -4,7 +4,7 @@ visa: 국적
 date: "2026-08-07"
 category: "국적"
 excerpt: "국적법이 정한 복수국적 허용 대상과 외국국적불행사 서약 조건, 국적이탈과 국적상실의 법적 차이, 국적상실 후 F-4 비자 절차까지 실무 기준으로 안내합니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/og/dual-citizenship-permit-eligibility-renunciation-loss.png"
 slug: "dual-citizenship-permit-eligibility-renunciation-loss"
 ---
 # 복수국적 허용 조건, 국적이탈과 국적상실은 바로 여기서 갈립니다

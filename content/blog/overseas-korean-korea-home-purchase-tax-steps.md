@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-08-02"
 category: "재외동포"
 excerpt: "재외동포가 한국 부동산을 취득할 때 거치는 신고·등기 절차와 취득세·보유세·양도세 구조, 실무에서 자주 막히는 지점을 정리한 안내입니다."
-image: "/blog/f4-visa-banking-account-opening.jpg"
+image: "/og/overseas-korean-korea-home-purchase-tax-steps.png"
 description: "재외동포가 국내 주택 매입 시 해외 자금 반입과 외국환거래 신고, 자금출처 소명 방법과 증여세 리스크를 실무 관점에서 안내합니다."
 partner: "taxguide"
 slug: "overseas-korean-korea-home-purchase-tax-steps"

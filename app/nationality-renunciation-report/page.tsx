@@ -71,7 +71,7 @@ export default function NationalityRenunciationReportPage() {
 
         {/* 국적이탈 신고란? */}
         <section className="py-8 md:py-12">
-          <div className="mx-auto max-w-4xl px-4 lg:px-8">
+          <div className="container-x">
             <h2 className="text-3xl font-bold text-foreground">
               국적이탈 신고란?
             </h2>
@@ -94,7 +94,7 @@ export default function NationalityRenunciationReportPage() {
 
         {/* 국적상실과의 차이점 */}
         <section className="border-t border-border bg-secondary/20 py-8 md:py-12">
-          <div className="mx-auto max-w-4xl px-4 lg:px-8">
+          <div className="container-x">
             <h2 className="text-3xl font-bold text-foreground">
               국적상실과의 차이점
             </h2>
@@ -128,7 +128,7 @@ export default function NationalityRenunciationReportPage() {
 
         {/* 남성 복수국적자 병역의무 - Warning */}
         <section className="py-8 md:py-12">
-          <div className="mx-auto max-w-4xl px-4 lg:px-8">
+          <div className="container-x">
             <h2 className="text-3xl font-bold text-foreground">
               누가, 언제 국적이탈 신고를 해야 하나요?
             </h2>
@@ -184,7 +184,7 @@ export default function NationalityRenunciationReportPage() {
 
         {/* 절차 (4 steps) */}
         <section className="border-t border-border bg-secondary/20 py-8 md:py-12">
-          <div className="mx-auto max-w-4xl px-4 lg:px-8">
+          <div className="container-x">
             <h2 className="text-3xl font-bold text-foreground">
               국적이탈 신고 절차
             </h2>

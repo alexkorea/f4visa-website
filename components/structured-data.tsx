@@ -27,7 +27,7 @@ export function OrganizationJsonLd() {
       "@type": "OpeningHoursSpecification",
       dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
       opens: "09:30",
-      closes: "18:30",
+      closes: "17:30",
     },
     serviceType: [
       "F-4 재외동포 비자 신청",

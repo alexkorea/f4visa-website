@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-06-12"
 category: "F-4비자"
 excerpt: "F-4 재외동포비자 신청 자격과 필요서류, 실무에서 가장 많이 걸리는 지점까지 한 번에 정리한 실전 가이드."
-image: "/blog/korean-passport-visa.jpg"
+image: "/og/f4-visa-application-eligibility-documents-complete.png"
 slug: "f4-visa-application-eligibility-documents-complete"
 ---
 # F-4 비자 신청 자격과 필요서류 완벽 가이드 — 실무에서 막히는 지점까지

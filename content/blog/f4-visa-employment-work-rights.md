@@ -6,7 +6,7 @@ date: "2026-05-26"
 slug: "f4-visa-employment-work-rights"
 author: "행정사사무소 이룸"
 category: "취업·활동"
-image: "/blog/f4-visa-employment-work-rights.jpg"
+image: "/og/f4-visa-employment-work-rights.png"
 ---
 
 ## 목차

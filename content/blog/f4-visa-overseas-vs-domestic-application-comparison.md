@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-04-28"
 category: "F-4비자"
 excerpt: "F-4 비자는 해외 영사관과 한국 출입국 두 경로로 신청 가능하며, 본인 상황에 따라 처리 속도와 서류 부담이 크게 갈립니다."
-image: "/blog/f4-visa-overseas-vs-domestic-application-comparison.jpg"
+image: "/og/f4-visa-overseas-vs-domestic-application-comparison.png"
 slug: "f4-visa-overseas-vs-domestic-application-comparison"
 ---
 # F-4 비자 신청 방법 해외 vs 국내 비교 — 어디서 하는 게 더 빠를까

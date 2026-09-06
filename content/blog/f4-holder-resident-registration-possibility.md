@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-05-28"
 category: "거소증"
 excerpt: "F-4 거소증 소지자는 주민등록이 불가능하며, 국내거소신고번호가 주민등록번호를 대체합니다."
-image: "/blog/f4-holder-resident-registration-possibility.jpg"
+image: "/og/f4-holder-resident-registration-possibility.png"
 slug: "f4-holder-resident-registration-possibility"
 ---
 # F-4 거소증 소지자 주민등록 가능 여부와 실제 행정 처리 방법

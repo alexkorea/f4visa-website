@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-07-28"
 category: "거소증"
 excerpt: "해외에 있는 재외동포가 한국에 들어오지 않고 거소증 신청을 시작하는 원격 대행 절차와 준비 서류를 실무 기준으로 정리했습니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/og/goso-jeung-remote-application-from-abroad.png"
 slug: "goso-jeung-remote-application-from-abroad"
 ---
 # 해외 거소증 신청 가능한가 — 원격 대행으로 처리하는 방법

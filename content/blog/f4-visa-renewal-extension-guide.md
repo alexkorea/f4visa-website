@@ -6,7 +6,7 @@ date: "2026-05-26"
 slug: "f4-visa-renewal-extension-guide"
 author: "행정사사무소 이룸"
 category: "비자 갱신"
-image: "/blog/f4-visa-renewal-extension-guide.jpg"
+image: "/og/f4-visa-renewal-extension-guide.png"
 ---
 
 ## 목차

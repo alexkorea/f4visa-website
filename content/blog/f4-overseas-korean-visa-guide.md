@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-04-09"
 category: "F-4비자"
 excerpt: "F-4 재외동포비자 신청 자격과 필요서류 완벽 가이드"
-image: "/blog/f4-overseas-korean-visa-guide.jpg"
+image: "/og/f4-overseas-korean-visa-guide.png"
 slug: "f4-overseas-korean-visa-guide"
 ---
 

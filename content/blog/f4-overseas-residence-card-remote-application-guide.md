@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-06-18"
 category: "거소증"
 excerpt: "해외 거주 재외동포가 한국 입국 없이 거소증을 신청하는 실무 절차와 원격 대행의 한계, 가장 빠르게 처리되는 출입국사무소 선정 기준까지 정리."
-image: "/blog/korean-passport-visa.jpg"
+image: "/og/f4-overseas-residence-card-remote-application-guide.png"
 slug: "f4-overseas-residence-card-remote-application-guide"
 ---
 # 해외 거소증 신청, 한국 입국 없이 원격으로 가능한가

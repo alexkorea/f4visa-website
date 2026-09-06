@@ -4,7 +4,7 @@ visa: F-5
 date: "2026-05-24"
 category: "영주권"
 excerpt: "F-4 비자로 한국에 5년 이상 거주한 재외동포가 F-5 영주권으로 전환할 때 실제로 막히는 부분과 핵심 조건을 실무 기준으로 정리합니다."
-image: "/blog/f4-5-year-residence-f5-application.jpg"
+image: "/og/f4-5-year-residence-f5-application.png"
 slug: "f4-5-year-residence-f5-application"
 ---
 # F-4 비자 5년 거주 F-5 신청 조건 완벽 정리 기준)

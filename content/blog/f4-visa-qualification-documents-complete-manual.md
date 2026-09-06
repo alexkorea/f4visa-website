@@ -4,7 +4,7 @@ visa: 국적
 date: "2026-07-24"
 category: "F-4비자"
 excerpt: "F-4 재외동포비자의 자격 판정 기준, 국적상실 처리 순서, 필요서류 전체 목록과 실제 심사에서 걸리는 지점을 실무 기준으로 정리했습니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/og/f4-visa-qualification-documents-complete-manual.png"
 slug: "f4-visa-qualification-documents-complete-manual"
 ---
 # F-4 비자 신청 자격과 필요서류 완벽 가이드 — 국적상실부터 거소증까지

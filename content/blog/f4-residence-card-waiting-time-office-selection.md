@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-07-23"
 category: "거소증"
 excerpt: "F-4 거소증 발급 기간은 예약 대기·심사·수령 세 구간에서 갈리며, 어느 출입국사무소에서 접수하느냐에 따라 실제 소요시간이 크게 달라집니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/og/f4-residence-card-waiting-time-office-selection.png"
 slug: "f4-residence-card-waiting-time-office-selection"
 ---
 # F-4 거소증 발급 기간, 출입국사무소별 소요시간 비교

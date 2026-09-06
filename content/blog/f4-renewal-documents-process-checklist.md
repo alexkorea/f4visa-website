@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-08-03"
 category: "F-4비자"
 excerpt: "F-4 비자 갱신에 필요한 서류, 신청 시점, 출입국사무소 절차를 기준으로 정리하고 실무에서 자주 막히는 지점까지 짚어드립니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/og/f4-renewal-documents-process-checklist.png"
 slug: "f4-renewal-documents-process-checklist"
 ---
 # F-4 비자 갱신 서류 — 체류기간 연장 신청 전 반드시 확인할 것

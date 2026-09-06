@@ -4,7 +4,7 @@ visa: 국적
 date: "2026-08-01"
 category: "국적"
 excerpt: "복수국적 허용 조건(국적법 제10조 제2항)과 국적이탈·국적상실의 차이, 신고 절차와 F-4 비자 연결까지 실무 기준으로 정리했습니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/og/dual-citizenship-requirements-renunciation-loss-guide.png"
 slug: "dual-citizenship-requirements-renunciation-loss-guide"
 ---
 # 복수국적 허용 조건과 국적이탈·국적상실 차이 — 실무에서 갈리는 지점

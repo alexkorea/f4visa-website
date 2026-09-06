@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-06-20"
 category: "재외동포"
 excerpt: "재외동포가 한국에서 부동산을 취득할 때 실제 막히는 신고 절차와 취득·보유·양도 단계별 세금을 실무 관점에서 정리."
-image: "/blog/f4-visa-real-estate-purchase-2026-06-03.jpg"
+image: "/og/overseas-korean-real-estate-purchase-procedure-tax.png"
 description: "재외동포 부동산 취득 절차를 실무 기준으로 정리하고, 취득·보유·양도 단계별 세금 흐름과 최신 신고 절차를 안내합니다."
 partner: "taxguide"
 slug: "overseas-korean-real-estate-purchase-procedure-tax"

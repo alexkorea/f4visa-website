@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-05-16"
 category: "F-4비자"
 excerpt: "F-4 거소증의 유효기간은 최대 3년이며, 만료 전 4개월 이내에 연장 신청을 해야 체류 공백 없이 갱신이 가능합니다."
-image: "/blog/f4-visa-general-0.jpg"
+image: "/og/f4-visa-renewal-cycle-documents.png"
 slug: "f4-visa-renewal-cycle-documents"
 ---
 # F-4 비자 갱신 주기와 준비 서류 완벽 정리

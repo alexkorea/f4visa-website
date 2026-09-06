@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-07-27"
 category: "F-4비자"
 excerpt: "F-4 재외동포비자 신청 자격 대상과 필요서류, 국적상실 처리까지 실무 기준으로 한 번에 정리했습니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/og/f4-visa-qualification-required-papers-master-guide.png"
 slug: "f4-visa-qualification-required-papers-master-guide"
 ---
 # F-4 비자 신청 자격과 필요서류 완벽 가이드

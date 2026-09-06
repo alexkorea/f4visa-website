@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-06-09"
 category: "재외동포"
 excerpt: "재외동포 부동산 취득은 외국인 신고와 다른 절차를 거치며, 거소증·외국환거래 신고·취득세까지 단계별로 체크해야 막히지 않습니다."
-image: "/blog/overseas-korean-real-estate-acquisition-tax-procedure.jpg"
+image: "/og/overseas-korean-real-estate-acquisition-tax-procedure.png"
 description: "재외동포 국내 부동산 양도소득세의 계산 구조와 비과세·중과 판정, 비거주자 원천징수, 신고 절차와 절세 전략을 실무 기준으로 안내합니다."
 partner: "taxguide"
 slug: "overseas-korean-real-estate-acquisition-tax-procedure"

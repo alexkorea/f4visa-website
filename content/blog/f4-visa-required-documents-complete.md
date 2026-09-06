@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-05-07"
 category: "재외동포 비자"
 excerpt: "F-4 비자 신청 서류·자격 요건·거소증 발급 절차를 행정사사무소 이룸가 출입국 매뉴얼 기준으로 정리합니다. 군 미필자·중국동포·CIS동포 케이스별 필수 서류 안내."
-image: "/blog/f4-visa-required-documents-complete.jpg"
+image: "/og/f4-visa-required-documents-complete.png"
 slug: "f4-visa-required-documents-complete"
 ---
 # F-4 비자 신청 서류 완벽 가이드 : 재외동포 거소증 발급까지

@@ -4,7 +4,7 @@ visa: F-5
 date: "2026-04-12"
 category: "영주권"
 excerpt: "F-4 비자 소지자가 F-5 영주권으로 전환하기 위한 자격과 절차를 상세히 안내합니다."
-image: "/blog/permanent-residency-korea.jpg"
+image: "/og/f4-visa-to-f5-permanent-residency.png"
 slug: "f4-visa-to-f5-permanent-residency"
 ---
 ## F-4 비자에서 F-5 영주권 전환 자격과 절차

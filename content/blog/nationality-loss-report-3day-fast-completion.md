@@ -4,7 +4,7 @@ visa: 국적
 date: "2026-06-16"
 category: "국적"
 excerpt: "외국 시민권 취득 즉시 한국 국적은 자동 상실되며, 국적상실 신고는 행정 정리 절차로 서류만 갖추면 3일 내 완료됩니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/og/nationality-loss-report-3day-fast-completion.png"
 slug: "nationality-loss-report-3day-fast-completion"
 ---
 # 국적상실 신고 절차와 필요서류 — 3일이면 완료

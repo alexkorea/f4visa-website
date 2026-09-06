@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-06-02"
 category: "지역별"
 excerpt: "러시아·우즈베키스탄·카자흐스탄 등 CIS 지역 고려인의 F-4 비자 신청 시 필요한 특별 절차와 서류 요건을 실무 기준으로 정리합니다."
-image: "/blog/f4-cis-overseas-korean-special-procedures.jpg"
+image: "/og/f4-cis-overseas-korean-special-procedures.png"
 slug: "f4-cis-overseas-korean-special-procedures"
 ---
 # F-4 비자 CIS 재외동포 특별 절차 완벽 가이드

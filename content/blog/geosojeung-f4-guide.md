@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-07-15"
 category: "거소증"
 excerpt: "거소증(F-4 재외동포 체류자격) 신청 서류·발급기간·수수료(35,000원)·주소변경 신고 기한까지 — 공식 출처 기준으로 정리한 거소증 완전가이드. 거소증 발급이 처음이라면 지금 확인하세요 →"
-image: "/blog/f4-visa-korea.jpg"
+image: "/og/geosojeung-f4-guide.png"
 slug: "geosojeung-f4-guide"
 ---
 

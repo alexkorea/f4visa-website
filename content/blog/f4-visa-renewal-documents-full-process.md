@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-08-01"
 category: "F-4비자"
 excerpt: "기준 F-4 비자 갱신에 실제로 들어가는 서류 목록과 신청 절차, 심사에서 자주 걸리는 지점을 실무 기준으로 정리한 안내입니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/og/f4-visa-renewal-documents-full-process.png"
 slug: "f4-visa-renewal-documents-full-process"
 ---
 # F-4 비자 갱신 서류 — 준비 목록과 절차, 놓치기 쉬운 부분까지

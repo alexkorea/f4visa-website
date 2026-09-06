@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-06-13"
 category: ""
 excerpt: "F-4 재외동포 비자 신청 자격 판단부터 시민권증서, 무범죄조회서 등 핵심 서류까지 실무 기준으로 정리한 가이드."
-image: "/blog/korean-passport-visa.jpg"
+image: "/og/f4-visa-applicant-eligibility-document-master-guide.png"
 slug: "f4-visa-applicant-eligibility-document-master-guide"
 ---
 # F-4 비자 신청 자격과 필요서류 완벽 가이드 - 재외동포 실무 기준

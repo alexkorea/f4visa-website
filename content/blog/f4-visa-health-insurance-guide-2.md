@@ -1,10 +1,11 @@
 ---
+draft: true
 title: "F-4 비자 재외동포 국내 건강보험 가입 완벽 가이드"
 visa: F-4
 date: "2026-05-31"
 category: "F-4 비자"
 excerpt: "F-4 재외동포 비자 소지자의 국민건강보험 가입 방법, 피부양자 등록, 보험료 산정 기준을 상세히 안내합니다."
-image: "/blog/f4-visa-health-insurance-guide-2.jpg"
+image: "/og/f4-visa-health-insurance-guide-2.png"
 ---
 
 # F-4 비자 재외동포 국내 건강보험 가입 완벽 가이드

@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-06-19"
 category: "재외동포"
 excerpt: "재외동포의 한국 부동산 취득은 신고와 세금 신고 단계에서 가장 많이 막힙니다."
-image: "/blog/overseas-korean-property-20260530.jpg"
+image: "/og/overseas-korean-property-acquisition-procedure-tax-guide.png"
 description: "외국인·재외동포의 부동산 매매계약과 부동산거래신고, 외국인 토지취득 신고 의무, 외국환 신고와 등기 절차를 단계별로 안내합니다."
 partner: "taxguide"
 slug: "overseas-korean-property-acquisition-procedure-tax-guide"

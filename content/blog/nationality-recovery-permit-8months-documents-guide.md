@@ -4,7 +4,7 @@ visa: 국적
 date: "2026-06-17"
 category: "국적"
 excerpt: "국적회복 허가는 보통 8개월 전후로 결정되며, 시민권증서 원본과 한국 가족관계서류가 핵심입니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/og/nationality-recovery-permit-8months-documents-guide.png"
 slug: "nationality-recovery-permit-8months-documents-guide"
 ---
 # 국적회복 신청 절차 — 8개월 소요, 필요서류 총정리

@@ -4,7 +4,7 @@ visa: 국적
 date: "2026-07-30"
 category: "국적"
 excerpt: "복수국적 허용 조건은 국적법이 정한 예외에 해당할 때만 적용되며, 국적이탈은 본인의 선택, 국적상실은 외국 국적 취득 즉시 자동으로 발생한다는 점에서 완전히 다릅니다."
-image: "/blog/korean-passport-visa.jpg"
+image: "/og/dual-citizenship-permission-criteria-renunciation-vs-loss.png"
 slug: "dual-citizenship-permission-criteria-renunciation-vs-loss"
 ---
 # 복수국적 허용 조건 총정리 — 국적이탈과 국적상실, 여기서 차이가 납니다

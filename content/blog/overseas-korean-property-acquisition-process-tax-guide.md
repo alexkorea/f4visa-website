@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-06-11"
 category: "재외동포"
 excerpt: "재외동포가 한국 부동산을 취득할 때 거소증, 부동산취득신고, 취득세, 양도세까지 실무에서 자주 막히는 지점을 정리합니다."
-image: "/blog/f4-visa-real-estate-purchase-20260601.jpg"
+image: "/og/overseas-korean-property-acquisition-process-tax-guide.png"
 description: "재외동포 국내 부동산 보유 시 재산세와 종합부동산세의 과세 기준, 세대 합산과 다주택 판단, 납부 시기와 절세 포인트를 정리했습니다."
 partner: "taxguide"
 slug: "overseas-korean-property-acquisition-process-tax-guide"

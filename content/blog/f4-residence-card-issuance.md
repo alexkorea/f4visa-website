@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-05-14"
 category: "거소증"
 excerpt: "F-4 거소증 발급에 필요한 서류 전체 목록, 출입국사무소별 처리 기간, 실무에서 자주 막히는 지점을 단계별로 정리했습니다."
-image: "/blog/residence-card-issuance.jpg"
+image: "/og/f4-residence-card-issuance.png"
 slug: "f4-residence-card-issuance"
 ---
 # F-4 거소증 발급 준비물과 소요 기간 — 실무에서 막히는 지점까지

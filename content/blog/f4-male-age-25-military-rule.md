@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-05-01"
 category: "F-4비자"
 excerpt: "F-4 비자에서 만 25세 이상 요건은 한국 국적을 가졌다가 외국 시민권을 취득한 남성에게 적용되는 병역 관련 제한입니다."
-image: "/blog/military-service-korea.jpg"
+image: "/og/f4-male-age-25-military-rule.png"
 slug: "f4-male-age-25-military-rule"
 ---
 # F-4 비자 만 25세 이상 요건 설명 - 남성 신청자 병역 규정 핵심 정리

@@ -4,17 +4,8 @@ import matter from 'gray-matter'
 import { remark } from 'remark'
 import remarkGfm from 'remark-gfm'
 import remarkHtml from 'remark-html'
-import { redirectSourceSlugs } from './blog-redirects.mjs'
 
 const CONTENT_DIR = path.join(process.cwd(), 'content', 'blog')
-
-/**
- * 옛/중복 slug 는 next.config.mjs 에서 canonical 로 301 되므로
- * sitemap·블로그 목록·정적 경로 생성에서 제외한다. (GSC "Page with redirect" 방지)
- */
-function isCanonicalSlug(slug: string): boolean {
-  return !redirectSourceSlugs.has(slug)
-}
 
 export interface BlogPost {
   slug: string
@@ -57,7 +48,6 @@ export async function getPostSlugs(): Promise<string[]> {
     return fs.readdirSync(CONTENT_DIR)
       .filter(f => f.endsWith('.md') && !f.includes('.en.') && !f.includes('.zh.') && !f.includes('.ja.'))
       .map(f => f.replace(/\.md$/, ''))
-      .filter(isCanonicalSlug)
   } catch {
     return []
   }
@@ -78,7 +68,6 @@ export async function getAllPosts(): Promise<BlogPost[]> {
     const posts = files
       .map(f => readPost(path.join(CONTENT_DIR, f)))
       .filter((p): p is BlogPost => p !== null)
-      .filter(p => isCanonicalSlug(p.slug))
       .sort((a, b) => (b.date || '').localeCompare(a.date || ''))
     return posts
   } catch {

@@ -29,7 +29,7 @@
   --c-brand-line:  rgba(35, 80, 153, 0.28);
   --c-cta-shadow:  rgba(220, 38, 38, 0.25);
   --c-cta-shadow-h:rgba(220, 38, 38, 0.35);
-  --c-scrim:       rgba(16, 26, 42, 0.58);  /* 히어로 이미지 오버레이 */
+  --c-scrim:       linear-gradient(120deg, rgba(3, 105, 161, 0.50) 0%, rgba(14, 165, 233, 0.34) 48%, rgba(45, 212, 191, 0.28) 100%);  /* 히어로 오버레이 밝은 여름 */
 
   /* ── 타이포: 1종 (Pretendard) ── */
   --font-body: var(--font-pretendard), "Apple SD Gothic Neo", "Malgun Gothic",

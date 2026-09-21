@@ -32,12 +32,7 @@ const menuItems: MenuItem[] = [
 function Logo() {
   return (
     <span className="flex items-center gap-2">
-      <span
-        className="flex h-10 w-10 items-center justify-center rounded-[8px] text-lg font-bold"
-        style={{ background: "var(--c-brand)", color: "var(--c-ink-invert)" }}
-      >
-        이
-      </span>
+      <img src="/logo.png" alt="행정사사무소 이룸" className="h-10 w-10 object-contain" />
       <span className="flex flex-col leading-tight">
         <span className="text-lg font-bold text-foreground">이룸</span>
         <span className="text-sm text-muted-foreground">행정사사무소</span>

@@ -108,28 +108,13 @@ export default function HomePage() {
 
       <main id="main" className="flex-1">
         {/* 히어로 */}
-        <section className="relative isolate overflow-hidden" style={{ color: "var(--c-ink-invert)" }}>
-          {/* 히어로 LCP: 정적 picture, 모바일(≤767px)=750w AVIF 강제 (Next/Image 미사용) */}
-          <picture>
-            <source media="(max-width: 767px)" type="image/avif" srcSet="/slides/family-750.avif" />
-            <source media="(max-width: 767px)" type="image/webp" srcSet="/slides/family-750.webp" />
-            <source type="image/avif" srcSet="/slides/family-1400.avif" />
-            <img
-              src="/slides/family.webp"
-              alt=""
-              width={1400}
-              height={933}
-              fetchPriority="high"
-              decoding="async"
-              className="absolute inset-0 -z-10 h-full w-full object-cover"
-              aria-hidden
-            />
-          </picture>
-          <div className="absolute inset-0 -z-0" style={{ background: "var(--c-scrim)" }} aria-hidden />
+        <section className="relative isolate overflow-hidden" style={{ background: "linear-gradient(120deg, #fff7ed 0%, #eef6ff 46%, #ecfeff 100%)", color: "var(--c-ink)" }}>
+          <div className="absolute -top-24 -right-24 h-96 w-96 rounded-full -z-10" style={{ background: "radial-gradient(circle, rgba(45,212,191,0.22), transparent 70%)" }} aria-hidden />
+          <div className="absolute -bottom-24 -left-16 h-80 w-80 rounded-full -z-10" style={{ background: "radial-gradient(circle, rgba(96,165,250,0.20), transparent 70%)" }} aria-hidden />
           <div className="container-x relative py-16 lg:py-24">
             <div className="measure">
-              <h1 className="text-3xl lg:text-5xl">재외동포 F-4 비자와 거소증, 행정사가 대행합니다</h1>
-              <p className="mt-4 text-lg" style={{ color: "rgba(255,255,255,0.86)" }}>
+              <h1 className="text-3xl lg:text-5xl" style={{ color: "var(--c-brand)" }}>재외동포 F-4 비자와 거소증, 행정사가 대행합니다</h1>
+              <p className="mt-4 text-lg" style={{ color: "var(--c-ink)" }}>
                 국적상실·국적회복·영주권까지, 해외에 있어도 서류 준비부터 발급까지 진행할 수 있습니다.
               </p>
               <div className="mt-8">
@@ -137,7 +122,7 @@ export default function HomePage() {
                   무료 상담 신청
                 </Link>
               </div>
-              <p className="mt-8 text-base" style={{ color: "rgba(255,255,255,0.75)" }}>
+              <p className="mt-8 text-base" style={{ color: "#475569" }}>
                 {SITE.trustLine}
               </p>
             </div>

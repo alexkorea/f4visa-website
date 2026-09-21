@@ -1,4 +1,4 @@
-import { blogRedirects, legacyRootRedirects } from './lib/blog-redirects.mjs'
+import { blogRedirects } from './lib/blog-redirects.mjs'
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
@@ -9,7 +9,7 @@ const nextConfig = {
     unoptimized: true,
   },
   async redirects() {
-    return [...blogRedirects, ...legacyRootRedirects]
+    return blogRedirects
   },
 }
 

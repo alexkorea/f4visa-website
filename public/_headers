@@ -7,4 +7,8 @@
   X-Frame-Options: SAMEORIGIN
   Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
   Permissions-Policy: geolocation=(), microphone=(), camera=()
-  Cache-Control: public, max-age=0, must-revalidate
+
+# _next/static/* 는 콘텐츠 해시 파일명이라 내용이 바뀌면 URL 이 바뀐다 — immutable 안전.
+# 규칙이 없으면 CF 존 Browser Cache TTL(4h) 이 적용돼 재방문마다 CSS/JS 를 다시 받았다.
+/_next/static/*
+  Cache-Control: public, max-age=31536000, immutable

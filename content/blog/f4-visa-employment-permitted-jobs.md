@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-06-04"
 category: "F-4 비자"
 image: "/og/f4-visa-employment-permitted-jobs.png"
-excerpt: "F-4 재외동포 비자 소지자가 한국에서 할 수 있는 취업 활동과 제한 업종을 기준으로 정리합니다."
+excerpt: "F-4 재외동포 비자 소지자가 한국에서 할 수 있는 취업 활동과 제한 업종을 기준으로 정리합니다. 관련 글·출처까지 한 번에 확인하세요."
 slug: "f4-visa-employment-permitted-jobs"
 author: "이시정 대표행정사"
 description: "F-4 비자는 원칙적으로 업종 제한이 없지만, 관리자 직함이나 자영업·겸업처럼 실제 업무 내용이 애매한 경계 사례에서 판단이 갈립니다. 실무 판단 기준을 정리했습니다."

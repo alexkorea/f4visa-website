@@ -3,7 +3,7 @@ title: "F-4 비자 신청 필수서류 체크리스트 — 실무에서 가장 �
 visa: F-4
 date: "2026-04-27"
 category: "F-4비자"
-excerpt: "F-4 비자 신청에서 실제로 막히는 서류는 무범죄조회서와 시민권증서이며, 발급 순서가 꼬이면 전체 일정이 밀립니다."
+excerpt: "F-4 비자 신청에서 실제로 막히는 서류는 무범죄조회서와 시민권증서이며, 발급 순서가 꼬이면 전체 일정이 밀립니다. 외국 여권과 사진 규격·발급 국가와 아포스티유·거주국이 여러 곳인 경우·병역 미필자의 제한까지 한 번에 확인하세요."
 image: "/og/f4-visa-required-documents-checklist.png"
 slug: "f4-visa-required-documents-checklist"
 ---

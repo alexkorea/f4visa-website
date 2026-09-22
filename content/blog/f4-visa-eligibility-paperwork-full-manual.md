@@ -3,7 +3,7 @@ title: "F-4 비자 신청 자격과 필요서류 완벽 가이드 — 실무에�
 visa: F-4
 date: "2026-07-26"
 category: "F-4비자"
-excerpt: "F-4 재외동포비자 신청 자격 판단 기준과 출신국별 필요서류, 실무에서 자주 막히는 지점을 한 번에 정리했습니다."
+excerpt: "F-4 재외동포비자 신청 자격 판단 기준과 출신국별 필요서류, 실무에서 자주 막히는 지점을 한 번에 정리했습니다. 출신국별로 갈리는 서류·신청 절차와 진행 흐름까지 한 번에 확인하세요."
 image: "/og/f4-visa-eligibility-paperwork-full-manual.png"
 slug: "f4-visa-eligibility-paperwork-full-manual"
 ---

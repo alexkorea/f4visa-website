@@ -3,7 +3,7 @@ title: "F-4 비자 갱신 서류와 절차, 최신 기준으로 정리한 실무
 visa: F-4
 date: "2026-08-11"
 category: "F-4비자"
-excerpt: "F-4 비자 갱신에 실제로 들어가는 서류와 절차를 기준으로 정리하고, 실무에서 자주 막히는 지점까지 짚어드립니다."
+excerpt: "F-4 비자 갱신에 실제로 들어가는 서류와 절차를 기준으로 정리하고, 실무에서 자주 막히는 지점까지 짚어드립니다. 갱신 절차·실무에서 자주 막히는 부분까지 한 번에 확인하세요."
 image: "/og/f4-visa-renewal-preparation-immigration-guide.png"
 slug: "f4-visa-renewal-preparation-immigration-guide"
 ---

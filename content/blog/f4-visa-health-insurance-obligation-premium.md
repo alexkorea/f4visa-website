@@ -3,7 +3,7 @@ title: "F-4 비자 건강보험 가입 의무와 보험료 실무 가이드"
 visa: F-4
 date: "2026-05-29"
 category: ""
-excerpt: "F-4 비자 소지자의 건강보험 가입 의무 발생 시점과 보험료 산정 기준, 실무에서 자주 막히는 부분을 정리합니다."
+excerpt: "F-4 비자 소지자의 건강보험 가입 의무 발생 시점과 보험료 산정 기준, 실무에서 자주 막히는 부분을 정리합니다. F-4 비자로 한국에 6개월 이상 체류하면 국민건강보험 지역가입자로 자동 당연가입됩니다."
 image: "/og/f4-visa-health-insurance-obligation-premium.png"
 slug: "f4-visa-health-insurance-obligation-premium"
 ---

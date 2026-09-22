@@ -3,7 +3,7 @@ title: "F-4 비자 중국동포 H-2 F-4 차이 비교 — 실무로 보는 선�
 visa: F-4
 date: "2026-06-01"
 category: "비자비교"
-excerpt: "중국동포가 F-4와 H-2 중 어느 비자를 택해야 하는지, 자격·취업·체류·전환 실무 기준으로 정리합니다."
+excerpt: "중국동포가 F-4와 H-2 중 어느 비자를 택해야 하는지, 자격·취업·체류·전환 실무 기준으로 정리합니다. 비용·기간 비교까지 한 번에 확인하세요."
 image: "/og/f4-vs-h2-visa-chinese-koreans-comparison.png"
 slug: "f4-vs-h2-visa-chinese-koreans-comparison"
 ---

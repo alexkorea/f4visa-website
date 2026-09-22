@@ -3,7 +3,7 @@ title: "복수국적 허용 조건과 국적이탈 vs 국적상실, 실무에서
 visa: 국적
 date: "2026-06-12"
 category: "국적"
-excerpt: "복수국적이 누구에게 허용되는지, 그리고 국적이탈과 국적상실이 실제로 어떻게 갈리는지 실무 관점에서 정리합니다."
+excerpt: "복수국적이 누구에게 허용되는지, 그리고 국적이탈과 국적상실이 실제로 어떻게 갈리는지 실무 관점에서 정리합니다. 참고 법령·공식 출처까지 한 번에 확인하세요."
 image: "/og/dual-citizenship-conditions-nationality-departure-loss-difference.png"
 slug: "dual-citizenship-conditions-nationality-departure-loss-difference"
 ---

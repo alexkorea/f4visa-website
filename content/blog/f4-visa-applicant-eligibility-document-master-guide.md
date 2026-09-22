@@ -3,7 +3,7 @@ title: "F-4 비자 신청 자격과 필요서류 완벽 가이드 - 재외동포
 visa: F-4
 date: "2026-06-13"
 category: ""
-excerpt: "F-4 재외동포 비자 신청 자격 판단부터 시민권증서, 무범죄조회서 등 핵심 서류까지 실무 기준으로 정리한 가이드."
+excerpt: "F-4 재외동포 비자 신청 자격 판단부터 시민권증서, 무범죄조회서 등 핵심 서류까지 실무 기준으로 정리한 가이드. F-4 비자 신청 자격의 핵심은 '한국 혈통을 증명하는 서류'와 '현재 외국 국적 보유'라는 두 축이 맞물려야 한다는 점입니다."
 image: "/og/f4-visa-applicant-eligibility-document-master-guide.png"
 slug: "f4-visa-applicant-eligibility-document-master-guide"
 ---

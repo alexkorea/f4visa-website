@@ -3,7 +3,7 @@ title: "복수국적 허용 조건과 국적이탈 vs 국적상실 차이 총정
 visa: 국적
 date: "2026-07-22"
 category: "국적"
-excerpt: "복수국적이 허용되는 조건과, 국적이탈과 국적상실이 실제로 어디서 갈리는지 실무 기준으로 짚어드립니다."
+excerpt: "복수국적이 허용되는 조건과, 국적이탈과 국적상실이 실제로 어디서 갈리는지 실무 기준으로 짚어드립니다. 복수국적 허용 조건은 생각보다 좁고, 대부분의 성인은 외국 국적을 취득하는 순간 한국 국적을 자동으로 잃습니다."
 image: "/og/dual-nationality-conditions-departure-vs-loss-explained.png"
 slug: "dual-nationality-conditions-departure-vs-loss-explained"
 ---

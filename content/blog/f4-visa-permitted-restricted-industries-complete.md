@@ -3,7 +3,7 @@ title: "F-4 비자 취업 가능 업종과 제한 업종 총정리 - 실무 기�
 visa: F-4
 date: "2026-06-08"
 category: "F-4비자"
-excerpt: "F-4 비자로 일할 수 있는 업종과 단순노무 제한 업종을 실무 기준으로 한눈에 정리합니다."
+excerpt: "F-4 비자로 일할 수 있는 업종과 단순노무 제한 업종을 실무 기준으로 한눈에 정리합니다. F-4 비자 제한 업종·F-4로 가능한 대표 직종·직종별 합법성 빠른 비교표까지 한 번에 확인하세요."
 image: "/og/f4-visa-permitted-restricted-industries-complete.png"
 slug: "f4-visa-permitted-restricted-industries-complete"
 ---

@@ -3,7 +3,7 @@ title: "F-4 비자 신청 자격과 필요서류 완벽 가이드"
 visa: F-4
 date: "2026-06-12"
 category: "F-4비자"
-excerpt: "F-4 재외동포비자 신청 자격과 필요서류, 실무에서 가장 많이 걸리는 지점까지 한 번에 정리한 실전 가이드."
+excerpt: "F-4 재외동포비자 신청 자격과 필요서류, 실무에서 가장 많이 걸리는 지점까지 한 번에 정리한 실전 가이드. F-4 재외동포비자는 '한국 국적을 보유했던 사람' 또는 '그 직계비속'이 외국 국적을 가진 상태에서 신청하는 장기 체류 자격입니다."
 image: "/og/f4-visa-application-eligibility-documents-complete.png"
 slug: "f4-visa-application-eligibility-documents-complete"
 ---

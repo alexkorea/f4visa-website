@@ -3,7 +3,7 @@ title: "F-4 비자 고려인 신청 자격과 서류 완벽 정리"
 visa: F-4
 date: "2026-06-03"
 category: "지역별"
-excerpt: "고려인 동포의 F-4 비자 신청 자격, 핵심 서류, 실무에서 자주 막히는 부분까지 한 번에 정리합니다."
+excerpt: "고려인 동포의 F-4 비자 신청 자격, 핵심 서류, 실무에서 자주 막히는 부분까지 한 번에 정리합니다. 고려인 F-4 핵심 서류·고려인 F-4 신청 절차·실무에서 자주 막히는 지점·단순노무 활동 제한까지 한 번에 확인하세요."
 image: "/og/f4-koryoin-application-guide.png"
 slug: "f4-koryoin-application-guide"
 ---

@@ -3,7 +3,7 @@ title: "F-4 거소증 대행, 한국 최소 체류로 발급받는 실제 절차
 visa: F-4
 date: "2026-08-05"
 category: "거소증"
-excerpt: "F-4 거소증 대행을 활용하면 입국 전 서류 준비와 거소허가번호 발급 후 출국 구조로 한국 체류를 최소로 줄일 수 있습니다."
+excerpt: "F-4 거소증 대행을 활용하면 입국 전 서류 준비와 거소허가번호 발급 후 출국 구조로 한국 체류를 최소로 줄일 수 있습니다. 입국 전 준비가 90%·F-4 거소증 대행 절차·필요 서류 총정리·실무에서 자주 꼬이는 지점까지 한 번에 확인하세요."
 image: "/og/f4-residence-card-proxy-short-visit-issuance.png"
 slug: "f4-residence-card-proxy-short-visit-issuance"
 ---

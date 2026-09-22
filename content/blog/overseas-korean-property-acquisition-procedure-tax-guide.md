@@ -3,7 +3,7 @@ title: "외국인·재외동포 부동산거래·토지취득 신고의무 안�
 visa: F-4
 date: "2026-06-19"
 category: "재외동포"
-excerpt: "재외동포의 한국 부동산 취득은 신고와 세금 신고 단계에서 가장 많이 막힙니다."
+excerpt: "재외동포의 한국 부동산 취득은 신고와 세금 신고 단계에서 가장 많이 막힙니다. 재외동포의 한국 부동산 취득은 외국인이 아닌 재외동포 신분으로 처리되며, 거소신고와 외국환신고, 취득세 신고가 한 묶음으로 진행됩니다."
 image: "/og/overseas-korean-property-acquisition-procedure-tax-guide.png"
 description: "외국인·재외동포의 부동산 매매계약과 부동산거래신고, 외국인 토지취득 신고 의무, 외국환 신고와 등기 절차를 단계별로 안내합니다."
 partner: "taxguide"

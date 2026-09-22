@@ -4,9 +4,10 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build && node scripts/seo-gate.mjs",
     "start": "next start",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "seo:gate": "node scripts/seo-gate.mjs"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.1",

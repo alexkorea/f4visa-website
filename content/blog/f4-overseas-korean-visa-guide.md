@@ -3,7 +3,7 @@ title: "F-4 재외동포비자 신청 자격과 필요서류 완벽 가이드"
 visa: F-4
 date: "2026-04-09"
 category: "F-4비자"
-excerpt: "F-4 재외동포비자 신청 자격과 필요서류 완벽 가이드"
+excerpt: "F-4 재외동포비자 신청 자격과 필요서류 완벽 가이드 F-4 재외동포비자는 한국 국적을 가진 사람의 직계비속이나 그 배우자가 한국에 거주할 수 있도록 발급되는 비자입니다."
 image: "/og/f4-overseas-korean-visa-guide.png"
 slug: "f4-overseas-korean-visa-guide"
 ---

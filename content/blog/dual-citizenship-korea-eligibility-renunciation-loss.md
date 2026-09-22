@@ -3,7 +3,7 @@ title: "복수국적 허용 조건 총정리 — 국적이탈과 국적상실은
 visa: 국적
 date: "2026-08-08"
 category: "국적"
-excerpt: "복수국적이 허용되는 국적법상 예외 조건과, 흔히 혼동하는 국적이탈·국적상실의 차이를 실무 기준으로 구분해 드립니다."
+excerpt: "복수국적이 허용되는 국적법상 예외 조건과, 흔히 혼동하는 국적이탈·국적상실의 차이를 실무 기준으로 구분해 드립니다. 복수국적 허용 조건·국적이탈 vs 국적상실·국적이탈 신고·국적상실신고 절차와 서류까지 한 번에 확인하세요."
 image: "/og/dual-citizenship-korea-eligibility-renunciation-loss.png"
 slug: "dual-citizenship-korea-eligibility-renunciation-loss"
 ---

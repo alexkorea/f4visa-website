@@ -3,7 +3,7 @@ title: "해외 거소증 신청, 원격 대행으로 가능한가 — 출국 없
 visa: F-4
 date: "2026-07-26"
 category: "거소증"
-excerpt: "해외 거소증 신청은 원격 서류 대행과 국내 신청 절차를 나눠서 진행하면 출국 부담을 크게 줄일 수 있습니다."
+excerpt: "해외 거소증 신청은 원격 서류 대행과 국내 신청 절차를 나눠서 진행하면 출국 부담을 크게 줄일 수 있습니다. 해외 거소증 신청은 서류 준비까지는 원격으로 가능하지만, 거소신고 접수 자체는 신청인이 국내에 있어야 하는 단계가 남습니다."
 image: "/og/residence-card-overseas-remote-application-agency.png"
 slug: "residence-card-overseas-remote-application-agency"
 ---

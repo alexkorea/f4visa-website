@@ -3,7 +3,7 @@ title: "재외동포 국적상실 신고 의무 기한 완벽 정리"
 visa: 국적
 date: "2026-05-23"
 category: "국적"
-excerpt: "외국 시민권 취득 시 한국 국적은 즉시 자동 상실되며, 국적상실 신고는 1개월 내 의무로 이행해야 합니다."
+excerpt: "외국 시민권 취득 시 한국 국적은 즉시 자동 상실되며, 국적상실 신고는 1개월 내 의무로 이행해야 합니다. 국적상실 신고 절차 흐름까지 한 번에 확인하세요."
 image: "/og/nationality-loss-report-overseas.png"
 slug: "nationality-loss-report-overseas"
 ---

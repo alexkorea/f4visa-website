@@ -3,7 +3,7 @@ title: "F-4 비자 갱신 서류와 절차 — 최신 기준 완벽 정리"
 visa: F-4
 date: "2026-06-06"
 category: "F-4비자"
-excerpt: "F-4 비자 갱신 서류와 실제 심사에서 막히는 지점을 실무 기준으로 정리한 갱신 가이드입니다."
+excerpt: "F-4 비자 갱신 서류와 실제 심사에서 막히는 지점을 실무 기준으로 정리한 갱신 가이드입니다. F-4 비자 갱신 절차·실무에서 자주 막히는 지점·해외 체류 중 F-4 갱신까지 한 번에 확인하세요."
 image: "/og/f4-visa-renewal-documents-procedure-latest.png"
 slug: "f4-visa-renewal-documents-procedure-latest"
 ---

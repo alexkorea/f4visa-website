@@ -3,7 +3,7 @@ title: "F-4 비자 체류기간 연장 완전 가이드 (신청 방법·서류·
 visa: F-4
 date: "2026-05-19"
 category: "F-4비자"
-excerpt: "F-4 재외동포 비자 체류기간 연장 요건부터 하이코리아 온라인 신청 방법, 필요 서류, 주의사항까지 단계별로 정리했습니다."
+excerpt: "F-4 재외동포 비자 체류기간 연장 요건부터 하이코리아 온라인 신청 방법, 필요 서류, 주의사항까지 단계별로 정리했습니다. F-4 비자 체류기간 개요·연장 신청 요건·필요 서류 목록·연장 시 주의사항까지 한 번에 확인하세요."
 image: "/og/f4-visa-stay-period-extension-guide.png"
 slug: "f4-visa-stay-period-extension-guide"
 author: "행정사사무소 이룸"

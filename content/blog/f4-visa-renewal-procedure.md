@@ -3,7 +3,7 @@ title: "F-4 비자 갱신 절차와 기간 안내"
 visa: F-4
 date: "2026-04-10"
 category: "F-4비자"
-excerpt: "F-4 비자 갱신 절차와 기간 안내"
+excerpt: "F-4 비자 갱신 절차와 기간 안내 F-4 비자는 재외 동포를 위한 비자로, 한국에서의 거주와 취업을 가능하게 합니다. F-4 비자의 갱신 절차는 일반적으로 간단하지만, 필요한 서류와 절차를 정확히 따라야 합니다."
 image: "/og/f4-visa-renewal-procedure.png"
 slug: "f4-visa-renewal-procedure"
 ---

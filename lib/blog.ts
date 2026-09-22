@@ -28,8 +28,14 @@ export interface BlogPost {
 }
 
 async function markdownToHtml(markdown: string): Promise<string> {
-  const result = await remark().use(remarkGfm).use(remarkHtml, { sanitize: false }).process(markdown)
+  // 본문 맨 앞의 `# 제목` 은 레이아웃 히어로의 H1 과 같은 문장이다.
+  // 그대로 두면 한 페이지에 H1 이 2개가 된다(실측 158/184) — BLOG_STANDARD 4장 위반.
+  const stripped = markdown.replace(/^\uFEFF?\s*#(?!#)\s+.*(?:\r?\n)+/, '')
+  const result = await remark().use(remarkGfm).use(remarkHtml, { sanitize: false }).process(stripped)
   return result.toString()
+    // 본문 중간에 남은 H1 은 H2 로 낮춘다(H1 은 문서당 1개).
+    .replace(/<h1(\s[^>]*)?>/g, '<h2$1>')
+    .replace(/<\/h1>/g, '</h2>')
 }
 
 function readPost(filePath: string): BlogPost | null {

@@ -5,7 +5,7 @@ description: "F-4 재외동포 비자 소지자의 취업 가능 직종과 제�
 slug: "f4-visa-eligible-jobs"
 author: "비전행정사사무소"
 category: "F-4비자"
-image: "/blog/immigration-documents.jpg"
+image: "/og/f4-visa-eligible-jobs.png"
 ---
 
 # F-4 재외동포 비자 취업 가능 직종 완벽 가이드

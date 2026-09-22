@@ -3,7 +3,7 @@ title: "F-4 비자 신청 방법 해외 vs 국내 비교 - 어디서 신청해�
 visa: F-4
 date: "2026-04-17"
 category: ""
-excerpt: "F-4 비자는 해외 재외공관 신청과 국내 체류자격 변경 두 경로가 있으며, 처리 속도와 서류 요건이 전혀 다릅니다."
+excerpt: "F-4 비자는 해외 재외공관 신청과 국내 체류자격 변경 두 경로가 있으며, 처리 속도와 서류 요건이 전혀 다릅니다. F-4 재외동포 비자는 해외 재외공관에서 사증 발급 신청을 하거나, 국내에서 체류자격 변경(B-2 → F-4) 으로 받는 두 가지 경로가 있습니다."
 image: "/og/f4-visa-application-channels.png"
 slug: "f4-visa-application-channels"
 ---

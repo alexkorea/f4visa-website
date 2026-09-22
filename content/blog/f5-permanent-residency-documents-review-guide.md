@@ -3,7 +3,7 @@ title: "F-5 영주권 신청 서류와 심사 — F-4 거소증 보유자의 전
 visa: F-5
 date: "2026-05-25"
 category: "영주권"
-excerpt: "F-5 영주권 심사는 서류 수보다 체류 안정성과 생계능력 설명이 먼저 갈리는 단계입니다."
+excerpt: "F-5 영주권 심사는 서류 수보다 체류 안정성과 생계능력 설명이 먼저 갈리는 단계입니다. F-5 영주권 신청 자격·F-5 신청 서류·F-5 심사 기준·F-5 신청 절차까지 한 번에 확인하세요."
 image: "/og/f5-permanent-residency-documents-review-guide.png"
 slug: "f5-permanent-residency-documents-review-guide"
 ---

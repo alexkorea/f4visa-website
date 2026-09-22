@@ -3,7 +3,7 @@ title: "국적상실 신고 절차와 필요서류 — 3일이면 완료"
 visa: 국적
 date: "2026-06-16"
 category: "국적"
-excerpt: "외국 시민권 취득 즉시 한국 국적은 자동 상실되며, 국적상실 신고는 행정 정리 절차로 서류만 갖추면 3일 내 완료됩니다."
+excerpt: "외국 시민권 취득 즉시 한국 국적은 자동 상실되며, 국적상실 신고는 행정 정리 절차로 서류만 갖추면 3일 내 완료됩니다. 국적상실 신고 필요서류·접수 경로·자주 막히는 실무 포인트·국적상실 신고 후까지 한 번에 확인하세요."
 image: "/og/nationality-loss-report-3day-fast-completion.png"
 slug: "nationality-loss-report-3day-fast-completion"
 ---

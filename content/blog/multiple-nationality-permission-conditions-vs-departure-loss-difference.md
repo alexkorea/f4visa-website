@@ -3,7 +3,7 @@ title: "복수국적 허용 조건과 국적이탈·국적상실의 실제 차�
 visa: 국적
 date: "2026-06-14"
 category: "국적"
-excerpt: "복수국적 허용 조건과 국적이탈, 국적상실의 차이를 실무 기준으로 정리합니다."
+excerpt: "복수국적 허용 조건과 국적이탈, 국적상실의 차이를 실무 기준으로 정리합니다. 복수국적은 누구에게나 허용되지 않습니다. 국적법이 정한 좁은 범위의 대상자에게만 외국국적불행사서약을 전제로 허용되며, 외국 시민권을 자유의사로 취득한 일반 성인 한국인은 그 즉시 한국 국적이 자동 상실됩니다."
 image: "/og/multiple-nationality-permission-conditions-vs-departure-loss-difference.png"
 slug: "multiple-nationality-permission-conditions-vs-departure-loss-difference"
 ---

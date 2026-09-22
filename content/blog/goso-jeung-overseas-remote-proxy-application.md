@@ -3,7 +3,7 @@ title: "해외 거소증 신청, 원격 대행으로 어디까지 가능한가"
 visa: F-4
 date: "2026-07-23"
 category: "거소증"
-excerpt: "거소증 최종 신고는 입국이 필요하지만, 서류 준비와 신청 대부분은 해외에서 원격 대행으로 진행할 수 있습니다."
+excerpt: "거소증 최종 신고는 입국이 필요하지만, 서류 준비와 신청 대부분은 해외에서 원격 대행으로 진행할 수 있습니다. 원격 대행 절차·실무에서 자주 막히는 부분까지 한 번에 확인하세요."
 image: "/og/goso-jeung-overseas-remote-proxy-application.png"
 slug: "goso-jeung-overseas-remote-proxy-application"
 ---

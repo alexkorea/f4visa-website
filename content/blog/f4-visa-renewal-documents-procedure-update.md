@@ -3,7 +3,7 @@ title: "F-4 비자 갱신 서류 — 최신 기준 절차와 실무 체크포인
 visa: F-4
 date: "2026-06-14"
 category: ""
-excerpt: "F-4 비자 갱신은 거주지 신고와 무범죄증명, 신분 서류의 유효기간 관리에서 실제 갈립니다."
+excerpt: "F-4 비자 갱신은 거주지 신고와 무범죄증명, 신분 서류의 유효기간 관리에서 실제 갈립니다. 거주국별 자주 막히는 지점까지 한 번에 확인하세요."
 image: "/og/f4-visa-renewal-documents-procedure-update.png"
 slug: "f4-visa-renewal-documents-procedure-update"
 ---

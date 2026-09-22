@@ -3,7 +3,7 @@ title: "F-4 비자 신청 필수서류 체크리스트 완벽 정리"
 visa: F-4
 date: "2026-04-16"
 category: "F-4비자"
-excerpt: "F-4 재외동포 비자 신청에 필요한 서류를 국가별·상황별로 나누어 실무 기준으로 정리합니다."
+excerpt: "F-4 재외동포 비자 신청에 필요한 서류를 국가별·상황별로 나누어 실무 기준으로 정리합니다. 공통 필수서류 체크리스트·국가별 추가 서류·자주하는 실수 TOP 7·상담 안내까지 한 번에 확인하세요."
 image: "/og/f4-visa-document-checklist-guide.png"
 slug: "f4-visa-document-checklist-guide"
 ---

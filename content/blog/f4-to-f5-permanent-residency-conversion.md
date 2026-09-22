@@ -3,7 +3,7 @@ title: "F-4에서 F-5 영주권 전환 요건과 절차"
 visa: F-5
 date: "2026-04-10"
 category: "영주권"
-excerpt: "F-4에서 F-5 영주권 전환 요건과 절차"
+excerpt: "F-4에서 F-5 영주권 전환 요건과 절차 F-4 비자에서 F-5 영주권으로 전환하기 위해서는 몇 가지 요건을 충족해야 합니다."
 image: "/og/f4-to-f5-permanent-residency-conversion.png"
 slug: "f4-to-f5-permanent-residency-conversion"
 ---

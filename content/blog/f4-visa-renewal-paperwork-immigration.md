@@ -3,7 +3,7 @@ title: "F-4 비자 갱신 서류 — 실무에서 막히는 지점과 최신 절
 visa: F-4
 date: "2026-06-17"
 category: "F-4비자"
-excerpt: "F-4 비자 갱신은 서류 종류보다 발급일자와 본인 신분 일치 여부에서 가장 많이 막힙니다."
+excerpt: "F-4 비자 갱신은 서류 종류보다 발급일자와 본인 신분 일치 여부에서 가장 많이 막힙니다. 거소신고증 갱신 절차까지 한 번에 확인하세요."
 image: "/og/f4-visa-renewal-paperwork-immigration.png"
 slug: "f4-visa-renewal-paperwork-immigration"
 ---

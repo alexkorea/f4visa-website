@@ -3,7 +3,7 @@ title: "F-4 비자에서 F-5 영주권 전환 요건 완벽 정리"
 visa: F-5
 date: "2026-05-23"
 category: "영주권"
-excerpt: "F-4 거소증 보유자가 F-5 영주권으로 전환할 때 실제 심사에서 막히는 요건과 서류를 한 번에 정리합니다."
+excerpt: "F-4 거소증 보유자가 F-5 영주권으로 전환할 때 실제 심사에서 막히는 요건과 서류를 한 번에 정리합니다. F-4 거소증을 일정 기간 유지한 재외동포라면, 소득·체류·품행 요건만 충족하면 F-5 영주권 신청 자격이 열립니다."
 image: "/og/f4-to-f5-eligibility-requirements.png"
 slug: "f4-to-f5-eligibility-requirements"
 ---

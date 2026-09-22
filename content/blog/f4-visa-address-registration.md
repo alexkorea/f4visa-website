@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-06-04"
 category: "F-4 비자"
 image: "/og/f4-visa-address-registration.png"
-excerpt: "F-4 비자 소지자의 외국인 등록 및 거주지 신고 의무, 변경 신고 기한, 미신고 시 과태료를 안내합니다."
+excerpt: "F-4 비자 소지자의 외국인 등록 및 거주지 신고 의무, 변경 신고 기한, 미신고 시 과태료를 안내합니다. 심사에서 자주 걸리는 지점·등록 이후 체류지가 바뀌면·관련 글·출처 및 참고까지 한 번에 확인하세요."
 description: "F-4 비자 소지자의 최초 등록은 외국인등록이 아닌 국내거소신고입니다. 신고 대상 시기와 주소 증빙 서류, 심사에서 실제로 막히는 지점을 실무 기준으로 정리했습니다."
 slug: "f4-visa-address-registration"
 pillar: "f4-visa-guide"

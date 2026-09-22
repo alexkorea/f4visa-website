@@ -3,7 +3,7 @@ title: "F-4 비자 신청 자격 완벽 가이드 — 재외동포 필요서류�
 visa: F-4
 date: "2026-07-24"
 category: "F-4비자"
-excerpt: "F-4 재외동포비자 신청 자격, 재외동포 판단 기준, 시민권증서와 무범죄조회서까지 실무 기준으로 정리한 완벽 가이드입니다."
+excerpt: "F-4 재외동포비자 신청 자격, 재외동포 판단 기준, 시민권증서와 무범죄조회서까지 실무 기준으로 정리한 완벽 가이드입니다. F-4 비자 신청 자격은 본인 또는 부모·조부모가 과거 대한민국 국적을 보유했던 재외동포에게 열려 있습니다."
 image: "/og/f4-visa-eligibility-required-documents-full-guide.png"
 slug: "f4-visa-eligibility-required-documents-full-guide"
 ---

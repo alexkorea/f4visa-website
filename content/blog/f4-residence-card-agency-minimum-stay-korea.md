@@ -3,7 +3,7 @@ title: "F-4 거소증 신청대행 — 한국 최소 체류로 발급받는 방�
 visa: F-4
 date: "2026-06-07"
 category: "거소증"
-excerpt: "F-4 거소증은 거소허가번호만 받으면 바로 출국 가능하므로, 최소 체류로 발급받는 실무 동선을 정리합니다."
+excerpt: "F-4 거소증은 거소허가번호만 받으면 바로 출국 가능하므로, 최소 체류로 발급받는 실무 동선을 정리합니다. 최소 체류로 끝내는 동선·임시주소와 숙박제공자·카드 수령과 출국 후 처리까지 한 번에 확인하세요."
 image: "/og/f4-residence-card-agency-minimum-stay-korea.png"
 slug: "f4-residence-card-agency-minimum-stay-korea"
 ---

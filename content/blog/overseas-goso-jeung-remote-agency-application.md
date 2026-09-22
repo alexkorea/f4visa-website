@@ -3,7 +3,7 @@ title: "해외 거소증 신청 가능한가 — 한국 방문 없이 원격 대
 visa: F-4
 date: "2026-07-22"
 category: "거소증"
-excerpt: "해외 거소증 신청은 본인이 직접 입국하지 않고도 대행으로 진행할 수 있으며, 거소허가번호 발급 후 출국이 가능합니다."
+excerpt: "해외 거소증 신청은 본인이 직접 입국하지 않고도 대행으로 진행할 수 있으며, 거소허가번호 발급 후 출국이 가능합니다. 해외 거소증 신청 자격·해외 거소증 신청 서류까지 한 번에 확인하세요."
 image: "/og/overseas-goso-jeung-remote-agency-application.png"
 slug: "overseas-goso-jeung-remote-agency-application"
 ---

@@ -3,7 +3,7 @@ title: "F-4 거소증 발급 기간 완벽 정리 — 출입국사무소별 소�
 visa: F-4
 date: "2026-06-15"
 category: ""
-excerpt: "F-4 거소증 발급 기간은 출입국사무소마다 크게 갈리며, 어디서 신청하느냐가 출국 일정을 좌우합니다."
+excerpt: "F-4 거소증 발급 기간은 출입국사무소마다 크게 갈리며, 어디서 신청하느냐가 출국 일정을 좌우합니다. F-4 거소증 발급 기간은 보통 2주에서 4주 사이지만, 출입국사무소를 어디로 정하느냐에 따라 1주 차이가 쉽게 납니다."
 image: "/og/f4-residence-card-issuance-period-by-immigration-office.png"
 slug: "f4-residence-card-issuance-period-by-immigration-office"
 ---

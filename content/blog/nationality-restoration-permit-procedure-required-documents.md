@@ -3,7 +3,7 @@ title: "국적회복 신청 절차 총정리 — 허가까지 8개월, 필요서
 visa: 국적
 date: "2026-07-28"
 category: "국적"
-excerpt: "국적을 상실한 재외동포가 한국 국적을 되찾는 국적회복 신청 절차와 필요서류, 8개월 처리 흐름을 실무 순서대로 정리합니다."
+excerpt: "국적을 상실한 재외동포가 한국 국적을 되찾는 국적회복 신청 절차와 필요서류, 8개월 처리 흐름을 실무 순서대로 정리합니다. 국적회복 필요서류 총정리까지 한 번에 확인하세요."
 image: "/og/nationality-restoration-permit-procedure-required-documents.png"
 slug: "nationality-restoration-permit-procedure-required-documents"
 ---

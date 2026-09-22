@@ -3,7 +3,7 @@ title: "F-4 비자 만료 후 재입국 절차 완벽 가이드 - 거소증 만�
 visa: F-4
 date: "2026-05-17"
 category: "F-4비자"
-excerpt: "F-4 비자가 만료된 재외동포가 한국에 다시 들어와 거소증을 받기까지 실무에서 꼭 막히는 지점과 처리 순서를 정리합니다."
+excerpt: "F-4 비자가 만료된 재외동포가 한국에 다시 들어와 거소증을 받기까지 실무에서 꼭 막히는 지점과 처리 순서를 정리합니다. 만료 기간이 오래된 경우까지 한 번에 확인하세요."
 image: "/og/f4-visa-expiry-reentry-procedure.png"
 slug: "f4-visa-expiry-reentry-procedure"
 ---

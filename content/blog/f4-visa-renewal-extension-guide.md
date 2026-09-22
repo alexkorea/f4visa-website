@@ -7,6 +7,7 @@ slug: "f4-visa-renewal-extension-guide"
 author: "행정사사무소 이룸"
 category: "비자 갱신"
 image: "/og/f4-visa-renewal-extension-guide.png"
+excerpt: "F-4 재외동포 비자 갱신 방법, 체류기간 연장 신청 시기와 서류, 주의사항을 최신 기준으로 정리했습니다. 체류 기간 연장 신청 시기·연장 신청 장소와 방법·필요 서류 목록·수수료와 처리 기간까지 한 번에 확인하세요."
 ---
 
 ## 목차

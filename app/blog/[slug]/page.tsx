@@ -43,6 +43,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       card: "summary_large_image",
       title: `${post.title} | ${brand}`,
       description: post.excerpt,
+      images: [post.image.startsWith("http") ? post.image : `${BASE_URL}${post.image}`],
     },
   }
 }

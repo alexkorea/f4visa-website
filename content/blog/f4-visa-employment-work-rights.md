@@ -7,6 +7,7 @@ slug: "f4-visa-employment-work-rights"
 author: "행정사사무소 이룸"
 category: "취업·활동"
 image: "/og/f4-visa-employment-work-rights.png"
+excerpt: "F-4 재외동포 비자로 한국에서 할 수 있는 취업·사업 활동과 제한 사항을 최신 기준으로 정리했습니다. 취업 허용 직종과 절차·단순노무 제한 직종 목록·사업 활동과 법인 설립·부동산·금융 활동까지 한 번에 확인하세요."
 ---
 
 ## 목차

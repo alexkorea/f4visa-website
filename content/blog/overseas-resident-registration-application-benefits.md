@@ -3,7 +3,7 @@ title: "재외국민 주민등록 신청 방법과 혜택 완벽 가이드"
 visa: F-4
 date: "2026-06-03"
 category: "재외국민"
-excerpt: "재외국민 주민등록 신청 자격, 필요서류, 절차, 그리고 받을 수 있는 실제 혜택까지 한 번에 정리합니다."
+excerpt: "재외국민 주민등록 신청 자격, 필요서류, 절차, 그리고 받을 수 있는 실제 혜택까지 한 번에 정리합니다. 신청 자격과 대상자 구분·필요 서류와 사전 준비·신청 절차 단계별 정리·자주 발생하는 문제와 해결까지 한 번에 확인하세요."
 image: "/og/overseas-resident-registration-application-benefits.png"
 slug: "overseas-resident-registration-application-benefits"
 ---

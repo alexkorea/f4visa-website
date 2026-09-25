@@ -34,8 +34,8 @@ function Logo() {
     <span className="flex items-center gap-2">
       {/* 40x40 으로 그려지는데 512px PNG(112KB) 를 받고 있었다. React 19 가 이 img 에
           High 우선순위 preload 를 붙여 임계경로 맨 앞을 차지했다(2026-09-26 실측 110KB/232ms).
-          96px WebP(3.8KB) 로 교체. schema.org logo 는 /logo.png 그대로 둔다. */}
-      <img src="/logo-eroom-20260926-96.webp" alt="행정사사무소 이룸" width={96} height={96}
+          160px WebP(7.4KB) 로 교체 — 40x40 CSS 픽셀이라 DPR2 에서 80px, 2:1 로 깔끔하게 줄어든다. schema.org logo 는 /logo.png 그대로 둔다. */}
+      <img src="/logo-eroom-20260926-160.webp" alt="행정사사무소 이룸" width={160} height={160}
            className="h-10 w-10 object-contain" />
       <span className="flex flex-col leading-tight">
         <span className="text-lg font-bold text-foreground">이룸</span>

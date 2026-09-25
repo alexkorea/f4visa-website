@@ -32,7 +32,10 @@
   --c-scrim:       linear-gradient(120deg, rgba(3, 105, 161, 0.50) 0%, rgba(14, 165, 233, 0.34) 48%, rgba(45, 212, 191, 0.28) 100%);  /* 히어로 오버레이 밝은 여름 */
 
   /* ── 타이포: 1종 (Pretendard) ── */
-  --font-body: var(--font-pretendard), "Apple SD Gothic Neo", "Malgun Gothic",
+  /* 'Pretendard Critical' = 자체호스팅 임계 서브셋(app/globals.css). optional 이라
+     제때 못 오면 그 면을 실패 처리하고 아래 시스템 서체로 그냥 넘어간다.
+     안전망으로 CDN 패밀리를 끼워 넣지 말 것 — optional 인데도 구간 파일을 더 받는다. */
+  --font-body: "Pretendard Critical", "Apple SD Gothic Neo", "Malgun Gothic",
                -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
 
   /* 크기 스케일 고정 (DESIGN.md): display40 / h1 32 / h2 19 / h3 17 / body16.5 / caption13.5 / button16

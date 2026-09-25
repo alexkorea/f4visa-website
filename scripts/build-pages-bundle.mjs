@@ -7,6 +7,8 @@
  *
  * 사용: node scripts/build-pages-bundle.mjs   (opennextjs-cloudflare build 이후)
  * 배포: cd .open-next/assets && wrangler pages deploy . --project-name=f4visa-pages --branch=main
+ *       배포 직후 반드시: bash /Users/mac4/scripts/deploy-done-auto.sh f4visa
+ *       (배포 완료 기준 = n8n 독립검증 PASS. 봇 자기보고는 완료가 아니다. 맥7 20260922-1425)
  *
  * _routes.json 은 public/_routes.json 이 그대로 복사되므로 여기서 건드리지 않는다.
  */

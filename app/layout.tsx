@@ -1,7 +1,6 @@
 import type { Metadata, Viewport } from 'next'
 import Script from 'next/script'
 import './globals.css'
-import { pretendard } from './fonts'
 import { DeferredCtaBar } from '@/components/deferred-cta-bar'
 import { SITE } from '@/lib/site'
 
@@ -62,9 +61,12 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang="ko" className={pretendard.variable}>
+    <html lang="ko">
       <head>
-        {/* 히어로 LCP 프리로드(단일 소스): 모바일 750 / 데스크톱 1400 AVIF */}
+        {/* 임계 폰트 서브셋. font-display:optional 은 스타일시트 파싱 뒤에 발견되면
+            블록 구간을 놓쳐 한 번도 적용되지 않는다 — 이 preload 한 줄이 필수다. */}
+        <link rel="preload" as="font" type="font/woff2" crossOrigin="anonymous"
+              href="/fonts/pretendard-critical-20260926.woff2" />
       </head>
       <body>
         <a href="#main" className="skip-link">본문 바로가기</a>

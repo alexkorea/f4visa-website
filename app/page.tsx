@@ -108,9 +108,16 @@ export default function HomePage() {
 
       <main id="main" className="flex-1">
         {/* 히어로 */}
-        <section className="relative isolate overflow-hidden" style={{ background: "linear-gradient(120deg, #fff7ed 0%, #eef6ff 46%, #ecfeff 100%)", color: "var(--c-ink)" }}>
-          <div className="absolute -top-24 -right-24 h-96 w-96 rounded-full -z-10" style={{ background: "radial-gradient(circle, rgba(45,212,191,0.22), transparent 70%)" }} aria-hidden />
-          <div className="absolute -bottom-24 -left-16 h-80 w-80 rounded-full -z-10" style={{ background: "radial-gradient(circle, rgba(96,165,250,0.20), transparent 70%)" }} aria-hidden />
+        {/* 장식용 블러 원 2개는 섹션 배경으로 합쳤다. 그전에는 절대배치 div 라
+            overflow-hidden 으로 잘려 보이기만 할 뿐, 390px 폭 검사에서는
+            right=486px / left=-64px 로 폭초과 2건으로 잡혔다(2026-09-26).
+            반지름·중심·정지점은 원래 값을 그대로 옮긴 것이라 그림은 동일하다:
+            h-96(384px) 상자의 farthest-corner 는 271.5px, h-80(320px)은 226.3px. */}
+        <section className="relative isolate overflow-hidden" style={{ background: [
+            "radial-gradient(271.5px circle at calc(100% - 96px) 96px, rgba(45,212,191,0.22), transparent 70%)",
+            "radial-gradient(226.3px circle at 96px calc(100% - 64px), rgba(96,165,250,0.20), transparent 70%)",
+            "linear-gradient(120deg, #fff7ed 0%, #eef6ff 46%, #ecfeff 100%)",
+          ].join(", "), color: "var(--c-ink)" }}>
           <div className="container-x relative py-16 lg:py-24">
             <div className="measure">
               <h1 className="text-3xl lg:text-5xl" style={{ color: "var(--c-brand)" }}>재외동포 F-4 비자와 거소증, 행정사가 대행합니다</h1>

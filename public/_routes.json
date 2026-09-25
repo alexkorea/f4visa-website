@@ -1,6 +1,8 @@
 {
   "version": 1,
-  "include": ["/*"],
+  "include": [
+    "/*"
+  ],
   "exclude": [
     "/_next/static/*",
     "/team/*",
@@ -12,6 +14,8 @@
     "/*.png",
     "/*.svg",
     "/*.jpg",
-    "/*.ico"
+    "/*.ico",
+    "/*.webp",
+    "/fonts/*"
   ]
 }

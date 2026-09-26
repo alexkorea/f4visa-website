@@ -66,19 +66,43 @@ export default function RootLayout({
         {/* 임계 폰트 서브셋. font-display:optional 은 스타일시트 파싱 뒤에 발견되면
             블록 구간을 놓쳐 한 번도 적용되지 않는다 — 이 preload 한 줄이 필수다. */}
         <link rel="preload" as="font" type="font/woff2" crossOrigin="anonymous"
-              href="/fonts/pretendard-critical-20260926.woff2" />
+              href="/fonts/pretendard-critical-20260927.woff2" />
       </head>
       <body>
         <a href="#main" className="skip-link">본문 바로가기</a>
         {children}
         <DeferredCtaBar />
-        <Script src="https://www.googletagmanager.com/gtag/js?id=G-TNDB1XVX2R" strategy="lazyOnload" />
-        <Script id="gtag-init" strategy="lazyOnload">
+        {/* gtag 번들은 177KB 다. next/script 의 lazyOnload 는 window load 에 붙는데,
+            이 페이지는 load 가 ~0.4s 에 떨어져서 결국 LCP 구간 한복판에서 177KB 를
+            받는다(2026-09-27 실측: 419ms 시작). visaskorea 홈에 이미 적용해 둔
+            방식과 같이 '첫 상호작용 또는 load+2500ms 중 먼저 오는 쪽' 으로 내린다.
+            페이지뷰는 늦게 쏴도 같은 세션으로 집계된다. */}
+        <Script id="gtag-lazy" strategy="afterInteractive">
           {`
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'G-TNDB1XVX2R');
+            (function () {
+              var GA_ID = 'G-TNDB1XVX2R';
+              var fired = false;
+              function load() {
+                if (fired) return;
+                fired = true;
+                var s = document.createElement('script');
+                s.async = true;
+                s.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID;
+                document.head.appendChild(s);
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){ window.dataLayer.push(arguments); }
+                window.gtag = window.gtag || gtag;
+                gtag('js', new Date());
+                gtag('config', GA_ID);
+              }
+              var evts = ['pointerdown', 'keydown', 'scroll', 'touchstart'];
+              for (var i = 0; i < evts.length; i++) {
+                window.addEventListener(evts[i], load, { once: true, passive: true });
+              }
+              function arm() { setTimeout(load, 2500); }
+              if (document.readyState === 'complete') arm();
+              else window.addEventListener('load', arm, { once: true });
+            })();
           `}
         </Script>
       </body>

@@ -144,10 +144,10 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
                     <h3 className="mb-4 font-semibold text-foreground text-center text-sm">메신저 상담</h3>
                     <div className="grid grid-cols-2 gap-4">
                       {[
-                        { name: "Kakao Talk", qr: "/qr/kakao.jpg" },
-                        { name: "WeChat", qr: "/qr/wechat.jpg" },
-                        { name: "LINE", qr: "/qr/line.jpg" },
-                        { name: "WhatsApp", qr: "/qr/whatsapp.jpg" },
+                        { name: "Kakao Talk", qr: "/qr/kakao-20260927-224.webp" },
+                        { name: "WeChat", qr: "/qr/wechat-20260927-224.webp" },
+                        { name: "LINE", qr: "/qr/line-20260927-150.webp" },
+                        { name: "WhatsApp", qr: "/qr/whatsapp-20260927-224.webp" },
                       ].map((m) => (
                         <div key={m.name} className="text-center">
                           <div className="w-full aspect-square rounded-lg overflow-hidden border border-border mb-2">

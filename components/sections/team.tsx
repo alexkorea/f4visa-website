@@ -2,14 +2,14 @@ import Image from "next/image"
 import { Card, CardContent } from "@/components/ui/card"
 
 const admins = [
-  { name: "이시정", role: "대표행정사", photo: "/team/leesj.jpg" },
-  { name: "이원중", role: "행정사", photo: "/team/leewj.jpg" },
-  { name: "정유선", role: "행정사", photo: "/team/jungyus.jpg" },
+  { name: "이시정", role: "대표행정사", photo: "/team/leesj-20260927-320.webp" },
+  { name: "이원중", role: "행정사", photo: "/team/leewj-20260927-320.webp" },
+  { name: "정유선", role: "행정사", photo: "/team/jungyus-20260927-320.webp" },
 ]
 
 const staff = [
-  { name: "백승수", role: "사무장", photo: "/team/baekss.jpg" },
-  { name: "김영주", role: "실장", photo: "/team/kimyj.jpg" },
+  { name: "백승수", role: "사무장", photo: "/team/baekss-20260927-320.webp" },
+  { name: "김영주", role: "실장", photo: "/team/kimyj-20260927-320.webp" },
 ]
 
 function MemberCard({ member }: { member: { name: string; role: string; photo: string } }) {

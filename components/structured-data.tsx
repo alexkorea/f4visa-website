@@ -139,7 +139,7 @@ export function ArticleJsonLd({
     },
     publisher: {
       "@type": "Organization",
-      name: partner ? "택스가이드 세무사사무소" : SITE.name,
+      name: partner ? "택스가이드 세무회계사무소" : SITE.name,
       url: SITE.url,
       logo: {
         "@type": "ImageObject",

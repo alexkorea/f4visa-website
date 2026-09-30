@@ -26,7 +26,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   if (!post) return { title: "Not Found" }
   const BASE_URL = SITE.url
   const metaIsTaxGuide = post.partner === "taxguide"
-  const brand = metaIsTaxGuide ? "택스가이드 세무사사무소" : "행정사사무소 이룸"
+  const brand = metaIsTaxGuide ? "택스가이드 세무회계사무소" : "행정사사무소 이룸"
   return {
     title: metaIsTaxGuide ? { absolute: `${post.title} | ${brand}` } : post.title,
     description: post.excerpt,
@@ -85,7 +85,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
               </div>
               <h1 className="mt-4 text-3xl lg:text-4xl">{post.title}</h1>
               <p className="mt-4 text-base" style={{ color: "rgba(255,255,255,0.75)" }}>
-                {isTaxGuide ? "협력 세무사 박동국 (택스가이드 세무사사무소)" : `${SITE.name} · 최종 업데이트 ${post.date}`}
+                {isTaxGuide ? "협력 세무사 박동국 (택스가이드 세무회계사무소)" : `${SITE.name} · 최종 업데이트 ${post.date}`}
               </p>
             </div>
           </div>
@@ -111,11 +111,11 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
                       <img src="/partners/park-dongguk.jpg" alt="박동국 세무사" className="w-20 h-20 rounded-full object-cover border shrink-0" />
                       <div>
                         <p className="text-xs text-muted-foreground mb-2">협력 세무사</p>
-                        <p className="font-bold text-foreground">박동국 세무사 <span className="font-normal text-sm text-muted-foreground">| 택스가이드 세무사사무소</span></p>
+                        <p className="font-bold text-foreground">박동국 세무사 <span className="font-normal text-sm text-muted-foreground">| 택스가이드 세무회계사무소</span></p>
                         <p className="text-sm text-muted-foreground mt-2">국내·해외 세무를 통합적으로 해결하는 글로벌 세무 전문성. 외국인·외국법인·재외국민 세무 컨설팅.</p>
                       </div>
                     </div>
-                    <img src="/partners/park-dongguk-card.jpg" alt="박동국 세무사 명함 - 택스가이드 세무사사무소" className="mt-6 w-full max-w-md rounded-xl border" />
+                    <img src="/partners/park-dongguk-card.jpg" alt="박동국 세무사 명함 - 택스가이드 세무회계사무소" className="mt-6 w-full max-w-md rounded-xl border" />
                   </div>
                 ) : (
                   <InlineCTAForm />
@@ -131,11 +131,11 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
                     <div className="flex flex-col items-center text-center">
                       <img src="/partners/park-dongguk.jpg" alt="박동국 세무사" className="w-24 h-24 rounded-full object-cover border mb-2" />
                       <p className="font-semibold text-sm text-foreground">박동국 세무사</p>
-                      <p className="text-xs text-muted-foreground mb-2">택스가이드 세무사사무소</p>
+                      <p className="text-xs text-muted-foreground mb-2">택스가이드 세무회계사무소</p>
                       <div className="text-sm text-foreground space-y-2">
                         <p>전화 <a href="tel:0284633398" className="font-semibold text-primary">02-846-3398</a></p>
                         <p>카카오톡 <span className="font-semibold">dgtax21</span></p>
-                        <p className="text-xs break-all text-muted-foreground">taxguide21@wehago.com</p>
+                        <p className="text-xs break-all text-muted-foreground">dgtax21@naver.com</p>
                       </div>
                     </div>
                   </div>
@@ -182,7 +182,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
                   <div className="rounded-2xl bg-primary p-6 text-primary-foreground">
                     <h3 className="font-semibold mb-2">세무 상담이 필요하신가요?</h3>
                     <p className="text-sm text-primary-foreground/80 mb-4">
-                      협력 세무사 박동국(택스가이드 세무사사무소)이 외국인·재외국민 세무를 직접 상담합니다.
+                      협력 세무사 박동국(택스가이드 세무회계사무소)이 외국인·재외국민 세무를 직접 상담합니다.
                     </p>
                     <a
                       href="tel:0284633398"

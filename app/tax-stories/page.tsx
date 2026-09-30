@@ -13,11 +13,11 @@ export const revalidate = 60
 
 export const metadata: Metadata = {
   title: "세금 이야기 — 재외동포·F-4 비자 세금 가이드",
-  description: "재외동포와 F-4 비자 소지자의 부동산 취득세, 등기, 종합소득세 신고 등 세금 실무를 협력 세무사(박동국 세무사·택스가이드 세무사사무소)와 함께 정리한 가이드 모음입니다.",
+  description: "재외동포와 F-4 비자 소지자의 부동산 취득세, 등기, 종합소득세 신고 등 세금 실무를 협력 세무사(박동국 세무사·택스가이드 세무회계사무소)와 함께 정리한 가이드 모음입니다.",
   alternates: { canonical: `${SITE.url}/tax-stories` },
   openGraph: {
     title: "세금 이야기 — 재외동포·F-4 비자 세금 가이드 | 행정사사무소 이룸",
-    description: "재외동포와 F-4 비자 소지자의 부동산 취득세, 등기, 종합소득세 신고 등 세금 실무를 협력 세무사(박동국 세무사·택스가이드 세무사사무소)와 함께 정리한 가이드 모음입니다.",
+    description: "재외동포와 F-4 비자 소지자의 부동산 취득세, 등기, 종합소득세 신고 등 세금 실무를 협력 세무사(박동국 세무사·택스가이드 세무회계사무소)와 함께 정리한 가이드 모음입니다.",
     url: `${SITE.url}/tax-stories`,
     siteName: SITE.name,
     type: "website",
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "세금 이야기 — 재외동포·F-4 비자 세금 가이드 | 행정사사무소 이룸",
-    description: "재외동포와 F-4 비자 소지자의 부동산 취득세, 등기, 종합소득세 신고 등 세금 실무를 협력 세무사(박동국 세무사·택스가이드 세무사사무소)와 함께 정리한 가이드 모음입니다.",
+    description: "재외동포와 F-4 비자 소지자의 부동산 취득세, 등기, 종합소득세 신고 등 세금 실무를 협력 세무사(박동국 세무사·택스가이드 세무회계사무소)와 함께 정리한 가이드 모음입니다.",
   },
 }
 
@@ -60,11 +60,11 @@ export default async function TaxStoriesPage() {
               <img src="/partners/park-dongguk.jpg" alt="박동국 세무사" className="w-28 h-28 rounded-full object-cover border shrink-0" />
               <div className="flex-1 text-center md:text-left">
                 <p className="text-xs text-muted-foreground mb-2">협력 세무사</p>
-                <h2 className="text-xl font-bold text-foreground">박동국 세무사 <span className="text-sm font-normal text-muted-foreground">| 택스가이드 세무사사무소</span></h2>
-                <p className="text-sm text-muted-foreground mt-2">Korean Certified Tax Accountant · U.S. Enrolled Agent. 국내·해외 세무를 통합적으로 해결하는 글로벌 세무 전문성으로 외국인·외국법인·재외국민 세무를 직접 상담합니다.</p>
+                <h2 className="text-xl font-bold text-foreground">박동국 세무사 <span className="text-sm font-normal text-muted-foreground">| 택스가이드 세무회계사무소</span></h2>
+                <p className="text-sm text-muted-foreground mt-2">한국 세무사로서 외국인·외국법인·재외국민 세무를 직접 상담합니다.</p>
                 <p className="text-sm text-foreground mt-4">전화 <a href="tel:0284633398" className="inline-flex min-h-[44px] items-center font-semibold text-primary">02-846-3398</a> · 카카오톡 <span className="font-semibold">dgtax21</span> · dgtax21@naver.com</p>
               </div>
-              <img src="/partners/park-dongguk-card.jpg" alt="박동국 세무사 명함 - 택스가이드 세무사사무소" className="w-full max-w-xs rounded-xl border shrink-0" />
+              <img src="/partners/park-dongguk-card.jpg" alt="박동국 세무사 명함 - 택스가이드 세무회계사무소" className="w-full max-w-xs rounded-xl border shrink-0" />
             </div>
           </div>
         </section>

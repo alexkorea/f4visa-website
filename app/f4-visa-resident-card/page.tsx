@@ -6,6 +6,7 @@ import { SITE } from "@/lib/site"
 import { Faq, type FaqItem } from "@/components/faq"
 import { CtaSection } from "@/components/cta-section"
 import { ServiceJsonLd } from "@/components/structured-data"
+import { RelatedBlogLinks } from "@/components/related-blog-links"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { Button } from "@/components/ui/button"
 import { CheckCircle, FileText, ClipboardList, UserCheck } from "lucide-react"
@@ -225,6 +226,14 @@ export default function F4VisaResidentCardPage() {
             </div>
           </div>
         </section>
+
+        <RelatedBlogLinks
+          links={[
+            { slug: "f4-residence-card-issuance-period-by-immigration-office", label: "F-4 거소증 발급 기간과 출입국사무소별 차이", note: "접수 기관·서류 보완이 일정에 미치는 영향" },
+            { slug: "goso-jeung-remote-application-from-abroad", label: "해외에서 거소증 신청을 준비하는 방법", note: "해외에서 할 수 있는 준비와 본인 출석 단계" },
+            { slug: "geosojeung-agency-checklist", label: "거소증·F-4 업무를 행정사에게 맡길 때 확인할 점", note: "업무신고확인증·대행기관 등록·업무 범위" },
+          ]}
+        />
 
         <Faq items={faqs} />
 

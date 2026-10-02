@@ -25,10 +25,11 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const post = await getPostBySlug(slug)
   if (!post) return { title: "Not Found" }
   const BASE_URL = SITE.url
-  const metaIsTaxGuide = post.partner === "taxguide"
-  const brand = metaIsTaxGuide ? "택스가이드 세무회계사무소" : "행정사사무소 이룸"
+  // 세무글(partner: taxguide)도 발행 주체는 이룸이다. 협력 세무사 상호를 title·siteName 에
+  // 넣으면 타 브랜드 혼입이 된다(검색노출 지침 11장, 2026-10-03). 협력 세무사 연락처 박스는 본문에 유지.
+  const brand = SITE.name
   return {
-    title: metaIsTaxGuide ? { absolute: `${post.title} | ${brand}` } : post.title,
+    title: post.title,
     description: post.excerpt,
     alternates: { canonical: `${BASE_URL}/blog/${slug}` },
     openGraph: {
@@ -65,7 +66,6 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
         url={`${SITE.url}/blog/${slug}`}
         image={post.image.startsWith("http") ? post.image : `${SITE.url}${post.image}`}
         datePublished={post.date}
-        partner={isTaxGuide}
       />
       <Header />
       <main id="main" className="flex-1">
@@ -85,7 +85,9 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
               </div>
               <h1 className="mt-4 text-3xl lg:text-4xl">{post.title}</h1>
               <p className="mt-4 text-base" style={{ color: "rgba(255,255,255,0.75)" }}>
-                {isTaxGuide ? "협력 세무사 박동국 (택스가이드 세무회계사무소)" : `${SITE.name} · 최종 업데이트 ${post.date}`}
+                {isTaxGuide
+                  ? `${SITE.name} · 최종 업데이트 ${post.date} · 세무 상담: 협력 세무사 박동국`
+                  : `${SITE.name} · 최종 업데이트 ${post.date}`}
               </p>
             </div>
           </div>

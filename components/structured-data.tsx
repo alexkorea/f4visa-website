@@ -109,7 +109,6 @@ export function ArticleJsonLd({
   image,
   datePublished,
   dateModified,
-  partner,
 }: {
   title: string
   description: string
@@ -117,7 +116,6 @@ export function ArticleJsonLd({
   image: string
   datePublished: string
   dateModified?: string
-  partner?: boolean
 }) {
   const data = {
     "@context": "https://schema.org",
@@ -132,14 +130,17 @@ export function ArticleJsonLd({
       "@type": "WebPage",
       "@id": url,
     },
+    // 발행·저자 엔티티는 등록부 브랜드 C(이룸) 하나뿐이다 — 협력 세무사 글도 같다(2026-10-03).
     author: {
-      "@type": partner ? "Person" : "Organization",
-      name: partner ? "박동국 세무사" : SITE.name,
+      "@type": "Organization",
+      "@id": ORG_ID,
+      name: SITE.name,
       url: SITE.url,
     },
     publisher: {
       "@type": "Organization",
-      name: partner ? "택스가이드 세무회계사무소" : SITE.name,
+      "@id": ORG_ID,
+      name: SITE.name,
       url: SITE.url,
       logo: {
         "@type": "ImageObject",

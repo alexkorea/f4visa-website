@@ -7,6 +7,7 @@ import { SITE } from "@/lib/site"
 import { Faq, type FaqItem } from "@/components/faq"
 import { CtaSection } from "@/components/cta-section"
 import { ServiceJsonLd } from "@/components/structured-data"
+import { RelatedBlogLinks } from "@/components/related-blog-links"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { FileText, Building2, Scale, Award, ShieldCheck } from "lucide-react"
 
@@ -30,6 +31,11 @@ export const metadata: Metadata = {
 }
 
 const faqs: FaqItem[] = [
+  {
+    question: "65세 이후 국적을 회복하면 미국 국적을 유지할 수 있나요?",
+    answer:
+      "외국에서 거주하다가 영주할 목적으로 만 65세 이후에 입국해 국적회복허가를 받은 사람은, 국적을 취득한 날부터 1년 안에 외국 국적을 포기하는 대신 대한민국에서 외국 국적을 행사하지 않겠다는 서약을 할 수 있습니다(국적법 제10조제2항제4호). 1년 안에 포기나 서약 중 어느 것도 하지 않으면 그 기간이 지난 때 대한민국 국적을 상실합니다(같은 조 제3항). 국적회복은 법무부장관의 허가 사항이고 품행 등 심사를 거칩니다(국적법 제9조). 한국 국적 회복 뒤 미국 국적이 어떻게 되는지는 미국 법에 따르므로 미국 당국에 확인해야 합니다.",
+  },
   {
                   question: "외국국적 불행사 서약은 필수인가요?",
                   answer: "네, 복수국적 유지를 희망하는 경우 반드시 '외국국적 불행사 서약'을 해야 합니다. 이 서약을 하지 않으면 외국 국적을 포기해야 합니다.",
@@ -237,6 +243,14 @@ export default function NationalityRecoveryPage() {
             </div>
           </div>
         </section>
+
+        <RelatedBlogLinks
+          links={[
+            { slug: "korean-nationality-recovery-guide", label: "국적회복 신청 절차 가이드", note: "국적법 제9조 국적회복 허가 흐름" },
+            { slug: "overseas-korean-nationality-recovery-f4-transition", label: "국적회복과 F-4 체류의 관계", note: "국적회복 전후 체류자격 정리" },
+            { slug: "nationality-recovery-minor-children-accompanying", label: "국적회복 시 미성년 자녀 동반", note: "수반 취득 대상과 서류" },
+          ]}
+        />
 
         <Faq items={faqs} />
 

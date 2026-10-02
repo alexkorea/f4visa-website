@@ -5,6 +5,7 @@ import { SITE } from "@/lib/site"
 import { Faq, type FaqItem } from "@/components/faq"
 import { CtaSection } from "@/components/cta-section"
 import { ServiceJsonLd } from "@/components/structured-data"
+import { RelatedBlogLinks } from "@/components/related-blog-links"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
@@ -173,9 +174,14 @@ const table2Rows = [
 
 const faqs: FaqItem[] = [
   {
+    question: "부모가 한국 국적자였다면 F-4 신청에 어떤 서류가 필요한가요?",
+    answer:
+      "부모 등 직계존속이 대한민국 국민이었고 본인이 외국 국적을 취득했다면 F-4-42 대상입니다. 법무부 체류민원 자격별 안내 매뉴얼(2026.9.)은 ① 직계존속이 대한민국 국민이었던 사실을 증명하는 서류(가족관계기록사항에 관한 증명서, 제적등본 또는 폐쇄등록부 등), ② 여권 등 본인과 직계존속의 외국 국적 취득 원인과 연월일을 증명하는 서류, ③ 출생증명서 등 직계존비속 관계를 증명하는 서류를 정하고 있습니다. 공통으로 해외 범죄경력증명서와 한국어능력 입증서류를 내며, 만 60세 이상 등 면제 대상은 제출하지 않습니다. 신청서·여권·사진·수수료는 기본입니다.",
+  },
+  {
     question: "F-4 비자 세부코드는 어떻게 나뉘나요?",
     answer:
-      "「사증발급신청 등 첨부서류에 관한 고시」 국가에 해당하는지 여부에 따라 표가 나뉘며, 각 표에서 대상과 제출 서류가 세부코드별로 정해져 있습니다. 위 표에서 본인에게 해당하는 코드를 먼저 확인하세요.",
+      "2026년 2월 12일 동포 체류자격 통합 이후 법무부 체류민원 자격별 안내 매뉴얼(2026.9.)은 모든 국가의 동포에게 같은 기준을 적용하며, 재외동포(F-4) 사증발급 세부대상을 출생으로 대한민국 국적을 보유했다가 외국 국적을 취득한 사람(F-4-41)과 그 직계비속으로서 외국 국적을 취득한 사람(F-4-42)으로 안내합니다. 지역특화동포(F-4-R)는 별도 제도입니다. 아래 두 번째 표의 국가별 세부코드는 통합 이전 고시 기준이므로 신청 전에 현재 적용 여부를 확인해야 합니다.",
   },
   {
     question: "F-4-11, F-4-12 코드는 그대로 사용하나요?",
@@ -268,9 +274,12 @@ export default function F4VisaTypesPage() {
             <p className="mb-4 text-muted-foreground">
               F-4-13부터 F-4-99까지 세부 자격별 대상 및 제출 서류
             </p>
-            <p className="mb-8 text-sm text-primary font-medium">
+            <p className="mb-4 text-sm text-primary font-medium">
               세부코드의 확인이 필요합니다.
             </p>
+            <div className="mb-8 rounded-xl border border-border bg-secondary/30 p-4 text-sm text-muted-foreground">
+              <strong className="text-foreground">현행 기준 확인:</strong> 2026년 2월 12일 동포 체류자격 통합 이후 법무부 체류민원 자격별 안내 매뉴얼(2026.9.)은 모든 국가의 동포에게 같은 기준을 적용하고, 재외동포(F-4) 사증발급 세부대상을 F-4-41·F-4-42로 안내합니다. 아래 표는 통합 이전 국가별 고시 기준에 따른 세부코드이므로 신청 전에 현재 적용 여부를 확인하세요.
+            </div>
             <div className="overflow-x-auto rounded-2xl border border-border">
               <table className="w-full min-w-[700px] text-sm">
                 <thead>
@@ -310,6 +319,14 @@ export default function F4VisaTypesPage() {
             </div>
           </div>
         </section>
+
+        <RelatedBlogLinks
+          links={[
+            { slug: "f4-visa-us-citizens", label: "미국 시민권자 F-4 비자 신청 절차", note: "시민권증서·국적상실·가족관계서류 준비 순서" },
+            { slug: "f4-fbi-background-check-apostille", label: "F-4 FBI 범죄경력증명서와 아포스티유", note: "발급기관·6개월 유효기간·면제 대상" },
+            { slug: "f4-visa-military-service", label: "F-4 비자와 병역의무 — 남성 재외동포 제한 기준", note: "재외동포법 제5조 병역 관련 부여 제한" },
+          ]}
+        />
 
         <Faq items={faqs} />
 

@@ -7,6 +7,7 @@ import { SITE } from "@/lib/site"
 import { Faq, type FaqItem } from "@/components/faq"
 import { CtaSection } from "@/components/cta-section"
 import { ServiceJsonLd } from "@/components/structured-data"
+import { RelatedBlogLinks } from "@/components/related-blog-links"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { CheckCircle2 } from "lucide-react"
 
@@ -242,6 +243,14 @@ export default function PermanentResidencyPage() {
             </div>
           </div>
         </section>
+
+        <RelatedBlogLinks
+          links={[
+            { slug: "f4-to-f5-conversion-guide", label: "F-4에서 F-5 영주권 전환 요건·서류·절차", note: "동포 영주자격 전환 경로 정리" },
+            { slug: "f4-income-requirement-f5-permanent-residency", label: "F-4 소득과 F-5 영주권 소득 기준", note: "심사에서 보는 소득 인정 방식" },
+            { slug: "f5-permanent-residency-documents-review-guide", label: "F-5 영주권 신청 서류와 심사 포인트", note: "거소증 보유자의 전환 실무" },
+          ]}
+        />
 
         <Faq items={faqs} />
 

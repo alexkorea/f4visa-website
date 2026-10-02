@@ -7,6 +7,7 @@ import { SITE } from "@/lib/site"
 import { Faq, type FaqItem } from "@/components/faq"
 import { CtaSection } from "@/components/cta-section"
 import { ServiceJsonLd } from "@/components/structured-data"
+import { RelatedBlogLinks } from "@/components/related-blog-links"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { FileText, Building2, ClipboardCheck, CheckCircle2 } from "lucide-react"
 
@@ -30,6 +31,11 @@ export const metadata: Metadata = {
 }
 
 const faqs: FaqItem[] = [
+  {
+    question: "F-4를 신청하려면 한국 국적을 먼저 포기해야 하나요?",
+    answer:
+      "F-4는 외국국적동포, 즉 대한민국 국적을 보유했던 사람이나 그 직계비속으로서 외국 국적을 취득한 사람을 위한 체류자격입니다(재외동포법 제2조제2호). 스스로 외국 국적을 취득했다면 그때 대한민국 국적을 이미 상실했으므로(국적법 제15조제1항) 따로 포기 절차는 없고, 국적상실신고를 해야 합니다(국적법 제16조제1항). 출생으로 복수국적이 된 사람은 한국 국적이 남아 있어 대한민국 법령 적용에서 국민으로만 처우되므로(국적법 제11조의2제1항), 외국 국적을 선택하려면 국적이탈 신고를 거쳐야 합니다(국적법 제14조). 2018년 5월 1일 이후 국적을 이탈·상실한 남성은 병역을 마치거나 면제처분 등을 받지 않았다면 40세가 되는 해 12월 31일까지 F-4가 제한됩니다(재외동포법 제5조제2항제1호).",
+  },
   {
                   question: "서류 유효기간이 있나요?",
                   answer: "일반적으로 3개월 이내 발급 원본을 권장합니다. 기관 안내 기준을 우선합니다.",
@@ -248,6 +254,14 @@ export default function NationalityLossReportPage() {
             </ul>
           </div>
         </section>
+
+        <RelatedBlogLinks
+          links={[
+            { slug: "korean-nationality-loss-guide", label: "국적상실 신고 방법 — 외국 국적 취득 후 처리", note: "국적법 제15조·제16조 기준 절차" },
+            { slug: "f4-visa-us-citizens", label: "미국 시민권자 F-4 비자 신청 절차", note: "국적상실 정리 후 F-4 신청 흐름" },
+            { slug: "dual-nationality-korea-guide", label: "한국 이중국적 허용 기준", note: "복수국적이 가능한 경우와 불가능한 경우" },
+          ]}
+        />
 
         <Faq items={faqs} />
 

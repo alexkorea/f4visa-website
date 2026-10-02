@@ -2,18 +2,25 @@ import { SITE } from "@/lib/site"
 
 const ORG_ID = `${SITE.url}/#organization`
 
+// I3b(2026-10-03 맥7 결정): 타입은 Organization+ProfessionalService(LegalService 금지), sameAs 없음(브랜드 C 단독).
+// logo 는 헤더 로고(logo-eroom-*.webp)와 같은 그림의 원본 /logo.png. 값은 전부 lib/site.ts 단일 원천.
+const ORG_TYPE = ["Organization", "ProfessionalService"]
+
 export function OrganizationJsonLd() {
   const data = {
     "@context": "https://schema.org",
-    "@type": "ProfessionalService",
+    "@type": ORG_TYPE,
     "@id": ORG_ID,
     name: SITE.name,
     alternateName: SITE.nameEn,
+    legalName: SITE.name,
     url: SITE.url,
+    logo: `${SITE.url}/logo.png`,
+    description: "F-4 재외동포 비자, 국내거소신고증, 국적상실·이탈·회복 신고를 지원하는 행정사사무소 이룸.",
+    taxID: SITE.businessNumber,
+    founder: { "@type": "Person", name: SITE.representative },
     telephone: SITE.phoneOfficeIntl,
     email: SITE.email,
-    logo: `${SITE.url}/logo.png`,
-    image: `${SITE.url}/og-image.png`,
     address: {
       "@type": "PostalAddress",
       streetAddress: SITE.address.street,
@@ -22,23 +29,31 @@ export function OrganizationJsonLd() {
       postalCode: SITE.address.postalCode,
       addressCountry: SITE.address.country,
     },
-    founder: { "@type": "Person", name: SITE.representative, jobTitle: "대표행정사" },
+    contactPoint: [
+      {
+        "@type": "ContactPoint",
+        contactType: "customer service",
+        telephone: SITE.phoneOfficeIntl,
+        areaServed: "KR",
+        email: SITE.email,
+      },
+    ],
+    areaServed: { "@type": "Country", name: "South Korea" },
+    knowsAbout: [
+      "F-4 재외동포 비자",
+      "국내거소신고증(거소증)",
+      "F-4 비자 연장",
+      "국적상실 신고",
+      "국적이탈 신고",
+      "국적회복 신청",
+      "F-5 영주권",
+    ],
     openingHoursSpecification: {
       "@type": "OpeningHoursSpecification",
       dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
       opens: "09:30",
       closes: "17:30",
     },
-    serviceType: [
-      "F-4 재외동포 비자 신청",
-      "국내거소신고증(거소증) 발급",
-      "F-4 비자 연장",
-      "국적상실 신고",
-      "국적이탈 신고",
-      "국적회복 신청",
-      "F-5 영주권 신청",
-    ],
-    areaServed: { "@type": "Country", name: "KR" },
   }
 
   return (
@@ -85,7 +100,7 @@ export function ServiceJsonLd({
     description,
     url,
     provider: {
-      "@type": "ProfessionalService",
+      "@type": ORG_TYPE,
       "@id": ORG_ID,
       name: SITE.name,
       url: SITE.url,
@@ -202,7 +217,7 @@ export function FaqJsonLd({
   return (
     <script
       type="application/ld+json"
-      dangerouslySetInnerHTML={{ __html: JSON.stringify(data) }}
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(data).replace(/</g, "\\u003c") }}
     />
   )
 }

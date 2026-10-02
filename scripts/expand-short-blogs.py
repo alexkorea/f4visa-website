@@ -37,10 +37,10 @@ def ko_appendix(slug, title, visa_code):
 **A**: 네, 한국 주재 대사관 또는 총영사관에서 신청 가능합니다. 중국·일본·미국 등 주요 국가에 한국 공관이 설치되어 있습니다. 사전에 필요 서류를 확인하고 예약 후 방문하세요.
 
 ### Q2. 전문가에게 신청을 위임해야 하나요?
-**A**: {visa_str} 신청 서류는 복잡하여 서류 미비나 기재 오류 시 심사 지연 또는 불허 처리될 수 있습니다. 비전행정사사무소는 초회 상담 무료로 전문 지원을 제공합니다.
+**A**: {visa_str} 신청 서류는 복잡하여 서류 미비나 기재 오류 시 심사 지연 또는 불허 처리될 수 있습니다. 행정사사무소 이룸은 초회 상담 무료로 전문 지원을 제공합니다.
 
 ### Q3. 신청이 불허 처리된 경우 어떻게 하나요?
-**A**: 불허 통보 후 사유를 확인하고 개선 조치를 취해야 합니다. 비전행정사사무소는 불허 후 재신청 지원 서비스도 제공합니다.
+**A**: 불허 통보 후 사유를 확인하고 개선 조치를 취해야 합니다. 행정사사무소 이룸은 불허 후 재신청 지원 서비스도 제공합니다.
 
 ### Q4. 비자 갱신은 언제 신청해야 하나요?
 **A**: 비자 만료 2〜3개월 전부터 갱신 서류를 준비하고 신청하는 것을 권장합니다. 만료 직전 신청 시 심사 기간 중 비자가 만료될 수 있습니다.
@@ -76,7 +76,7 @@ T-Money 카드는 서울 지하철·버스 이용 및 편의점 결제에 사용
 
 ## 요약
 
-한국에서의 비자 신청 및 체류 수속에는 여러 단계가 수반되며, 서류 준비부터 신청 제출까지 정확한 대응이 요구됩니다. 비전행정사사무소는 풍부한 경험을 바탕으로 전 과정에서 전문 지원을 제공합니다.
+한국에서의 비자 신청 및 체류 수속에는 여러 단계가 수반되며, 서류 준비부터 신청 제출까지 정확한 대응이 요구됩니다. 행정사사무소 이룸은 풍부한 경험을 바탕으로 전 과정에서 전문 지원을 제공합니다.
 
 **체크포인트**
 1. ✅ 필요 서류 목록 사전 확인
@@ -84,19 +84,19 @@ T-Money 카드는 서울 지하철·버스 이용 및 편의점 결제에 사용
 3. ✅ 전문가 상담으로 최적 신청 전략 수립
 4. ✅ 현재 비자에서 영주권까지의 경로 파악
 
-궁금한 사항은 언제든지 비전행정사사무소에 문의하세요. **초회 상담 무료**입니다.
+궁금한 사항은 언제든지 행정사사무소 이룸에 문의하세요. **초회 상담 무료**입니다.
 
 📞 **전화**: 02-363-2251
-💬 **카카오톡·라인·위챗**: @VisionAdmin
+💬 **카카오톡**: alexkorea
 🕐 **상담 시간**: 평일 09:30〜18:30 KST
 """
 
     cta_ko = """
 ---
 
-## 비전행정사사무소의 전문 지원 서비스
+## 행정사사무소 이룸의 전문 지원 서비스
 
-비전행정사사무소(VISION)는 국내 외국인 비자 및 체류 수속에 특화된 전문 행정사사무소로 전 과정을 원스톱으로 지원합니다.
+행정사사무소 이룸은 국내 외국인 비자 및 체류 수속에 특화된 전문 행정사사무소로 전 과정을 원스톱으로 지원합니다.
 
 ### 주요 서비스
 
@@ -107,7 +107,7 @@ T-Money 카드는 서울 지하철·버스 이용 및 편의점 결제에 사용
 - ✅ 한국어·영어·중국어 전문 상담 (카카오톡·라인·위챗·왓츠앱)
 
 📞 **전화**: 02-363-2251
-💬 **카카오톡·라인·위챗·왓츠앱**: @VisionAdmin
+💬 **카카오톡**: alexkorea
 🕐 **상담 시간**: 평일 09:30〜18:30 KST
 
 **초회 상담 무료** → [바로 예약하기](/contact)
@@ -129,10 +129,10 @@ def en_appendix(slug, title, visa_code):
 **A**: Yes, you can apply at a Korean Embassy or Consulate in your country. Major locations include embassies in the US, UK, China, Japan, and many other countries. Always confirm the required documents and book an appointment in advance.
 
 ### Q2. Do I need a professional agent to apply?
-**A**: The {visa_str} application process involves complex documentation. Missing or incorrect documents can cause delays or rejections. VISION Administrative Office offers a free first consultation and professional support throughout.
+**A**: The {visa_str} application process involves complex documentation. Missing or incorrect documents can cause delays or rejections. EROOM Administrative Office offers a free first consultation and professional support throughout.
 
 ### Q3. What should I do if my application is denied?
-**A**: After receiving a denial, you must identify the reason and take corrective action. VISION Administrative Office provides re-application support services after a denial.
+**A**: After receiving a denial, you must identify the reason and take corrective action. EROOM Administrative Office provides re-application support services after a denial.
 
 ### Q4. When should I start the visa renewal process?
 **A**: We recommend beginning your renewal preparation 2-3 months before expiry. Starting too late risks running out of time if your visa expires during processing.
@@ -168,7 +168,7 @@ For long-term residents, learning basic Korean is highly beneficial. The Multicu
 
 ## Summary
 
-Navigating Korean visa applications and residency procedures involves multiple steps that require careful and accurate execution. VISION Administrative Office provides expert support based on extensive experience, helping you through each stage of the process.
+Navigating Korean visa applications and residency procedures involves multiple steps that require careful and accurate execution. EROOM Administrative Office provides expert support based on extensive experience, helping you through each stage of the process.
 
 **Key Checkpoints**
 1. ✅ Confirm your required document checklist in advance
@@ -176,19 +176,19 @@ Navigating Korean visa applications and residency procedures involves multiple s
 3. ✅ Consult a professional to build an optimal application strategy
 4. ✅ Understand the path from your current visa to permanent residency
 
-Contact VISION Administrative Office any time — **first consultation is free**.
+Contact EROOM Administrative Office any time — **first consultation is free**.
 
 📞 **Phone**: 02-363-2251
-💬 **KakaoTalk · LINE · WeChat · WhatsApp**: @VisionAdmin
+💬 **KakaoTalk**: alexkorea
 🕐 **Hours**: Mon–Fri 09:30–18:30 KST
 """
 
     cta_en = """
 ---
 
-## VISION Administrative Office Support
+## EROOM Administrative Office Support
 
-VISION Administrative Office specializes in Korean immigration and residency procedures, providing one-stop professional support for foreign nationals in Korea.
+EROOM Administrative Office specializes in Korean immigration and residency procedures, providing one-stop professional support for foreign nationals in Korea.
 
 ### Our Services
 
@@ -199,7 +199,7 @@ VISION Administrative Office specializes in Korean immigration and residency pro
 - ✅ Professional consultation in Korean, English, Chinese, and Japanese
 
 📞 **Phone**: 02-363-2251
-💬 **KakaoTalk · LINE · WeChat · WhatsApp**: @VisionAdmin
+💬 **KakaoTalk**: alexkorea
 🕐 **Hours**: Mon–Fri 09:30–18:30 KST
 
 **Free First Consultation** → [Book Now](/contact)

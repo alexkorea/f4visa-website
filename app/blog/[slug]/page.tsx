@@ -5,7 +5,8 @@ import { notFound } from "next/navigation"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
-import { ArticleJsonLd } from "@/components/structured-data"
+import { ArticleJsonLd, FaqJsonLd } from "@/components/structured-data"
+import { splitFaq } from "@/lib/faq-extract"
 import { getAllPosts, getPostBySlug } from "@/lib/blog"
 import { SITE } from "@/lib/site"
 import { Calendar, Tag, ArrowLeft } from "lucide-react"
@@ -54,6 +55,8 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
   const post = await getPostBySlug(slug)
   if (!post) notFound()
   const isTaxGuide = post.partner === "taxguide"
+  // FAQPage 는 화면 본문 FAQ 에서 뽑는다(단일 원천, I3b 2026-10-03). 뽑히면 원고 속 수기 FAQPage 는 걷어낸다.
+  const { html: bodyHtml, faqs } = splitFaq(post.content)
 
   const allPosts = await getAllPosts()
   const relatedPosts = allPosts.filter((p) => p.slug !== post.slug).slice(0, 3)
@@ -67,6 +70,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
         image={post.image.startsWith("http") ? post.image : `${SITE.url}${post.image}`}
         datePublished={post.date}
       />
+      {faqs.length > 0 && <FaqJsonLd questions={faqs.map((f) => ({ question: f.q, answer: f.a }))} />}
       <Header />
       <main id="main" className="flex-1">
         <PageBreadcrumb items={[{ label: "블로그", path: "/blog" }, { label: post.title, path: `/blog/${slug}` }]} />
@@ -105,7 +109,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
                 </Link>
                 <article
                   className="prose"
-                  dangerouslySetInnerHTML={{ __html: post.content }}
+                  dangerouslySetInnerHTML={{ __html: bodyHtml }}
                 />
                 {isTaxGuide ? (
                   <div className="mt-8 rounded-2xl border border-border bg-card p-6">

@@ -22,7 +22,7 @@ slug: "overseas-korean-domestic-residence-report"
 <li>필요 서류에는 여권, 주민등록증 사본이 포함됩니다.</li>
 </ul></div>
 
-<h2 id="section-process">재외동포 국내거소신고 절차
+<h2 id="section-process">재외동포 국내거소신고 절차</h2>
 
 재외동포의 국내거소신고 절차는 다음과 같습니다. 
 
@@ -31,7 +31,7 @@ slug: "overseas-korean-domestic-residence-report"
 3. **신고서 제출**: 작성한 신고서와 함께 필요한 서류를 제출합니다.
 4. **확인 및 처리**: 제출한 서류가 확인되면, 거소 등록이 완료됩니다. 일반적으로 1-2주 소요될 수 있습니다.
 
-<h2 id="section-benefits">재외동포 국내거소신고의 혜택
+<h2 id="section-benefits">재외동포 국내거소신고의 혜택</h2>
 
 재외동포의 국내거소신고를 통해 받을 수 있는 주요 혜택은 다음과 같습니다:
 
@@ -41,7 +41,7 @@ slug: "overseas-korean-domestic-residence-report"
 4. **사회복지 혜택**: 다양한 사회복지 혜택과 지원을 받을 수 있는 자격이 주어집니다.
 5. **투자 및 사업 기회**: 한국에서의 투자 및 사업 운영이 수월해집니다.
 
-<h2 id="section-documents">필요 서류
+<h2 id="section-documents">필요 서류</h2>
 
 재외동포가 국내거소신고를 하기 위해 준비해야 할 서류는 다음과 같습니다:
 
@@ -63,7 +63,7 @@ slug: "overseas-korean-domestic-residence-report"
 </tr>
 </table>
 
-<h2 id="section-common-mistakes">재외동포 신고 시 흔한 실수
+<h2 id="section-common-mistakes">재외동포 신고 시 흔한 실수</h2>
 
 재외동포가 국내거소신고를 하면서 흔히 저지르는 실수는 다음과 같습니다:
 
@@ -73,7 +73,7 @@ slug: "overseas-korean-domestic-residence-report"
 2. **잘못된 신고서 작성**: 신고서의 항목을 정확히 기재하지 않는 경우
 3. **주소 확인 미비**: 거소지 주소를 증명할 수 있는 서류를 제출하지 않는 경우
 
-<h2 id="section-faq">자주 묻는 질문(FAQ)
+<h2 id="section-faq">자주 묻는 질문(FAQ)</h2>
 
 <h3>Q: 재외동포 국내거소신고는 어디에서 할 수 있나요?
 A: 관할 구청이나 주민센터에서 신고할 수 있습니다.
@@ -152,7 +152,7 @@ T-Money 카드는 서울 지하철·버스 이용 및 편의점 결제에 사용
 궁금한 사항은 언제든지 행정사사무소 이룸에 문의하세요. **초회 상담 무료**입니다.
 
 📞 **전화**: 02-363-2251
-💬 **카카오톡·라인·위챗**: @VisionAdmin
+💬 **카카오톡**: alexkorea
 🕐 **상담 시간**: 평일 09:30〜18:30 KST
 
 ---
@@ -170,7 +170,7 @@ T-Money 카드는 서울 지하철·버스 이용 및 편의점 결제에 사용
 - ✅ 한국어·영어·중국어 전문 상담 (카카오톡·라인·위챗·왓츠앱)
 
 📞 **전화**: 02-363-2251
-💬 **카카오톡·라인·위챗·왓츠앱**: @VisionAdmin
+💬 **카카오톡**: alexkorea
 🕐 **상담 시간**: 평일 09:30〜18:30 KST
 
 **초회 상담 무료** → [바로 예약하기](/contact)

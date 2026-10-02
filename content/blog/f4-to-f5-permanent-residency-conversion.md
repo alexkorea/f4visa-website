@@ -22,7 +22,7 @@ F-4 비자에서 F-5 영주권으로 전환하기 위해서는 몇 가지 요건
 <li>전환 절차는 관할 출입국 관리소에서 진행</li>
 </ul></div>
 
-<h2 id="eligibility">F-5 영주권 전환 요건
+<h2 id="eligibility">F-5 영주권 전환 요건</h2>
 
 F-4에서 F-5 영주권으로의 전환을 위해서는 다음과 같은 요건을 충족해야 합니다:
 
@@ -31,7 +31,7 @@ F-4에서 F-5 영주권으로의 전환을 위해서는 다음과 같은 요건�
 3. **경제적 자립**: 한국에서의 경제적 자립을 증명할 수 있는 서류(예: 소득 증명서, 세금 신고서 등)가 필요합니다.
 4. **범죄 기록 없음**: 범죄 기록이 없어야 하며, 관련 서류를 제출해야 합니다.
 
-<h2 id="procedure">전환 절차
+<h2 id="procedure">전환 절차</h2>
 
 F-4 비자에서 F-5 영주권으로의 전환 절차는 다음과 같습니다:
 
@@ -42,7 +42,7 @@ F-4 비자에서 F-5 영주권으로의 전환 절차는 다음과 같습니다:
 
 <table style="width:100%;border-collapse:collapse;margin:20px 0"><tr style="background:#1e40af;color:white"><th style="padding:12px;text-align:left;border:1px solid #e5e7eb">단계</th><th style="padding:12px;text-align:left;border:1px solid #e5e7eb">내용</th></tr><tr><td style="padding:12px;border:1px solid #e5e7eb">1</td><td style="padding:12px;border:1px solid #e5e7eb">신청서 제출</td></tr><tr><td style="padding:12px;border:1px solid #e5e7eb">2</td><td style="padding:12px;border:1px solid #e5e7eb">서류 심사</td></tr><tr><td style="padding:12px;border:1px solid #e5e7eb">3</td><td style="padding:12px;border:1px solid #e5e7eb">면접 (필요 시)</td></tr><tr><td style="padding:12px;border:1px solid #e5e7eb">4</td><td style="padding:12px;border:1px solid #e5e7eb">결과 통보</td></tr></table>
 
-<h2 id="documents">필요 서류
+<h2 id="documents">필요 서류</h2>
 
 F-4에서 F-5 영주권으로 전환하기 위해 필요한 서류는 다음과 같습니다:
 
@@ -53,11 +53,11 @@ F-4에서 F-5 영주권으로 전환하기 위해 필요한 서류는 다음과 
 - 범죄 기록 증명서
 - 기타 필요한 서류 (관할 기관 확인 필요)
 
-<h2 id="common-mistakes">일반적인 실수
+<h2 id="common-mistakes">일반적인 실수</h2>
 
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">⚠️ <strong>주의:</strong> 서류 제출 시 필요한 서류를 누락하는 경우가 많습니다. 모든 서류를 철저히 확인하고 준비하는 것이 중요합니다.</div>
 
-<h2 id="faq">자주 묻는 질문
+<h2 id="faq">자주 묻는 질문</h2>
 
 <h3>Q: F-4 비자로 한국에 몇 년 이상 거주해야 하나요?
 A: 일반적으로 F-4 비자로 2년 이상 거주해야 F-5 영주권으로 전환이 가능합니다.
@@ -138,7 +138,7 @@ T-Money 카드는 서울 지하철·버스 이용 및 편의점 결제에 사용
 궁금한 사항은 언제든지 행정사사무소 이룸에 문의하세요. **초회 상담 무료**입니다.
 
 📞 **전화**: 02-363-2251
-💬 **카카오톡·라인·위챗**: @VisionAdmin
+💬 **카카오톡**: alexkorea
 🕐 **상담 시간**: 평일 09:30〜18:30 KST
 
 ---
@@ -156,7 +156,7 @@ T-Money 카드는 서울 지하철·버스 이용 및 편의점 결제에 사용
 - ✅ 한국어·영어·중국어 전문 상담 (카카오톡·라인·위챗·왓츠앱)
 
 📞 **전화**: 02-363-2251
-💬 **카카오톡·라인·위챗·왓츠앱**: @VisionAdmin
+💬 **카카오톡**: alexkorea
 🕐 **상담 시간**: 평일 09:30〜18:30 KST
 
 **초회 상담 무료** → [바로 예약하기](/contact)

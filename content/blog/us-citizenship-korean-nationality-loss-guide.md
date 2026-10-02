@@ -30,7 +30,7 @@ slug: "us-citizenship-korean-nationality-loss-guide"
 
 ---
 
-<h2 id="section-1">1. 국적법 제15조 — 자동 상실의 법적 근거
+<h2 id="section-1">1. 국적법 제15조 — 자동 상실의 법적 근거</h2>
 
 ### 조문의 핵심 내용
 
@@ -82,7 +82,7 @@ slug: "us-citizenship-korean-nationality-loss-guide"
 
 ---
 
-<h2 id="section-2">2. 국적상실 시점은 정확히 언제인가
+<h2 id="section-2">2. 국적상실 시점은 정확히 언제인가</h2>
 
 ### 미국 시민권 선서일 = 한국 국적 상실일
 
@@ -127,7 +127,7 @@ slug: "us-citizenship-korean-nationality-loss-guide"
 
 ---
 
-<h2 id="section-3">3. 국적상실신고 — 절차와 준비 서류
+<h2 id="section-3">3. 국적상실신고 — 절차와 준비 서류</h2>
 
 ### 신고 의무 기한
 
@@ -171,7 +171,7 @@ slug: "us-citizenship-korean-nationality-loss-guide"
 
 ---
 
-<h2 id="section-4">4. 국적상실신고를 안 하면 생기는 실제 불이익
+<h2 id="section-4">4. 국적상실신고를 안 하면 생기는 실제 불이익</h2>
 
 ### 행정상 문제
 
@@ -245,7 +245,7 @@ slug: "us-citizenship-korean-nationality-loss-guide"
 </figure>
 
 
-<h2 id="section-5">5. 국적 상실 후 한국 여권 사용 — 여권법 위반
+<h2 id="section-5">5. 국적 상실 후 한국 여권 사용 — 여권법 위반</h2>
 
 ### 한국 여권은 즉시 효력을 잃는다
 
@@ -269,7 +269,7 @@ slug: "us-citizenship-korean-nationality-loss-guide"
 
 ---
 
-<h2 id="section-6">6. 국적 상실 이후 한국 체류 — F-4 재외동포 비자
+<h2 id="section-6">6. 국적 상실 이후 한국 체류 — F-4 재외동포 비자</h2>
 
 ### F-4 비자란
 
@@ -359,7 +359,7 @@ F-4 비자 신청 → 심사 → 거소허가번호 발급 → 거소증(체류�
 
 ---
 
-<h2 id="section-7">7. 자주 하는 실수 5가지
+<h2 id="section-7">7. 자주 하는 실수 5가지</h2>
 
 ### 실수 1: "국적상실신고를 안 하면 아직 한국 국적이 있다"고 착각
 
@@ -387,7 +387,7 @@ F-4 비자 신청에 필요한 무범죄경력조회서의 유효기간은 <stro
 
 ---
 
-<h2 id="section-8">8. 자주 묻는 질문 (FAQ)
+<h2 id="section-8">8. 자주 묻는 질문 (FAQ)</h2>
 
 **Q1. 미국 시민권을 취득했지만 국적상실신고를 아직 안 했습니다. 한국에 입국할 수 있나요?**
 
@@ -411,7 +411,7 @@ F-4 비자 신청에 필요한 무범죄경력조회서의 유효기간은 <stro
 
 ---
 
-<h2 id="section-cta">9. 국적상실 신고 무료 상담 신청
+<h2 id="section-cta">9. 국적상실 신고 무료 상담 신청</h2>
 
 미국 시민권 취득 후 국적상실신고, F-4 비자 신청까지 한 번에 처리하고 싶으신 분은 행정사사무소 이룸로 연락 주세요.
 

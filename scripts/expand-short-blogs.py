@@ -87,7 +87,6 @@ T-Money 카드는 서울 지하철·버스 이용 및 편의점 결제에 사용
 궁금한 사항은 언제든지 행정사사무소 이룸에 문의하세요. **초회 상담 무료**입니다.
 
 📞 **전화**: 02-363-2251
-💬 **카카오톡**: alexkorea
 🕐 **상담 시간**: 평일 09:30〜18:30 KST
 """
 
@@ -107,7 +106,6 @@ T-Money 카드는 서울 지하철·버스 이용 및 편의점 결제에 사용
 - ✅ 한국어·영어·중국어 전문 상담 (카카오톡·라인·위챗·왓츠앱)
 
 📞 **전화**: 02-363-2251
-💬 **카카오톡**: alexkorea
 🕐 **상담 시간**: 평일 09:30〜18:30 KST
 
 **초회 상담 무료** → [바로 예약하기](/contact)
@@ -179,7 +177,6 @@ Navigating Korean visa applications and residency procedures involves multiple s
 Contact EROOM Administrative Office any time — **first consultation is free**.
 
 📞 **Phone**: 02-363-2251
-💬 **KakaoTalk**: alexkorea
 🕐 **Hours**: Mon–Fri 09:30–18:30 KST
 """
 
@@ -199,7 +196,6 @@ EROOM Administrative Office specializes in Korean immigration and residency proc
 - ✅ Professional consultation in Korean, English, Chinese, and Japanese
 
 📞 **Phone**: 02-363-2251
-💬 **KakaoTalk**: alexkorea
 🕐 **Hours**: Mon–Fri 09:30–18:30 KST
 
 **Free First Consultation** → [Book Now](/contact)

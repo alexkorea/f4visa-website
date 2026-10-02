@@ -76,4 +76,19 @@ if (!fs.existsSync(path.join(ASSETS, '_routes.json'))) {
   process.exit(1)
 }
 
+// ── 풋터 사업자번호 게이트 (2026-10-03 맥7 지시, 보스 msg 1677) ─────────────────
+// 방금 빌드한 .next 를 로컬 next start 로 띄워 홈 + 사이트맵 표본 30쪽의 <footer> 에
+// 사업자등록번호(정본 NAS brand_registry.json)가 없으면 조립 실패 → 배포 중단.
+// 수동 배포와 19:00 자동화(daily-blog-4am.mjs cfBuildAndDeploy)가 모두 이 스크립트를 거친다.
+{
+  const { spawnSync } = await import('node:child_process')
+  spawnSync('/bin/sh', ['-c', 'lsof -ti tcp:4395 | xargs kill 2>/dev/null'])
+  const g = spawnSync(process.execPath, ['/Users/mac4/scripts/bizno-footer-gate.mjs', 'f4visa',
+    '--start', 'npx next start -p 4395', '--url', 'http://127.0.0.1:4395', '--sample', '30'], { cwd: ROOT, stdio: 'inherit' })
+  if (g.status !== 0) {
+    console.error('풋터 사업자번호 게이트 FAIL — 배포 중단')
+    process.exit(1)
+  }
+}
+
 console.log('Pages 번들 준비 완료 → .open-next/assets (_worker.js + cloudflare/middleware/server-functions + cdn-cgi/_next_cache)')

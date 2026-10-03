@@ -311,7 +311,7 @@ H-2로 공장에서 단순조립 일을 2년 하고 그 경력으로 F-4를 받�
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">2</td>
       <td style="border:1px solid #e5e7eb;padding:10px">중국 무범죄조회서 발급 (6개월 유효)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2~4주</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">발급 기관 사정에 따라 다름</td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">3</td>
@@ -326,12 +326,12 @@ H-2로 공장에서 단순조립 일을 2년 하고 그 경력으로 F-4를 받�
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">5</td>
       <td style="border:1px solid #e5e7eb;padding:10px">출입국사무소 방문 예약 및 체류자격 변경 신청</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">예약 대기 2~6주</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">예약 가능일에 따라 다름</td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">6</td>
       <td style="border:1px solid #e5e7eb;padding:10px">심사 및 결과 통보</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2~4주</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">기관 사정에 따라 다름</td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">7</td>

@@ -373,17 +373,17 @@ F-4는 크게 두 경로로 받습니다. 어느 쪽이 빠를지는 현재 위�
   <tbody>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">FBI 범죄경력증명서</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2~6주</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">기관 사정에 따라 다름</td>
       <td style="border:1px solid #e5e7eb;padding:10px">채널러 이용 시 단축</td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">아포스티유</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1~4주</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">기관 사정에 따라 다름</td>
       <td style="border:1px solid #e5e7eb;padding:10px">주별로 차이</td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">국적상실신고</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1~3개월</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">기관 사정에 따라 다름</td>
       <td style="border:1px solid #e5e7eb;padding:10px">가족관계등록부 반영까지 포함</td>
     </tr>
     <tr>

@@ -76,7 +76,7 @@ F-4 비자는 발급 근거가 같아도, **어디서 신청하느냐에 따라 
 
 ### 사전 준비 단계
 
-예약이 가장 먼저입니다. 대부분의 영사관은 **온라인 예약제**로 운영되고, 성수기에는 예약만 2~6주가 밀립니다. 예약 날짜에 맞춰 서류를 역산해서 준비해야 합니다.
+예약이 가장 먼저입니다. 대부분의 영사관은 **온라인 예약제**로 운영되고, 성수기에는 예약이 밀릴 수 있습니다. 예약 날짜에 맞춰 서류를 역산해서 준비해야 합니다.
 
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
   <strong style="color:#92400e">⚠️ 주의:</strong> 무범죄조회서(Background Check)는 발급일로부터 <strong>6개월</strong> 이내만 유효합니다. FBI 기록 발급은 발급 기관 사정에 따라 오래 걸리는 경우가 많아, 먼저 의뢰해두고 다른 서류를 준비해야 예약일에 맞출 수 있습니다.
@@ -172,7 +172,7 @@ F-4 비자는 발급 근거가 같아도, **어디서 신청하느냐에 따라 
 
 ### 하이코리아 예약과 제출
 
-현장에서는 "워크인(walk-in)"이 사실상 안 됩니다. **hikorea.go.kr**에서 방문 예약을 먼저 잡아야 하고, 지역(서울남부·양천·수원·부산 등)마다 대기가 다릅니다. 서울남부 출입국은 특히 F-4 접수가 몰려 예약 자체가 2~4주 밀리는 일이 흔합니다.
+현장에서는 "워크인(walk-in)"이 사실상 안 됩니다. **hikorea.go.kr**에서 방문 예약을 먼저 잡아야 하고, 지역(서울남부·양천·수원·부산 등)마다 대기가 다릅니다. F-4 접수가 몰리는 관서는 예약 자체가 밀릴 수 있습니다.
 
 ### 처리 흐름
 
@@ -202,13 +202,13 @@ F-4 비자는 발급 근거가 같아도, **어디서 신청하느냐에 따라 
   <tbody>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">예약 대기</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2~6주(영사관별)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2~4주(하이코리아)</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">영사관별로 다름</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">예약 가능일에 따라 다름(하이코리아)</td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">심사 소요</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2~6주</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2~5주</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">기관 사정에 따라 다름</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">기관 사정에 따라 다름</td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">사증 수수료</td>
@@ -227,13 +227,13 @@ F-4 비자는 발급 근거가 같아도, **어디서 신청하느냐에 따라 
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">무범죄서 준비</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">FBI 4~8주</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">FBI 4~8주(동일)</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">발급 기관 사정에 따라 다름</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">발급 기관 사정에 따라 다름(동일)</td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">총 소요(체감)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">8~14주</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">6~10주</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">기관 사정에 따라 다름</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">기관 사정에 따라 다름</td>
     </tr>
   </tbody>
 </table>
@@ -291,7 +291,7 @@ F-4를 말할 때 **국적상실신고**를 빼놓을 수 없습니다. 국적�
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">4</td>
       <td style="border:1px solid #e5e7eb;padding:10px">무범죄서·아포스티유 준비</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">FBI 기준 4~8주</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">발급 기관 사정에 따라 다름</td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">5</td>

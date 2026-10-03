@@ -393,7 +393,7 @@ F-4는 크게 두 경로로 받습니다. 어느 쪽이 빠를지는 현재 위�
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">거소증 수령</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2~4주</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">관할 출입국 사정에 따라 다름</td>
       <td style="border:1px solid #e5e7eb;padding:10px">발급 후 우편 수령 가능</td>
     </tr>
   </tbody>

@@ -11,12 +11,12 @@ import Link from "next/link"
 import { Button } from "@/components/ui/button"
 
 export const metadata = {
-  title: "F-4 비자 종류 — 대상별 사증발급 첨부서류",
+  title: "F-4-42 변경 안내 — F-4 비자 종류와 대상별 사증발급 첨부서류",
   description:
     "F-4 재외동포 비자의 대상 구분과 사증발급신청 시 첨부서류 고시 내용을 유형별로 정리했습니다. 본인 상황에 해당하는 서류 목록을 확인하고 준비 순서를 잡을 수 있습니다.",
   alternates: { canonical: `${SITE.url}/f4-visa-types` },
   openGraph: {
-    title: "F-4 비자 종류 — 대상별 사증발급 첨부서류 | 행정사사무소 이룸",
+    title: "F-4-42 변경 안내 — F-4 비자 종류와 대상별 사증발급 첨부서류 | 행정사사무소 이룸",
     description: "F-4 재외동포 비자의 대상 구분과 사증발급신청 시 첨부서류 고시 내용을 유형별로 정리했습니다. 본인 상황에 해당하는 서류 목록을 확인하고 준비 순서를 잡을 수 있습니다.",
     url: `${SITE.url}/f4-visa-types`,
     siteName: SITE.name,
@@ -24,7 +24,7 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image" as const,
-    title: "F-4 비자 종류 — 대상별 사증발급 첨부서류 | 행정사사무소 이룸",
+    title: "F-4-42 변경 안내 — F-4 비자 종류와 대상별 사증발급 첨부서류 | 행정사사무소 이룸",
     description: "F-4 재외동포 비자의 대상 구분과 사증발급신청 시 첨부서류 고시 내용을 유형별로 정리했습니다. 본인 상황에 해당하는 서류 목록을 확인하고 준비 순서를 잡을 수 있습니다.",
   },
 }

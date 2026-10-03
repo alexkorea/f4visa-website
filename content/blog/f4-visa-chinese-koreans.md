@@ -336,7 +336,7 @@ H-2로 공장에서 단순조립 일을 2년 하고 그 경력으로 F-4를 받�
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">7</td>
       <td style="border:1px solid #e5e7eb;padding:10px">F-4 국내거소신고 및 거소증 수령</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1~2주</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">관할 출입국 사정에 따라 다름</td>
     </tr>
   </tbody>
 </table>

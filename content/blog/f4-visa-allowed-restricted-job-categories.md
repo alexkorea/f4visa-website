@@ -1,5 +1,5 @@
 ---
-title: "F-4 비자 취업 가능 업종과 제한 업종 총정리 — 단순노무 기준까지"
+title: "F-4 단순노무 판단 기준과 인구감소지역 예외"
 visa: F-4
 date: "2026-08-05"
 category: "F-4비자"
@@ -7,11 +7,13 @@ excerpt: "F-4 재외동포 비자로 일할 수 있는 업종과 단순노무 �
 image: "/og/f4-visa-allowed-restricted-job-categories.png"
 slug: "f4-visa-allowed-restricted-job-categories"
 ---
-# F-4 비자 취업 가능 업종과 제한 업종 총정리 — 단순노무 기준까지
+# F-4 단순노무 판단 기준과 인구감소지역 예외
 
 **F-4 비자 취업 가능 업종**은 단순노무, 사행행위, 선량한 풍속에 반하는 업종 세 가지만 피하면 사실상 대부분의 직종이 열려 있습니다.
 대상은 거소신고를 마친 F-4 재외동포 비자 소지자이며, 어떤 일이 단순노무에 해당하는지 판단하는 책임은 결국 본인에게 돌아옵니다.
 아래에서 허용 업종의 범위, 제한되는 세 가지 유형, 단순노무 판단 기준, 인구감소지역 예외, 위반 시 불이익까지 다룹니다.
+
+업종 전체의 허용·제한 기준은 [F-4 비자 취업 가능 업종](/blog/f4-visa-work-industry-scope-guide) 정리 글에서 한 번에 확인할 수 있습니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
   <h3 style="color:#1e40af;margin-top:0">목차</h3>

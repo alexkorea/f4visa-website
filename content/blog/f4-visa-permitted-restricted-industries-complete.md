@@ -1,5 +1,5 @@
 ---
-title: "F-4 비자 취업 가능 업종과 제한 업종 총정리 - 실무 기준 한눈에"
+title: "F-4 비자 제한 업종·가능 직종 빠른 비교표"
 visa: F-4
 date: "2026-06-08"
 category: "F-4비자"
@@ -7,13 +7,15 @@ excerpt: "F-4 비자로 일할 수 있는 업종과 단순노무 제한 업종�
 image: "/og/f4-visa-permitted-restricted-industries-complete.png"
 slug: "f4-visa-permitted-restricted-industries-complete"
 ---
-# F-4 비자 취업 가능 업종과 제한 업종 총정리 - 실무 기준 한눈에
+# F-4 비자 제한 업종·가능 직종 빠른 비교표
 
 F-4 비자는 전문직·관리직·사무직 등 광범위한 직종에서 자유롭게 일할 수 있지만, 단순노무로 분류되는 업종은 명확히 막혀 있습니다.
 
 재외동포(F-4) 자격으로 한국에 체류 중이거나 입국 예정인 분, 본국에서 거소증 발급을 준비 중인 분이 본인 직종이 합법적으로 가능한지 확인할 때 필요한 기준입니다.
 
 법무부 고시 기준의 허용·제한 업종, 실무에서 자주 막히는 구간, 위반 시 불이익, 그리고 사례별 판단 포인트까지 한 번에 정리합니다.
+
+업종 전체의 허용·제한 기준은 [F-4 비자 취업 가능 업종](/blog/f4-visa-work-industry-scope-guide) 정리 글에서 한 번에 확인할 수 있습니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
   <h3 style="color:#1e40af;margin-top:0">목차</h3>

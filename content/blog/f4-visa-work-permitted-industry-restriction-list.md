@@ -1,5 +1,5 @@
 ---
-title: "F-4 비자 취업 가능 업종과 제한 업종 총정리"
+title: "F-4 비자 자유 취업 원칙과 금지 업종 판단 기준"
 visa: F-4
 date: "2026-08-06"
 category: "F-4비자"
@@ -7,11 +7,13 @@ excerpt: "F-4 비자는 원칙적으로 자유 취업이 허용되지만 단순�
 image: "/og/f4-visa-work-permitted-industry-restriction-list.png"
 slug: "f4-visa-work-permitted-industry-restriction-list"
 ---
-# F-4 비자 취업 가능 업종과 제한 업종 총정리
+# F-4 비자 자유 취업 원칙과 금지 업종 판단 기준
 
 **F-4 비자 취업 가능 업종**은 사무직·전문직·관리직·자영업 등 대부분의 분야이며, 단순노무행위와 사행행위 관련 업종만 제한됩니다.
 대상은 재외동포체류자격(F-4)으로 국내에 거소신고를 마친 외국국적동포입니다.
 아래에서 법적 근거, 취업 가능 업종, 제한 업종, 인구감소지역 특례, 위반 시 불이익까지 실무 기준으로 정리합니다.
+
+업종 전체의 허용·제한 기준은 [F-4 비자 취업 가능 업종](/blog/f4-visa-work-industry-scope-guide) 정리 글에서 한 번에 확인할 수 있습니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
   <h3 style="color:#1e40af;margin-top:0">목차</h3>

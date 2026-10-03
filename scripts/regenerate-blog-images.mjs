@@ -50,7 +50,7 @@ const TOPIC_KEYWORDS = [
   { match: /사업자|business|entrepreneur/i, q: "korean entrepreneur business office" },
   { match: /상속|inheritance|증여/i, q: "family heritage document elderly" },
   { match: /가족관계|family relations/i, q: "korean family portrait three generations" },
-  { match: /행정사|administrative|법률/i, q: "korean lawyer consultation office" },
+  { match: /행정사|administrative|법률/i, q: "korean administrative consultation office" },
   { match: /해외|abroad|overseas/i, q: "international travel passport airport" },
   { match: /동포|kyopo|korean american/i, q: "korean american community gathering" },
   { match: /비자|visa/i, q: "passport visa stamp travel" },

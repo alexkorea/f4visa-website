@@ -76,6 +76,34 @@ if (!fs.existsSync(path.join(ASSETS, '_routes.json'))) {
   process.exit(1)
 }
 
+// ── 금지어 게이트 (2026-10-03 C6, 보스 msg 1698) ──────────────────────────────
+// 조립된 업로드 대상 전체(HTML·RSC·JSON·JS·xml·워커 번들)에서 '변호사' 류 금지어가
+// 1건이라도 있으면 배포 중단. 예외는 'power of attorney' 뿐(맥3 C6 스캔과 같은 정규식).
+{
+  const BANNED = /변호사|법무법인|로펌|(?<![Oo]f )(?<![Oo]f-)\b(?:lawyers?|attorneys?|law firms?|law office)\b|luật sư|律师|(?<!調)律師|弁護士|адвокат[\p{L}\p{N}_]*|юрист[\p{L}\p{N}_]*|ทนาย|محام[\p{L}\p{N}_]*/giu
+  const POA = /powers?[ -]of[ -]attorneys?/gi
+  const BIN = /\.(png|jpe?g|webp|avif|gif|ico|woff2?|ttf|otf|eot|pdf|mp4|webm|zip|wasm)$/i
+  const hits = []
+  const walkBanned = (dir) => {
+    for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
+      const p = path.join(dir, e.name)
+      if (e.isDirectory()) { walkBanned(p); continue }
+      if (BIN.test(e.name)) continue
+      const text = fs.readFileSync(p, 'utf8').replace(POA, '')
+      for (const m of text.matchAll(BANNED)) {
+        hits.push(`${path.relative(ASSETS, p)} :: ${text.slice(Math.max(0, m.index - 40), m.index + 40).replace(/\s+/g, ' ')}`)
+      }
+    }
+  }
+  walkBanned(ASSETS)
+  if (hits.length) {
+    console.error(`금지어 게이트 FAIL — ${hits.length}건, 배포 중단`)
+    for (const h of hits.slice(0, 30)) console.error('  ' + h)
+    process.exit(1)
+  }
+  console.log('금지어 게이트 PASS — 0건')
+}
+
 // ── 풋터 사업자번호 게이트 (2026-10-03 맥7 지시, 보스 msg 1677) ─────────────────
 // 방금 빌드한 .next 를 로컬 next start 로 띄워 홈 + 사이트맵 표본 30쪽의 <footer> 에
 // 사업자등록번호(정본 NAS brand_registry.json)가 없으면 조립 실패 → 배포 중단.

@@ -7308,7 +7308,7 @@ A. 관할 출입국·외국인청에 방문해 재발급 신청을 합니다. �
 <h3>F-1 방문동거가 자주 선택되는 이유</h3>
 <p>한국에 부모·형제·자녀가 있는 경우, F-1 방문동거로 장기 체류를 확보하고 37세 이후 F-4로 전환하는 패턴이 실무에서 자주 나옵니다. F-1은 체류자격외 활동허가를 받으면 제한적 취업도 가능합니다.</p>
 <h3>주의 — "병역 미필자도 F-4 받게 해준다"는 말</h3>
-<p>간혹 "법무법인에서 특별 면제를 받아준다" 같은 접근을 보게 되는데, 재외동포법 제5조 제2항은 개별 사유로 예외 적용되는 조항이 아닙니다. 37세 연말까지는 누구도 F-4를 발급받을 수 없습니다. 이런 주장을 듣는다면 바로 의심해야 합니다.</p>
+<p>간혹 "특별 면제를 받아준다" 같은 접근을 보게 되는데, 재외동포법 제5조 제2항은 개별 사유로 예외 적용되는 조항이 아닙니다. 37세 연말까지는 누구도 F-4를 발급받을 수 없습니다. 이런 주장을 듣는다면 바로 의심해야 합니다.</p>
 <figure style="margin:32px auto;text-align:center">
   <img src="https://images.pexels.com/photos/9757373/pexels-photo-9757373.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Scenic view of traditional Korean architecture amidst lush greenery." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
 </figure>

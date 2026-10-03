@@ -1,5 +1,5 @@
 ---
-title: "F-4 거소증 발급 기간 — 출입국사무소별 소요시간 비교"
+title: "F-4 거소증 발급 기간을 좌우하는 변수 — 처리기간 단축 체크리스트"
 visa: F-4
 date: "2026-06-16"
 category: "거소증"
@@ -7,7 +7,7 @@ excerpt: "F-4 거소증 발급 기간은 관할 출입국·외국인관서 사�
 image: "/og/f4-residence-card-issuance-period-office-comparison.png"
 slug: "f4-residence-card-issuance-period-office-comparison"
 ---
-# F-4 거소증 발급 기간 — 출입국사무소별 소요시간 비교
+# F-4 거소증 발급 기간을 좌우하는 변수 — 처리기간 단축 체크리스트
 
 F-4 거소증 발급 기간은 일률적으로 정해져 있지 않고, 관할 출입국·외국인관서 사정에 따라 다릅니다.
 실제 발급 속도를 가르는 건 서류의 완성도보다 **어느 사무소에 접수했는가**입니다.

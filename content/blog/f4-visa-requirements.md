@@ -135,6 +135,6 @@ F-4 비자의 가장 큰 장점은 **폭넓은 취업 허용 범위**입니다.
 
 **관련 글**
 
-- [F-4 비자 vs F-5 영주권 비교](/blog/f4-vs-f5-permanent-residence)
-- [재외동포 국적회복 신청 방법](/blog/nationality-recovery-guide)
-- [F-4 비자로 한국 창업하기](/blog/f4-visa-business-startup)
+- [F-4 비자 vs F-5 영주권 비교](/blog/f4-to-f5-permanent-residence)
+- [재외동포 국적회복 신청 방법](/blog/korean-nationality-recovery-guide)
+- [F-4 비자로 한국 창업하기](/blog/f4-visa-business-registration-korea)

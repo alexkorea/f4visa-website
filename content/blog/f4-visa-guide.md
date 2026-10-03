@@ -106,7 +106,7 @@ F-4 비자 신청에 필요한 서류는 세부 자격 유형에 따라 다소 �
 
 서류 준비 과정에서 가장 많이 실수하는 부분은 한국 내 발급 서류와 해외 발급 서류의 유효기간이 다르다는 점입니다. 한국의 가족관계증명서나 기본증명서는 발급일로부터 3개월 이내의 것을 요구하는 경우가 많고, 범죄경력증명서는 6개월 이내 발급분을 요구합니다. 서류 준비 시점과 실제 접수 시점의 간격을 잘 계산해야 서류 재발급으로 인한 지연을 방지할 수 있습니다.
 
-👉 [거소증 서류 확인 도구로 내 서류 체크하기](/f4-residence-card-documents-checklist)
+👉 [거소증 발급 안내에서 준비 서류 확인하기](/f4-visa-resident-card)
 
 ## 신청 절차 (6단계)
 
@@ -211,7 +211,7 @@ F-4 비자로 한국에서 안정적으로 생활하신 후에는 영주권(F-5 
 - [F-4 비자와 거소증 안내](/f4-visa-resident-card)
 - [F-4 비자 종류 전체 목록](/f4-visa-types)
 - [F-4 비자 연장 절차](/f4-visa-renewal)
-- [거소증 서류 확인 도구](/f4-residence-card-documents-checklist)
+- [F-4 거소증 발급 안내](/f4-visa-resident-card)
 - [국적상실 신고](/nationality-loss-report)
 - [국적이탈 신고](/nationality-renunciation-report)
 - [국적회복 절차](/nationality-recovery)

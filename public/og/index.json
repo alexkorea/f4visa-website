@@ -2944,6 +2944,22 @@
    "slug": "residence-card-overseas-remote-application-agency",
    "generated_at": null,
    "version": "legacy-pre-1.4"
+  },
+  "f4-early-adaptation-program-requirement": {
+   "hash": "ede8ca1fe85608b89fff4dc52e64625e42050eab97f2a18818a0ea0405c51373",
+   "source": "pexels",
+   "seed": 601047196,
+   "theme": "city",
+   "prompt_subject": "korean urban street",
+   "map_version": null,
+   "pexels_id": 21011596,
+   "pexels_author": "Honggrider Rock",
+   "category": "F-4비자",
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-early-adaptation-program-requirement",
+   "generated_at": "2026-10-03T10:00:51.023Z",
+   "version": "1.4"
   }
  }
 }

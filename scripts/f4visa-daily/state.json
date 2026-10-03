@@ -1,1 +1,14 @@
-{ "published": [], "rejected": [] }
+{
+  "published": [
+    {
+      "slug": "f4-early-adaptation-program-requirement",
+      "date": "2026-10-03",
+      "locales": [
+        "ko"
+      ],
+      "at": "2026-10-03T10:00:51.038Z",
+      "batch": "W1 (맥3 W1, 맥7 PASS, seo-keywords/20261002/W1-f4visa.net)"
+    }
+  ],
+  "rejected": []
+}

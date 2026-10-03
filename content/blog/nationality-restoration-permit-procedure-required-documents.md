@@ -1,15 +1,15 @@
 ---
-title: "국적회복 신청 절차 총정리 — 허가까지 8개월, 필요서류와 진행 순서"
+title: "국적회복 신청 절차 총정리 — 허가까지의 흐름, 필요서류와 진행 순서"
 visa: 국적
 date: "2026-07-28"
 category: "국적"
-excerpt: "국적을 상실한 재외동포가 한국 국적을 되찾는 국적회복 신청 절차와 필요서류, 8개월 처리 흐름을 실무 순서대로 정리합니다. 국적회복 필요서류 총정리까지 한 번에 확인하세요."
+excerpt: "국적을 상실한 재외동포가 한국 국적을 되찾는 국적회복 신청 절차와 필요서류, 처리 흐름을 실무 순서대로 정리합니다. 국적회복 필요서류 총정리까지 한 번에 확인하세요."
 image: "/og/nationality-restoration-permit-procedure-required-documents.png"
 slug: "nationality-restoration-permit-procedure-required-documents"
 ---
-# 국적회복 신청 절차 총정리 — 허가까지 8개월, 필요서류와 진행 순서
+# 국적회복 신청 절차 총정리 — 허가까지의 흐름, 필요서류와 진행 순서
 
-국적회복은 신청 접수부터 허가까지 보통 8개월 안팎이 걸리며, 실제로 기간이 갈리는 지점은 서류 완비 여부입니다.
+국적회복은 신청 접수부터 허가까지의 기간이 관할 기관 사정과 접수 시점에 따라 다르며, 실제로 기간이 갈리는 지점은 서류 완비 여부입니다.
 
 과거 한국 국적이었다가 외국 시민권을 취득해 국적을 상실한 분이 다시 한국 국적을 되찾는 절차입니다.
 
@@ -21,7 +21,7 @@ slug: "nationality-restoration-permit-procedure-required-documents"
     <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 국적회복이 무엇이고 누가 신청하나 — 국적회복 대상자</a></li>
     <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적회복 신청 자격과 심사 기준 — 국적회복 요건</a></li>
     <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국적회복 필요서류 총정리 — 국적회복 필요서류</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국적회복 신청 절차와 8개월 처리 흐름 — 국적회복 처리기간</a></li>
+    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국적회복 신청 절차와 처리 흐름 — 국적회복 처리기간</a></li>
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 국적회복 후 F-4 비자 전환 — 국적회복 후 거소증</a></li>
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적회복 신청 시 자주 막히는 부분 — 국적회복 주의사항</a></li>
     <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
@@ -103,7 +103,7 @@ slug: "nationality-restoration-permit-procedure-required-documents"
 
 한국 서류는 본인이 해외에서 직접 발급받기 어려운 경우가 많아, 발급대행으로 진행하는 사례가 많습니다.
 
-<h2 id="section-4">국적회복 신청 절차와 8개월 처리 흐름 — 국적회복 처리기간</h2>
+<h2 id="section-4">국적회복 신청 절차와 처리 흐름 — 국적회복 처리기간</h2>
 
 ### 접수부터 허가까지의 실제 순서
 
@@ -118,9 +118,7 @@ slug: "nationality-restoration-permit-procedure-required-documents"
 | 5 | 가족관계등록 창설 | 기본증명서 재정리 |
 | 6 | F-4 등 비자 전환 | 거소증 신청 연계 |
 
-전체적으로 신청부터 허가까지 8개월 안팎이 걸리는 것이 보통입니다.
-
-다만 처리 기간은 관할 기관과 신원조회 상황에 따라 달라지므로, 관할 기관 확인이 필요합니다.
+신청부터 허가까지의 처리 기간은 관할 기관과 신원조회 상황에 따라 달라지므로, 관할 기관 확인이 필요합니다.
 
 ### 어디서 신청하고 어디서 걸리나
 
@@ -183,7 +181,7 @@ F-4 거소증은 거소허가번호가 발급된 이후에 출국이 가능합�
 
 **Q. 국적회복 처리 기간은 정확히 얼마나 걸리나요?**
 
-보통 8개월 안팎이지만 신원조회 상황과 관할 관서에 따라 달라집니다.
+신원조회 상황과 관할 관서에 따라 달라지므로 개별 확인이 필요합니다.
 
 가장 빠른 관서를 찾아 진행하면 대기 기간을 줄일 가능성이 있습니다.
 

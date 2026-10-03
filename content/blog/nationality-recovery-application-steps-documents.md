@@ -1,15 +1,15 @@
 ---
-title: "국적회복 신청 절차 — 접수부터 허가까지 8개월, 필요서류 총정리"
+title: "국적회복 신청 절차 — 접수부터 허가까지, 필요서류 총정리"
 visa: 국적
 date: "2026-08-10"
 category: "국적"
-excerpt: "국적회복 허가는 접수 후 보통 8개월 안팎이 걸리며, 무범죄경력증명서 유효기간과 국적상실 정리 여부에서 심사가 갈리는 실무 절차를 순서대로 정리했습니다."
+excerpt: "국적회복 허가까지의 기간은 관할 기관 사정에 따라 다르며, 무범죄경력증명서 유효기간과 국적상실 정리 여부에서 심사가 갈리는 실무 절차를 순서대로 정리했습니다."
 image: "/og/nationality-recovery-application-steps-documents.png"
 slug: "nationality-recovery-application-steps-documents"
 ---
-# 국적회복 신청 절차 — 접수부터 허가까지 8개월, 필요서류 총정리
+# 국적회복 신청 절차 — 접수부터 허가까지, 필요서류 총정리
 
-국적회복 허가는 국내 출입국·외국인청 접수 기준으로 보통 **8개월 안팎**이 걸리고, 서류가 한 번 꼬이면 그 이상으로 늘어집니다.
+국적회복 허가까지 걸리는 기간은 관할 기관 사정과 접수 시점에 따라 다르며 개별 확인이 필요하고, 서류가 한 번 꼬이면 그만큼 늘어집니다.
 대상은 과거 대한민국 국민이었다가 외국 시민권 취득 등으로 한국 국적을 상실한 동포입니다.
 신청 자격, 접수 전에 정리해야 할 국적상실 문제, 필요서류 목록, 단계별 타임라인, 허가 후 해야 할 일까지 실제 진행 순서대로 담았습니다.
 
@@ -19,7 +19,7 @@ slug: "nationality-recovery-application-steps-documents"
     <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 국적회복 허가란 — 누가 신청할 수 있나</a></li>
     <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적회복 신청 전 먼저 확인할 것 — 국적상실 정리</a></li>
     <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국적회복 필요서류 총정리</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 접수부터 허가까지 — 8개월 타임라인</a></li>
+    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 접수부터 허가까지 — 진행 타임라인</a></li>
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 허가 후 절차 — 외국국적 처리와 복수국적</a></li>
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적회복과 F-4, 어느 쪽이 맞나</a></li>
     <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
@@ -104,15 +104,15 @@ slug: "nationality-recovery-application-steps-documents"
 > **실무 팁:** 서류를 모으는 순서가 기간을 좌우합니다.
 > 유효기간이 있는 무범죄경력증명서는 마지막에, 유효기간이 없는 제적등본·시민권증서 사본은 먼저 준비하는 것이 실무 순서입니다.
 
-<h2 id="section-4">접수부터 허가까지 — 8개월 타임라인</h2>
+<h2 id="section-4">접수부터 허가까지 — 진행 타임라인</h2>
 
 국적회복은 국내 관할 [출입국·외국인청](https://www.hikorea.go.kr)에 본인이 접수합니다.
 
 | 단계 | 내용 | 소요 기간(통상) |
 |------|------|------|
-| 1. 사전 준비 | 국적상실 정리 확인, 서류 수집 | 1~3개월 |
+| 1. 사전 준비 | 국적상실 정리 확인, 서류 수집 | 서류·국가별 상이 |
 | 2. 접수 | 관할 출입국·외국인청 방문 접수 | 당일 |
-| 3. 심사 | 신원조회, 범죄경력·병역 검토, 필요시 보완 요구 | **6~8개월** |
+| 3. 심사 | 신원조회, 범죄경력·병역 검토, 필요시 보완 요구 | 기관별 상이·개별 확인 |
 | 4. 허가 통지 | 법무부 허가, 관보 고시 | — |
 | 5. 후속 절차 | 가족관계등록부 정리, 외국국적 처리 | 허가 후 진행 |
 
@@ -157,7 +157,7 @@ slug: "nationality-recovery-application-steps-documents"
 | 항목 | 국적회복 | F-4 재외동포 비자 |
 |------|------|------|
 | 결과 | 한국 국적 재취득 | 외국 국적 유지 + 국내 체류자격 |
-| 소요 기간 | 약 8개월 | 접수 후 수 주 수준 |
+| 소요 기간 | 기관별 상이·개별 확인 | 기관별 상이·개별 확인 |
 | 외국 국적 | 원칙적 포기 (65세 이상 예외) | 그대로 유지 |
 | 적합한 경우 | 영주 귀국, 국민 신분 회복 | 한국·외국 왕래 생활 |
 
@@ -175,8 +175,8 @@ slug: "nationality-recovery-application-steps-documents"
 
 **Q2. 국적회복 기간은 정확히 얼마나 걸리나요?**
 
-접수 후 통상 6~8개월 수준이며, 보완 요구가 있으면 그 이상 걸립니다.
-적체 상황은 시기마다 달라서 현재 기준은 관할 기관 확인이 필요합니다.
+처리기간은 관할 기관 사정과 접수 시점에 따라 다르며 개별 확인이 필요합니다.
+보완 요구가 있으면 그만큼 더 걸립니다.
 
 **Q3. 국적상실신고를 안 했는데 바로 국적회복 신청이 되나요?**
 

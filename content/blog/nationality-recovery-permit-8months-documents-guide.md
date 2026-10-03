@@ -1,15 +1,15 @@
 ---
-title: "국적회복 허가 신청 절차 — 8개월 소요, 필요서류 총정리"
+title: "국적회복 허가 신청 절차 — 처리 기간과 필요서류 총정리"
 visa: 국적
 date: "2026-06-17"
 category: "국적"
-excerpt: "국적회복 허가는 보통 8개월 전후로 결정되며, 시민권증서 원본과 한국 가족관계서류가 핵심입니다. 국적회복 처리 기간·국적회복 필요서류 총정리·국적회복 허가 이후 절차까지 한 번에 확인하세요."
+excerpt: "국적회복 허가까지의 기간은 관할 기관 사정에 따라 다르며, 시민권증서 원본과 한국 가족관계서류가 핵심입니다. 국적회복 처리 기간·국적회복 필요서류 총정리·국적회복 허가 이후 절차까지 한 번에 확인하세요."
 image: "/og/nationality-recovery-permit-8months-documents-guide.png"
 slug: "nationality-recovery-permit-8months-documents-guide"
 ---
-# 국적회복 신청 절차 — 8개월 소요, 필요서류 총정리
+# 국적회복 신청 절차 — 처리 기간과 필요서류 총정리
 
-국적회복 허가는 접수 후 평균 8개월 전후로 결과가 나옵니다.
+국적회복 허가까지 걸리는 기간은 관할 기관 사정과 접수 시점에 따라 다르며 개별 확인이 필요합니다.
 
 대상은 과거 한국 국적을 가졌다가 외국 국적 취득 등으로 한국 국적을 잃은 분, 그리고 그 미성년 자녀입니다.
 
@@ -19,7 +19,7 @@ slug: "nationality-recovery-permit-8months-documents-guide"
   <h3 style="color:#1e40af;margin-top:0">목차</h3>
   <ul style="list-style:none;padding-left:0">
     <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 국적회복이란 무엇이고 누가 신청하나</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적회복 처리 기간 — 왜 8개월인가</a></li>
+    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적회복 처리 기간 — 왜 오래 걸리는가</a></li>
     <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국적회복 신청 자격과 결격 사유</a></li>
     <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국적회복 필요서류 총정리</a></li>
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 국적회복 신청 절차 단계별 흐름</a></li>
@@ -55,13 +55,11 @@ slug: "nationality-recovery-permit-8months-documents-guide"
 
 > **주의:** 외국 시민권 취득 시점에 한국 국적은 즉시 자동 상실됩니다(국적법 제15조). 국적상실신고는 행정 정리 절차일 뿐이며, 신고 전이라도 이미 상실 상태입니다. 상실 후 한국 여권을 사용하면 여권법상 부정사용에 해당할 수 있습니다.
 
-<h2 id="section-2">국적회복 처리 기간 — 왜 8개월인가</h2>
+<h2 id="section-2">국적회복 처리 기간 — 왜 오래 걸리는가</h2>
 
-### 평균 처리 기간
+### 처리 기간
 
-[법무부 출입국·외국인정책본부](https://immigration.go.kr) 기준으로 국적회복 심사는 보통 7~9개월 정도 걸립니다.
-
-실무에서는 8개월 전후를 평균치로 봅니다.
+국적회복 심사 기간은 관할 기관 사정과 접수 시점에 따라 다르므로, [법무부 출입국·외국인정책본부](https://immigration.go.kr) 안내나 접수 관서에서 개별 확인이 필요합니다.
 
 다만 신청자의 출생·가족관계가 복잡하거나, 과거 한국 호적이 명확히 정리되지 않은 경우 더 길어집니다.
 
@@ -69,7 +67,7 @@ slug: "nationality-recovery-permit-8months-documents-guide"
 
 먼저 봐야 할 것은 본인의 한국 호적과 제적등본이 깔끔하게 남아 있는지 여부입니다.
 
-이 부분이 약하면 보정 요청이 반복되어 처리 기간이 1년을 넘기기도 합니다.
+이 부분이 약하면 보정 요청이 반복되어 처리 기간이 크게 늘어나기도 합니다.
 
 특히 1970~1990년대에 부모를 따라 출국·이민한 분들은 제적 정리가 누락된 사례가 많습니다.
 
@@ -253,9 +251,9 @@ slug: "nationality-recovery-permit-8months-documents-guide"
 
 <h2 id="section-9">자주 묻는 질문 (FAQ)</h2>
 
-### Q1. 국적회복 허가는 정말 8개월이 걸리나요?
+### Q1. 국적회복 허가는 얼마나 걸리나요?
 
-평균치는 8개월 전후입니다.
+처리기간은 관할 기관 사정과 접수 시점에 따라 다르며 개별 확인이 필요합니다.
 
 호적 상태가 깔끔하고 보정이 없으면 더 빠를 수 있고, 제적 정리가 필요하면 더 길어집니다.
 

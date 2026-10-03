@@ -1,15 +1,15 @@
 ---
-title: "국적회복 신청 절차 — 8개월 소요, 필요서류와 실무 포인트 총정리"
+title: "국적회복 신청 절차 — 처리 흐름, 필요서류와 실무 포인트 총정리"
 visa: 국적
 date: "2026-06-15"
 category: "국적"
-excerpt: "국적회복 신청은 평균 8개월이 걸리며, 시민권증서 원본과 기본증명서가 핵심 서류로 작용합니다. 국적회복이란 무엇인가·국적회복 신청 자격과 대상·국적회복 필요서류 총정리·신청 장소와 절차까지 한 번에 확인하세요."
+excerpt: "국적회복 신청은 처리 기간이 관할 기관 사정에 따라 다르며, 시민권증서 원본과 기본증명서가 핵심 서류로 작용합니다. 국적회복이란 무엇인가·국적회복 신청 자격과 대상·국적회복 필요서류 총정리·신청 장소와 절차까지 한 번에 확인하세요."
 image: "/og/nationality-recovery-application-8months-documents.png"
 slug: "nationality-recovery-application-8months-documents"
 ---
-# 국적회복 신청 절차 — 8개월 소요, 필요서류와 실무 포인트 총정리
+# 국적회복 신청 절차 — 처리 흐름, 필요서류와 실무 포인트 총정리
 
-국적회복 허가는 신청부터 결과 통지까지 평균 8개월 정도 걸립니다.
+국적회복 허가는 신청부터 결과 통지까지의 기간이 관할 기관 사정과 접수 시점에 따라 다르며 개별 확인이 필요합니다.
 
 대상은 과거 한국 국적을 보유했다가 외국 시민권 취득 등으로 국적을 상실한 사람입니다.
 
@@ -20,7 +20,7 @@ slug: "nationality-recovery-application-8months-documents"
   <ul style="list-style:none;padding-left:0">
     <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 국적회복이란 무엇인가</a></li>
     <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적회복 신청 자격과 대상</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 8개월 처리 기간의 실제 흐름</a></li>
+    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 처리 기간의 실제 흐름</a></li>
     <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국적회복 필요서류 총정리</a></li>
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 신청 장소와 절차</a></li>
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 허가 통지 후 — 관보 고시와 F-4 전환</a></li>
@@ -83,9 +83,9 @@ slug: "nationality-recovery-application-8months-documents"
 
 남성 신청자의 경우 병역 이력과 국적 상실 시점을 함께 검토해야 합니다.
 
-<h2 id="section-3">8개월 처리 기간의 실제 흐름</h2>
+<h2 id="section-3">처리 기간의 실제 흐름</h2>
 
-법무부 공식 안내 처리기간은 사례에 따라 다르지만, 최근 실무에서는 접수부터 결과까지 약 8개월이 통상적입니다.
+처리기간은 관할 기관 사정과 접수 시점에 따라 다르며 개별 확인이 필요합니다.
 
 면접·신원조회·심사가 모두 정상 진행될 때 기준이며, 보완 요청이 들어오면 더 길어집니다.
 
@@ -93,11 +93,10 @@ slug: "nationality-recovery-application-8months-documents"
 
 | 단계 | 내용 | 예상 소요 |
 |------|------|-----------|
-| 1단계 | 서류 준비, 본국 발급서류 수집 | 1~2개월 |
-| 2단계 | 출입국·외국인청 접수, 면접 | 1개월 |
-| 3단계 | 신원조회, 범죄경력 조회 | 2~3개월 |
-| 4단계 | 법무부 심사 및 관보 고시 | 2~3개월 |
-| 합계 | 접수~허가 통지 | 약 8개월 |
+| 1단계 | 서류 준비, 본국 발급서류 수집 | 서류·국가별 상이 |
+| 2단계 | 출입국·외국인청 접수, 면접 | 기관별 상이·개별 확인 |
+| 3단계 | 신원조회, 범죄경력 조회 | 기관별 상이·개별 확인 |
+| 4단계 | 법무부 심사 및 관보 고시 | 기관별 상이·개별 확인 |
 
 신원조회 단계에서 미국·캐나다 등 거주국 무범죄경력 회신이 지연되는 사례가 자주 보입니다.
 
@@ -246,9 +245,9 @@ slug: "nationality-recovery-application-8months-documents"
 
 <h2 id="section-9">자주 묻는 질문 (FAQ)</h2>
 
-**Q1. 국적회복 허가는 정말 8개월이나 걸리나요?**
+**Q1. 국적회복 허가는 얼마나 걸리나요?**
 
-평균적으로 8개월 정도이며, 신원조회 회신 속도와 출입국사무소에 따라 더 짧거나 길어질 수 있습니다.
+신원조회 회신 속도와 관할 관서 사정에 따라 달라지므로 개별 확인이 필요합니다.
 
 가장 신속히 처리되는 사무소를 찾는 것이 실무에서 차이를 만듭니다.
 
@@ -284,7 +283,7 @@ slug: "nationality-recovery-application-8months-documents"
 
 <h2 id="section-10">전문가 상담이 필요하신가요?</h2>
 
-국적회복은 평균 8개월이 걸리는 장기 절차이며, 시민권증서 원본·기본증명서(상세)·무범죄증명서가 모두 정확히 갖춰져야 진행됩니다.
+국적회복은 오래 걸리는 장기 절차이며, 시민권증서 원본·기본증명서(상세)·무범죄증명서가 모두 정확히 갖춰져야 진행됩니다.
 
 서류 한 장이 빠지거나 무범죄증명 유효기간이 지나면 그만큼 처리가 뒤로 밀립니다.
 

@@ -29,7 +29,7 @@ author: "행정사사무소 이룸"
 <li>체류기간 만료일 <strong>4개월 전부터</strong> 연장 신청 가능</li>
 <li><a href="https://www.hikorea.go.kr" target="_blank" rel="noopener" style="color:#1e40af">하이코리아 포털</a>을 통해 <strong>온라인으로 신청</strong> 가능 (직접 방문 없이)</li>
 <li>체류기간 초과 시 출국 강제, 재입국 금지 등 불이익 발생</li>
-<li>연장 심사 기간 평균 3~7 영업일 소요</li>
+<li>연장 심사 기간은 관할 기관 사정에 따라 다르며 개별 확인 필요</li>
 </ul>
 </div>
 
@@ -132,7 +132,7 @@ F-4 비자 체류기간 연장은 아래 요건을 모두 충족해야 합니다
 </tr>
 <tr>
 <td style="padding:12px;text-align:center;border:1px solid #ddd"><strong>6</strong></td>
-<td style="padding:12px;border:1px solid #ddd">심사 완료 후 결과 문자·이메일 수신 (3~7 영업일 소요)</td>
+<td style="padding:12px;border:1px solid #ddd">심사 완료 후 결과 문자·이메일 수신</td>
 </tr>
 <tr style="background:#f8fafc">
 <td style="padding:12px;text-align:center;border:1px solid #ddd"><strong>7</strong></td>

@@ -110,7 +110,7 @@ if (!fs.existsSync(path.join(ASSETS, '_routes.json'))) {
 // 수동 배포와 19:00 자동화(daily-blog-4am.mjs cfBuildAndDeploy)가 모두 이 스크립트를 거친다.
 {
   const { spawnSync } = await import('node:child_process')
-  spawnSync('/bin/sh', ['-c', 'lsof -ti tcp:4395 | xargs kill 2>/dev/null'])
+  spawnSync('/bin/sh', ['-c', 'lsof -b -w -ti tcp:4395 | xargs kill 2>/dev/null'])
   const g = spawnSync(process.execPath, ['/Users/mac4/scripts/bizno-footer-gate.mjs', 'f4visa',
     '--start', 'npx next start -p 4395', '--url', 'http://127.0.0.1:4395', '--sample', '30'], { cwd: ROOT, stdio: 'inherit' })
   if (g.status !== 0) {

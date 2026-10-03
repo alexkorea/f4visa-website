@@ -165,8 +165,10 @@ export default function HomePage() {
           <div className="container-x">
             <div className="section-head measure">
               <span className="eyebrow">서비스</span>
-              <h2>어떤 업무를 대행하나요</h2>
-              <p>재외동포 체류·국적 업무를 절차 단위로 나누어 지원합니다.</p>
+              <h2>F-4 비자 대행 행정사가 하는 일과 하지 않는 일</h2>
+              <p>
+                {SITE.name}은 행정사법에 따라 인가된 행정사사무소로, F-4 비자·거소증 신청, 체류기간 연장, 국적상실·국적이탈 신고, 국적회복, F-5 전환 서류의 작성과 관할 기관 접수를 대행합니다. 국내 서류 발급 대행, 제출 전 서류 항목별 검토, 심사 중 보완 요청 대응, 발급 서류 수령·해외 송달까지 진행하며, 소송·재판 대리는 하지 않습니다. 세금 실무는 협력 세무사와 함께 안내합니다.
+              </p>
             </div>
             <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
               {services.map((s) => (
@@ -207,7 +209,7 @@ export default function HomePage() {
           <div className="container-x">
             <div className="section-head measure">
               <span className="eyebrow">사무소 안내</span>
-              <h2>{SITE.name}를 선택하는 이유</h2>
+              <h2>{SITE.name}을 선택하는 이유</h2>
             </div>
             <ul className="grid gap-4 sm:grid-cols-3">
               {reasons.map((r) => (

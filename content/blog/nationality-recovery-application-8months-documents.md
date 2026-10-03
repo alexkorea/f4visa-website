@@ -288,7 +288,7 @@ slug: "nationality-recovery-application-8months-documents"
 
 서류 한 장이 빠지거나 무범죄증명 유효기간이 지나면 그만큼 처리가 뒤로 밀립니다.
 
-행정사사무소 이룸는 가장 빠르게 허가되는 출입국사무소를 찾아 절차를 진행해 드리고 있습니다.
+행정사사무소 이룸은 가장 빠르게 허가되는 출입국사무소를 찾아 절차를 진행해 드리고 있습니다.
 
 **행정사사무소 이룸 (EROOM Administrative Office)**
 

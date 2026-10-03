@@ -1,5 +1,5 @@
 ---
-title: "F-4 거소증, 한국에 며칠 있어야 하나 — 신청대행이 줄여주는 것"
+title: "F-4 거소증 신청대행 — 한국 최소 체류로 발급받는 방법"
 visa: F-4
 date: "2026-06-18"
 category: "거소증"
@@ -7,7 +7,7 @@ excerpt: "F-4 거소증을 한국 최소 체류로 발급받는 실제 절차와
 image: "/og/f4-residence-card-agency-minimum-stay-korea-guide.png"
 slug: "f4-residence-card-agency-minimum-stay-korea-guide"
 ---
-# F-4 거소증, 한국에 며칠 있어야 하나 — 신청대행이 줄여주는 것
+# F-4 거소증 신청대행 — 한국 최소 체류로 발급받는 방법
 
 F-4 거소증은 신청 후 **거소허가번호만 발급되면 카드 수령 전에 출국이 가능**합니다.
 

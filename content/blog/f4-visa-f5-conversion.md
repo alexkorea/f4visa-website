@@ -129,4 +129,4 @@ F-5 취득 후 귀화 신청이 가능합니다. 재외동포는 간이귀화 �
 
 - [F-4 재외동포 비자 신청 요건 가이드](/blog/f4-visa-requirements-20260527)
 - [F-4 비자 연장 절차 안내](/blog/f4-visa-extension-procedure-20260527)
-- [재외동포 거소증 신청 방법](/blog/f4-residence-card-application-guide)
+- [재외동포 거소증 신청 방법](/blog/f4-overseas-korean-residence-registration)

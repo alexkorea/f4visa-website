@@ -49,6 +49,19 @@ const faqs: FaqItem[] = [
   { question: "해외에 거주해도 F-4 신청 업무를 맡길 수 있나요?", answer: "서류 작성과 제출 대행, 신청 대리는 해외에 계셔도 맡기실 수 있습니다. 체류자격 변경·연장, 재입국허가 신청처럼 출입국관리법 제79조의2와 같은 법 시행규칙 제68조의3에 열거된 신청은 대행기관이 대신할 수 있습니다. 재외공관 사증 신청과 국내거소신고는 이 목록에 명시되어 있지 않으므로 본인이 출석해야 하는 단계를 상담 때 함께 확인합니다." },
   { question: "F-4 비자 처리 기간은 얼마나 걸리나요?", answer: "법무부 체류민원·사증민원 자격별 안내 매뉴얼(2026.9.)에는 F-4 사증이나 거소증의 처리 일수가 정해져 있지 않습니다. 실제 기간은 접수 기관과 서류 보완 여부에 따라 달라지므로 상담 때 일정과 함께 확인해 드립니다." },
   { question: "어떤 언어로 상담이 가능한가요?", answer: "한국어, 영어, 중국어(보통화), 일본어로 상담이 가능합니다. KakaoTalk, WeChat, LINE, WhatsApp을 통한 메신저 상담도 제공합니다. 전화: 02-363-2251 (평일 09:30~17:30)." },
+  { question: "허가를 받을 수 있다고 약속해 주나요?", answer: "아니요. 허가 여부는 담당 행정기관이 심사로 결정합니다. 요건과 서류를 점검해 부족한 점과 보완 방법을 설명해 드립니다." },
+  { question: "사무소는 어디에 있고 어떻게 연락하나요?", answer: `${SITE.address.region} ${SITE.address.locality} ${SITE.address.street}에 있습니다. 전화 ${SITE.phoneOffice}로 연락하실 수 있고, 상담 시간은 평일(월~금) 09:30~17:30 (KST), 토·일·공휴일 휴무입니다.` },
+]
+
+// H7 — 사무소 정보(자격·사무소). 값은 lib/site.ts 단일 원천. 영문 상호는 미확정이라 싣지 않는다.
+const officeInfo: { label: string; value: string; href?: string }[] = [
+  { label: "상호", value: SITE.name },
+  { label: "대표 행정사", value: SITE.representative },
+  { label: "사업자등록번호", value: SITE.businessNumber },
+  { label: "주소", value: SITE.address.full },
+  { label: "전화", value: SITE.phoneOffice, href: SITE.phoneOfficeHref },
+  { label: "이메일", value: SITE.email, href: SITE.emailHref },
+  { label: "상담 시간", value: "평일(월~금) 09:30~17:30 (KST), 토·일·공휴일 휴무" },
 ]
 
 const jsonLd = {
@@ -236,6 +249,7 @@ export default function AboutPage() {
                   <li><Link href="/nationality-loss-report" className="underline hover:text-primary">국적상실 신고</Link>·<Link href="/nationality-renunciation-report" className="underline hover:text-primary">국적이탈 신고</Link>·<Link href="/nationality-selection-dual-nationality" className="underline hover:text-primary">국적선택</Link> 서류</li>
                   <li><Link href="/nationality-recovery" className="underline hover:text-primary">국적회복 허가</Link> 신청 서류</li>
                   <li><Link href="/permanent-residency" className="underline hover:text-primary">F-5 영주자격</Link> 변경 신청 서류</li>
+                  <li>해외 거주자 원격 진행 — 한국 내 서류 발급 대행과 완성 서류의 해외 송달</li>
                   <li>관련 법령과 절차 상담</li>
                 </ul>
               </div>
@@ -262,6 +276,24 @@ export default function AboutPage() {
           </div>
         </section>
 
+        <section className="section">
+          <div className="container-x">
+            <div className="section-head">
+              <span className="eyebrow">Process</span>
+              <h2>업무 진행 방식</h2>
+              <p>상담에서 부모 또는 본인의 국적 이력, 현재 체류 형태, 이미 갖춘 서류를 확인하고, 해외에서 준비할 서류와 본인이 출석해야 하는 단계를 구분해 진행 순서를 정합니다. 허가 여부는 법무부가 심사해 결정합니다.</p>
+            </div>
+            <div className="rounded-2xl border border-border bg-card p-6">
+              <h3 className="text-lg font-semibold text-foreground">이 사무소를 고려할 때 확인할 점 (실제 업무 기준)</h3>
+              <ul className="mt-4 list-disc space-y-2 pl-5 text-sm text-muted-foreground">
+                <li>처리하는 업무와 처리하지 않는 업무를 행정사법 제2조의 범위에 맞춰 구분해 둡니다.</li>
+                <li>한국 내 서류 발급 대행부터 해외 송달까지 한 사무소에서 이어서 진행합니다.</li>
+                <li>KakaoTalk·WeChat·LINE·WhatsApp 등 메신저로 해외에서도 상담할 수 있습니다.</li>
+              </ul>
+            </div>
+          </div>
+        </section>
+
         <RelatedBlogLinks
           title="업무 범위와 절차를 더 알아보기"
           links={[
@@ -273,6 +305,25 @@ export default function AboutPage() {
         />
 
         <Faq items={faqs} withSchema={false} />
+
+        <section className="section">
+          <div className="container-x">
+            <div className="section-head">
+              <span className="eyebrow">Office</span>
+              <h2>자격·사무소 정보</h2>
+            </div>
+            <dl className="grid gap-4 rounded-2xl border border-border bg-card p-6 text-sm sm:grid-cols-2">
+              {officeInfo.map((row) => (
+                <div key={row.label} className="min-w-0">
+                  <dt className="font-semibold text-foreground">{row.label}</dt>
+                  <dd className="mt-1 break-words text-muted-foreground">
+                    {row.href ? <a href={row.href} className="underline hover:text-primary">{row.value}</a> : row.value}
+                  </dd>
+                </div>
+              ))}
+            </dl>
+          </div>
+        </section>
 
         <CtaSection
           title="전문가와 상담하세요"

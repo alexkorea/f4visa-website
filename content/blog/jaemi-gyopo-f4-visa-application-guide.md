@@ -172,6 +172,6 @@ F-4로 일정 기간 체류 후 요건을 충족하면 F-5 영주권으로 변�
 
 ### 관련 글
 
-- [F-4 비자 거소증 발급 방법](/blog/f4-visa-residence-certificate-guide)
+- [F-4 비자 거소증 발급 방법](/blog/f4-residence-card-application-guide)
 - [F-4에서 F-5 영주권으로 변경하는 방법](/blog/f5-permanent-residency-documents-review-guide)
 - [재외동포 국적회복 신청 방법](/blog/nationality-recovery)

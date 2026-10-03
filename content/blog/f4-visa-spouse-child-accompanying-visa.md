@@ -222,5 +222,5 @@ A. 단기 관광 비자(B-2) 등으로 먼저 입국 후 국내에서 F-3·F-1�
 <strong style="display:block;font-size:18px;margin-bottom:8px">행정사사무소 이룸 무료 상담</strong>
 <p style="margin:8px 0;opacity:0.9">가족과 함께 한국 생활을 시작하려는 재외동포를 도와드립니다</p>
 <p style="margin:8px 0;font-size:14px;opacity:0.8">월~금 09:30~17:30 (KST) | 토·공휴일 휴무</p>
-<a href="https://inhega.co.kr/consultation" target="_blank" rel="noopener" style="display:inline-block;margin-top:12px;padding:12px 28px;background:#A33344;color:white;border-radius:6px;text-decoration:none;font-weight:bold">무료 상담 신청하기</a>
+<a href="/contact" style="display:inline-block;margin-top:12px;padding:12px 28px;background:#A33344;color:white;border-radius:6px;text-decoration:none;font-weight:bold">무료 상담 신청하기</a>
 </div>

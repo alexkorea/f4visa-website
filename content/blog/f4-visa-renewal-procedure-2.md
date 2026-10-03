@@ -123,9 +123,9 @@ F-4 비자의 체류 기간은 일반적으로 2년(최초 발급) 또는 3년(�
 
 ## 관련 글
 
-- [F-4 비자 신청 자격과 재외동포 범위](/blog/ko/f4-visa/f4-eligibility-overseas-korean-scope)
-- [거소증 신청 방법과 서류](/blog/ko/f4-visa/f4-domestic-residence-report)
-- [국적이탈신고 절차 안내](/blog/ko/f4-visa/nationality-renunciation)
+- [F-4 비자 신청 자격과 재외동포 범위](/blog/f4-eligibility-overseas-korean-scope)
+- [거소증 신청 방법과 서류](/blog/f4-domestic-residence-filing-steps)
+- [국적이탈신고 절차 안내](/blog/nationality-renunciation-korea)
 
 ---
 

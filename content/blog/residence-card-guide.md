@@ -114,7 +114,7 @@ F-4 비자 외에도 **F-4 동등 자격**을 보유한 일부 재외동포도 �
 ⚠️ <strong>주의:</strong> <a href="/nationality-loss-report">국적상실 신고</a>가 완료되지 않은 경우, 거소증 발급 전에 먼저 국적상실 신고를 진행해야 합니다. 국적상실 신고 수리까지 약 1~2개월이 소요되므로 미리 준비하세요.
 </div>
 
-👉 [거소증 서류 확인 도구로 내 서류 체크하기](/f4-residence-card-documents-checklist)
+👉 [거소증 발급 안내에서 준비 서류 확인하기](/f4-visa-resident-card)
 
 ## 발급 절차 (4단계)
 
@@ -224,7 +224,7 @@ F-4 비자로 6개월 이상 체류하면 국민건강보험 가입 대상이 �
 - [F-4 비자와 거소증 상세 안내](/f4-visa-resident-card)
 - [F-4 비자 종류 전체 목록](/f4-visa-types)
 - [F-4 비자 연장 절차](/f4-visa-renewal)
-- [거소증 서류 확인 도구](/f4-residence-card-documents-checklist)
+- [F-4 거소증 발급 안내](/f4-visa-resident-card)
 - [국적상실 신고 절차](/nationality-loss-report)
 - [영주권(F-5) 신청 안내](/permanent-residency)
 

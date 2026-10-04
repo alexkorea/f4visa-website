@@ -65,6 +65,12 @@ const SITES = {
     locales: ['ko', 'en', 'zh', 'ja'],
     phone: '02-309-3107', domain: 'investkorea.co.kr',
     og: null, git: false,
+    // 2026-10-04 맥7 0950: 브랜드 B(에이원) 전용 게이트 — registry B 외 상호·전화·이메일·주소가 원고에 있으면 발행 중단(rc=3).
+    // 브랜드 A(비전)·C·D·E 공유 표기는 NAS team-relay/content-guard/brand_registry.json 에서 옮겼다(NAS 멈춤에 발행이 걸리지 않게 내장).
+    brand: {
+      forbidden: /VISION|Vision (?:Admin|Immigration|Visa|행정)|비전\s*행정|(?:ビジョン|愿景|远景)\s*行政|飞展|维森|행정사사무소 이룸|유선행정|선샤인행정|5000meter|7000meter|9000meter|teamone1?163|teamhelp888|lwj95|VisionAdmin|퇴계로|Toegye|退溪|退渓|성우빌딩|Seongwoo|圣宇|ソンウ|04614|363-?2251|405-05-54079/gu,  // 대소문자 구분: 영어 낱말 vision 오탐 방지
+      emails: ['help@investkorea.co.kr'],
+    },
   },
 }
 const CFG = SITES[SITE]
@@ -152,6 +158,10 @@ function checkEntry(e) {
     if (OUR_PRICE_RE.test(raw)) fails.push(`[${loc}] 자사 요금 표기: ${OUR_PRICE_RE.exec(raw)[0]}`)
     if (HYPE_RE.test(raw)) fails.push(`[${loc}] 과장·보장 표현: ${HYPE_RE.exec(raw)[0]}`)
     for (const ph of new Set(raw.match(PHONE_RE) || [])) if (ph !== CFG.phone) fails.push(`[${loc}] 등록 외 전화번호 ${ph} (정답 ${CFG.phone})`)
+    if (CFG.brand) {
+      for (const m of raw.matchAll(CFG.brand.forbidden)) fails.push(`[${loc}] 브랜드 레지스트리 B 외 표기 "${m[0]}" …${raw.slice(Math.max(0, m.index - 12), m.index + 20).replace(/\n/g, ' ')}…`)
+      for (const em of new Set(raw.match(/[\w.+-]+@[\w-]+(?:\.[\w-]+)+/g) || [])) if (!CFG.brand.emails.includes(em.toLowerCase())) fails.push(`[${loc}] 등록 외 이메일 ${em} (정답 ${CFG.brand.emails.join(',')})`)
+    }
     const h2 = [...body.matchAll(/^##\s+(.+)$/gm)]
     const faqIdx = h2.findIndex((h) => FAQ_H2.test(h[1]) && !/^\d+\./.test(h[1].trim()))
     if (faqIdx < 0) warns.push(`[${loc}] FAQ 제목(H2) 없음 — FAQPage 없이 발행된다`)

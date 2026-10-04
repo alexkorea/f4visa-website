@@ -17,8 +17,8 @@ export const SITE = {
   phoneMobile: "010-2081-3408",
   phoneMobileHref: "tel:010-2081-3408",
 
-  email: "teamone163@gmail.com",
-  emailHref: "mailto:teamone163@gmail.com",
+  email: "help@f4visa.net",
+  emailHref: "mailto:help@f4visa.net",
   kakaoId: "alexkorea",
 
   address: {

@@ -216,7 +216,7 @@ display 40 / h1 32 / h2 19 / h3 17 / body 16.5 / caption 13.5 / button 16 (px). 
 ### 회사명 다국어 표기
 - 한국어: 행정사사무소 이룸
 - 영어: EROOM Administrative Office
-- 대표: 이시정 대표행정사(leesj.jpg)/이원중 행정사 · teamone163@gmail.com · f4visa.net
+- 대표: 이시정 대표행정사(leesj.jpg)/이원중 행정사 · help@f4visa.net · f4visa.net
 
 ## Layout
 

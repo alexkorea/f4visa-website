@@ -216,7 +216,7 @@ slug: "dual-citizenship-permission-criteria-renunciation-vs-loss"
 - ✔ 서울 내 임시주소 제공 (별도 비용 안내)
 
 전화: 02-363-2251
-이메일: teamone163@gmail.com
+이메일: help@f4visa.net
 카카오톡 아이디: alexkorea
 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 평일 09:30 — 17:30 (점심 12:00 — 13:00)

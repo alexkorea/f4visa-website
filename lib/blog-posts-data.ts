@@ -543,7 +543,7 @@ F-4 사증 신청에는 원본이 필요하므로 사본이나 영사확인서�
 ✔ 서울 내 임시주소 제공 (별도 비용 안내)</p>
 <p><strong>행정사사무소 이룸 (EROOM Administrative Office)</strong>
 전화: 02-363-2251
-이메일: <a href="mailto:teamone163@gmail.com">teamone163@gmail.com</a>
+이메일: <a href="mailto:help@f4visa.net">help@f4visa.net</a>
 카카오톡 아이디: alexkorea
 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 상담 시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)</p>
@@ -752,7 +752,7 @@ F-4 사증 신청에는 원본이 필요하므로 사본이나 영사확인서�
 <p><strong>행정사사무소 이룸 (EROOM Administrative Office)</strong></p>
 <ul>
 <li>전화: 02-363-2251</li>
-<li>이메일: <a href="mailto:teamone163@gmail.com">teamone163@gmail.com</a></li>
+<li>이메일: <a href="mailto:help@f4visa.net">help@f4visa.net</a></li>
 <li>카카오톡: alexkorea</li>
 <li>주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)</li>
 <li>상담 시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)</li>
@@ -930,7 +930,7 @@ A. 6개월 이내 촬영한 표준규격 사진이 요구됩니다. 이전 사�
 <p><strong>행정사사무소 이룸 (EROOM Administrative Office)</strong></p>
 <ul>
 <li>전화: 02-363-2251</li>
-<li>이메일: <a href="mailto:teamone163@gmail.com">teamone163@gmail.com</a></li>
+<li>이메일: <a href="mailto:help@f4visa.net">help@f4visa.net</a></li>
 <li>카카오톡: alexkorea</li>
 <li>주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)</li>
 <li>상담시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)</li>
@@ -1160,7 +1160,7 @@ F-4 재외동포 비자로 국내거소신고증(거소증)을 발급받은 분�
 <p><strong>행정사사무소 이룸 (EROOM Administrative Office)</strong></p>
 <ul>
 <li>전화: 02-363-2251</li>
-<li>이메일: <a href="mailto:teamone163@gmail.com">teamone163@gmail.com</a></li>
+<li>이메일: <a href="mailto:help@f4visa.net">help@f4visa.net</a></li>
 <li>카카오톡: alexkorea</li>
 <li>주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)</li>
 <li>상담 시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)</li>
@@ -1407,7 +1407,7 @@ F-4 비자 및 거소증 신청에는 시민권증서 원본을 반드시 제출
 <p><strong>행정사사무소 이룸 (EROOM Administrative Office)</strong></p>
 <ul>
 <li>전화: 02-363-2251</li>
-<li>이메일: <a href="mailto:teamone163@gmail.com">teamone163@gmail.com</a></li>
+<li>이메일: <a href="mailto:help@f4visa.net">help@f4visa.net</a></li>
 <li>카카오톡: alexkorea</li>
 <li>주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)</li>
 <li>상담 시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)</li>
@@ -1657,7 +1657,7 @@ A4 용지에 <strong>이름, 생년월일, 거소허가번호, 분실 일시, �
 <p><strong>행정사사무소 이룸 (EROOM Administrative Office)</strong></p>
 <ul>
 <li>전화: 02-363-2251</li>
-<li>이메일: <a href="mailto:teamone163@gmail.com">teamone163@gmail.com</a></li>
+<li>이메일: <a href="mailto:help@f4visa.net">help@f4visa.net</a></li>
 <li>주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)</li>
 <li>평일 09:30 — 17:30 (점심 12:00 — 13:00)</li>
 </ul>
@@ -1925,7 +1925,7 @@ F-3는 F-4 소지자와의 혼인 관계를 증명하면 신청 가능하며, �
 <p><strong>행정사사무소 이룸 (EROOM Administrative Office)</strong></p>
 <ul>
 <li>전화: 02-363-2251</li>
-<li>이메일: <a href="mailto:teamone163@gmail.com">teamone163@gmail.com</a></li>
+<li>이메일: <a href="mailto:help@f4visa.net">help@f4visa.net</a></li>
 <li>카카오톡 아이디: alexkorea</li>
 <li>주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)</li>
 <li>운영시간: 평일 09:30 – 18:30 KST (점심 12:00 – 13:00)</li>
@@ -2500,7 +2500,7 @@ F-4 비자 체류기간 연장 신청과 함께 거소증도 갱신 신청합니
 <p><strong>행정사사무소 이룸 (EROOM Administrative Office)</strong></p>
 <ul>
 <li>전화: 02-363-2251</li>
-<li>이메일: <a href="mailto:teamone163@gmail.com">teamone163@gmail.com</a></li>
+<li>이메일: <a href="mailto:help@f4visa.net">help@f4visa.net</a></li>
 <li>카카오톡: alexkorea</li>
 <li>주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)</li>
 <li>상담 시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)</li>
@@ -2734,7 +2734,7 @@ F-4 비자 체류기간 연장 신청과 함께 거소증도 갱신 신청합니
 <h2>9. 전문가 상담이 필요하신가요? <a id="section-9"></a></h2>
 <p>F-4 비자는 <strong>혈통 입증 서류·국적 변경 이력·아포스티유</strong>가 결합된 복합 행정으로, 출생지·연령·이주 시점에 따라 케이스가 수십 가지로 나뉩니다. 행정사사무소 이룸은 중국동포·CIS동포·미국·캐나다·호주 등 다양한 출신 재외동포의 F-4 비자를 전문으로 처리하며, 거소증 발급까지 원스톱 지원합니다.</p>
 <p>📞 무료 상담: 02-363-2251 (월-금 09:30-18:30 KST)
-📧 이메일: <a href="mailto:teamone163@gmail.com">teamone163@gmail.com</a>
+📧 이메일: <a href="mailto:help@f4visa.net">help@f4visa.net</a>
 💬 카카오톡: alexkorea</p>
 <p><a href="/contact">👉 무료 상담 신청하기</a></p>
 <hr>
@@ -3022,7 +3022,7 @@ F-4 비자는 보통 3년 단위로 갱신되며, 비자 갱신 시 거소증도
 행정사사무소 이룸은 F-4 거소증 신청 전 과정을 대행하며, 가장 신속히 허가되는 출입국사무소를 찾아 <strong>한국 내 최소 체류기간으로 처리될 수 있도록</strong> 지속적으로 노력하고 있습니다.</p>
 <ul>
 <li><strong>전화:</strong> 02-363-2251</li>
-<li><strong>이메일:</strong> <a href="mailto:teamone163@gmail.com">teamone163@gmail.com</a></li>
+<li><strong>이메일:</strong> <a href="mailto:help@f4visa.net">help@f4visa.net</a></li>
 <li><strong>카카오톡:</strong> alexkorea</li>
 <li><strong>주소:</strong> (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)</li>
 <li><strong>운영시간:</strong> 평일 09:30 — 17:30 (점심 12:00 — 13:00)</li>
@@ -3264,7 +3264,7 @@ F-4 비자는 보통 3년 단위로 갱신되며, 비자 갱신 시 거소증도
 <p>서류 준비부터 가장 빠른 출입국사무소 선정, 거소증 수령·발송까지 한 번에 처리합니다.</p>
 <ul>
 <li><strong>전화:</strong> 02-363-2251</li>
-<li><strong>이메일:</strong> <a href="mailto:teamone163@gmail.com">teamone163@gmail.com</a></li>
+<li><strong>이메일:</strong> <a href="mailto:help@f4visa.net">help@f4visa.net</a></li>
 <li><strong>카카오톡:</strong> alexkorea</li>
 <li><strong>운영 시간:</strong> 평일 09:30 — 17:30 (점심 12:00 — 13:00)</li>
 <li><strong>주소:</strong> (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)</li>
@@ -3423,7 +3423,7 @@ F-4 비자는 보통 3년 단위로 갱신되며, 비자 갱신 시 거소증도
 <h3>STEP 2 — 관할 출입국·외국인청 방문</h3>
 <p>체류지 주소를 관할하는 출입국·외국인청 또는 출장소에 직접 방문합니다.
 관할 기관 확인은 <a href="https://www.hikorea.go.kr">하이코리아</a>에서 주소 입력으로 확인할 수 있습니다.
-서울 거주자라면 서울출입국·외국인청(마포)이나 남부출입국·외국인청 등을 이용합니다.</p>
+서울 거주자라면 서울출입국·외국인청(2026년 10월 19일부터 송파구 정의로 55, 10월 18일까지 양천구 목동동로 151)이나 남부출입국·외국인청 등을 이용합니다.</p>
 <p>방문 전 반드시 예약 여부를 확인해야 합니다.
 현장 접수가 가능한 곳도 있지만, 사전 예약이 필요한 곳이 늘고 있습니다.
 처리 속도가 가장 빠른 사무소를 선택하는 것이 결국 전체 체류 기간을 줄이는 핵심입니다.</p>
@@ -3521,7 +3521,7 @@ F-4 비자는 보통 3년 단위로 갱신되며, 비자 갱신 시 거소증도
 <p><strong>행정사사무소 이룸 (EROOM Administrative Office)</strong></p>
 <ul>
 <li>전화: 02-363-2251</li>
-<li>이메일: <a href="mailto:teamone163@gmail.com">teamone163@gmail.com</a></li>
+<li>이메일: <a href="mailto:help@f4visa.net">help@f4visa.net</a></li>
 <li>카카오톡: alexkorea</li>
 <li>주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)</li>
 <li>운영시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)</li>
@@ -3710,7 +3710,7 @@ F-4 비자는 보통 3년 단위로 갱신되며, 비자 갱신 시 거소증도
 <ul>
 <li>전화: 02-363-2251</li>
 <li>카카오톡 ID: alexkorea</li>
-<li>이메일: <a href="mailto:teamone163@gmail.com">teamone163@gmail.com</a></li>
+<li>이메일: <a href="mailto:help@f4visa.net">help@f4visa.net</a></li>
 <li>주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)</li>
 <li>상담 시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)</li>
 </ul>
@@ -3928,7 +3928,7 @@ F-4 비자는 보통 3년 단위로 갱신되며, 비자 갱신 시 거소증도
 <p>본인이 어떤 케이스에 속하는지, 만 38세 이후 가장 빠른 신청 경로가 무엇인지 사례별로 안내드립니다.</p>
 <ul>
 <li><strong>전화:</strong> 02-363-2251</li>
-<li><strong>이메일:</strong> <a href="mailto:teamone163@gmail.com">teamone163@gmail.com</a></li>
+<li><strong>이메일:</strong> <a href="mailto:help@f4visa.net">help@f4visa.net</a></li>
 <li><strong>카카오톡 ID:</strong> alexkorea</li>
 <li><strong>주소:</strong> (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)</li>
 <li><strong>상담 시간:</strong> 평일 09:30 — 17:30 (점심 12:00 — 13:00)</li>
@@ -4205,7 +4205,7 @@ F-4의 "만 25세 이상"이라는 표현은 단순히 "스물다섯 살이 넘�
 <p><strong>행정사사무소 이룸 (EROOM Administrative Office)</strong></p>
 <ul>
 <li>전화: 02-363-2251</li>
-<li>이메일: <a href="mailto:teamone163@gmail.com">teamone163@gmail.com</a></li>
+<li>이메일: <a href="mailto:help@f4visa.net">help@f4visa.net</a></li>
 <li>카카오톡 아이디: alexkorea</li>
 <li>주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)</li>
 <li>상담 시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)</li>
@@ -4416,7 +4416,7 @@ F-4의 "만 25세 이상"이라는 표현은 단순히 "스물다섯 살이 넘�
 <p><strong>연락처</strong></p>
 <ul>
 <li>전화: 02-363-2251</li>
-<li>이메일: <a href="mailto:teamone163@gmail.com">teamone163@gmail.com</a></li>
+<li>이메일: <a href="mailto:help@f4visa.net">help@f4visa.net</a></li>
 <li>카카오톡 ID: alexkorea</li>
 <li>주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)</li>
 <li>상담 시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)</li>
@@ -4638,7 +4638,7 @@ F-4의 "만 25세 이상"이라는 표현은 단순히 "스물다섯 살이 넘�
 <ul>
 <li>전화: 02-363-2251</li>
 <li>카카오톡 ID: alexkorea</li>
-<li>이메일: <a href="mailto:teamone163@gmail.com">teamone163@gmail.com</a></li>
+<li>이메일: <a href="mailto:help@f4visa.net">help@f4visa.net</a></li>
 <li>주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)</li>
 <li>평일 09:30 — 17:30 (점심 12:00 — 13:00)</li>
 </ul>
@@ -4859,7 +4859,7 @@ F-4는 외국 국적을 보유한 동포가 대상입니다. 외국 시민권 �
 <p>F-4 신청 경로 선택은 단순한 양식 차이가 아니라, 본인 일정·서류 상태·체류 가능 기간이 모두 얽힌 결정입니다. 행정사사무소 이룸은 가장 빨리 허가되는 출입국사무소를 찾아 진행하며, 한국 서류 발급대행부터 거소증 수령·본국 발송까지 일괄 처리해 드립니다.</p>
 <ul>
 <li>전화: <strong>02-363-2251</strong></li>
-<li>이메일: <strong><a href="mailto:teamone163@gmail.com">teamone163@gmail.com</a></strong></li>
+<li>이메일: <strong><a href="mailto:help@f4visa.net">help@f4visa.net</a></strong></li>
 <li>카카오톡 아이디: <strong>alexkorea</strong></li>
 <li>주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)</li>
 <li>운영 시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)</li>
@@ -5204,7 +5204,7 @@ A. 처리기간은 출입국사무소별로 달라지며, 가장 빠른 곳을 �
 <p>비자 자격, 필요서류, 최근 법령 적용 등은 담당기관마다 매번 바뀌고 있습니다.<br>
 본인 상황에 맞는 가장 빠른 허가 가능 절차는 직접 확인하셔야 합니다.</p>
 <p>전화: 02-363-2251<br>
-이메일: <a href="mailto:teamone163@gmail.com">teamone163@gmail.com</a><br>
+이메일: <a href="mailto:help@f4visa.net">help@f4visa.net</a><br>
 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)<br>
 행정사사무소 이룸</p>
 <hr>
@@ -5413,7 +5413,7 @@ A. 처리기간은 출입국사무소별로 달라지며, 가장 빠른 곳을 �
 <p><strong>행정사사무소 이룸 (EROOM Administrative Office)</strong></p>
 <ul>
 <li>전화: 02-363-2251</li>
-<li>이메일: <a href="mailto:teamone163@gmail.com">teamone163@gmail.com</a></li>
+<li>이메일: <a href="mailto:help@f4visa.net">help@f4visa.net</a></li>
 <li>카카오톡: alexkorea</li>
 <li>주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)</li>
 <li>상담 시간: 평일 09:30 – 17:30 (점심 12:00 — 13:00)</li>
@@ -5626,7 +5626,7 @@ A. 처리기간은 출입국사무소별로 달라지며, 가장 빠른 곳을 �
 <ul>
 <li><strong>사무소명:</strong> 행정사사무소 이룸 (EROOM Administrative Office)</li>
 <li><strong>전화:</strong> 02-363-2251</li>
-<li><strong>이메일:</strong> <a href="mailto:teamone163@gmail.com">teamone163@gmail.com</a></li>
+<li><strong>이메일:</strong> <a href="mailto:help@f4visa.net">help@f4visa.net</a></li>
 <li><strong>카카오톡 ID:</strong> alexkorea</li>
 <li><strong>주소:</strong> (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)</li>
 <li><strong>운영시간:</strong> 평일 09:30 – 17:30 (점심 12:00 — 13:00)</li>
@@ -6002,7 +6002,7 @@ A. 처리기간은 출입국사무소별로 달라지며, 가장 빠른 곳을 �
 </tr>
 <tr>
 <td>이메일</td>
-<td><a href="mailto:teamone163@gmail.com">teamone163@gmail.com</a></td>
+<td><a href="mailto:help@f4visa.net">help@f4visa.net</a></td>
 </tr>
 <tr>
 <td>주소</td>
@@ -6396,7 +6396,7 @@ A. 처리기간은 출입국사무소별로 달라지며, 가장 빠른 곳을 �
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">이메일</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">teamone163@gmail.com</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">help@f4visa.net</td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">카카오톡</td>
@@ -6759,7 +6759,7 @@ A. 재발급은 신규보다 조금 빠릅니다. 번호는 그대로 유지되�
 <p><strong>행정사사무소 이룸 (EROOM Administrative Office)</strong></p>
 <ul>
 <li>전화: 02-363-2251</li>
-<li>이메일: <a href="mailto:teamone163@gmail.com">teamone163@gmail.com</a></li>
+<li>이메일: <a href="mailto:help@f4visa.net">help@f4visa.net</a></li>
 <li>카카오톡 아이디: alexkorea</li>
 <li>주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)</li>
 <li>운영시간: 평일 09:30 – 17:30 (점심 12:00 — 13:00)</li>
@@ -7101,7 +7101,7 @@ A. 관할 출입국·외국인청에 방문해 재발급 신청을 합니다. �
   <strong style="color:#1e40af">행정사사무소 이룸 (EROOM Administrative Office)</strong>
   <ul style="margin-top:12px;list-style:none;padding-left:0">
     <li>📞 전화: <strong>02-363-2251</strong></li>
-    <li>✉️ 이메일: <strong>teamone163@gmail.com</strong></li>
+    <li>✉️ 이메일: <strong>help@f4visa.net</strong></li>
     <li>💬 카카오톡 ID: <strong>alexkorea</strong></li>
     <li>📍 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)</li>
     <li>🕘 평일 09:30 – 17:30 (점심 12:00 — 13:00)</li>
@@ -7450,7 +7450,7 @@ A. 관할 출입국·외국인청에 방문해 재발급 신청을 합니다. �
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">이메일</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">teamone163@gmail.com</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">help@f4visa.net</td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">카카오톡</td>
@@ -7795,7 +7795,7 @@ A. 관할 출입국·외국인청에 방문해 재발급 신청을 합니다. �
 <p><strong>연락처</strong></p>
 <ul>
 <li>전화: <strong>02-363-2251</strong></li>
-<li>이메일: <strong><a href="mailto:teamone163@gmail.com">teamone163@gmail.com</a></strong></li>
+<li>이메일: <strong><a href="mailto:help@f4visa.net">help@f4visa.net</a></strong></li>
 <li>카카오톡 아이디: <strong>alexkorea</strong></li>
 <li>주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)</li>
 <li>상담시간: 평일 09:30 – 17:30 (점심 12:00 — 13:00)</li>
@@ -8178,7 +8178,7 @@ A. 관할 출입국·외국인청에 방문해 재발급 신청을 합니다. �
 <p><strong>행정사사무소 이룸 (EROOM Administrative Office)</strong></p>
 <ul>
 <li>전화: <strong>02-363-2251</strong></li>
-<li>이메일: <strong><a href="mailto:teamone163@gmail.com">teamone163@gmail.com</a></strong></li>
+<li>이메일: <strong><a href="mailto:help@f4visa.net">help@f4visa.net</a></strong></li>
 <li>카카오톡 아이디: <strong>alexkorea</strong></li>
 <li>주소: <strong>(04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)</strong></li>
 <li>상담 시간: 평일 09:30 – 17:30 (점심 12:00 — 13:00)</li>
@@ -8628,7 +8628,7 @@ A. 관할 출입국·외국인청에 방문해 재발급 신청을 합니다. �
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">이메일</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">teamone163@gmail.com</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">help@f4visa.net</td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">카카오톡</td>
@@ -8791,7 +8791,7 @@ A. 관할 출입국·외국인청에 방문해 재발급 신청을 합니다. �
   </ul>
 </div>
 <h3>하이코리아 예약과 제출</h3>
-<p>현장에서는 "워크인(walk-in)"이 사실상 안 됩니다. <strong>hikorea.go.kr</strong>에서 방문 예약을 먼저 잡아야 하고, 지역(서울남부·양천·수원·부산 등)마다 대기가 다릅니다. 서울남부 출입국은 특히 F-4 접수가 몰려 예약 자체가 2~4주 밀리는 일이 흔합니다.</p>
+<p>현장에서는 "워크인(walk-in)"이 사실상 안 됩니다. <strong>hikorea.go.kr</strong>에서 방문 예약을 먼저 잡아야 하고, 지역(서울남부·서울청(10월 19일부터 송파구 정의로 55)·수원·부산 등)마다 대기가 다릅니다. 서울남부 출입국은 특히 F-4 접수가 몰려 예약 자체가 2~4주 밀리는 일이 흔합니다.</p>
 <h3>처리 흐름</h3>
 <ol>
 <li>무비자로 한국 입국 (B-2 등)</li>
@@ -9000,7 +9000,7 @@ A. 관할 출입국·외국인청에 방문해 재발급 신청을 합니다. �
 <p><strong>행정사사무소 이룸 (EROOM Administrative Office)</strong></p>
 <ul>
 <li>전화: 02-363-2251</li>
-<li>이메일: <a href="mailto:teamone163@gmail.com">teamone163@gmail.com</a></li>
+<li>이메일: <a href="mailto:help@f4visa.net">help@f4visa.net</a></li>
 <li>카카오톡 아이디: alexkorea</li>
 <li>주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)</li>
 <li>상담시간: 평일 09:30 – 17:30 (점심 12:00 — 13:00)</li>
@@ -9271,7 +9271,7 @@ A. 관할 출입국·외국인청에 방문해 재발급 신청을 합니다. �
 <p><strong>행정사사무소 이룸 (EROOM Administrative Office)</strong></p>
 <ul>
 <li>전화: 02-363-2251</li>
-<li>이메일: <a href="mailto:teamone163@gmail.com">teamone163@gmail.com</a></li>
+<li>이메일: <a href="mailto:help@f4visa.net">help@f4visa.net</a></li>
 <li>카카오톡 아이디: alexkorea</li>
 <li>주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)</li>
 <li>운영시간: 평일 09:30 – 17:30 (점심 12:00 — 13:00)</li>
@@ -9629,7 +9629,7 @@ A. 관할 출입국·외국인청에 방문해 재발급 신청을 합니다. �
 <div style="background:#f0f7ff;border:2px solid #2563eb;padding:24px;border-radius:8px;margin:24px 0;text-align:center">
   <h3 style="color:#1e40af;margin-top:0">📞 행정사사무소 이룸 연락처
   <p style="margin:8px 0"><strong>전화:</strong> 02-363-2251</p>
-  <p style="margin:8px 0"><strong>이메일:</strong> teamone163@gmail.com</p>
+  <p style="margin:8px 0"><strong>이메일:</strong> help@f4visa.net</p>
   <p style="margin:8px 0"><strong>카카오톡:</strong> alexkorea</p>
   <p style="margin:8px 0"><strong>주소:</strong> (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)</p>
   <p style="margin:8px 0;color:#6b7280">평일 09:30 – 17:30 (점심 12:00 — 13:00)</p>
@@ -9967,7 +9967,7 @@ A. 관할 출입국·외국인청에 방문해 재발급 신청을 합니다. �
 <div style="background:#f0f7ff;border:2px solid #2563eb;padding:24px;border-radius:8px;margin:24px 0;text-align:center">
   <strong style="font-size:1.2em;color:#1e40af">행정사사무소 이룸</strong><br><br>
   📞 <strong>전화:</strong> 02-363-2251<br>
-  📧 <strong>이메일:</strong> teamone163@gmail.com<br>
+  📧 <strong>이메일:</strong> help@f4visa.net<br>
   💬 <strong>카카오톡:</strong> alexkorea<br>
   📍 <strong>주소:</strong> (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)<br><br>
   🕤 <strong>상담 시간:</strong> 평일 09:30 – 17:30 (점심 12:00 — 13:00)
@@ -10217,7 +10217,7 @@ A. 관할 출입국·외국인청에 방문해 재발급 신청을 합니다. �
 <p><strong>연락처</strong></p>
 <ul>
 <li><strong>전화</strong>: 02-363-2251</li>
-<li><strong>이메일</strong>: <a href="mailto:teamone163@gmail.com">teamone163@gmail.com</a></li>
+<li><strong>이메일</strong>: <a href="mailto:help@f4visa.net">help@f4visa.net</a></li>
 <li><strong>카카오톡 아이디</strong>: alexkorea</li>
 <li><strong>주소</strong>: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)</li>
 <li><strong>운영시간</strong>: 평일 09:30 – 17:30 (점심 12:00 — 13:00)</li>
@@ -10354,7 +10354,7 @@ A. 관할 출입국·외국인청에 방문해 재발급 신청을 합니다. �
 <p><strong>기타 일반적인 강조</strong></p>
 <div style="background:#1e40af;color:white;padding:30px;border-radius:8px;margin:40px 0">
   <h3 style="color:white;margin-top:0;text-align:center">행정사사무소 이룸
-  <p style="margin:12px 0;text-align:center"><strong>전화:</strong> 02-363-2251　|　<strong>이메일:</strong> teamone163@gmail.com</p>
+  <p style="margin:12px 0;text-align:center"><strong>전화:</strong> 02-363-2251　|　<strong>이메일:</strong> help@f4visa.net</p>
   <p style="margin:12px 0;text-align:center;font-size:14px;line-height:1.6"><strong>방문 상담:</strong> (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)  동대문역사문화공원역 4번출구 10미터 | 동대문역사문화공원역 4번출구 10미터</p>
 </div>`,
   },
@@ -10449,7 +10449,7 @@ A. 관할 출입국·외국인청에 방문해 재발급 신청을 합니다. �
 <p>F-4에서 F-5로의 전환은 단순하지만 세부 조건이 까다롭고, 작은 실수로 인해 거절될 위험이 있습니다. 행정사사무소 이룸은 <strong>풍부한 경험과 신뢰를 바탕으로 귀하의 성공적인 F-5 전환을 돕습니다.</strong></p>
 <p>즉시 상담이 필요하신 경우 아래 연락처로 문의주세요.</p>
 <p><strong>전화:</strong> 02-363-2251<br>
-<strong>이메일:</strong> <a href="mailto:teamone163@gmail.com">teamone163@gmail.com</a><br>
+<strong>이메일:</strong> <a href="mailto:help@f4visa.net">help@f4visa.net</a><br>
 <strong>주소:</strong> (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)  동대문역사문화공원역 4번출구 10미터</p>
 <hr>
 <h2>자주 묻는 질문 (FAQ)</h2>
@@ -10770,7 +10770,7 @@ A. 관할 출입국·외국인청에 방문해 재발급 신청을 합니다. �
 </ul>
 <p>지금 바로 상담을 신청하시고, 대한민국 국적 회복의 첫걸음을 내딛으세요.</p>
 <p><strong>📞 상담 문의: 02-363-2251</strong><br>
-<strong>📧 이메일: <a href="mailto:teamone163@gmail.com">teamone163@gmail.com</a></strong><br>
+<strong>📧 이메일: <a href="mailto:help@f4visa.net">help@f4visa.net</a></strong><br>
 <strong>🏢 방문 상담: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)  동대문역사문화공원역 4번출구 10미터 | 동대문역사문화공원역 4번출구 10미터</strong></p>
 <div style="background:#1e40af;color:white;padding:20px;border-radius:8px;margin:30px 0;text-align:center">
 <h3 style="color:white;margin-top:0">무료 상담 신청
@@ -12286,7 +12286,7 @@ A: 재외동포의 거소지 등록 상태를 변경해야 합니다. 관할 기
 <h2>10. 전문가 상담</h2>
 <p>거소증 신청은 서류 준비부터 기한 관리까지 복잡한 행정 절차가 포함됩니다. 서류 미비 또는 기한 초과로 인한 불이익을 방지하기 위해 전문 행정사의 도움을 받으시면 안전하게 진행할 수 있습니다.</p>
 <p>에이원 행정사사무소는 F-4 재외동포 거소증, 체류자격 변경, 영주권(F-5) 전환까지 원스톱으로 지원합니다.</p>
-<p>📞 무료 상담: 02-309-3107 (월-금 09:30-18:30 KST)   📧 이메일: 7000meter@gmail.com   💬 카카오톡: alexkorea</p>
+<p>📞 무료 상담: 02-309-3107 (월-금 09:30-18:30 KST)   📧 이메일: help@f4visa.net   💬 카카오톡: alexkorea</p>
 <p><a href="/contact">👉 무료 상담 신청하기</a></p>
 <hr>
 <blockquote>이 가이드는 법제처 생활법령정보·정부24·법무부 출입국·외국인청 공식 자료(2026년 7월 기준)를 바탕으로 작성되었습니다. 수수료·처리기간 등은 변경될 수 있으니 방문 전 <a href="https://www.hikorea.go.kr">하이코리아</a> 또는 1345(외국인종합안내센터)에서 최신 정보를 확인하시기 바랍니다.</blockquote>`,

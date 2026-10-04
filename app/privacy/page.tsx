@@ -72,7 +72,7 @@ export default function PrivacyPage() {
               <p><strong className="text-foreground">개인정보 보호책임자</strong></p>
               <p>성명: 김영주</p>
               <p>연락처: 02-363-2251</p>
-              <p>이메일: teamone163@gmail.com</p>
+              <p>이메일: help@f4visa.net</p>
             </div>
 
             <div className="mt-6 pt-6 border-t border-border text-sm text-muted-foreground">

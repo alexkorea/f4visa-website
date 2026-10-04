@@ -536,7 +536,7 @@ F-4 대상은 출생으로 대한민국 국적을 보유했다가 외국 국적�
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">이메일</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">teamone163@gmail.com</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">help@f4visa.net</td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">카카오톡</td>

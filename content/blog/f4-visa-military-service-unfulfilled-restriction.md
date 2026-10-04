@@ -442,7 +442,7 @@ slug: "f4-visa-military-service-unfulfilled-restriction"
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">이메일</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">teamone163@gmail.com</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">help@f4visa.net</td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">카카오톡</td>

@@ -258,7 +258,7 @@ slug: "nationality-recovery-minor-children-accompanying"
 서류 누락·표기 불일치로 일정이 길어지는 사례가 많아, 사전 검토만으로도 전체 일정이 크게 단축됩니다.
 
 - 전화: **02-363-2251**
-- 이메일: **teamone163@gmail.com**
+- 이메일: **help@f4visa.net**
 - 카카오톡: **alexkorea**
 - 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - 상담 시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)

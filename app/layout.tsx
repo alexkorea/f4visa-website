@@ -66,7 +66,12 @@ export default function RootLayout({
         {/* 임계 폰트 서브셋. font-display:optional 은 스타일시트 파싱 뒤에 발견되면
             블록 구간을 놓쳐 한 번도 적용되지 않는다 — 이 preload 한 줄이 필수다. */}
         <link rel="preload" as="font" type="font/woff2" crossOrigin="anonymous"
-              href="/fonts/pretendard-critical-20260927.woff2" />
+              href="/fonts/pretendard-critical-20261005.woff2" />
+        {/* 0951 모바일 LCP: <head> 끝 인라인 스크립트는 스타일시트가 올 때까지 파서를 세운다.
+            파서가 <body> 에 닿기 전엔 Chrome 이 Low 우선순위(Next JS 청크)를 미루므로
+            CSS·임계 폰트가 대역을 먼저 쓰고 JS 는 첫 페인트 뒤에 실행된다. 빈 스크립트는
+            파서를 세우지 않으니 내용을 지우지 말 것. lawinkorea 의 Webfonts 스크립트와 같은 효과. */}
+        <script dangerouslySetInnerHTML={{ __html: 'void 0' }} />
       </head>
       <body>
         <a href="#main" className="skip-link">본문 바로가기</a>

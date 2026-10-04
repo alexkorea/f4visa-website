@@ -1,34 +1,52 @@
-# f4visa.net — F-4 재외동포 비자 전문 행정사 컨설팅
+# f4visa.net — 행정사사무소 이룸 (F-4 재외동포 비자·거소증·국적 업무)
 
-> 행정사사무소 이룸이 운영하는 F-4 재외동포 비자 전문 안내 사이트입니다.
-> F-4 비자 신청, 거소증 발급, 체류 연장, 국적 요건 등 재외동포 체류 실무 정보를 제공합니다.
+> 행정사사무소 이룸(EROOM Administrative Office)이 운영하는 재외동포 행정 안내 사이트입니다.
+> F-4 재외동포 비자와 거소증 발급, 체류기간 연장, 국적상실·국적이탈 신고, 국적회복, F-5 영주권 절차를 행정사가 직접 안내합니다. 해외 거주 재외동포도 온라인·메신저로 원격 진행할 수 있습니다.
 
-## 주요 서비스
+## 고지
 
-- [F-4 비자 안내](https://www.f4visa.net/)
-- [비자 상담 문의](https://www.f4visa.net/contact)
-- [세금 이야기(협력 세무사)](https://www.f4visa.net/tax-stories)
+- 이 사이트는 법무부·출입국·외국인청 등 정부기관이 아니라 민간 행정사사무소(행정사사무소 이룸)가 운영합니다.
+- 사증·체류·국적 허가 여부는 담당 행정기관이 심사해 결정하며, 사무소는 허가 결과를 약속하지 않습니다.
+
+## 사무소 정보
+
+- 상호: 행정사사무소 이룸 (EROOM Administrative Office)
+- 대표 행정사: 이시정
+- 사업자등록번호: 207-52-00648
+- 주소: 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
+- 전화: 02-363-2251 (+82-2-363-2251) / 상담 휴대폰 010-2081-3408
+- 이메일: help@f4visa.net
+- 운영시간: 평일(월~금) 09:30–17:30 KST, 토·일·공휴일 휴무
+- 상담 언어: 한국어, 영어, 중국어, 일본어
+- 메신저 상담: KakaoTalk, WeChat, LINE, WhatsApp
+- 문의: https://www.f4visa.net/contact
+
+## 대표 페이지 (한국어)
+
+- [홈 — F-4 비자·거소증·국적·영주권 안내](https://www.f4visa.net/)
+- [사무소 소개](https://www.f4visa.net/about)
+- [F-4 비자 종류와 대상별 사증발급 첨부서류](https://www.f4visa.net/f4-visa-types)
+- [F-4 비자와 거소증 — 발급 대상·효과·신청 절차](https://www.f4visa.net/f4-visa-resident-card)
+- [F-4 비자 연장 — 필요서류와 절차, 신청 시기](https://www.f4visa.net/f4-visa-renewal)
+- [국적상실 신고](https://www.f4visa.net/nationality-loss-report)
+- [국적이탈 신고](https://www.f4visa.net/nationality-renunciation-report)
+- [국적선택과 이중국적 / 복수국적자 종합가이드](https://www.f4visa.net/nationality-selection-dual-nationality)
+- [국적회복 — 신청 자격·절차·65세 이상 특례](https://www.f4visa.net/nationality-recovery)
+- [재외동포 영주권(F-5) — 자격·절차·필요서류](https://www.f4visa.net/permanent-residency)
+- [세금 이야기 — 재외동포·F-4 비자 세금 가이드(협력 세무사)](https://www.f4visa.net/tax-stories)
+- [상담 문의](https://www.f4visa.net/contact)
 
 ## 핵심 가이드 (한국어)
 
-- [F-4 재외동포 비자 완벽 가이드](https://www.f4visa.net/blog/f4-overseas-korean-visa-guide)
-- [F-4 거소증 신청 절차](https://www.f4visa.net/blog/f4-residence-card-application-guide-2026)
-- [F-4 거소증 발급 준비물과 소요 기간](https://www.f4visa.net/blog/f4-residence-card-issuance)
-- [F-4 → F-5 영주권 전환 방법](https://www.f4visa.net/blog/f4-to-f5-permanent-residency-conversion)
-- [재외동포 자격 범위 완벽 해설](https://www.f4visa.net/blog/f4-eligibility-overseas-korean-scope)
-- [F-4 남성 25세 병역 규정](https://www.f4visa.net/blog/f4-male-age-25-military-rule)
-- [재외동포 국내 거소 신고 절차](https://www.f4visa.net/blog/f4-domestic-residence-report-procedure)
-- [거소증 분실·훼손 재발급](https://www.f4visa.net/blog/f4-residence-card-reissue-lost-damaged)
+- [F-4 재외동포비자 신청 자격과 필요서류 완벽 가이드](https://www.f4visa.net/blog/f4-overseas-korean-visa-guide)
+- [F-4 재외동포 거소증 신청 방법: 서류·기간·비용](https://www.f4visa.net/blog/f4-residence-card-application-guide)
+- [F-4에서 F-5 영주권 전환 요건과 절차](https://www.f4visa.net/blog/f4-to-f5-permanent-residency-conversion)
+- [F-4 비자 신청 자격과 재외동포 범위 총정리](https://www.f4visa.net/blog/f4-eligibility-overseas-korean-scope)
+- [F-4 비자와 병역의무: 남성 재외동포가 알아야 할 사항](https://www.f4visa.net/blog/f4-visa-military-service)
+- [F-4 비자 소지자 국내거소신고 절차](https://www.f4visa.net/blog/f4-domestic-residence-filing-steps)
+- [블로그 전체](https://www.f4visa.net/blog)
 
-## 블로그
+## 기타
 
-- [F-4 비자 블로그 전체 보기](https://www.f4visa.net/blog)
-
-## 사이트 정보
-
-- 홈페이지: https://www.f4visa.net
-- 운영: 행정사사무소 이룸 (서울 중구)
-- 전화: 02-363-2251
-- 이메일: help@f4visa.net
-- 문의: https://www.f4visa.net/contact
 - 사이트맵: https://www.f4visa.net/sitemap.xml
+- 사이트 언어: 한국어

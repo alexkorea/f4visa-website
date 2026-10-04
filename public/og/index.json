@@ -2960,6 +2960,22 @@
    "slug": "f4-early-adaptation-program-requirement",
    "generated_at": "2026-10-03T10:00:51.023Z",
    "version": "1.4"
+  },
+  "f4-r-regional-specialized-overseas-korean-visa": {
+   "hash": "226cc75762eadba9db603a19499690d843c305bf92bf33e2c21eb89ead2f925b",
+   "source": "pexels",
+   "seed": 2665446642,
+   "theme": "city",
+   "prompt_subject": "korean urban street",
+   "map_version": null,
+   "pexels_id": 38796660,
+   "pexels_author": "Gül Işık",
+   "category": "F-4비자",
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-r-regional-specialized-overseas-korean-visa",
+   "generated_at": "2026-10-04T10:02:30.887Z",
+   "version": "1.4"
   }
  }
 }

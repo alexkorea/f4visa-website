@@ -18,6 +18,8 @@ type FieldDef = {
   required?: boolean
   hint?: string
   dependsOn?: { field: string; value: string }
+  // 개인정보보호법 제23조 민감정보(범죄경력 등). 선택 입력이고, 답한 경우에만 별도 동의를 받는다.
+  sensitive?: boolean
 }
 
 // Q1–Q5: common to all services
@@ -299,10 +301,12 @@ const serviceFields: Record<string, FieldDef[]> = {
     },
     {
       name: "criminalRecordKorea",
-      label: "Q9. 한국 내 범죄 또는 과태료 이력이 있습니까?",
+      label: "Q9. 한국 내 범죄 또는 과태료 이력이 있습니까? (선택)",
       type: "radio",
       options: ["없음", "있음"],
-      required: true,
+      required: false,
+      sensitive: true,
+      hint: "답하지 않아도 상담 신청은 접수됩니다. 답하시면 아래 '민감정보 처리 동의'가 필요합니다.",
     },
     {
       name: "criminalRecordAbroad",
@@ -396,8 +400,17 @@ function Step2Form() {
   const fields = isNationalityRenunciation ? [] : getFieldsForService(primaryService)
 
   function updateField(name: string, value: string) {
-    setFormData((prev) => ({ ...prev, [name]: value }))
+    setFormData((prev) => {
+      const next = { ...prev, [name]: value }
+      // 선택 질문의 응답을 지우면 값 자체를 빼서 보낸다(빈 응답이 접수 내용에 남지 않게).
+      if (value === "") delete next[name]
+      return next
+    })
   }
+
+  const sensitiveAnswered = [...COMMON_FIELDS, ...fields].some(
+    (f) => f.sensitive && isVisible(f, formData) && !!formData[f.name]
+  )
 
   async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault()
@@ -597,6 +610,8 @@ function Step2Form() {
                   />
                 </div>
 
+                {sensitiveAnswered && <SensitiveConsent />}
+
                 <PrivacyConsent items="상세 상담 응답(출생국가·국적·입출국 예정일·체류자격·서류 보유 여부·거주국 전화번호·주소 등), 추가 문의 내용" />
                 <Button type="submit" className="w-full" size="lg" disabled={status === "sending"}>
                   {status === "sending" ? "전송 중..." : "상담 신청 완료"}
@@ -626,6 +641,28 @@ function Step2Form() {
       </section>
       <Footer />
     </main>
+  )
+}
+
+// QA01-FIX3(맥7 2026-10-05) — 범죄 이력은 개인정보보호법 제23조 민감정보라 일반 수집 동의와 따로 받는다.
+// 해당 질문에 답한 경우에만 나타나는 필수 체크. 체크박스에 name 이 없어 /api/contact-step2 body 는 그대로다.
+function SensitiveConsent() {
+  return (
+    <div className="rounded-lg border-2 border-amber-300 bg-amber-50 p-4 text-xs leading-relaxed text-muted-foreground">
+      <p className="mb-1 text-sm font-semibold text-foreground">민감정보 처리 동의 (범죄 이력 응답 시 필수)</p>
+      <ul className="space-y-0.5">
+        <li><span className="font-medium text-foreground">처리 항목</span>: 한국 내 범죄 또는 과태료 이력 유무(위 질문에 답한 내용)</li>
+        <li><span className="font-medium text-foreground">처리 목적</span>: 영주권(F-5) 품행 요건 검토 등 상담 회신</li>
+        <li><span className="font-medium text-foreground">보유 기간</span>: 상담 완료 후 1년 보관 후 파기</li>
+      </ul>
+      <p className="mt-1">
+        민감정보 처리에 동의하지 않을 권리가 있습니다. 동의하지 않으시면 위 범죄 이력 질문의 응답을 지우고 신청해 주세요. 그래도 상담 신청은 그대로 접수됩니다.
+      </p>
+      <label className="mt-1 flex min-h-[44px] cursor-pointer items-center gap-2 text-sm font-medium text-foreground">
+        <input type="checkbox" required className="h-6 w-6 shrink-0 accent-[var(--c-brand)]" />
+        <span>위 민감정보(범죄 이력) 처리에 동의합니다. (필수)</span>
+      </label>
+    </div>
   )
 }
 
@@ -695,6 +732,15 @@ function FieldRenderer({
               {opt}
             </label>
           ))}
+          {!field.required && value && (
+            <button
+              type="button"
+              onClick={() => onChange("")}
+              className="inline-flex min-h-[40px] items-center px-3 text-sm text-muted-foreground underline underline-offset-2 hover:text-primary"
+            >
+              응답 지우기
+            </button>
+          )}
         </div>
       )}
 

@@ -1,5 +1,6 @@
 import { NextResponse } from "next/server"
 import { saveToCRM } from "@/lib/notion-crm"
+import { checkStep1 } from "@/lib/contact-step1-validate"
 
 const RESEND_API_KEY = process.env.RESEND_API_KEY || ""
 const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN || ""
@@ -83,11 +84,13 @@ export async function POST(request: Request) {
   try {
     const body = await request.json()
     if (body.website) return NextResponse.json({ success: true, inquiryId: '' })
-    const { name, email, contact, snsType, snsId, nationality, services } = body
-
-    if (!name || !email || !services || services.length === 0) {
-      return NextResponse.json({ ok: false, error: "Missing required fields" }, { status: 400 })
+    const { name, snsType, snsId, nationality, services } = body
+    const checked = checkStep1(body)
+    if (!checked.ok) {
+      return NextResponse.json({ ok: false, error: checked.error }, { status: 400 })
     }
+    const email = checked.email || undefined
+    const contact = checked.contact || undefined
 
     const serviceRaw = Array.isArray(services) ? services.join(", ") : services
     const messageParts: string[] = []
@@ -107,7 +110,8 @@ export async function POST(request: Request) {
 
     const inquiryId = crmResult.inboxId || `f4v-${Date.now()}`
 
-    const emailPromise = fetch("https://api.resend.com/emails", {
+    // 이메일 없이 들어온 상담(연락처만)은 고객 확인메일을 건너뛴다. 담당자 알림(텔레그램)은 그대로 간다.
+    const emailPromise = !email ? Promise.resolve() : fetch("https://api.resend.com/emails", {
       method: "POST",
       headers: { "Authorization": `Bearer ${RESEND_API_KEY}`, "Content-Type": "application/json" },
       body: JSON.stringify({
@@ -122,7 +126,7 @@ export async function POST(request: Request) {
 
     const svcList = Array.isArray(services) ? services.join(", ") : services
     let telegramText = `[F4Visa] 새 상담 신청\n\n`
-    telegramText += `이름: ${name}\n이메일: ${email}\n`
+    telegramText += `이름: ${name}\n이메일: ${email || "(없음)"}\n`
     if (contact) telegramText += `연락처: ${contact}\n`
     if (snsType && snsId) telegramText += `SNS: ${snsType} - ${snsId}\n`
     if (nationality) telegramText += `국적: ${nationality}\n`

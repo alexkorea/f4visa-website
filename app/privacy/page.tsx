@@ -33,8 +33,9 @@ export default function PrivacyPage() {
             <h2 className="text-xl font-semibold text-foreground mt-6 mb-4">2. 수집하는 개인정보 항목</h2>
             <p className="text-muted-foreground">사무소는 상담 및 업무 대행을 위하여 다음의 개인정보를 수집합니다.</p>
             <ul className="list-disc pl-6 text-muted-foreground mt-2 space-y-2">
-              <li>필수항목: 이름, 이메일, 전화번호</li>
+              <li>필수항목: 이름, 연락 수단(이메일 또는 전화번호·메신저 ID 중 하나)</li>
               <li>선택항목: 국적, 비자유형, 문의내용</li>
+              <li>민감정보(선택): 한국 내 범죄 또는 과태료 이력 유무 — 상세 상담(영주권) 질문에 답한 경우에만, 개인정보보호법 제23조에 따라 별도 동의를 받아 처리합니다. 동의하지 않아도 상담 신청은 접수됩니다.</li>
             </ul>
             <p className="text-muted-foreground mt-2">수집방법: 홈페이지 상담문의 양식, 전화, 이메일</p>
 

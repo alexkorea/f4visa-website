@@ -2976,6 +2976,22 @@
    "slug": "f4-r-regional-specialized-overseas-korean-visa",
    "generated_at": "2026-10-04T10:02:30.887Z",
    "version": "1.4"
+  },
+  "f4-to-f5-6-two-year-residence-income-exemptions": {
+   "hash": "1cf38c47648c1e4f7ce8b2808a60a63d879fe44da0032fb3811e10812981e9cb",
+   "source": "pexels",
+   "seed": 2621631157,
+   "theme": "residence",
+   "prompt_subject": "apartment building entrance",
+   "map_version": null,
+   "pexels_id": 7466708,
+   "pexels_author": "KOREAN JH",
+   "category": "영주권",
+   "visa": "F-5",
+   "lang": "ko",
+   "slug": "f4-to-f5-6-two-year-residence-income-exemptions",
+   "generated_at": "2026-10-05T10:02:35.098Z",
+   "version": "1.4"
   }
  }
 }

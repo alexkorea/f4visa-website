@@ -244,11 +244,11 @@ export default function AboutPage() {
               <div className="rounded-2xl border border-border bg-card p-6">
                 <h3 className="text-lg font-semibold text-foreground">처리하는 업무</h3>
                 <ul className="mt-4 list-disc space-y-2 pl-5 text-sm text-muted-foreground">
-                  <li><Link href="/f4-visa-types" className="underline hover:text-primary">F-4 사증</Link>·체류자격 변경·<Link href="/f4-visa-renewal" className="underline hover:text-primary">체류기간 연장</Link> 신청서류 작성과 제출 대행, 신청 대리</li>
-                  <li><Link href="/f4-visa-resident-card" className="underline hover:text-primary">국내거소신고(거소증)</Link> 준비와 진행 안내</li>
-                  <li><Link href="/nationality-loss-report" className="underline hover:text-primary">국적상실 신고</Link>·<Link href="/nationality-renunciation-report" className="underline hover:text-primary">국적이탈 신고</Link>·<Link href="/nationality-selection-dual-nationality" className="underline hover:text-primary">국적선택</Link> 서류</li>
-                  <li><Link href="/nationality-recovery" className="underline hover:text-primary">국적회복 허가</Link> 신청 서류</li>
-                  <li><Link href="/permanent-residency" className="underline hover:text-primary">F-5 영주자격</Link> 변경 신청 서류</li>
+                  <li><Link href="/f4-visa-types" className="py-1 underline hover:text-primary">F-4 사증</Link>·체류자격 변경·<Link href="/f4-visa-renewal" className="py-1 underline hover:text-primary">체류기간 연장</Link> 신청서류 작성과 제출 대행, 신청 대리</li>
+                  <li><Link href="/f4-visa-resident-card" className="py-1 underline hover:text-primary">국내거소신고(거소증)</Link> 준비와 진행 안내</li>
+                  <li><Link href="/nationality-loss-report" className="py-1 underline hover:text-primary">국적상실 신고</Link>·<Link href="/nationality-renunciation-report" className="py-1 underline hover:text-primary">국적이탈 신고</Link>·<Link href="/nationality-selection-dual-nationality" className="py-1 underline hover:text-primary">국적선택</Link> 서류</li>
+                  <li><Link href="/nationality-recovery" className="py-1 underline hover:text-primary">국적회복 허가</Link> 신청 서류</li>
+                  <li><Link href="/permanent-residency" className="py-1 underline hover:text-primary">F-5 영주자격</Link> 변경 신청 서류</li>
                   <li>해외 거주자 원격 진행 — 한국 내 서류 발급 대행과 완성 서류의 해외 송달</li>
                   <li>관련 법령과 절차 상담</li>
                 </ul>
@@ -259,7 +259,7 @@ export default function AboutPage() {
                   <li>행정소송·민사소송 대리, 형사사건 변호 — 행정사 업무 범위 밖이라 하지 않습니다</li>
                   <li>행정심판 대리 — 청구서 작성과 제출 지원까지만 합니다</li>
                   <li>노무 대리 — 공인노무사 업무</li>
-                  <li>세무 신고 대리 — 세무사 업무(<Link href="/tax-stories" className="underline hover:text-primary">협력 세무사 안내</Link>)</li>
+                  <li>세무 신고 대리 — 세무사 업무(<Link href="/tax-stories" className="py-1 underline hover:text-primary">협력 세무사 안내</Link>)</li>
                   <li>허가 결과의 약속 — 허가 여부는 법무부가 심사해 결정합니다</li>
                 </ul>
               </div>
@@ -317,7 +317,7 @@ export default function AboutPage() {
                 <div key={row.label} className="min-w-0">
                   <dt className="font-semibold text-foreground">{row.label}</dt>
                   <dd className="mt-1 break-words text-muted-foreground">
-                    {row.href ? <a href={row.href} className="underline hover:text-primary">{row.value}</a> : row.value}
+                    {row.href ? <a href={row.href} className="py-1 underline hover:text-primary">{row.value}</a> : row.value}
                   </dd>
                 </div>
               ))}

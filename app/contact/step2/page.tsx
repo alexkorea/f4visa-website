@@ -1,5 +1,6 @@
 "use client"
 
+import { PrivacyConsent } from "@/components/privacy-consent"
 import { useState, Suspense } from "react"
 import { useSearchParams } from "next/navigation"
 import Link from "next/link"
@@ -596,6 +597,7 @@ function Step2Form() {
                   />
                 </div>
 
+                <PrivacyConsent items="상세 상담 응답(출생국가·국적·입출국 예정일·체류자격·서류 보유 여부·거주국 전화번호·주소 등), 추가 문의 내용" />
                 <Button type="submit" className="w-full" size="lg" disabled={status === "sending"}>
                   {status === "sending" ? "전송 중..." : "상담 신청 완료"}
                 </Button>
@@ -615,7 +617,7 @@ function Step2Form() {
           <div className="mt-4 text-center">
             <Link
               href="/contact"
-              className="text-sm text-muted-foreground hover:text-primary transition-colors"
+              className="inline-flex min-h-[44px] items-center text-sm text-muted-foreground hover:text-primary transition-colors"
             >
               ← 이전 단계로 돌아가기
             </Link>

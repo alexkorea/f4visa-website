@@ -1,5 +1,6 @@
 "use client"
 
+import { PrivacyConsent } from "@/components/privacy-consent"
 import { useState, FormEvent } from "react"
 
 export function InlineCTAForm() {
@@ -70,6 +71,7 @@ export function InlineCTAForm() {
             className="h-11 rounded-lg border border-border bg-white px-4 text-sm text-foreground placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-orange-500"
           />
         </div>
+        <PrivacyConsent compact items="이름, 연락처, 이메일" />
         <button
           type="submit"
           disabled={status === "loading"}

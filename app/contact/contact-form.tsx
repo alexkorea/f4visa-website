@@ -5,6 +5,7 @@ import Link from "next/link"
 import { CheckCircle2 } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { SITE } from "@/lib/site"
+import { PrivacyConsent } from "@/components/privacy-consent"
 
 const services = [
   { value: "국적이탈", label: "국적이탈", sub: "Nationality Renunciation" },
@@ -213,6 +214,7 @@ export function ContactForm() {
           </div>
         </div>
 
+        <PrivacyConsent items="이름, 이메일, 연락처, SNS ID, 국적, 희망 업무" />
         <Button type="submit" className="btn btn-primary btn-block" size="lg" disabled={status === "sending" || selectedServices.length === 0}>
           {status === "sending" ? "처리 중..." : "신청하기"}
         </Button>

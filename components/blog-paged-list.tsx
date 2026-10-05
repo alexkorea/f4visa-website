@@ -54,7 +54,7 @@ export function BlogPagedList({ posts }: { posts: BlogListItem[] }) {
   const pageList = buildPageList(page, totalPages)
 
   const pageLinkBase =
-    "inline-flex h-10 min-w-[2.5rem] items-center justify-center rounded-lg border border-border px-3 text-sm font-medium transition-colors hover:border-primary hover:text-primary"
+    "inline-flex h-11 min-w-[2.75rem] items-center justify-center rounded-lg border border-border px-3 text-sm font-medium transition-colors hover:border-primary hover:text-primary"
 
   if (total === 0) {
     return <p className="text-center text-muted-foreground">아직 게시글이 없습니다.</p>
@@ -106,7 +106,7 @@ export function BlogPagedList({ posts }: { posts: BlogListItem[] }) {
                 …
               </span>
             ) : n === page ? (
-              <span key={n} aria-current="page" className="inline-flex h-10 min-w-[2.5rem] items-center justify-center rounded-lg border border-primary bg-primary px-3 text-sm font-semibold text-primary-foreground">
+              <span key={n} aria-current="page" className="inline-flex h-11 min-w-[2.75rem] items-center justify-center rounded-lg border border-primary bg-primary px-3 text-sm font-semibold text-primary-foreground">
                 {n}
               </span>
             ) : (

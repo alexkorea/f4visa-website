@@ -26,7 +26,7 @@ export function PageBreadcrumb({ items }: { items: BreadcrumbEntry[] }) {
             <li key={item.path} className="inline-flex items-center gap-2">
               {idx > 0 && <span aria-hidden="true">/</span>}
               {idx < allItems.length - 1 ? (
-                <Link href={item.path} className="inline-flex min-h-[44px] items-center hover:underline">
+                <Link href={item.path} className="-mx-2 inline-flex min-h-[44px] items-center px-2 hover:underline">
                   {item.label}
                 </Link>
               ) : (

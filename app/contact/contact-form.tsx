@@ -168,7 +168,7 @@ export function ContactForm() {
               <option value="line">LINE</option>
               <option value="whatsapp">WhatsApp</option>
             </select>
-            <input id="snsId" name="snsId" type="text" className="min-h-[48px] flex-1 rounded-lg border border-border bg-background px-4 py-2 text-base text-foreground placeholder:text-muted-foreground focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary" placeholder="SNS ID 입력" />
+            <input id="snsId" name="snsId" type="text" className="min-h-[48px] min-w-0 flex-1 rounded-lg border border-border bg-background px-4 py-2 text-base text-foreground placeholder:text-muted-foreground focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary" placeholder="SNS ID 입력" />
           </div>
         </div>
 

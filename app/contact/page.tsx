@@ -55,7 +55,7 @@ export default function ContactPage() {
 
         <section id="contact-form" className="section">
           <div className="container-x">
-            <div className="grid gap-12 lg:grid-cols-[1fr_400px]">
+            <div className="grid gap-12 lg:grid-cols-[1fr_400px] [&>*]:min-w-0">
               <ContactForm />
               <div className="space-y-8">
                 <div className="rounded-2xl border border-border bg-card p-6">

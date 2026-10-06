@@ -2992,6 +2992,22 @@
    "slug": "f4-to-f5-6-two-year-residence-income-exemptions",
    "generated_at": "2026-10-05T10:02:35.098Z",
    "version": "1.4"
+  },
+  "f4-visa-grant-restriction-criminal-fine-record": {
+   "hash": "bdd45b197f8cc1bc14ab2c897f51d035941622232f13f634fca71eab961ac5c2",
+   "source": "pexels",
+   "seed": 2661707716,
+   "theme": "city",
+   "prompt_subject": "korean urban street",
+   "map_version": null,
+   "pexels_id": 18468227,
+   "pexels_author": "Alicja Ptak",
+   "category": "F-4비자",
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-visa-grant-restriction-criminal-fine-record",
+   "generated_at": "2026-10-06T10:50:51.415Z",
+   "version": "1.4"
   }
  }
 }

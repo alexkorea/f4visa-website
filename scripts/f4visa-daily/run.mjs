@@ -235,11 +235,10 @@ function render(e, docs) {
 }
 
 // ── investkorea: Supabase ───────────────────────────────────────────────────
+// IK-KEY-CLEAN(2026-10-07): 키를 daily-blog-4am.mjs 의 SB_KEY 상수에서 읽던 경로를 없앴다(상수 삭제·레거시 키 비활성).
+// investkorea 정본 사본은 정적 원천(content/blog-posts)을 쓴다 — 이 분기는 f4·f6 에서 호출되지 않는다.
 function sbCreds() {
-  const src = fs.readFileSync('/Users/mac4/sites/daily-blog-4am.mjs', 'utf8')
-  const key = /const SB_KEY = '([^']+)'/.exec(src)?.[1]
-  if (!key) throw new Error('SB_KEY 를 찾지 못함')
-  return { url: 'https://vjkjavgmqxdrwtezryzd.supabase.co/rest/v1/investkorea_blog_posts', key }
+  throw new Error('investkorea Supabase 경로 폐기(IK-KEY-CLEAN 2026-10-07) — 정본 investkorea run.mjs 를 쓸 것')
 }
 async function sbFetch(qs, init = {}) {
   const { url, key } = sbCreds()

@@ -1,0 +1,21 @@
+{
+ "note": "QR-RESTORE 2026-10-07(보스 msg 2769·2771): 보스 원본 QR 해시 고정. 바꾸려면 보스가 새 원본을 준 경우만, 맥7 지시 번호를 여기 남길 것.",
+ "dirs": [
+  "public/qr"
+ ],
+ "src_dirs": [
+  "app",
+  "components",
+  "lib"
+ ],
+ "files": {
+  "public/qr/kakao-20260927-224.webp": "19b9a78db9b7d9aeb16c0b8eaa785632d9403b23d9268e01be210177c22267a8",
+  "public/qr/kakao.jpg": "4427bf2d84547c5427f6e01c389625aaf9a70cef6c2c6cdea9a97ef795b63d50",
+  "public/qr/line-20260927-150.webp": "8106d5fcce3531b1840b8fdc64f38ec11f97a0ac88425103dfc916207dc433e0",
+  "public/qr/line.jpg": "d816eeb816e1a580e044d70289075977ee03acd9b4cd57c94803343a66839f8f",
+  "public/qr/wechat-20260927-224.webp": "e669afe8603bcc801d156bbe4ad66eaf80c559f0c73ed971a23f62c7f8b7934e",
+  "public/qr/wechat.jpg": "5347de7c57e448d48f37392aea27bf8ffd68d2a657a4535565bbf737eaf7f6e8",
+  "public/qr/whatsapp-20260927-224.webp": "e7201addde3dc542d531d49147f38281a1658965eabeff164da001969a2628ab",
+  "public/qr/whatsapp.jpg": "7e0abe2ba5a87920ea058f69f1e02d7c2c7820271e2e9e1e35c6b28ad15cf98d"
+ }
+}

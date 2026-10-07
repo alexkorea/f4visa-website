@@ -306,7 +306,7 @@ const serviceFields: Record<string, FieldDef[]> = {
       options: ["없음", "있음"],
       required: false,
       sensitive: true,
-      hint: "답하지 않아도 상담 신청은 접수됩니다. 답하시면 아래 '민감정보 처리 동의'가 필요합니다.",
+      hint: "답하지 않아도 상담 신청은 접수됩니다. 답한 내용은 아래 '민감정보 처리 동의'에 체크한 경우에만 전송됩니다.",
     },
     {
       name: "criminalRecordAbroad",
@@ -408,6 +408,12 @@ function Step2Form() {
     })
   }
 
+  function stripSensitive(data: Record<string, string>) {
+    const next = { ...data }
+    for (const f of [...COMMON_FIELDS, ...fields]) if (f.sensitive) delete next[f.name]
+    return next
+  }
+
   const sensitiveAnswered = [...COMMON_FIELDS, ...fields].some(
     (f) => f.sensitive && isVisible(f, formData) && !!formData[f.name]
   )
@@ -418,6 +424,8 @@ function Step2Form() {
     const form = e.currentTarget
     const additionalMessage =
       (form.elements.namedItem("additionalMessage") as HTMLTextAreaElement)?.value || ""
+    // CONSENT-OPT-ALL(2026-10-07): 민감정보 동의는 선택. 체크하지 않으면 범죄 이력 응답만 빼고 접수한다.
+    const sensitiveOk = !!(form.elements.namedItem("sensitiveConsent") as HTMLInputElement | null)?.checked
     try {
       const res = await fetch("/api/contact-step2", {
         method: "POST",
@@ -425,7 +433,7 @@ function Step2Form() {
         body: JSON.stringify({
           inquiryId,
           service: primaryService,
-          details: { ...formData },
+          details: sensitiveOk ? { ...formData } : stripSensitive(formData),
           additionalMessage,
         }),
       })
@@ -645,22 +653,23 @@ function Step2Form() {
 }
 
 // QA01-FIX3(맥7 2026-10-05) — 범죄 이력은 개인정보보호법 제23조 민감정보라 일반 수집 동의와 따로 받는다.
-// 해당 질문에 답한 경우에만 나타나는 필수 체크. 체크박스에 name 이 없어 /api/contact-step2 body 는 그대로다.
+// 해당 질문에 답한 경우에만 나타나는 체크. CONSENT-OPT-ALL(2026-10-07): 필수 폐지 — 체크 안 하면 제출은 되고
+// handleSubmit 이 범죄 이력 응답만 빼고 보낸다(동의 없는 민감정보 수집 방지). body 계약은 그대로.
 function SensitiveConsent() {
   return (
     <div className="rounded-lg border-2 border-amber-300 bg-amber-50 p-4 text-xs leading-relaxed text-muted-foreground">
-      <p className="mb-1 text-sm font-semibold text-foreground">민감정보 처리 동의 (범죄 이력 응답 시 필수)</p>
+      <p className="mb-1 text-sm font-semibold text-foreground">민감정보 처리 동의 (선택)</p>
       <ul className="space-y-0.5">
         <li><span className="font-medium text-foreground">처리 항목</span>: 한국 내 범죄 또는 과태료 이력 유무(위 질문에 답한 내용)</li>
         <li><span className="font-medium text-foreground">처리 목적</span>: 영주권(F-5) 품행 요건 검토 등 상담 회신</li>
         <li><span className="font-medium text-foreground">보유 기간</span>: 상담 완료 후 1년 보관 후 파기</li>
       </ul>
       <p className="mt-1">
-        민감정보 처리에 동의하지 않을 권리가 있습니다. 동의하지 않으시면 위 범죄 이력 질문의 응답을 지우고 신청해 주세요. 그래도 상담 신청은 그대로 접수됩니다.
+        민감정보 처리에 동의하지 않을 권리가 있습니다. 체크하지 않으면 범죄 이력 응답은 전송되지 않고, 나머지 상담 신청은 그대로 접수됩니다.
       </p>
       <label className="mt-1 flex min-h-[44px] cursor-pointer items-center gap-2 text-sm font-medium text-foreground">
-        <input type="checkbox" required className="h-6 w-6 shrink-0 accent-[var(--c-brand)]" />
-        <span>위 민감정보(범죄 이력) 처리에 동의합니다. (필수)</span>
+        <input type="checkbox" name="sensitiveConsent" className="h-6 w-6 shrink-0 accent-[var(--c-brand)]" />
+        <span>위 민감정보(범죄 이력) 처리에 동의합니다.</span>
       </label>
     </div>
   )

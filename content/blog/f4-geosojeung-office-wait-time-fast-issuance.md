@@ -30,7 +30,7 @@ F-4 거소증 발급 기간은 일률적으로 정해져 있지 않고, 어느 �
 
 <h2 id="section-1">F-4 거소증 발급 기간이 사무소마다 다른 이유</h2>
 
-거소증은 신청 후 [법무부 출입국·외국인정책본부](https://www.immigration.go.kr) 산하 관할 사무소가 심사해 발급합니다.
+거소증은 신청 후 법무부 출입국·외국인정책본부 산하 관할 사무소가 심사해 발급합니다.
 심사 기준은 전국이 같지만, 사무소마다 접수 물량과 인력이 달라 실제 소요시간은 갈립니다.
 
 ### 심사 물량이 발급 속도를 결정합니다
@@ -42,7 +42,7 @@ F-4 거소증 발급 기간은 일률적으로 정해져 있지 않고, 어느 �
 ### 방문 예약 대기와 심사 기간은 별개입니다
 
 많이 놓치는 부분은 방문 예약을 잡는 데 걸리는 시간입니다.
-[하이코리아](https://www.hikorea.go.kr)에서 방문 예약을 먼저 잡아야 하는데, 혼잡한 사무소는 예약 자체가 몇 주 뒤로 밀립니다.
+하이코리아에서 방문 예약을 먼저 잡아야 하는데, 혼잡한 사무소는 예약 자체가 몇 주 뒤로 밀립니다.
 **예약 대기 + 심사 기간 + 카드 제작·배송**을 합쳐야 실제 체감 기간이 나옵니다.
 
 <h2 id="section-2">출입국사무소별 소요시간 비교</h2>
@@ -109,16 +109,13 @@ F-4 거소증 발급 기간은 일률적으로 정해져 있지 않고, 어느 �
 
 ### 국적상실 정리가 되어 있어야 합니다
 
-[국적법 제15조](https://www.law.go.kr)에 따라 외국 시민권을 취득하면 한국 국적은 그 즉시 자동으로 상실됩니다.
+국적법 제15조에 따라 외국 시민권을 취득하면 한국 국적은 그 즉시 자동으로 상실됩니다.
 국적상실신고는 이미 상실된 상태를 행정적으로 정리하는 절차일 뿐, 신고 전이라도 법적으로는 이미 상실 상태입니다.
 
 > **주의:** 국적상실 후 한국 여권을 사용하면 여권법 위반(부정사용)에 해당합니다.
 > 시민권 취득 후에는 반드시 외국 여권으로 출입국해야 합니다.
 
-
-
-![A man holding a divorce certificate in a formal office environment.](https://images.pexels.com/photos/7876054/pexels-photo-7876054.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Hands signing a divorce decree, with a justice statue nearby, symbolizing legal proceedings.](https://images.pexels.com/photos/7876038/pexels-photo-7876038.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">신청 전 체크리스트</h2>
 
@@ -206,3 +203,4 @@ F-4 거소증 발급 기간은 일률적으로 정해져 있지 않고, 어느 �
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

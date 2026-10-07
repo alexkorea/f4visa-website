@@ -35,7 +35,7 @@ F-4 재외동포비자는 "한국 국적을 보유했던 사람" 또는 "그 직
 
 F-4 비자 신청 자격은 「재외동포의 출입국과 법적 지위에 관한 법률」 제2조에 근거합니다.
 
-법령 원문은 [국가법령정보센터](https://www.law.go.kr)에서 확인할 수 있습니다.
+법령 원문은 국가법령정보센터에서 확인할 수 있습니다.
 
 ### 자격 대상자 범위
 
@@ -71,7 +71,7 @@ F-4 자격이 인정되는 사람은 보통 다음 셋 중 하나입니다.
 
 | 서류명 | 발급처 | 비고 |
 |--------|--------|------|
-| 신청서 (별지 서식) | 출입국·외국인청 또는 [하이코리아](https://www.hikorea.go.kr) | 사진 부착 |
+| 신청서 (별지 서식) | 출입국·외국인청 또는 하이코리아 | 사진 부착 |
 | 여권 원본 + 사본 | 본인 | 유효기간 6개월 이상 권장 |
 | **시민권증서 원본** | 취득국 정부 | 사본만으로 진행 불가 |
 | 기본증명서(상세) | 한국 시·군·구청 또는 재외공관 | 국적상실 사실 반영본 |
@@ -147,10 +147,7 @@ C-3-8 사증을 통한 입국 후 국내 전환 방식이 일반적이며, 친�
 정확한 비용과 절차는 전문가 상담을 통해 확인하세요.
 **지금 무료 상담 신청 → 02-363-2251 / 카카오톡: alexkorea**
 
-
-
-![EU digital COVID certificate with vaccine vials and syringe on a white background.](https://images.pexels.com/photos/8830658/pexels-photo-8830658.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![A businesswoman in a modern office organizing a stack of files beside a laptop.](https://images.pexels.com/photos/7654452/pexels-photo-7654452.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">실무에서 가장 자주 막히는 지점</h2>
 
@@ -203,7 +200,7 @@ F-4 비자 발급과 거소증(외국인등록증) 발급은 별개의 절차입
 
 카드 자체는 한국 내 주소로 수령하거나, 본국 주소로 발송 처리할 수 있습니다.
 
-자세한 거소증 절차는 [하이코리아](https://www.hikorea.go.kr) 또는 [출입국·외국인정책본부](https://www.immigration.go.kr) 공식 안내를 함께 확인하세요.
+자세한 거소증 절차는 하이코리아 또는 출입국·외국인정책본부 공식 안내를 함께 확인하세요.
 
 <h2 id="section-7">행정사사무소 이룸 F-4 서비스 안내</h2>
 
@@ -281,3 +278,4 @@ F-4 비자 신청 자격과 필요서류는 **국적 이력·거주국·가족�
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

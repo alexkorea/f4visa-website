@@ -106,13 +106,10 @@ F-4 신청 시 시민권증서(Certificate of Naturalization, Citizenship Certif
 
 F-4는 단순노무 직종을 수행할 수 없습니다. 신청 단계에서 직업·활동 계획이 단순노무로 비치면 H-2 등 다른 자격이 더 적합한지 검토받게 됩니다.
 
-
-
 <figure style="margin:32px auto;text-align:center">
   <img src="https://images.pexels.com/photos/36153261/pexels-photo-36153261.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Rustic traditional Korean hanok with thatched roof in Andong-si, South Korea." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
   
 </figure>
-
 
 <h2 id="section-6">신청 경로와 절차 개요</h2>
 
@@ -164,10 +161,10 @@ F-4는 단순노무 직종을 수행할 수 없습니다. 신청 단계에서 �
 
 <h2 id="section-9">참고 법령 및 공식 자료</h2>
 
-- 「재외동포의 출입국과 법적 지위에 관한 법률」 제2조 — 국가법령정보센터: https://www.law.go.kr
-- 「국적법」 제15조 (외국 국적 취득에 따른 국적 상실) — 국가법령정보센터: https://www.law.go.kr
-- 출입국·외국인정책본부 하이코리아: https://www.hikorea.go.kr
-- 법무부 출입국·외국인정책본부: https://www.immigration.go.kr
+- 「재외동포의 출입국과 법적 지위에 관한 법률」 제2조 — 국가법령정보센터
+- 「국적법」 제15조 (외국 국적 취득에 따른 국적 상실) — 국가법령정보센터
+- 출입국·외국인정책본부 하이코리아
+- 법무부 출입국·외국인정책본부
 
 세부 요건은 사안에 따라 달라질 수 있으며, 최신 지침은 관할 출입국사무소 확인이 필요합니다.
 
@@ -199,7 +196,6 @@ F-4는 단순노무 직종을 수행할 수 없습니다. 신청 단계에서 �
 
 비용은 사례별로 상이하므로 무료 상담 시 정확히 안내드립니다.
 
-
 ---
 
 <h2 id="section-12">전문가 상담이 필요하신가요?</h2>
@@ -208,3 +204,4 @@ F-4는 단순노무 직종을 수행할 수 없습니다. 신청 단계에서 �
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

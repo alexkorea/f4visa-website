@@ -115,7 +115,7 @@ F-4 거소증은 신청 후 **거소허가번호만 발급되면 카드 수령 �
 
 ### 국적 관련 핵심
 
-외국 시민권 취득 시 한국 국적은 [국적법 제15조](https://www.law.go.kr/)에 따라 **즉시 자동 상실**됩니다.
+외국 시민권 취득 시 한국 국적은 국적법 제15조에 따라 **즉시 자동 상실**됩니다.
 
 국적상실신고는 행정 정리 절차일 뿐이며, 신고 전이라도 이미 상실 상태입니다.
 
@@ -137,7 +137,7 @@ F-4 신청 전에 국적상실 신고가 정리되어야 하는지, 본국에서
 
 ### 예약 가능일이 핵심
 
-[하이코리아](https://www.hikorea.go.kr/)에서 예약을 시도해 보면 사무소별로 예약 가능일이 차이 나는 경우가 흔합니다.
+하이코리아에서 예약을 시도해 보면 사무소별로 예약 가능일이 차이 나는 경우가 흔합니다.
 
 가장 빠른 사무소를 찾는 일이 곧 체류 기간을 줄이는 일입니다.
 
@@ -176,10 +176,7 @@ F-4 신청 전에 국적상실 신고가 정리되어야 하는지, 본국에서
 
 > **실무 팁:** 카드는 우편 또는 대리수령이 가능합니다. 거소허가번호가 나오면 본인은 출국하고, 카드 수령은 대행에 맡기는 흐름이 가장 체류 기간을 짧게 만드는 방식입니다.
 
-
-
-![Busy day at a Seoul subway station with commuters navigating their way.](https://images.pexels.com/photos/19271594/pexels-photo-19271594.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Street view in Seoul showcasing urban life with people and vibrant signage.](https://images.pexels.com/photos/31925305/pexels-photo-31925305.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-6">신청 후 출국, 카드 수령까지</h2>
 
@@ -193,7 +190,7 @@ F-4 신청 전에 국적상실 신고가 정리되어야 하는지, 본국에서
 
 ### 재입국 시점
 
-거소증을 받은 뒤 재입국할 때는 [출입국·외국인정책본부](https://www.immigration.go.kr/) 안내에 따른 입국 절차를 따릅니다.
+거소증을 받은 뒤 재입국할 때는 출입국·외국인정책본부 안내에 따른 입국 절차를 따릅니다.
 
 F-4의 재입국 규정은 일반 비자와 다르므로 본인 사례에 맞는 적용 여부는 확인이 필요합니다.
 
@@ -295,3 +292,4 @@ F-4 거소증의 최소 체류 처리는 사무소 선택과 사전 서류 준�
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

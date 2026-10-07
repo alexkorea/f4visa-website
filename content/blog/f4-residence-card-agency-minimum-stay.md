@@ -90,7 +90,7 @@ F-4 거소증은 가장 빠르게 허가가 나오는 출입국사무소를 선�
 
 행정사사무소 이룸은 한국 측 서류는 위임받아 대행 발급해 드리며, 본국 서류는 한국 입국 전에 반드시 챙겨오셔야 합니다.
 
-자세한 법령은 [국가법령정보센터](https://www.law.go.kr)에서 국적법 제15조를 확인할 수 있습니다.
+자세한 법령은 국가법령정보센터에서 국적법 제15조를 확인할 수 있습니다.
 
 <h2 id="section-3">최소 체류로 발급받는 실제 일정 모델</h2>
 
@@ -130,10 +130,7 @@ F-4 거소증 신청은 원칙적으로 본인 출석 신청입니다.
 
 정확한 비용과 처리 일정은 상황에 따라 달라지므로 무료 상담 시 안내드립니다.
 
-
-
-![Vibrant display of Korean traditional dance with performers in cultural attire, Jakarta.](https://images.pexels.com/photos/35432325/pexels-photo-35432325.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Neatly arranged blue office binders labeled with dates and names for organized storage.](https://images.pexels.com/photos/34293528/pexels-photo-34293528.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">F-4 거소증 대행이 실제로 줄여주는 시간</h2>
 
@@ -163,7 +160,7 @@ F-4 거소증 신청은 원칙적으로 본인 출석 신청입니다.
 
 본인이 이미 출국한 뒤에는 행정사사무소 이룸이 카드를 대신 수령하고 국제 발송까지 진행합니다.
 
-출입국 관련 공식 정보는 [하이코리아](https://www.hikorea.go.kr) 또는 [법무부 출입국·외국인정책본부](https://www.immigration.go.kr)에서 확인 가능합니다.
+출입국 관련 공식 정보는 하이코리아 또는 법무부 출입국·외국인정책본부에서 확인 가능합니다.
 
 <h2 id="section-6">본국 발급 vs 한국 입국 후 발급</h2>
 
@@ -254,3 +251,4 @@ F-4 거소증 신청대행은 사례마다 서류 준비 상태와 한국 방문
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

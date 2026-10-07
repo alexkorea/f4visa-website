@@ -32,7 +32,7 @@ slug: "f4-visa-eligibility-preparation-documents-guide"
 <h2 id="section-1">F-4 비자 신청 자격 — 재외동포의 범위부터 확인</h2>
 
 근거 법령은 재외동포의 출입국과 법적 지위에 관한 법률(재외동포법)입니다.
-정확한 조문은 [국가법령정보센터](https://www.law.go.kr)에서 확인할 수 있습니다.
+정확한 조문은 국가법령정보센터에서 확인할 수 있습니다.
 겉으로는 간단해 보여도, 실무에서는 "내가 동포 몇 세에 해당하는가"를 증명하는 단계에서 보통 걸립니다.
 
 ### 동포 1세 — 본인이 한국 국적을 가졌던 경우
@@ -102,7 +102,7 @@ slug: "f4-visa-eligibility-preparation-documents-guide"
 
 신청 경로는 두 가지입니다.
 한국 방문 중 출입국·외국인청에 신청하는 방법과, 거주국 한국 공관(대사관·영사관)에 신청하는 방법입니다.
-절차 안내는 [하이코리아](https://www.hikorea.go.kr)와 [법무부 출입국·외국인정책본부](https://www.immigration.go.kr)에서 확인할 수 있습니다.
+절차 안내는 하이코리아와 법무부 출입국·외국인정책본부에서 확인할 수 있습니다.
 
 | 구분 | 국내 출입국사무소 신청 | 재외공관 신청 |
 |---|---|---|
@@ -124,10 +124,7 @@ slug: "f4-visa-eligibility-preparation-documents-guide"
 거소허가번호가 발급되면 실물 카드 수령 전이라도 출국이 가능하며, 거소증은 대리 수령 후 해외 발송으로 받을 수 있습니다.
 바로 이 방식으로 체류 일정을 크게 줄일 수 있습니다.
 
-
-
-![Busy day at a Seoul subway station with commuters navigating their way.](https://images.pexels.com/photos/19271594/pexels-photo-19271594.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Close-up of two red lever arch files on a wooden desk in a modern office setting.](https://images.pexels.com/photos/265024/pexels-photo-265024.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">실제 심사에서 자주 막히는 지점</h2>
 
@@ -228,3 +225,4 @@ F-4 신청에는 시민권증서 원본이 요구됩니다.
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

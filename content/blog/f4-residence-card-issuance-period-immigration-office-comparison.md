@@ -39,7 +39,7 @@ F-4 거소증 발급 기간은 일률적으로 정해져 있지 않고, 신청�
 
 ### 공식 처리 기간과 실제 처리 기간의 차이
 
-거소증 처리 기간은 관할 출입국·외국인관서 사정에 따라 다르므로, [하이코리아](https://www.hikorea.go.kr) 또는 접수 관서에서 확인하는 것이 정확합니다.
+거소증 처리 기간은 관할 출입국·외국인관서 사정에 따라 다르므로, 하이코리아 또는 접수 관서에서 확인하는 것이 정확합니다.
 
 실무에서는 예상보다 길어지는 경우가 흔합니다.
 
@@ -144,10 +144,7 @@ F-4 거소증 발급 기간은 일률적으로 정해져 있지 않고, 신청�
 
 최근 어느 시기가 가장 빠른지는 매월 바뀌므로 현장 데이터가 필요합니다.
 
-
-
-![South Korean flag on a flagpole against a vibrant blue sky with tree branches.](https://images.pexels.com/photos/14774580/pexels-photo-14774580.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![A bustling street scene in Seoul, capturing daily life and vibrant urban culture.](https://images.pexels.com/photos/32014957/pexels-photo-32014957.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">F-4 거소증 발급 기간 단축을 위한 실무 준비</h2>
 
@@ -257,7 +254,7 @@ F-4 거소증 발급은 사무소 선택부터 서류 준비, 본국·국내 발
 - 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - 운영시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)
 
-참고 자료: [하이코리아](https://www.hikorea.go.kr) · [법무부 출입국·외국인정책본부](https://www.immigration.go.kr) · [국가법령정보센터](https://www.law.go.kr)
+참고 자료: 하이코리아 · 법무부 출입국·외국인정책본부 · 국가법령정보센터
 
 ---
 
@@ -267,3 +264,4 @@ F-4 거소증 발급은 사무소 선택부터 서류 준비, 본국·국내 발
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

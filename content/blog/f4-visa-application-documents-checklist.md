@@ -120,12 +120,12 @@ F-4(재외동포) 비자는 대한민국 국적을 보유한 적이 있거나, �
 </table>
 
 <div style="background:#fef2f2;border:2px solid #ef4444;padding:16px;border-radius:8px;margin:20px 0">
-<strong style="color:#b91c1c">⚠️ 주의:</strong> 서류는 발급일로부터 <strong>3개월 이내</strong>의 것만 인정되는 경우가 많습니다. 영사관별 기준이 다르므로 <a href="https://www.mofa.go.kr" target="_blank" rel="noopener" style="color:#1e40af">외교부 공식 홈페이지</a>에서 최신 안내를 확인하세요.
+<strong style="color:#b91c1c">⚠️ 주의:</strong> 서류는 발급일로부터 <strong>3개월 이내</strong>의 것만 인정되는 경우가 많습니다. 영사관별 기준이 다르므로 외교부 공식 홈페이지에서 최신 안내를 확인하세요.
 </div>
 
 <h2 id="submission">영사관 제출 방법 및 절차</h2>
 
-F-4 비자 신청은 **현지 한국 영사관 방문 신청**이 원칙이며, 일부 영사관은 우편 신청 또는 <a href="https://www.hikorea.go.kr" target="_blank" rel="noopener" style="color:#1e40af">하이코리아 비자 신청 포털</a>을 통한 온라인 신청을 허용합니다.
+F-4 비자 신청은 **현지 한국 영사관 방문 신청**이 원칙이며, 일부 영사관은 우편 신청 또는 하이코리아 비자 신청 포털을 통한 온라인 신청을 허용합니다.
 
 **신청 절차 (방문 신청 기준):**
 
@@ -200,3 +200,5 @@ A. 서류 미비 시 보완 요청을 받거나 반려될 수 있습니다. 사�
 <p style="margin:8px 0;font-size:14px;opacity:0.8">월~금 09:30~17:30 (KST) | 토·공휴일 휴무</p>
 <a href="/contact" style="display:inline-block;margin-top:12px;padding:12px 28px;background:#A33344;color:white;border-radius:6px;text-decoration:none;font-weight:bold">무료 상담 신청하기</a>
 </div>
+
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

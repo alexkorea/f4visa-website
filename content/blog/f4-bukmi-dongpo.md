@@ -226,9 +226,3 @@ A. 반려 이력 자체보다 반려 사유가 해소되었는지가 중요합�
 - [F-4 비자 미국 시민권자 신청 절차 완벽 가이드](/blog/f4-visa-us-citizens)
 - [미국 영주권자 F-4 재외동포 비자 신청 방법](/blog/f4-visa-us-permanent-resident-guide)
 - [캐나다 시민권자 재외동포 자격확인서 발급과 F-4 비자 신청](/blog/f4-visa-canada-citizen-eligibility)
-
-## 출처
-
-- [법제처 국가법령정보센터](https://www.law.go.kr) - 재외동포의 출입국과 법적 지위에 관한 법률, 출입국관리법 및 시행령
-- [하이코리아](https://www.hikorea.go.kr) - 재외동포(F-4) 체류자격 안내
-- [출입국·외국인정책본부](https://www.immigration.go.kr) - 체류자격별 안내

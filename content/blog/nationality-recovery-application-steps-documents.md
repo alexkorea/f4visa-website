@@ -31,7 +31,7 @@ slug: "nationality-recovery-application-steps-documents"
 
 <h2 id="section-1">국적회복 허가란 — 누가 신청할 수 있나</h2>
 
-국적회복은 [국적법](https://www.law.go.kr/법령/국적법) 제9조에 근거한 제도입니다.
+국적회복은 국적법 제9조에 근거한 제도입니다.
 과거 대한민국 국민이었던 사람이 법무부장관의 허가를 받아 한국 국적을 다시 취득하는 절차입니다.
 귀화와 다른 점은 **과거에 한국 국민이었다는 사실**이 출발점이라는 것입니다.
 
@@ -106,7 +106,7 @@ slug: "nationality-recovery-application-steps-documents"
 
 <h2 id="section-4">접수부터 허가까지 — 진행 타임라인</h2>
 
-국적회복은 국내 관할 [출입국·외국인청](https://www.hikorea.go.kr)에 본인이 접수합니다.
+국적회복은 국내 관할 출입국·외국인청에 본인이 접수합니다.
 
 | 단계 | 내용 | 소요 기간(통상) |
 |------|------|------|
@@ -129,10 +129,7 @@ slug: "nationality-recovery-application-steps-documents"
 정확한 비용과 절차는 전문가 상담을 통해 확인하세요.
 **지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea**
 
-
-
-![A modern urban building surrounded by colorful autumn trees in a cityscape setting.](https://images.pexels.com/photos/14194618/pexels-photo-14194618.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Professional hands signing a document in an office setting for business purposes.](https://images.pexels.com/photos/9068372/pexels-photo-9068372.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">허가 후 절차 — 외국국적 처리와 복수국적</h2>
 
@@ -148,7 +145,7 @@ slug: "nationality-recovery-application-steps-documents"
 
 만 65세 이후 영주할 목적으로 입국하여 국적회복을 한 경우에는, 외국 국적을 포기하는 대신 **외국국적불행사 서약**으로 복수국적을 유지할 수 있는 길이 있습니다.
 서약의 요건과 절차는 입국 시점·체류 자격에 따라 적용이 달라지므로, 본인이 해당하는지는 신청 전 확인이 먼저입니다.
-자세한 기준은 [법무부 출입국·외국인정책본부](https://www.immigration.go.kr)에서 안내하고 있습니다.
+자세한 기준은 법무부 출입국·외국인정책본부에서 안내하고 있습니다.
 
 <h2 id="section-6">국적회복과 F-4, 어느 쪽이 맞나</h2>
 
@@ -238,3 +235,4 @@ slug: "nationality-recovery-application-steps-documents"
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

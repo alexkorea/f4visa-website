@@ -43,7 +43,7 @@ H-2는 "방문취업" 비자이고 F-4는 "재외동포" 비자입니다.
 
 H-2는 외국인근로자 고용 등에 관한 법률 체계 안에서 단순노무 취업이 허용되는 비자입니다.
 
-F-4는 [재외동포의 출입국과 법적 지위에 관한 법률](https://law.go.kr) 적용을 받는 신분형 비자입니다.
+F-4는 재외동포의 출입국과 법적 지위에 관한 법률 적용을 받는 신분형 비자입니다.
 
 핵심은 이것입니다.
 
@@ -98,7 +98,7 @@ F-4는 사무직·서비스직·전문직·자영업까지 가능합니다.
 
 식당·카페·소규모 사업체 운영도 가능하고, 직원 채용도 가능합니다.
 
-H-2는 [고용허가제](https://www.hikorea.go.kr) 체계 안에서 허용 업종이 정해져 있습니다.
+H-2는 고용허가제 체계 안에서 허용 업종이 정해져 있습니다.
 
 여기서 차이가 납니다.
 
@@ -157,10 +157,7 @@ H-2 체류 중 일정 자격(국가기술자격 취득, 농축산·어업 분야
 
 ---
 
-
-
-![Family walking beside Cheonggyecheon Stream in Seoul on a bright spring day.](https://images.pexels.com/photos/31925345/pexels-photo-31925345.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Traditional street scene in Seoul with people walking and shops along the sidewalk under a blue sky.](https://images.pexels.com/photos/19271577/pexels-photo-19271577.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">비용·기간 비교 — 무엇이 더 부담스러운가</h2>
 
@@ -184,7 +181,7 @@ F-4는 본국 서류 준비비·번역공증·신청 서류 발급비가 들어�
 
 <h2 id="section-6">국적상실 신고와 F-4의 관계</h2>
 
-중국 국적을 취득한 시점에 한국 국적은 [국적법 제15조](https://law.go.kr)에 따라 자동 상실됩니다.
+중국 국적을 취득한 시점에 한국 국적은 국적법 제15조에 따라 자동 상실됩니다.
 
 국적상실 신고는 행정 정리 절차일 뿐, 신고 전이라도 이미 상실 상태입니다.
 
@@ -251,7 +248,7 @@ H-2와 F-4 중 본인에게 맞는 비자, 전환 가능성, 서류 준비까지
 - **주소:** (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - **상담시간:** 평일 09:30 — 17:30 (점심 12:00 — 13:00)
 
-관련 법령·절차는 [하이코리아](https://www.hikorea.go.kr), [법무부 출입국·외국인정책본부](https://www.immigration.go.kr), [국가법령정보센터](https://law.go.kr)에서 확인 가능하며, 사례별 적용은 관할 기관 확인이 필요합니다.
+관련 법령·절차는 하이코리아, 법무부 출입국·외국인정책본부, 국가법령정보센터에서 확인 가능하며, 사례별 적용은 관할 기관 확인이 필요합니다.
 
 ---
 
@@ -261,3 +258,4 @@ H-2와 F-4 중 본인에게 맞는 비자, 전환 가능성, 서류 준비까지
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

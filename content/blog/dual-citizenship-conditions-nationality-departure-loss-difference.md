@@ -3,7 +3,7 @@ title: "복수국적 허용 조건과 국적이탈 vs 국적상실, 실무에서
 visa: 국적
 date: "2026-06-12"
 category: "국적"
-excerpt: "복수국적이 누구에게 허용되는지, 그리고 국적이탈과 국적상실이 실제로 어떻게 갈리는지 실무 관점에서 정리합니다. 참고 법령·공식 출처까지 한 번에 확인하세요."
+excerpt: "복수국적이 누구에게 허용되는지, 그리고 국적이탈과 국적상실이 실제로 어떻게 갈리는지 실무 관점에서 정리합니다. 참고 법령까지 한 번에 확인하세요."
 image: "/og/dual-citizenship-conditions-nationality-departure-loss-difference.png"
 slug: "dual-citizenship-conditions-nationality-departure-loss-difference"
 ---
@@ -26,9 +26,8 @@ slug: "dual-citizenship-conditions-nationality-departure-loss-difference"
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적 정리 후 F-4 전환, 실무 흐름</a></li>
     <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
     <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 참고 법령·공식 출처</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
+    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+    <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
   </ul>
 </nav>
 
@@ -180,10 +179,7 @@ slug: "dual-citizenship-conditions-nationality-departure-loss-difference"
 > - 재외공관 또는 국내 관할 기관 신고 경로 확인
 > - 시민권 취득일·한국 출입국 기록 정리
 
-
-
 ![Family walking beside Cheonggyecheon Stream in Seoul on a bright spring day.](https://images.pexels.com/photos/31925345/pexels-photo-31925345.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
 
 <h2 id="section-6">국적 정리 후 F-4 전환, 실무 흐름</h2>
 
@@ -258,14 +254,6 @@ slug: "dual-citizenship-conditions-nationality-departure-loss-difference"
 
 본인의 입출국 기록, 가족관계등록부 정리 상태에 따라 순서가 갈리므로 개별 검토가 필요합니다.
 
-<h2 id="section-9">참고 법령·공식 출처</h2>
-
-- [국적법 제15조 — 외국 국적 취득에 따른 국적 상실](https://www.law.go.kr)
-- [법무부 출입국·외국인정책본부](https://www.immigration.go.kr)
-- [하이코리아 — 재외동포(F-4) 안내](https://www.hikorea.go.kr)
-
-법령은 개정될 수 있으므로 본인 사례 적용 여부는 관할 기관 확인이 필요합니다.
-
 <h2 id="section-10">전문가 상담이 필요하신가요?</h2>
 
 복수국적 허용 여부, 국적이탈·상실 신고 시점, F-4 전환 절차는 본인의 출생·시민권 취득·입출국 기록에 따라 결과가 갈립니다.
@@ -288,3 +276,4 @@ slug: "dual-citizenship-conditions-nationality-departure-loss-difference"
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

@@ -111,12 +111,9 @@ slug: "dual-citizenship-korea-eligibility-renunciation-loss"
 
 2022년 국적법 개정으로 예외적 국적이탈 허가 제도가 생겼지만, 심사 요건이 까다롭고 사안별로 결과가 갈립니다.
 정당한 사유의 입증이 약하면 바로 걸리는 단계이므로, 신청 전에 요건 검토가 먼저입니다.
-정확한 법조문은 [국가법령정보센터](https://www.law.go.kr)에서 국적법 제14조의2를 확인할 수 있습니다.
+정확한 법조문은 국가법령정보센터에서 국적법 제14조의2를 확인할 수 있습니다.
 
-
-
-![Two blue Ukrainian passports placed on a white surface, close-up view.](https://images.pexels.com/photos/8061949/pexels-photo-8061949.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Close-up of business hands finalizing agreement with pen on documents.](https://images.pexels.com/photos/7735699/pexels-photo-7735699.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">국적상실신고 절차와 서류 — F-4 비자로 이어집니다</h2>
 
@@ -138,7 +135,7 @@ slug: "dual-citizenship-korea-eligibility-renunciation-loss"
 
 국적상실 처리가 끝나면 재외동포 자격으로 F-4 비자와 거소증 신청이 가능합니다.
 거소증 발급 기간은 출입국사무소별로 차이가 크며, 저희는 가장 빠른 곳을 찾아 진행해 드립니다.
-전체 절차는 [법무부 하이코리아](https://www.hikorea.go.kr)와 [법무부 출입국·외국인정책본부](https://www.immigration.go.kr)에서도 안내하고 있으나, 변동 가능성이 있어 관할 기관 확인이 필요합니다.
+전체 절차는 법무부 하이코리아와 법무부 출입국·외국인정책본부에서도 안내하고 있으나, 변동 가능성이 있어 관할 기관 확인이 필요합니다.
 
 <h2 id="section-6">FAQ — 자주 묻는 질문</h2>
 
@@ -208,3 +205,4 @@ slug: "dual-citizenship-korea-eligibility-renunciation-loss"
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

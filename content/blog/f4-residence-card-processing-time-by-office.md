@@ -43,7 +43,7 @@ F-4 거소증 발급 기간은 일률적으로 정해져 있지 않고, 관할 �
 
 출입국관리법상 거소신고 처리 기한은 명시되어 있지만, 현장에서는 사전 예약·서류 보완·심사 적체로 실제 기간이 늘어납니다.
 
-[하이코리아](https://www.hikorea.go.kr)와 [법무부 출입국·외국인정책본부](https://www.immigration.go.kr) 공지상의 표준 기간은 참고 수치일 뿐, 실제 발급일은 사무소 내부 상황에 따라 달라집니다.
+하이코리아와 법무부 출입국·외국인정책본부 공지상의 표준 기간은 참고 수치일 뿐, 실제 발급일은 사무소 내부 상황에 따라 달라집니다.
 
 특히 5~7월, 9~10월처럼 신청이 몰리는 시기에는 평소보다 더 지연되는 경우가 흔합니다.
 
@@ -150,10 +150,7 @@ F-4 거소증은 거소허가번호만 부여되면 출국이 가능합니다.
 
 지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea
 
-
-
-![Exterior view of the US Immigration and Customs Enforcement building with a visible flag and signage.](https://images.pexels.com/photos/36984942/pexels-photo-36984942.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![A couple collaboratively signs legal documents in the presence of an advisor.](https://images.pexels.com/photos/9870133/pexels-photo-9870133.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">F-4 거소증 발급 시 준비 서류 체크리스트</h2>
 
@@ -281,3 +278,4 @@ F-4 거소증 발급 기간은 사무소 선택만 잘해도 절반 이상 줄�
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

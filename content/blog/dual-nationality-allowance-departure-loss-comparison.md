@@ -50,7 +50,7 @@ slug: "dual-nationality-allowance-departure-loss-comparison"
 
 ### 65세 이후 국적회복자
 
-만 65세 이후 외국에서 영주할 목적 없이 한국에 거주하기 위해 국적을 회복한 재외동포에게 복수국적이 허용됩니다([국적법 제10조](https://www.law.go.kr)).
+만 65세 이후 외국에서 영주할 목적 없이 한국에 거주하기 위해 국적을 회복한 재외동포에게 복수국적이 허용됩니다(국적법 제10조).
 
 다만 외국 국적 불행사 서약서를 제출해야 하며, 한국 내에서 외국인 권리를 주장하지 않겠다는 서약이 핵심입니다.
 
@@ -74,7 +74,7 @@ slug: "dual-nationality-allowance-departure-loss-comparison"
 
 국적이탈은 선천적 복수국적자가 외국 국적을 선택하고 한국 국적을 포기하는 절차입니다.
 
-본인의 의사로 진행하며, 법무부 장관에게 신고하는 형식입니다([국적법 제14조](https://www.law.go.kr)).
+본인의 의사로 진행하며, 법무부 장관에게 신고하는 형식입니다(국적법 제14조).
 
 남성은 병역의무가 종료되거나 면제된 후에만 이탈이 가능하며, 그 전에는 제한됩니다.
 
@@ -82,7 +82,7 @@ slug: "dual-nationality-allowance-departure-loss-comparison"
 
 ### 국적상실 — 자동 발생
 
-국적상실은 외국 시민권을 자진해서 취득한 순간 자동으로 발생합니다([국적법 제15조](https://www.law.go.kr)).
+국적상실은 외국 시민권을 자진해서 취득한 순간 자동으로 발생합니다(국적법 제15조).
 
 > **주의:** 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다. 국적상실신고는 행정 정리 절차일 뿐이며, 신고 전이라도 이미 상실 상태입니다. 국적상실 후 한국 여권을 사용하면 여권법 위반(부정사용)에 해당합니다.
 
@@ -140,7 +140,7 @@ F-4 신청 시 제출하는 무범죄경력증명서는 발급일로부터 6개�
 
 ### 신고 기한과 장소
 
-외국 시민권 취득일로부터 가급적 빠르게 진행해야 하며, 재외공관 또는 국내 가족관계등록관서에 신고합니다([재외동포청](https://www.oka.go.kr)).
+외국 시민권 취득일로부터 가급적 빠르게 진행해야 하며, 재외공관 또는 국내 가족관계등록관서에 신고합니다(재외동포청).
 
 신고를 미루면 한국 내 재산 처분, 상속, 등기 등에서 본인 확인 단계에서 막힙니다.
 
@@ -162,10 +162,7 @@ F-4 신청 시 제출하는 무범죄경력증명서는 발급일로부터 6개�
 
 본인 신분 정리가 끝나야 비로소 F-4 신청 단계로 넘어갑니다.
 
-
-
-![Close-up of Polish passports and travel tickets symbolizing travel and adventure.](https://images.pexels.com/photos/33497885/pexels-photo-33497885.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![View of a modern airport terminal with jet bridges leading to the runway.](https://images.pexels.com/photos/9873575/pexels-photo-9873575.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">복수국적 허용 신청과 외국 국적 불행사 서약</h2>
 
@@ -278,3 +275,4 @@ F-4 신청 시 제출하는 무범죄경력증명서는 발급일로부터 6개�
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [국가법령정보센터](https://www.law.go.kr)

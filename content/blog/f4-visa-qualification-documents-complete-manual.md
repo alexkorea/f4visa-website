@@ -39,7 +39,7 @@ F-4 체류자격은 「재외동포의 출입국과 법적 지위에 관한 법�
 
 대한민국 국민이었던 자로서 외국 국적을 취득한 사람, 그리고 그 직계비속으로서 외국 국적을 취득한 사람이 여기에 들어갑니다.
 
-조문 원문은 [국가법령정보센터](https://www.law.go.kr)에서 확인할 수 있습니다.
+조문 원문은 국가법령정보센터에서 확인할 수 있습니다.
 
 핵심은 이것입니다.
 
@@ -149,7 +149,7 @@ F-4 체류자격은 「재외동포의 출입국과 법적 지위에 관한 법�
 | 서류 원본 | 현지 제출 | 국내 발급분 활용 가능 |
 | 소요 | 공관별 상이 | 관할 청별 상이 |
 
-신청 절차와 접수 방식은 [하이코리아](https://www.hikorea.go.kr)와 [법무부 출입국·외국인정책본부](https://www.immigration.go.kr)에서 공지 기준으로 확인할 수 있습니다.
+신청 절차와 접수 방식은 하이코리아와 법무부 출입국·외국인정책본부에서 공지 기준으로 확인할 수 있습니다.
 
 공지 내용은 수시로 바뀌므로 접수 직전 관할 기관 확인이 있어야 합니다.
 
@@ -169,10 +169,7 @@ F-4 체류자격은 「재외동포의 출입국과 법적 지위에 관한 법�
 
 한국에 오래 머무를 수 없는 분들이 실제로 가장 많이 묻는 부분이 바로 이 대목입니다.
 
-
-
-![Busy day at a Seoul subway station with commuters navigating their way.](https://images.pexels.com/photos/19271594/pexels-photo-19271594.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Crop unrecognizable person selecting document in opened briefcase for documents placed on wooden table](https://images.pexels.com/photos/4792285/pexels-photo-4792285.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">F-4 취득 후 활동 범위 — 취업이 무제한은 아닙니다</h2>
 
@@ -289,3 +286,4 @@ F-4 신청 시에는 **시민권증서 원본**이 있어야 합니다.
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

@@ -74,7 +74,7 @@ F-4 거소신고증의 유효기간은 보통 발급일로부터 최대 3년이�
 
 해외 시민권자라면 시민권증서 원본 또는 공인 인증된 사본이 필요한 사례가 있고, 무범죄조회서는 발급일로부터 6개월의 유효기간이 있다는 점을 놓치면 안 됩니다.
 
-[하이코리아](https://www.hikorea.go.kr) 공지의 서류 목록은 시기별로 갱신되므로, 본인 케이스에 맞는 정확한 목록은 상담을 통해 확인하세요.
+하이코리아 공지의 서류 목록은 시기별로 갱신되므로, 본인 케이스에 맞는 정확한 목록은 상담을 통해 확인하세요.
 
 <h2 id="section-3">F-4 비자 갱신 절차 — 출입국 심사 흐름</h2>
 
@@ -131,10 +131,7 @@ F-4 거소신고증의 유효기간은 보통 발급일로부터 최대 3년이�
 
 ---
 
-
-
-![Vibrant display of Korean traditional dance with performers in cultural attire, Jakarta.](https://images.pexels.com/photos/35432325/pexels-photo-35432325.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![A professionally dressed man holding a pink folder in an office setting.](https://images.pexels.com/photos/7580909/pexels-photo-7580909.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">해외 체류 중 F-4 갱신 — 본국 발급과 재입국</h2>
 
@@ -150,7 +147,7 @@ F-4 거소신고증의 유효기간은 보통 발급일로부터 최대 3년이�
 
 거소허가번호가 발급되면 출국 후 재입국이 가능합니다.
 
-재입국 시 자동출입국심사 등록 여부, 출국 기간이 거소신고증 효력에 미치는 영향은 [출입국·외국인정책본부](https://www.immigration.go.kr) 공지를 따릅니다.
+재입국 시 자동출입국심사 등록 여부, 출국 기간이 거소신고증 효력에 미치는 영향은 출입국·외국인정책본부 공지를 따릅니다.
 
 <h2 id="section-6">F-4 갱신과 향후 F-5 영주권 연결 — 2026년 시점</h2>
 
@@ -162,7 +159,7 @@ F-4 체류 이력은 향후 F-5 영주권 신청 시 체류·소득·세무 자�
 
 ### 변경된 규정과 본인 적용 여부
 
-재외동포 관련 법령은 시기별로 개정되며, 2026년 시점 적용 기준은 [국가법령정보센터](https://www.law.go.kr)에서 확인할 수 있습니다.
+재외동포 관련 법령은 시기별로 개정되며, 2026년 시점 적용 기준은 국가법령정보센터에서 확인할 수 있습니다.
 
 소득요건·체류요건 기준은 매년 변경되므로, 올해 정확한 기준은 상담을 통해 확인하세요.
 
@@ -237,3 +234,4 @@ F-4 갱신은 서류 수보다 신분·체류·소명자료의 일치가 결과�
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

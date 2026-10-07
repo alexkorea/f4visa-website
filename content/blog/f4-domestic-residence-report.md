@@ -40,7 +40,7 @@ F-4는 단순 체류자격이고, 국내에서 실제 생활 기록을 남기려
 
 거소신고를 마쳐야 부동산 등기, 금융계좌 개설, 의료보험 가입, 자동차 등록 같은 행정행위가 가능해집니다.
 
-근거 법령은 [재외동포의 출입국과 법적 지위에 관한 법률](https://www.law.go.kr) 제6조이며, 신고 의무 위반 시 과태료 부과 대상이 됩니다.
+근거 법령은 재외동포의 출입국과 법적 지위에 관한 법률 제6조이며, 신고 의무 위반 시 과태료 부과 대상이 됩니다.
 
 ### 거소번호와 주민등록번호의 차이
 
@@ -74,7 +74,7 @@ F-4는 단순 체류자격이고, 국내에서 실제 생활 기록을 남기려
 
 | 서류 | 발급처 | 비고 |
 |------|--------|------|
-| 통합신청서 | 출입국·외국인청 | 현장 또는 [하이코리아](https://www.hikorea.go.kr)에서 다운로드 |
+| 통합신청서 | 출입국·외국인청 | 현장 또는 하이코리아에서 다운로드 |
 | 여권 원본 + 사본 | 본인 | 유효기간 6개월 이상 권장 |
 | 외국시민권증서 원본 | 거주국 정부 | 사본 제출 후 원본 대조 |
 | 컬러 증명사진 | 사진관 | 3.5×4.5cm, 6개월 이내 촬영 |
@@ -95,7 +95,7 @@ F-4는 단순 체류자격이고, 국내에서 실제 생활 기록을 남기려
 
 ### 1단계 — 사전 예약과 관할 확인
 
-[하이코리아](https://www.hikorea.go.kr) 방문예약 시스템을 통해 거주지 관할 출입국·외국인청에 사전 예약을 잡습니다.
+하이코리아 방문예약 시스템을 통해 거주지 관할 출입국·외국인청에 사전 예약을 잡습니다.
 
 예약 없이 방문하면 당일 접수 자체가 어려운 청이 많습니다.
 
@@ -131,13 +131,10 @@ F-4는 단순 체류자격이고, 국내에서 실제 생활 기록을 남기려
 
 > **주의:** 정확한 처리 기간은 청별로 달라지며, 최근 신청 적체 상황에 따라 더 길어지는 사례가 있습니다. 본인 사안에 맞는 가장 빠른 청 선택은 상담을 통해 확인하세요.
 
-
-
 <figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/14774580/pexels-photo-14774580.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="South Korean flag on a flagpole against a vibrant blue sky with tree branches." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
+  <img src="https://images.pexels.com/photos/7641994/pexels-photo-7641994.jpegSouth Korean flag on a flagpole against a vibrant blue sky with tree branches." alt="Close-up of two professionals signing a document indoors, focus on hands and pen." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
   
 </figure>
-
 
 <h2 id="section-6">실무에서 자주 막히는 지점</h2>
 
@@ -175,7 +172,7 @@ F-4 거소증은 통상 2년 단위로 부여되며 만료 전 갱신이 필요�
 
 ### 분실·훼손 시 재발급
 
-분실 시 [출입국·외국인청](https://www.immigration.go.kr) 방문해 재발급 신청을 해야 하며, 분실신고서·여권·사진이 들어갑니다.
+분실 시 출입국·외국인청 방문해 재발급 신청을 해야 하며, 분실신고서·여권·사진이 들어갑니다.
 
 <h2 id="section-8">자주 묻는 질문(FAQ)</h2>
 
@@ -253,3 +250,4 @@ F-4는 단순노무를 제외한 광범위한 활동이 허용되는 자격입�
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

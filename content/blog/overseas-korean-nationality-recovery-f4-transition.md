@@ -113,7 +113,7 @@ image: "/og/overseas-korean-nationality-recovery-f4-transition.png"
 4. **F-4 비자 발급**
 5. **한국 입국 후 외국인등록(거소증 신고):** 입국 90일 이내
 
-[출입국·외국인청](https://www.immigration.go.kr)에서 거소증 신고 예약을 할 수 있습니다.
+출입국·외국인청에서 거소증 신고 예약을 할 수 있습니다.
 
 ## 병역 문제와 국적회복
 
@@ -170,3 +170,5 @@ F-4 비자는 외국 국적을 유지하므로 병역 의무가 발생하지 않
 - [재미교포 F-4 비자 신청 방법](/blog/jaemi-gyopo-f4-visa-application-guide-2026)
 - [재일교포 F-4 비자 신청 가이드](/blog/jaeil-gyopo-f4-visa-application-guide-2026)
 - [국적회복 신청 방법](/blog/nationality-recovery)
+
+**공식 사이트에서 확인하기:** [출입국·외국인정책본부](https://www.immigration.go.kr)

@@ -73,7 +73,7 @@ F-4는 외국 국적을 가진 재외동포를 대상으로 하므로, 한국 �
 
 > **주의:** 국적상실 후 한국 여권을 계속 사용하면 여권법상 부정사용에 해당합니다. 출입국 과정에서 문제가 될 수 있으므로 여권 사용을 멈추고 외국 여권으로 정리해야 합니다.
 
-법령 원문은 [국가법령정보센터](https://www.law.go.kr)에서 국적법 조문을 직접 확인할 수 있습니다.
+법령 원문은 국가법령정보센터에서 국적법 조문을 직접 확인할 수 있습니다.
 
 ### 신청 전 자기 점검 체크리스트
 
@@ -137,16 +137,13 @@ F-4는 외국 국적을 가진 재외동포를 대상으로 하므로, 한국 �
 
 최근 비슷한 사례에서 주소 문제로 접수가 지연된 경우가 있었고, 이런 부분은 미리 잡아두면 체류일을 줄일 수 있습니다.
 
-관할 출입국 관련 절차와 예약은 [하이코리아](https://www.hikorea.go.kr)에서 기본 정보를 확인할 수 있습니다.
+관할 출입국 관련 절차와 예약은 하이코리아에서 기본 정보를 확인할 수 있습니다.
 
 정확한 비용과 절차는 전문가 상담을 통해 확인하세요.
 
 지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea
 
-
-
-![Two blue Ukrainian passports placed on a white surface, close-up view.](https://images.pexels.com/photos/8061949/pexels-photo-8061949.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![A vibrant street scene in Seoul, illuminated by neon signs at night, capturing urban nightlife.](https://images.pexels.com/photos/17525668/pexels-photo-17525668.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">처리 기간과 출입국사무소 선택</h2>
 
@@ -262,3 +259,4 @@ F-4는 외국 국적을 가진 재외동포를 대상으로 하므로, 한국 �
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

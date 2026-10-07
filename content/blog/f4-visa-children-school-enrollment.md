@@ -185,14 +185,6 @@ F-4 자격 자체가 지원 자격을 자동으로 보장하지는 않습니다.
 - [F-4 비자 배우자·자녀 동반 비자 신청 완전 가이드](/blog/f4-visa-spouse-child-accompanying-visa)
 - [F-4 비자 발급 요건 완전 정리](/blog/f4-visa-eligibility)
 
-## 출처 및 참고
-
-- [교육부](https://www.moe.go.kr)
-- [하이코리아](https://www.hikorea.go.kr)
-- [법제처 국가법령정보센터](https://www.law.go.kr)
-- 법무부 출입국·외국인정책본부 외국국적동포 업무매뉴얼 최신판 기준(수시 개정될 수 있으므로 신청 전 관할 기관 확인 필요)
-- 학교 입학·학력 인정·특례입시 관련 세부 기준은 교육부 및 관할 교육청 소관이며, 지역·학교·연도별로 달라질 수 있으므로 반드시 해당 기관에 최신 내용을 확인해야 합니다.
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

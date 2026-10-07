@@ -192,9 +192,3 @@ A. 신청 자체가 불가능하지는 않지만, 면제 대상이 아닌데 미
 - [F-4 재외동포 비자 신청 자격 완벽 가이드 — 미국·캐나다·호주 동포 필독](/blog/f4-visa-eligibility)
 - [미국 영주권자 F-4 재외동포 비자 신청 방법](/blog/f4-visa-us-permanent-resident-guide)
 - [미국·캐나다 재외동포 F-4 비자 신청 실무](/blog/f4-bukmi-dongpo)
-
-## 출처
-
-- [하이코리아](https://www.hikorea.go.kr)
-- [법제처 국가법령정보센터](https://www.law.go.kr)
-- [출입국·외국인정책본부](https://www.immigration.go.kr)

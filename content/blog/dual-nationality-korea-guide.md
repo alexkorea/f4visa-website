@@ -127,12 +127,6 @@ A. 국적이탈은 본인이 절차를 밟아 스스로 국적을 벗어나는 �
 - [한국 국적 상실 가이드](/blog/korean-nationality-loss-guide)
 - [국적회복 허가 신청 절차](/blog/nationality-recovery)
 
-## 출처
-
-- [법제처 국가법령정보센터](https://www.law.go.kr) — 국적법 및 시행령 원문 확인
-- [출입국·외국인정책본부](https://www.immigration.go.kr) — 국적·체류 관련 공식 안내
-- [하이코리아](https://www.hikorea.go.kr) — 재외동포 체류 및 국적 관련 민원 안내
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

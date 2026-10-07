@@ -40,7 +40,7 @@ slug: "nationality-loss-report-3day-complete-procedure"
 
 ### 국적법 제15조의 의미
 
-[국적법 제15조](https://law.go.kr)에 따르면 대한민국 국민이 자진하여 외국 국적을 취득한 때에는 그 외국 국적을 취득한 때에 대한민국 국적을 상실합니다.
+국적법 제15조에 따르면 대한민국 국민이 자진하여 외국 국적을 취득한 때에는 그 외국 국적을 취득한 때에 대한민국 국적을 상실합니다.
 
 즉 미국 시민권 선서를 한 날, 캐나다 시민권증서를 받은 날 그 순간 한국 국적은 이미 끝난 상태입니다.
 
@@ -50,7 +50,7 @@ slug: "nationality-loss-report-3day-complete-procedure"
 
 핵심은 이것입니다.
 
-국적상실 신고를 아직 안 했다고 해서 한국 여권을 계속 쓰면 [여권법](https://law.go.kr) 위반(부정사용)에 해당합니다.
+국적상실 신고를 아직 안 했다고 해서 한국 여권을 계속 쓰면 여권법 위반(부정사용)에 해당합니다.
 
 실무에서는 외국 시민권 취득 후에도 입국 편의를 위해 한국 여권을 쓰다가 출입국 단계에서 적발되는 사례가 흔합니다.
 
@@ -86,12 +86,12 @@ slug: "nationality-loss-report-3day-complete-procedure"
 
 | 서류 | 발급처 | 비고 |
 |------|--------|------|
-| 국적상실 신고서 | 재외공관 또는 [법무부](https://www.moj.go.kr) | 양식 다운로드 가능 |
+| 국적상실 신고서 | 재외공관 또는 법무부 | 양식 다운로드 가능 |
 | 시민권증서 원본 | 취득국 정부 | 사본 아닌 원본 지참 |
 | 외국 여권 사본 | 본인 보관 | 사진면 필수 |
 | 한국 여권 사본 | 본인 보관 | 보유 중인 경우 |
-| 기본증명서(상세) | [정부24](https://www.gov.kr) | 최근 발급분 |
-| 가족관계증명서(상세) | [정부24](https://www.gov.kr) | 최근 발급분 |
+| 기본증명서(상세) | 정부24 | 최근 발급분 |
+| 가족관계증명서(상세) | 정부24 | 최근 발급분 |
 
 ### 시민권증서 원본이 핵심입니다
 
@@ -156,7 +156,7 @@ slug: "nationality-loss-report-3day-complete-procedure"
 
 ### Day 3 — 새 증명서 발급 및 다음 단계 연결
 
-국적상실이 반영된 기본증명서·가족관계증명서를 [정부24](https://www.gov.kr)에서 새로 발급받습니다.
+국적상실이 반영된 기본증명서·가족관계증명서를 정부24에서 새로 발급받습니다.
 
 이 서류가 곧바로 F-4 거소증 신청서류로 이어집니다.
 
@@ -170,10 +170,7 @@ slug: "nationality-loss-report-3day-complete-procedure"
 
 ---
 
-
-
-![Exterior view of the US Immigration and Customs Enforcement building with a visible flag and signage.](https://images.pexels.com/photos/36984942/pexels-photo-36984942.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Two professionals engaging in a business meeting, signing documents for a consulting agreement.](https://images.pexels.com/photos/8441784/pexels-photo-8441784.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-6">국적상실 신고 후 이어지는 절차</h2>
 
@@ -183,7 +180,7 @@ slug: "nationality-loss-report-3day-complete-procedure"
 
 ### F-4 거소증 신청과의 연결
 
-국적상실이 반영된 기본증명서가 나오면 곧바로 [하이코리아](https://www.hikorea.go.kr)를 통해 F-4 거소증 신청이 가능합니다.
+국적상실이 반영된 기본증명서가 나오면 곧바로 하이코리아를 통해 F-4 거소증 신청이 가능합니다.
 
 거소허가번호가 발급되면 그 시점부터 출국이 자유로워집니다.
 
@@ -308,3 +305,4 @@ slug: "nationality-loss-report-3day-complete-procedure"
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

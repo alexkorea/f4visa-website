@@ -89,7 +89,7 @@ F-4 비자 외에도 **F-4 동등 자격**을 보유한 일부 재외동포도 �
 
 거소증이 있으면 한국의 각종 온라인 서비스에서 본인인증이 가능하다는 점이 특히 중요합니다. 한국은 대부분의 서비스가 본인인증을 필수로 요구하기 때문에, 거소증 없이는 온라인 쇼핑, 배달 앱 이용, 관공서 민원 처리 등 디지털 생활이 사실상 불가능합니다.
 
-<img src="https://images.pexels.com/photos/4427611/pexels-photo-4427611.jpeg?auto=compress&cs=tinysrgb&w=800" alt="출입국관리사무소" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/7433919/pexels-photo-7433919.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Three mature professionals in a business meeting discussing and signing documents in an office setting." style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
 
 ## 필요 서류
 
@@ -150,7 +150,7 @@ F-4 비자 외에도 **F-4 동등 자격**을 보유한 일부 재외동포도 �
 
 거소증을 수령한 후에는 카드에 기재된 정보(이름, 생년월일, 거소지 주소, 체류 기간 등)가 정확한지 반드시 확인하세요. 오류가 있으면 즉시 정정을 요청해야 합니다. 거소증 수령 후에는 바로 은행 계좌 개설, 휴대폰 개통 등 한국 생활에 필요한 인프라 구축을 진행할 수 있습니다.
 
-<img src="https://images.pexels.com/photos/5668473/pexels-photo-5668473.jpeg?auto=compress&cs=tinysrgb&w=800" alt="상담 모습" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/34293525/pexels-photo-34293525.jpeg상담 모습" alt="Row of colorful office binders neatly arranged on a shelf, ideal for organization concepts." style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
 
 ## 온라인 예약 방법 (hikorea.go.kr)
 
@@ -186,7 +186,7 @@ F-4 비자 외에도 **F-4 동등 자격**을 보유한 일부 재외동포도 �
 
 같은 시/군/구 내에서의 이사는 관할 출입국 기관이 동일하므로 비교적 간단하지만, 다른 지역으로 이사하는 경우에는 새로운 관할 기관에 방문해야 합니다. 행정사사무소 이룸에서는 거소지 변경 신고도 대행해 드리고 있습니다.
 
-<img src="https://images.pexels.com/photos/3769138/pexels-photo-3769138.jpeg?auto=compress&cs=tinysrgb&w=800" alt="도시 풍경" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/32087674/pexels-photo-32087674.jpeg도시 풍경" alt="Bustling street scene in Seoul with people and cyclists on a sunny spring day." style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
 
 ## 자주 묻는 질문 (FAQ)
 

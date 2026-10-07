@@ -237,13 +237,10 @@ slug: "us-citizenship-korean-nationality-loss-guide"
 
 ---
 
-
-
 <figure style="margin:32px auto;text-align:center">
   <img src="https://images.pexels.com/photos/8037633/pexels-photo-8037633.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Elderly man and young girl enjoying tea together in traditional attire." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
   
 </figure>
-
 
 <h2 id="section-5">5. 국적 상실 후 한국 여권 사용 — 여권법 위반</h2>
 

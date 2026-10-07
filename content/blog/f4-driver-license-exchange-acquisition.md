@@ -60,7 +60,7 @@ F-4 소지자가 받을 수 있는 한국 면허는 두 갈래입니다.
 
 ### 교환 가능 국가와 부분 인정 국가
 
-[도로교통공단](https://www.koroad.or.kr) 기준으로 국가는 전부 교환 가능, 학과시험만 면제, 신규 응시 필요로 나뉩니다.
+도로교통공단 기준으로 국가는 전부 교환 가능, 학과시험만 면제, 신규 응시 필요로 나뉩니다.
 
 미국은 주(State)별로 다르고, 같은 미국 면허라도 일부 주는 교환 대상에서 빠집니다.
 
@@ -160,10 +160,7 @@ F-4 소지자가 받을 수 있는 한국 면허는 두 갈래입니다.
 
 > **주의:** 운전면허 교환은 본국 면허 반납 또는 회수 조치가 따르는 국가가 있습니다. 본국 면허를 계속 유지하고 싶다면 사전에 발급국 규정을 확인하세요.
 
-
-
-![Blue Ukrainian passports on a light surface, highlighting travel documents.](https://images.pexels.com/photos/8061986/pexels-photo-8061986.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Blurred cars and city lights create a dynamic nighttime urban scene, showcasing motion and energy.](https://images.pexels.com/photos/10410202/pexels-photo-10410202.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-6">국적상실 신고와 면허 절차</h2>
 
@@ -171,7 +168,7 @@ F-4 비자 신청 단계에서 시민권증서 원본은 필수이며, 국적 �
 
 ### 국적상실은 자동 발생
 
-[국적법 제15조](https://law.go.kr)에 따라 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다.
+국적법 제15조에 따라 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다.
 
 국적상실신고는 행정 정리 절차일 뿐, 신고 전이라도 이미 상실 상태입니다.
 
@@ -191,7 +188,7 @@ F-4 비자 신청 단계에서 시민권증서 원본은 필수이며, 국적 �
 
 ### 갱신과 적성검사
 
-[안전운전 통합민원](https://www.safedriving.or.kr)을 통해 갱신 시점과 적성검사 일정을 확인할 수 있습니다.
+안전운전 통합민원을 통해 갱신 시점과 적성검사 일정을 확인할 수 있습니다.
 
 F-4 거소증 유효기간과 면허 갱신 시기를 같이 관리해야 누락이 생기지 않습니다.
 
@@ -274,3 +271,4 @@ F-4 거소증 신청부터 운전면허 교환 절차까지, 본인 상황에 �
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [국가법령정보센터](https://www.law.go.kr)

@@ -104,7 +104,7 @@ slug: "nationality-selection-deadline-procedure"
 
 일부 요건 충족 시 외국 국적 불행사 서약을 통해 복수국적이 일정 범위에서 허용되기도 합니다.
 
-자세한 요건과 첨부서류는 [법무부 국적·통합 안내](https://www.immigration.go.kr)에서 확인할 수 있습니다.
+자세한 요건과 첨부서류는 법무부 국적·통합 안내에서 확인할 수 있습니다.
 
 ### 외국 국적을 선택하는 경우 (국적이탈)
 
@@ -132,10 +132,7 @@ slug: "nationality-selection-deadline-procedure"
 
 정확한 비용과 절차는 무료 상담을 통해 안내드립니다.
 
-
-
-![Police officers on duty in Seoul, South Korea, showcasing urban life and safety enforcement.](https://images.pexels.com/photos/31720191/pexels-photo-31720191.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Close-up of hands exchanging documents with pens outdoors. Business agreement concept.](https://images.pexels.com/photos/1325746/pexels-photo-1325746.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">국적상실 후 F-4 비자 전환</h2>
 
@@ -164,7 +161,7 @@ slug: "nationality-selection-deadline-procedure"
 
 한국 내 최소체류기간으로 처리 가능하며, 거소허가번호 발급 후 출국이 가능합니다.
 
-자세한 신청 채널은 [하이코리아](https://www.hikorea.go.kr)에서도 확인 가능합니다.
+자세한 신청 채널은 하이코리아에서도 확인 가능합니다.
 
 <h2 id="section-6">기한을 놓치면 어떻게 되는가</h2>
 
@@ -188,7 +185,7 @@ slug: "nationality-selection-deadline-procedure"
 
 최근 이 부분에서 한국 입국 시 출국 제한이 걸린 사례가 있어, 본인 해당 여부는 빠른 확인이 필요합니다.
 
-상세한 법조문은 [국가법령정보센터 국적법](https://www.law.go.kr)에서 확인하실 수 있습니다.
+상세한 법조문은 국가법령정보센터 국적법에서 확인하실 수 있습니다.
 
 <h2 id="section-7">자주 묻는 질문 (FAQ)</h2>
 
@@ -278,3 +275,4 @@ slug: "nationality-selection-deadline-procedure"
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

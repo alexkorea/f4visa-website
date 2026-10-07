@@ -59,7 +59,7 @@ F-4 비자 소지자가 영주권으로 가는 길은 한 가지가 아닙니다
 - 1회 6개월 이상 출국 → 거주 단절 문제 발생 가능
 - F-4 받기 전 다른 자격(H-2, F-1 등)에서의 기간 → 원칙적으로 합산 불가
 
-본인 출입국 이력은 [하이코리아](https://www.hikorea.go.kr)에서 출입국사실증명서로 직접 확인 가능합니다.
+본인 출입국 이력은 하이코리아에서 출입국사실증명서로 직접 확인 가능합니다.
 
 <h2 id="section-2">F-5-7호 신청을 위한 5가지 핵심 조건</h2>
 
@@ -136,7 +136,7 @@ KIIP(사회통합프로그램) 5단계 이수 또는 종합평가 합격이 일�
 
 본인은 면제 대상이라고 생각했는데 실제로는 단축 대상인 경우가 많습니다.
 
-KIIP 관련 규정은 [사회통합정보망](https://www.socinet.go.kr)에서 본인 단계 진단이 가능합니다.
+KIIP 관련 규정은 사회통합정보망에서 본인 단계 진단이 가능합니다.
 
 > **실무 팁:** F-4 신청 단계부터 5년 뒤 F-5 전환을 염두에 두고 출입국 패턴, 소득 신고, 주소지 관리를 일관되게 가져가는 것이 가장 강력한 준비입니다.
 
@@ -148,10 +148,7 @@ KIIP 관련 규정은 [사회통합정보망](https://www.socinet.go.kr)에서 �
 
 ---
 
-
-
-![Close-up of Polish passports and travel tickets symbolizing travel and adventure.](https://images.pexels.com/photos/33497885/pexels-photo-33497885.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Close-up of hands exchanging real estate documents in an office setting.](https://images.pexels.com/photos/8292793/pexels-photo-8292793.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">F-5 영주권을 받으면 달라지는 것</h2>
 
@@ -171,7 +168,7 @@ F-5는 한국 영주권이지 한국 국적이 아닙니다.
 
 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됨(국적법 제15조)이라는 점과 별개로, F-5는 외국 국적을 유지한 채 한국에 정주하는 자격입니다.
 
-자세한 국적법 조문은 [국가법령정보센터](https://www.law.go.kr)에서 확인 가능합니다.
+자세한 국적법 조문은 국가법령정보센터에서 확인 가능합니다.
 
 <h2 id="section-6">F-5 신청 전 반드시 점검할 체크리스트</h2>
 
@@ -261,3 +258,4 @@ F-4에서 F-5로의 전환은 단순한 서류 제출이 아니라 5년치 본�
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

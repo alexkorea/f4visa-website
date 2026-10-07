@@ -51,7 +51,7 @@ slug: "nationality-loss-report-overseas"
 
 가족관계의 등록 등에 관한 법률 제16조에 따라 국적상실 신고는 그 사실을 안 날로부터 1개월 이내입니다.
 재외국민의 경우 거주지 관할 재외공관(영사관·대사관)에 제출할 수 있고, 국내에서는 가족관계등록 관서에 제출합니다.
-정확한 법조문은 [국가법령정보센터](https://www.law.go.kr)에서 확인할 수 있습니다.
+정확한 법조문은 국가법령정보센터에서 확인할 수 있습니다.
 
 ### 1개월을 넘기면 어떻게 되나
 
@@ -123,10 +123,7 @@ F-4 신청 시 제출하는 무범죄조회서는 발급일로부터 6개월 이
 
 ---
 
-
-
-![Vibrant display of Korean traditional dance with performers in cultural attire, Jakarta.](https://images.pexels.com/photos/35432325/pexels-photo-35432325.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![A close-up image showing a hand holding a pen while signing a document.](https://images.pexels.com/photos/7054510/pexels-photo-7054510.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">미신고 시 실제로 생기는 문제</h2>
 
@@ -164,7 +161,7 @@ F-4 신청 시 제출하는 무범죄조회서는 발급일로부터 6개월 이
 ### 재외공관에서 신고할 때
 
 거주국 한국 영사관·대사관에 직접 방문 신고가 원칙입니다.
-공관별로 접수 방식·예약 절차가 다르므로 [외교부](https://www.mofa.go.kr) 공관 안내를 미리 확인하세요.
+공관별로 접수 방식·예약 절차가 다르므로 외교부 공관 안내를 미리 확인하세요.
 공관에서 접수된 신고는 한국 본적지 관서로 송부되어 정리됩니다.
 
 ### 국내에서 신고할 때
@@ -237,8 +234,6 @@ F-4 비자 또는 단기 비자로 입국하는 것이 정상 절차입니다.
 - 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - 상담 시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)
 
-법령·공식 정보 출처는 [국가법령정보센터](https://www.law.go.kr), [하이코리아](https://www.hikorea.go.kr), [외교부](https://www.mofa.go.kr)에서 확인할 수 있습니다.
-
 ---
 
 <h2 id="section-10">전문가 상담이 필요하신가요?</h2>
@@ -247,3 +242,4 @@ F-4 비자 또는 단기 비자로 입국하는 것이 정상 절차입니다.
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [국가법령정보센터](https://www.law.go.kr)

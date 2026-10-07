@@ -241,9 +241,3 @@ A. 면제 대상이라면 제출하지 않아도 되지만, 미리 준비해 간
 
 - [거소증 신청 방법 — F-4 재외동포 거소증 발급 완전 가이드](/blog/geo-so-jeung-guide)
 - [재미동포 거소증 신청 방법 — 미국 시민권자·영주권자 완전 가이드](/blog/jemi-dongpo-geo-so-jeung-guide)
-
-## 출처
-
-- [법제처 국가법령정보센터](https://www.law.go.kr) - 재외동포의 출입국과 법적 지위에 관한 법률, 출입국관리법 및 시행령
-- [하이코리아](https://www.hikorea.go.kr) - 국내거소신고 제출서류 안내
-- [출입국·외국인정책본부](https://www.immigration.go.kr) - 체류자격별 안내

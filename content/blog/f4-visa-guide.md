@@ -39,7 +39,7 @@ F-4 비자는 다른 비자 유형과 비교했을 때에도 매우 유리한 �
 💡 <strong>참고:</strong> F-4 비자는 일반 관광 비자와 달리 장기 체류가 가능하며, <a href="/f4-visa-resident-card">거소증</a>을 발급받으면 은행 계좌 개설, 휴대폰 개통, 부동산 거래 등 내국인과 동일한 행정 서비스를 이용할 수 있습니다.
 </div>
 
-<img src="https://images.pexels.com/photos/3769138/pexels-photo-3769138.jpeg?auto=compress&cs=tinysrgb&w=800" alt="여권과 비자 서류" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/36567973/pexels-photo-36567973.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Colorful street filled with signs and people in Seoul&#x27;s bustling district." style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
 
 ## F-4 비자 자격요건
 
@@ -81,7 +81,7 @@ F-4 비자는 신청자의 상황에 따라 여러 세부 자격 유형으로 �
 
 병역 문제는 개인의 출생 시기, 국적 취득 시점, 병역 처분 상태 등에 따라 매우 복잡하게 얽혀 있습니다. 특히 이중국적 상태에서 태어난 경우, 국적이탈 시점에 따라 병역 의무 발생 여부가 달라지므로 전문가의 정확한 진단이 필수적입니다. 잘못된 판단으로 신청이 거부될 경우 시간과 비용 낭비가 크기 때문에, 병역 관련 사안이 있다면 반드시 사전 상담을 받으시길 권합니다.
 
-<img src="https://images.pexels.com/photos/4427620/pexels-photo-4427620.jpeg?auto=compress&cs=tinysrgb&w=800" alt="서류 작성하는 모습" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/31768180/pexels-photo-31768180.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Moody night-time view of a motorcyclist navigating through Seoul&#x27;s quiet alleyways." style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
 
 ## 필요 서류 체크리스트
 
@@ -144,7 +144,7 @@ F-4 사증을 받아 한국에 입국한 후에는 **90일 이내**에 거주지
 
 거소증 신청에는 체류지 입증 서류(임대차계약서 등)가 추가로 필요하므로, 입국 전에 미리 주거지를 확보해 두는 것이 좋습니다. 거소증 발급까지 걸리는 기간은 관할 출입국·외국인관서 사정에 따라 다릅니다. 자세한 거소증 발급 절차는 [거소증 발급 가이드](/blog/residence-card-guide)에서 확인하실 수 있습니다.
 
-<img src="https://images.pexels.com/photos/5668473/pexels-photo-5668473.jpeg?auto=compress&cs=tinysrgb&w=800" alt="행정 사무실" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/31842449/pexels-photo-31842449.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Explore Seoul&#x27;s vibrant streets with a backdrop of urban architecture and daily life." style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
 
 ## F-4 비자와 거소증의 관계
 
@@ -172,7 +172,7 @@ F-4 비자로 한국에서 안정적으로 생활하신 후에는 영주권(F-5 
 
 영주권은 한국 생활의 안정성을 크게 높여주는 자격이므로, F-4 비자로 2년 이상 체류한 분들은 적극적으로 전환을 검토해 보시길 권합니다. 자세한 요건과 절차는 [영주권(F-5) 신청 안내](/permanent-residency) 페이지에서 확인하실 수 있습니다.
 
-<img src="https://images.pexels.com/photos/5668838/pexels-photo-5668838.jpeg?auto=compress&cs=tinysrgb&w=800" alt="법률 서류와 상담" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/8692830/pexels-photo-8692830.jpeg?auto=compress&cs=tinysrgb&w=800" alt="A lively Seoul street at night with neon signs and people walking, capturing the essence of urban life in South Korea." style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
 
 ## 자주 묻는 질문 (FAQ)
 

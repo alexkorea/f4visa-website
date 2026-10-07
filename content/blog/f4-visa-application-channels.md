@@ -242,13 +242,10 @@ F-4 비자는 발급 근거가 같아도, **어디서 신청하느냐에 따라 
 
 수수료는 **환율·정책에 따라 바뀝니다**. 공식 수수료 고지는 영사관 홈페이지 또는 출입국 고지를 기준으로 합니다. 특히 사증수수료는 국가별 상호주의에 따라 달라지므로, 미국·중국·캐나다·호주 등이 제각각입니다.
 
-
-
 <figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A close-up shot of Filipino passports at the airport, indicating travel and identity." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
+  <img src="https://images.pexels.com/photos/40061589/pexels-photo-40061589.jpegA close-up shot of Filipino passports at the airport, indicating travel and identity." alt="Neon-lit alleyway in Seoul with vibrant signs and urban charm, showcasing a lively night scene." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
   
 </figure>
-
 
 ## <span id="section-5"></span>5. 국적상실신고와의 순서 문제
 

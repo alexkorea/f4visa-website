@@ -127,10 +127,7 @@ F-4 소지자가 본국 자금으로 한국 부동산을 매수할 때 가장 �
 
 ---
 
-
-
-![South Korean flag on a flagpole against a vibrant blue sky with tree branches.](https://images.pexels.com/photos/14774580/pexels-photo-14774580.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Man at a currency exchange office window, showing currency rates inside a bustling city.](https://images.pexels.com/photos/12008048/pexels-photo-12008048.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">자주 막히는 지점 정리</h2>
 
@@ -228,10 +225,5 @@ F-4 거소증 신청부터 한국 내 계좌 개설, 부동산 자금 송금까�
 - [F-4 비자 종합소득세 신고 의무 완벽정리](/blog/f4-visa-tax-obligations-comprehensive-income) — 거주자 판정과 이자·배당 소득 신고
 - [재외동포 부동산 취득세 — 세율·과세표준·계산법](/blog/dongpo-property-purchase-tax-process-guide) — 부동산 매수 자금 송금 이후의 세금
 
-**참고 (공식 사이트에서 확인하기)**
 
-- [하이코리아(출입국·외국인정책본부)](https://www.hikorea.go.kr)
-- [법무부 출입국·외국인정책본부](https://www.immigration.go.kr)
-- [국가법령정보센터](https://www.law.go.kr)
-- [한국은행](https://www.bok.or.kr)
-- [국세청 홈택스](https://www.hometax.go.kr)
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

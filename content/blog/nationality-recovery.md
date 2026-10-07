@@ -39,7 +39,7 @@ slug: "nationality-recovery"
 💡 <strong>참고:</strong> 국적회복은 <a href="/nationality-loss-report">국적상실 신고</a>를 완료한 후에 진행할 수 있습니다. 국적상실 신고가 아직 되어 있지 않다면 먼저 신고를 완료해야 합니다.
 </div>
 
-<img src="https://images.pexels.com/photos/2310885/pexels-photo-2310885.jpeg?auto=compress&cs=tinysrgb&w=800" alt="대한민국 국기" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/7734574/pexels-photo-7734574.jpeg대한민국 국기" alt="Close-up image of two people signing an insurance policy document on a wooden desk." style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
 
 ## 국적회복 vs 귀화 차이
 
@@ -85,7 +85,7 @@ slug: "nationality-recovery"
 
 다음에 해당하는 경우 국적회복이 거부됩니다: 대한민국의 안보, 질서유지에 지장을 초래할 우려가 있는 자, 품행이 단정하지 못한 자, 병역을 기피할 목적으로 한국 국적을 상실한 남성. 특히 병역 기피 목적의 국적 상실은 엄격하게 심사되며, 이 경우 병역 의무를 이행한 후에야 국적회복이 가능합니다.
 
-<img src="https://images.pexels.com/photos/4427620/pexels-photo-4427620.jpeg?auto=compress&cs=tinysrgb&w=800" alt="서류 작업" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/8730966/pexels-photo-8730966.jpeg서류 작업" alt="Three business colleagues collaborating and reviewing documents indoors." style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
 
 ## 65세 이상 특별 혜택: 복수국적 유지
 
@@ -115,7 +115,7 @@ slug: "nationality-recovery"
 
 복수국적과 관련된 세부 조건, 주의사항, 그리고 서약 절차에 대한 자세한 내용은 [국적선택과 이중국적 안내](/nationality-selection-dual-nationality) 페이지에서 확인하실 수 있습니다.
 
-<img src="https://images.pexels.com/photos/5668838/pexels-photo-5668838.jpeg?auto=compress&cs=tinysrgb&w=800" alt="법률 서류" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/7054517/pexels-photo-7054517.jpeg법률 서류" alt="A close-up image of a person&#x27;s hand signing a document with a blue pen in natural lighting." style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
 
 ## 필요 서류
 
@@ -186,7 +186,7 @@ slug: "nationality-recovery"
 
 심사 기간 동안 한국에 체류하고 있는 경우에는 기존 체류자격(F-4 등)을 유지하면서 심사 결과를 기다릴 수 있습니다. 해외에 거주하고 있는 경우에는 재외공관을 통해 결과를 통보받게 됩니다. 심사 중에 주소나 연락처가 변경되면 반드시 접수 기관에 알려야 결과 통보를 원활히 받을 수 있습니다.
 
-<img src="https://images.pexels.com/photos/5668473/pexels-photo-5668473.jpeg?auto=compress&cs=tinysrgb&w=800" alt="상담 모습" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/8439702/pexels-photo-8439702.jpeg상담 모습" alt="Senior business professionals signing documents during a meeting in a bright office." style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
 
 ## 국적회복 후 해야 할 일
 

@@ -56,7 +56,7 @@ slug: "overseas-goso-jeung-remote-agency-application"
 
 ### 외국 시민권 취득자의 국적 상실
 
-외국 시민권을 취득하면 한국 국적은 그 즉시 자동으로 상실됩니다([국적법 제15조](https://www.law.go.kr)).
+외국 시민권을 취득하면 한국 국적은 그 즉시 자동으로 상실됩니다(국적법 제15조).
 국적상실신고는 행정 정리 절차일 뿐이고, 신고 전이라도 이미 상실 상태입니다.
 바로 이 부분에서 오해가 생깁니다.
 
@@ -67,7 +67,7 @@ slug: "overseas-goso-jeung-remote-agency-application"
 
 거소증은 F-4 재외동포 체류자격을 받은 뒤 국내에서 신고하는 증서입니다.
 따라서 F-4 부여 요건 검토가 먼저이고, 거소증은 그다음 단계입니다.
-자격 세부 기준은 [하이코리아](https://www.hikorea.go.kr)와 [법무부 출입국·외국인정책본부](https://www.immigration.go.kr)에서 확인이 필요합니다.
+자격 세부 기준은 하이코리아와 법무부 출입국·외국인정책본부에서 확인이 필요합니다.
 
 <h2 id="section-3">해외 거소증 신청 서류 — 본국 발급과 한국 발급으로 나뉜다</h2>
 
@@ -127,10 +127,7 @@ slug: "overseas-goso-jeung-remote-agency-application"
 
 최근 비슷한 사례에서도 주소 문제로 접수가 밀린 경우가 있었고, 본인 상황에 맞는 처리 방식은 상담으로 확인이 필요합니다.
 
-
-
-![Family walking beside Cheonggyecheon Stream in Seoul on a bright spring day.](https://images.pexels.com/photos/31925345/pexels-photo-31925345.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Black and white image of travelers at a bustling airport in Pasay, capturing the essence of global travel.](https://images.pexels.com/photos/16737433/pexels-photo-16737433.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">해외 거소증 신청에서 실제로 막히는 지점</h2>
 
@@ -147,7 +144,7 @@ slug: "overseas-goso-jeung-remote-agency-application"
 
 최근 재외동포 관련 실무 처리 방식이 조정되는 흐름이 있습니다.
 본인 상황에 맞는 정확한 적용 여부는 관할 기관 확인이 필요합니다.
-관련 고시와 수수료는 [하이코리아](https://www.hikorea.go.kr)에서 최신 내용을 확인하세요.
+관련 고시와 수수료는 하이코리아에서 최신 내용을 확인하세요.
 
 행정사사무소 이룸은 최대한 빨리 허가받게 하기 위해 지속적으로 노력하고 있습니다.
 
@@ -226,7 +223,6 @@ slug: "overseas-goso-jeung-remote-agency-application"
 
 비용은 사례별로 상이하므로 무료 상담 시 정확히 안내드립니다.
 
-
 ---
 
 <h2 id="section-10">전문가 상담이 필요하신가요?</h2>
@@ -235,3 +231,4 @@ slug: "overseas-goso-jeung-remote-agency-application"
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

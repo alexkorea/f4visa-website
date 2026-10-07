@@ -38,7 +38,7 @@ slug: "nationality-recovery-permit-8months-documents-guide"
 
 국적회복은 과거에 한국 국적을 보유했던 사람이 다시 한국 국적을 받기 위해 법무부 장관에게 신청하는 절차입니다.
 
-근거 법령은 [국적법 제9조](https://law.go.kr)이며, 귀화와는 출발점이 다릅니다.
+근거 법령은 국적법 제9조이며, 귀화와는 출발점이 다릅니다.
 
 귀화는 한 번도 한국인이 아니었던 외국인이 신청하는 절차이고, 국적회복은 "원래 한국인이었던 사람"이 신청합니다.
 
@@ -59,7 +59,7 @@ slug: "nationality-recovery-permit-8months-documents-guide"
 
 ### 처리 기간
 
-국적회복 심사 기간은 관할 기관 사정과 접수 시점에 따라 다르므로, [법무부 출입국·외국인정책본부](https://immigration.go.kr) 안내나 접수 관서에서 개별 확인이 필요합니다.
+국적회복 심사 기간은 관할 기관 사정과 접수 시점에 따라 다르므로, 법무부 출입국·외국인정책본부 안내나 접수 관서에서 개별 확인이 필요합니다.
 
 다만 신청자의 출생·가족관계가 복잡하거나, 과거 한국 호적이 명확히 정리되지 않은 경우 더 길어집니다.
 
@@ -156,7 +156,7 @@ slug: "nationality-recovery-permit-8months-documents-guide"
 
 ### 3단계 — 신청서 접수
 
-접수처는 [법무부 출입국·외국인청](https://immigration.go.kr) 국적과 또는 본인 주소지 관할 출입국·외국인청입니다.
+접수처는 법무부 출입국·외국인청 국적과 또는 본인 주소지 관할 출입국·외국인청입니다.
 
 본인이 직접 출석해야 하며, 신원진술서 작성과 지문 채취가 함께 진행됩니다.
 
@@ -182,10 +182,7 @@ slug: "nationality-recovery-permit-8months-documents-guide"
 
 ---
 
-
-
-![Vibrant display of Korean traditional dance with performers in cultural attire, Jakarta.](https://images.pexels.com/photos/35432325/pexels-photo-35432325.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![A detailed view of a man signing official documents with a pen at a table.](https://images.pexels.com/photos/9870227/pexels-photo-9870227.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-6">국적회복 허가 이후 절차</h2>
 
@@ -315,3 +312,4 @@ slug: "nationality-recovery-permit-8months-documents-guide"
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [출입국·외국인정책본부](https://www.immigration.go.kr)

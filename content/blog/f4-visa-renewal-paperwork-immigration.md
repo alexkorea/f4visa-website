@@ -13,7 +13,7 @@ F-4 비자 갱신은 서류 가짓수보다 **발급일자, 본인 신분, 거�
 
 대상은 재외동포(F-4) 자격으로 국내 체류 중이거나, 해외 체류 후 다시 들어와 거소신고 연장이 필요한 분입니다.
 
-이 글은 2026년 6월 기준 출입국·외국인청 실무에서 자주 막히는 지점, 최신 서류 목록, 처리 순서, 그리고 한국 내 체류 일정 조정 방법까지 다룹니다.
+이 글은 출입국·외국인청 실무에서 자주 막히는 지점, 최신 서류 목록, 처리 순서, 그리고 한국 내 체류 일정 조정 방법까지 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
   <h3 style="color:#1e40af;margin-top:0">목차</h3>
@@ -45,7 +45,7 @@ F-4 비자 갱신은 서류 가짓수보다 **발급일자, 본인 신분, 거�
 
 만료일을 넘기면 체류 위반으로 분류되어 별도 처분이 따라옵니다.
 
-이 부분은 [하이코리아](https://www.hikorea.go.kr) 공지에 따라 사무소별로 운영이 조금씩 다릅니다.
+이 부분은 하이코리아 공지에 따라 사무소별로 운영이 조금씩 다릅니다.
 
 ### 국적 상태 점검이 먼저
 
@@ -94,7 +94,7 @@ F-4 비자 갱신은 서류 가짓수보다 **발급일자, 본인 신분, 거�
 
 ### 사전 예약과 방문 신청
 
-[하이코리아 민원예약](https://www.hikorea.go.kr)을 통해 사전 예약 후 방문이 원칙입니다.
+하이코리아 민원예약을 통해 사전 예약 후 방문이 원칙입니다.
 
 서울·경기권은 예약이 밀리는 시기가 있어 만료일 임박 시 다른 관할로 분산 신청을 검토해야 합니다.
 
@@ -120,7 +120,7 @@ F-4 비자 갱신은 서류 가짓수보다 **발급일자, 본인 신분, 거�
 
 > **주의:** 만료일 경과 시 체류 위반으로 분류되며, 재신청 시 심사 강도가 높아집니다.
 
-법령 변경 흐름은 [법제처 국가법령정보센터](https://www.law.go.kr)에서 확인할 수 있고, 출입국 관련 고시는 [출입국·외국인정책본부](https://www.immigration.go.kr)에서 공지됩니다.
+법령 변경 흐름은 법제처 국가법령정보센터에서 확인할 수 있고, 출입국 관련 고시는 출입국·외국인정책본부에서 공지됩니다.
 
 2026년 들어 일부 사무소에서 서류 보정 요구가 강해졌습니다.
 
@@ -130,10 +130,7 @@ F-4 비자 갱신은 서류 가짓수보다 **발급일자, 본인 신분, 거�
 
 본인 상황에 맞는 정확한 적용 여부는 전문가 확인이 필요합니다.
 
-
-
-![Top view of two Ukrainian passports with US dollar bills on a white surface.](https://images.pexels.com/photos/8061944/pexels-photo-8061944.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Street view of busy Seoul intersection, skyscrapers, traffic, and pedestrians.](https://images.pexels.com/photos/39995462/pexels-photo-39995462.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">한국 내 최소 체류로 갱신하는 방법</h2>
 
@@ -244,3 +241,4 @@ F-4 갱신은 서류 한 줄이 어긋나도 보정 통보가 나갑니다.
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

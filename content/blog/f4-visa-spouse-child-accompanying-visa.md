@@ -28,7 +28,7 @@ author: "행정사사무소 이룸"
 <li>F-4 비자 소지자의 배우자는 <strong>F-3 동반비자</strong>, 미성년 자녀는 <strong>F-1 동반비자</strong> 신청 가능</li>
 <li>F-3·F-1은 F-4 주신청인과 동일한 체류기간이 부여됩니다</li>
 <li>혼인관계증명서, 가족관계증명서 등 <strong>가족 입증 서류</strong>가 핵심</li>
-<li><a href="https://www.hikorea.go.kr" target="_blank" rel="noopener" style="color:#1e40af">하이코리아 포털</a>을 통해 온라인 신청 가능</li>
+<li>하이코리아 포털을 통해 온라인 신청 가능</li>
 <li>배우자가 한국 국적이면 F-3가 아닌 다른 비자 검토 필요</li>
 </ul>
 </div>
@@ -168,7 +168,7 @@ F-1(방문동거) 비자는 F-4 비자 소지자의 미성년 자녀에게 발�
 1. F-4 주신청인과 함께 관할 출입국·외국인청 방문
 2. 서류 제출 및 수수료 납부
 3. 심사 완료 후 외국인등록 및 체류자격 부여증
-4. <a href="https://www.hikorea.go.kr" target="_blank" rel="noopener" style="color:#1e40af">하이코리아 포털</a>을 통한 온라인 신청도 가능
+4. 하이코리아 포털을 통한 온라인 신청도 가능
 
 <h2 id="caution">주의사항</h2>
 
@@ -224,3 +224,5 @@ A. 단기 관광 비자(B-2) 등으로 먼저 입국 후 국내에서 F-3·F-1�
 <p style="margin:8px 0;font-size:14px;opacity:0.8">월~금 09:30~17:30 (KST) | 토·공휴일 휴무</p>
 <a href="/contact" style="display:inline-block;margin-top:12px;padding:12px 28px;background:#A33344;color:white;border-radius:6px;text-decoration:none;font-weight:bold">무료 상담 신청하기</a>
 </div>
+
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

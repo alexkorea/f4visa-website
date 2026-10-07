@@ -208,9 +208,3 @@ A. 근로소득과 사업소득이 함께 발생하면 종합소득세 신고 �
 - [F-4 비자 단순노무 업종 취업 금지 주의 — 자격 박탈로 이어지는 실무 함정](/blog/f4-visa-simple-labor-prohibited-jobs)
 - [F-4 비자 취업 가능 업종과 제한 업종 총정리](/blog/f4-visa-work-industry-scope-guide)
 - [F-4 재외동포 비자 신청 자격 완벽 가이드](/blog/f4-visa-eligibility)
-
-## 출처 및 참고
-
-- [하이코리아](https://www.hikorea.go.kr)
-- [고용노동부](https://www.moel.go.kr)
-- [법제처 국가법령정보센터](https://www.law.go.kr)

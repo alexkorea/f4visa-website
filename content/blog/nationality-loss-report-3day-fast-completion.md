@@ -39,7 +39,7 @@ slug: "nationality-loss-report-3day-fast-completion"
 
 ### 국적법 제15조 — 자동 상실 원칙
 
-[국적법 제15조](https://www.law.go.kr/법령/국적법)에 따르면 대한민국 국민이 자진하여 외국 국적을 취득한 경우 그 외국 국적을 취득한 때에 대한민국 국적을 상실합니다.
+국적법 제15조에 따르면 대한민국 국민이 자진하여 외국 국적을 취득한 경우 그 외국 국적을 취득한 때에 대한민국 국적을 상실합니다.
 
 핵심은 이것입니다.
 
@@ -51,7 +51,7 @@ slug: "nationality-loss-report-3day-fast-completion"
 
 실무에서 가장 위험한 부분은 시민권 취득 후에도 한국 여권을 계속 사용하는 경우입니다.
 
-이미 상실된 국적의 여권을 사용하는 것은 [여권법](https://www.law.go.kr/법령/여권법)상 부정사용에 해당합니다.
+이미 상실된 국적의 여권을 사용하는 것은 여권법상 부정사용에 해당합니다.
 
 출입국 기록과 시민권 취득일이 대조되면 향후 F-4 거소증 신청, 가족관계등록부 정리 단계에서 문제가 드러납니다.
 
@@ -72,7 +72,7 @@ slug: "nationality-loss-report-3day-fast-completion"
 | 기본증명서(상세) | 한국 가족관계등록관서 | 발급 3개월 이내 |
 | 가족관계증명서(상세) | 한국 가족관계등록관서 | 발급 3개월 이내 |
 
-시민권증서 원본은 향후 [F-4 비자](https://www.hikorea.go.kr) 신청 시에도 다시 필요하므로 원본 보관에 특히 주의해야 합니다.
+시민권증서 원본은 향후 F-4 비자 신청 시에도 다시 필요하므로 원본 보관에 특히 주의해야 합니다.
 
 ### 번역·공증 관련 실무 포인트
 
@@ -90,7 +90,7 @@ slug: "nationality-loss-report-3day-fast-completion"
 
 ### 해외 거주자 — 관할 영사관 접수
 
-해외에 있는 경우 거주지 관할 [재외공관(영사관)](https://www.0404.go.kr)에 직접 방문 접수합니다.
+해외에 있는 경우 거주지 관할 재외공관(영사관)에 직접 방문 접수합니다.
 
 영사관별 처리 속도 차이가 큽니다.
 
@@ -118,10 +118,7 @@ slug: "nationality-loss-report-3day-fast-completion"
 
 본인 사안에 맞는 가장 빠른 경로는 무료 상담으로 확인하세요.
 
-
-
-![Vibrant display of Korean traditional dance with performers in cultural attire, Jakarta.](https://images.pexels.com/photos/35432325/pexels-photo-35432325.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Professional meeting with individuals signing legal documents in an office setting.](https://images.pexels.com/photos/7841473/pexels-photo-7841473.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">자주 막히는 실무 포인트 — 국적상실 신고 절차의 함정</h2>
 
@@ -137,7 +134,7 @@ slug: "nationality-loss-report-3day-fast-completion"
 
 ### 무범죄경력증명서 유효기간 6개월
 
-후속 절차인 F-4 비자 신청을 함께 준비한다면 [무범죄경력증명서](https://hikorea.go.kr) 발급 시점을 신중하게 잡아야 합니다.
+후속 절차인 F-4 비자 신청을 함께 준비한다면 무범죄경력증명서 발급 시점을 신중하게 잡아야 합니다.
 
 발급일로부터 6개월이 유효기간입니다.
 
@@ -153,7 +150,7 @@ slug: "nationality-loss-report-3day-fast-completion"
 
 <h2 id="section-6">국적상실 신고 후 — F-4 거소증으로 자연스럽게 연결</h2>
 
-국적상실 신고가 끝나면 한국에 합법적으로 체류·왕래할 수 있는 통로는 [F-4 재외동포 비자](https://www.hikorea.go.kr)입니다.
+국적상실 신고가 끝나면 한국에 합법적으로 체류·왕래할 수 있는 통로는 F-4 재외동포 비자입니다.
 
 ### 국적상실 신고 → F-4 신청 순서
 
@@ -268,3 +265,4 @@ slug: "nationality-loss-report-3day-fast-completion"
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

@@ -212,9 +212,3 @@ A. 조부모가 대한민국 국적을 보유했던 사실과 조부모-부모-�
 - [미국·캐나다 재외동포 F-4 비자 신청 실무](/blog/f4-bukmi-dongpo)
 - [F-4 비자 신청 자격과 재외동포 범위 총정리](/blog/f4-eligibility-overseas-korean-scope)
 - [F-4 비자 고려인 신청 자격과 서류 완벽 정리](/blog/f4-koryoin-application-guide)
-
-## 출처
-
-- [하이코리아](https://www.hikorea.go.kr)
-- [출입국·외국인정책본부](https://www.immigration.go.kr)
-- [법제처 국가법령정보센터](https://www.law.go.kr)

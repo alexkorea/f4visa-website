@@ -50,7 +50,7 @@ slug: "f4-residence-card-agency-short-stay-issuance"
 
 국내거소신고는 체류지 관할 출입국·외국인청에 접수합니다.
 같은 서류라도 사무소별 접수량과 예약 상황에 따라 처리 속도가 다르게 나타납니다.
-방문 예약은 [하이코리아](https://www.hikorea.go.kr)에서 진행하는데, 인기 사무소는 예약 자체가 몇 주씩 밀리는 경우가 흔합니다.
+방문 예약은 하이코리아에서 진행하는데, 인기 사무소는 예약 자체가 몇 주씩 밀리는 경우가 흔합니다.
 처리 기간은 출입국사무소별로 다르며, 저희는 가장 빠른 곳을 찾아 진행해 드립니다.
 
 ### 임시주소가 관할을 결정합니다
@@ -74,11 +74,11 @@ slug: "f4-residence-card-agency-short-stay-issuance"
 | 여권용 사진 | 규격 사진 | 6개월 이내 촬영 |
 | 체류지 입증서류 | 숙소 계약서 등 | 임시주소 제공 가능 |
 
-세부 요건은 사안별로 달라질 수 있으므로, 정확한 목록은 [법무부 출입국·외국인정책본부](https://www.immigration.go.kr) 고시와 상담을 통해 확인이 필요한 부분입니다.
+세부 요건은 사안별로 달라질 수 있으므로, 정확한 목록은 법무부 출입국·외국인정책본부 고시와 상담을 통해 확인이 필요한 부분입니다.
 
 ### 많이 놓치는 부분 — 국적 정리 상태
 
-외국 시민권을 취득하면 [국적법 제15조](https://www.law.go.kr/법령/국적법)에 따라 **한국 국적은 그 즉시 자동으로 상실**됩니다.
+외국 시민권을 취득하면 국적법 제15조에 따라 **한국 국적은 그 즉시 자동으로 상실**됩니다.
 국적상실신고는 행정 정리 절차일 뿐이고, 신고 전이라도 이미 상실된 상태입니다.
 이 상태에서 한국 여권을 사용하면 여권법 위반(부정사용)에 해당하므로, 시민권 취득 후에는 반드시 외국 여권으로만 출입국해야 합니다.
 국적상실신고가 정리되지 않은 채 가족관계등록부에 한국 국적자로 남아 있으면, 보통은 이 단계에서 절차가 꼬입니다.
@@ -114,10 +114,7 @@ slug: "f4-residence-card-agency-short-stay-issuance"
 > **주의:** 본인 지문 등록 때문에 접수 당일 1회 방문은 본인이 직접 해야 합니다.
 > 대행이 줄여주는 것은 방문 자체가 아니라, 그 앞뒤의 대기 기간입니다.
 
-
-
 ![Aerial shot of a densely built urban area with modern architecture during sunset.](https://images.pexels.com/photos/35396703/pexels-photo-35396703.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
 
 <h2 id="section-5">거소허가번호 발급 후 — 수령대행과 해외 발송</h2>
 
@@ -207,3 +204,4 @@ slug: "f4-residence-card-agency-short-stay-issuance"
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

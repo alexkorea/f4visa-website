@@ -64,7 +64,7 @@ slug: "goso-jeung-overseas-remote-proxy-application"
 
 ### 외국 시민권을 취득한 순간 한국 국적은 상실됩니다
 
-외국 시민권을 취득하면 한국 국적은 그 즉시 자동으로 상실됩니다([국적법 제15조](https://www.law.go.kr)).
+외국 시민권을 취득하면 한국 국적은 그 즉시 자동으로 상실됩니다(국적법 제15조).
 
 많이 놓치는 부분은 국적상실신고를 아직 안 했더라도 이미 상실 상태라는 점입니다.
 
@@ -78,7 +78,7 @@ slug: "goso-jeung-overseas-remote-proxy-application"
 
 이 설명이 부족하면 서류가 많아도 접수 단계에서 걸립니다.
 
-자세한 근거와 절차는 [하이코리아](https://www.hikorea.go.kr)와 [법무부 출입국·외국인정책본부](https://www.immigration.go.kr)에서 확인할 수 있습니다.
+자세한 근거와 절차는 하이코리아와 법무부 출입국·외국인정책본부에서 확인할 수 있습니다.
 
 <h2 id="section-3">해외에서 미리 준비하는 서류</h2>
 
@@ -138,10 +138,7 @@ slug: "goso-jeung-overseas-remote-proxy-application"
 
 가장 빠른 곳을 찾아 진행해 드리며, 관할 배정 기준은 관할 기관 확인이 필요합니다.
 
-
-
-![Blue Ukrainian passports on a light surface, highlighting travel documents.](https://images.pexels.com/photos/8061986/pexels-photo-8061986.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Captivating view of Yeongjong Bridge during sunset in Incheon, South Korea with serene waters and a warm orange sky.](https://images.pexels.com/photos/14958503/pexels-photo-14958503.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">서울 임시주소가 필요한 경우</h2>
 
@@ -238,3 +235,4 @@ slug: "goso-jeung-overseas-remote-proxy-application"
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

@@ -36,7 +36,7 @@ F-4 자격은 크게 두 갈래로 갈립니다.
 
 ### 재외동포의 법적 범위
 
-[재외동포의 출입국과 법적 지위에 관한 법률](https://www.law.go.kr)은 재외동포를 국적을 이탈·상실한 자와 그 직계비속으로 규정합니다.
+재외동포의 출입국과 법적 지위에 관한 법률은 재외동포를 국적을 이탈·상실한 자와 그 직계비속으로 규정합니다.
 여기서 핵심은 "직계비속"의 범위입니다.
 부모 세대가 한국 국적자였다는 사실만으로 자녀·손자녀가 자동으로 인정되는 것은 아닙니다.
 가족관계와 국적 이력이 서류로 이어져야 자격이 드러납니다.
@@ -53,7 +53,7 @@ F-4 자격은 크게 두 갈래로 갈립니다.
 
 ### 외국 시민권 취득 시 한국 국적은 즉시 자동 상실
 
-[국적법](https://www.law.go.kr) 제15조에 따라 자진하여 외국 국적을 취득하면 그 즉시 대한민국 국적을 자동으로 상실합니다.
+국적법 제15조에 따라 자진하여 외국 국적을 취득하면 그 즉시 대한민국 국적을 자동으로 상실합니다.
 국적상실신고를 하지 않았더라도 이미 상실 상태입니다.
 국적상실신고는 뒤늦게 하는 행정 정리 절차일 뿐, 국적이 남아 있다는 뜻이 아닙니다.
 
@@ -111,10 +111,7 @@ F-4는 "외국 국적을 취득한 한국계"임을 증명해야 발급됩니다
 국가별로 발급 주체와 소요 기간이 갈리므로, 본인 거주국 기준은 관할 기관 확인이 필요합니다.
 최근 비슷한 사례에서 아포스티유 단계를 놓쳐 재발급까지 몇 주가 더 걸린 경우가 있었습니다.
 
-
-
-![Aerial shot of a densely built urban area with modern architecture during sunset.](https://images.pexels.com/photos/35396703/pexels-photo-35396703.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Crop anonymous person demonstrating empty sheet of paper against wooden table with folder for documents](https://images.pexels.com/photos/4792290/pexels-photo-4792290.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">F-4 신청 절차와 거소증 발급 흐름</h2>
 
@@ -210,7 +207,7 @@ F-4 자격 판단은 국적 이력과 혈통 서류가 한 사람으로 이어�
 - 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - 상담 시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)
 
-참고 기관 — [하이코리아](https://www.hikorea.go.kr), [법무부 출입국·외국인정책본부](https://www.immigration.go.kr), [국가법령정보센터](https://www.law.go.kr)
+참고 기관 — 하이코리아, 법무부 출입국·외국인정책본부, 국가법령정보센터
 법령과 처리 기준은 변동될 수 있으므로 관할 기관 확인이 필요합니다.
 
 ---
@@ -221,3 +218,4 @@ F-4 자격 판단은 국적 이력과 혈통 서류가 한 사람으로 이어�
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

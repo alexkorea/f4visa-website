@@ -32,7 +32,7 @@ slug: "korea-dual-citizenship-permit-renunciation-loss-comparison"
 <h2 id="section-1">복수국적 허용 조건 — 국적법이 인정하는 예외 사유</h2>
 
 핵심은 이것입니다.
-한국은 원칙적으로 단일국적 국가이고, 복수국적은 [국적법](https://www.law.go.kr/법령/국적법) 제10조 제2항이 정한 예외에 해당할 때만 유지됩니다.
+한국은 원칙적으로 단일국적 국가이고, 복수국적은 국적법 제10조 제2항이 정한 예외에 해당할 때만 유지됩니다.
 예외에 해당해도 자동으로 인정되는 것이 아니라, 법무부장관 앞으로 **외국국적불행사서약**을 해야 복수국적 상태가 확정됩니다.
 
 ### 만 65세 이후 국적회복 재외동포
@@ -76,7 +76,7 @@ slug: "korea-dual-citizenship-permit-renunciation-loss-comparison"
 <h2 id="section-3">국적상실 — 외국 시민권 취득 순간 자동으로 발생</h2>
 
 여기서 차이가 납니다.
-[국적법](https://www.law.go.kr/법령/국적법) 제15조에 의해, 자진하여 외국 시민권을 취득하면 **한국 국적은 그 즉시 자동 상실**됩니다.
+국적법 제15조에 의해, 자진하여 외국 시민권을 취득하면 **한국 국적은 그 즉시 자동 상실**됩니다.
 본인의 신고 여부와 무관하게, 시민권 선서일에 이미 한국 국적이 없는 상태가 됩니다.
 
 ### 국적상실신고는 행정 정리 절차
@@ -110,10 +110,7 @@ slug: "korea-dual-citizenship-permit-renunciation-loss-comparison"
 
 지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea
 
-
-
-![Two blue Ukrainian passports placed on a white surface, close-up view.](https://images.pexels.com/photos/8061949/pexels-photo-8061949.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Two women reviewing and signing documents at an indoor glass table.](https://images.pexels.com/photos/8962381/pexels-photo-8962381.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">국적상실신고 서류 — 실무에서 준비할 것</h2>
 
@@ -137,7 +134,7 @@ F-4 신청 시 시민권증서 원본과 정리된 가족관계 서류가 그대
 
 ### 처리 기간은 출입국사무소별로 다릅니다
 
-거소증 발급 속도는 관할 [출입국·외국인청](https://www.hikorea.go.kr)마다 차이가 큽니다.
+거소증 발급 속도는 관할 출입국·외국인청마다 차이가 큽니다.
 저희 행정사사무소 이룸은 가장 신속히 허가되는 출입국사무소를 찾아 진행하며, 최대한 빨리 허가받도록 지속적으로 노력하고 있습니다.
 거소허가번호 발급 후에는 출국이 가능하므로, 한국 체류 일정을 짧게 잡는 것도 가능합니다.
 
@@ -209,7 +206,7 @@ F-4 신청 시 시민권증서 원본과 정리된 가족관계 서류가 그대
 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 평일 09:30 — 17:30 (점심 12:00 — 13:00)
 
-법령·심사 기준은 변경될 수 있으므로 [법무부](https://www.moj.go.kr)와 [하이코리아](https://www.hikorea.go.kr) 등 관할 기관 확인이 필요합니다.
+법령·심사 기준은 변경될 수 있으므로 법무부와 하이코리아 등 관할 기관 확인이 필요합니다.
 
 ---
 
@@ -219,3 +216,4 @@ F-4 신청 시 시민권증서 원본과 정리된 가족관계 서류가 그대
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

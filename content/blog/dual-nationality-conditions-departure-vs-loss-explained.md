@@ -95,7 +95,7 @@ slug: "dual-nationality-conditions-departure-vs-loss-explained"
 
 실무에서 가장 많이 오해하는 부분이 바로 이 지점입니다.
 
-[국적법 제15조](https://www.law.go.kr)에 따라, 대한민국 국민이 스스로 외국 국적을 취득하면 그때 한국 국적은 즉시 자동으로 상실됩니다.
+국적법 제15조에 따라, 대한민국 국민이 스스로 외국 국적을 취득하면 그때 한국 국적은 즉시 자동으로 상실됩니다.
 
 > **주의:** 국적상실신고는 행정 정리 절차일 뿐입니다.
 
@@ -149,10 +149,7 @@ slug: "dual-nationality-conditions-departure-vs-loss-explained"
 
 개인별로 필요한 소명 서류는 취득 국가와 시점에 따라 달라지므로, 본인 상황에 맞는 목록은 상담을 통해 확인하시는 편이 안전합니다.
 
-
-
 ![A detailed close-up of the wrinkled South Korean flag on fabric, showcasing its vibrant colors.](https://images.pexels.com/photos/13306495/pexels-photo-13306495.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
 
 <h2 id="section-5">복수국적자가 실무에서 놓치는 포인트</h2>
 
@@ -172,7 +169,7 @@ slug: "dual-nationality-conditions-departure-vs-loss-explained"
 
 영주 목적의 국적회복을 통해 복수국적이 인정되는 길도 있습니다.
 
-관련 절차와 자격은 [법무부 출입국·외국인정책본부](https://www.immigration.go.kr)와 [하이코리아](https://www.hikorea.go.kr)에서 확인할 수 있습니다.
+관련 절차와 자격은 법무부 출입국·외국인정책본부와 하이코리아에서 확인할 수 있습니다.
 
 다만 실제 인정 여부는 개인 이력에 따라 갈리므로, 요건 검토가 먼저입니다.
 
@@ -267,3 +264,4 @@ slug: "dual-nationality-conditions-departure-vs-loss-explained"
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

@@ -167,13 +167,10 @@ F-4 비자를 이어서 신청할 계획이라면 **시민권 증서 원본**을
   <strong style="color:#92400e">⚠️ 주의:</strong> 국적상실 신고는 시민권 취득 후 가능한 빨리 진행하십시오. 국적법 제16조에 따라 외국 국적 취득일로부터 일정 기간 내 통보·신고 의무가 있으며, 미이행 시 출입국 단계에서 문제가 드러나기 쉽습니다.
 </div>
 
-
-
 <figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/36153261/pexels-photo-36153261.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Rustic traditional Korean hanok with thatched roof in Andong-si, South Korea." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
+  <img src="https://images.pexels.com/photos/5234117/pexels-photo-5234117.jpegRustic traditional Korean hanok with thatched roof in Andong-si, South Korea." alt="Multiple hands holding and signing a document during a formal ceremony with a microphone nearby." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
   
 </figure>
-
 
 ## <span id="section-5"></span>5. 국적상실 후 F-4 비자로 한국 거주
 

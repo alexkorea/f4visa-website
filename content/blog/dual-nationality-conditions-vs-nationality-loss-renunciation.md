@@ -36,7 +36,7 @@ slug: "dual-nationality-conditions-vs-nationality-loss-renunciation"
 한국은 **국적법 제10조**에서 외국 국적을 취득한 자가 한국 국적을 유지하려면 1년 내 외국 국적을 포기하거나 외국국적불행사서약을 해야 한다고 규정합니다.
 실무에서는 이 서약 가능 여부가 복수국적 인정의 분기점입니다.
 서약 대상이 아니면 자동으로 단일국적 의무가 발생하고, 외국 국적을 끝까지 유지하면 한국 국적은 상실됩니다.
-법령 원문은 [국가법령정보센터](https://www.law.go.kr)에서 확인할 수 있습니다.
+법령 원문은 국가법령정보센터에서 확인할 수 있습니다.
 
 ### 외국국적불행사서약 대상 그룹
 
@@ -131,10 +131,7 @@ slug: "dual-nationality-conditions-vs-nationality-loss-renunciation"
 
 ---
 
-
-
-![Vibrant display of Korean traditional dance with performers in cultural attire, Jakarta.](https://images.pexels.com/photos/35432325/pexels-photo-35432325.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Black and white image of a couple signing documents, focusing on their hands and pen.](https://images.pexels.com/photos/14646107/pexels-photo-14646107.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">복수국적·국적상실과 F-4 비자의 연결 지점</h2>
 
@@ -156,7 +153,7 @@ F-4 비자 신청 시 **시민권증서 원본**이 반드시 필요합니다.
 행정사사무소 이룸은 가장 신속히 허가되는 출입국사무소를 찾아 진행합니다.
 구체적인 관할 선택은 사례별 검토가 필요합니다.
 
-공식 정보는 [하이코리아](https://www.hikorea.go.kr)와 [법무부 출입국·외국인정책본부](https://www.immigration.go.kr)에서 확인할 수 있습니다.
+공식 정보는 하이코리아와 법무부 출입국·외국인정책본부에서 확인할 수 있습니다.
 
 <h2 id="section-6">국적 관련 실무에서 가장 자주 빠지는 함정</h2>
 
@@ -239,3 +236,4 @@ F-4 신청 일정과 서류 발급 일정을 함께 관리해야 6개월 안에 
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

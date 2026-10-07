@@ -41,7 +41,7 @@ slug: "f4-korean-chinese-requirements-guide"
 
 ### 재외동포법상 자격
 
-[재외동포의 출입국과 법적 지위에 관한 법률](https://www.law.go.kr) 제2조에 따라, 대한민국 국적을 보유하였던 자 또는 그 직계비속으로서 외국 국적을 취득한 자가 외국국적동포에 해당합니다.
+재외동포의 출입국과 법적 지위에 관한 법률 제2조에 따라, 대한민국 국적을 보유하였던 자 또는 그 직계비속으로서 외국 국적을 취득한 자가 외국국적동포에 해당합니다.
 
 조선족의 경우 보통 조부모 또는 부모 세대가 한국 호적에 등재되어 있던 사실을 입증해야 합니다.
 
@@ -74,9 +74,9 @@ slug: "f4-korean-chinese-requirements-guide"
 
 ### 국적상실 처리 여부
 
-> **주의:** 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다([국적법](https://www.law.go.kr) 제15조).
+> **주의:** 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다(국적법 제15조).
 > 국적상실신고는 행정 정리 절차일 뿐, 신고 전이라도 이미 상실 상태입니다.
-> 국적상실 후 한국 여권을 계속 사용하면 [여권법](https://www.law.go.kr) 위반(부정사용)에 해당합니다.
+> 국적상실 후 한국 여권을 계속 사용하면 여권법 위반(부정사용)에 해당합니다.
 
 조선족은 대부분 출생 시부터 중국 국적이므로 국적상실 이슈는 적지만, 부모 세대에서 한국 국적을 보유했던 분이라면 국적상실 정리가 선행되어야 합니다.
 
@@ -147,12 +147,9 @@ F-4 신청 시 **시민권증서 원본**이 필요합니다.
 
 최근 이 부분 심사 기준이 일부 조정되었습니다.
 
-본인 경력이 어느 카테고리에 해당하는지는 [하이코리아](https://www.hikorea.go.kr) 공식 안내와 함께 상담으로 확인하세요.
+본인 경력이 어느 카테고리에 해당하는지는 하이코리아 공식 안내와 함께 상담으로 확인하세요.
 
-
-
-![Close-up view of a hand signing an official child adoption certificate document.](https://images.pexels.com/photos/8524948/pexels-photo-8524948.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Explore the serene alleyways of Bukchon Hanok Village, lined with traditional Korean houses in Seoul.](https://images.pexels.com/photos/19271575/pexels-photo-19271575.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-6">신청 절차와 처리 기간</h2>
 
@@ -260,3 +257,4 @@ F-4 체류 후 일정 요건(소득·체류기간 등) 충족 시 F-5 신청이 
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

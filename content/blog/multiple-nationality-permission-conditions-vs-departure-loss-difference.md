@@ -48,7 +48,7 @@ slug: "multiple-nationality-permission-conditions-vs-departure-loss-difference"
 ### 흔히 오해하는 부분
 
 성인이 된 후 본인 의사로 외국 시민권을 취득한 경우는 어떤 사정이 있어도 복수국적 대상이 아닙니다.
-미국, 캐나다, 호주, 뉴질랜드 시민권을 취득한 시점에 한국 국적은 [국적법 제15조](https://www.law.go.kr/법령/국적법)에 따라 자동 상실됩니다.
+미국, 캐나다, 호주, 뉴질랜드 시민권을 취득한 시점에 한국 국적은 국적법 제15조에 따라 자동 상실됩니다.
 이 부분은 신고 여부와 무관하게 법률 효과가 먼저 발생합니다.
 
 <h2 id="section-2">국적이탈과 국적상실은 같은 절차가 아닙니다</h2>
@@ -58,7 +58,7 @@ slug: "multiple-nationality-permission-conditions-vs-departure-loss-difference"
 ### 국적이탈 — 본인이 선택해서 한국 국적을 버리는 절차
 
 선천적 복수국적자가 한국 국적을 포기하고 외국 국적 하나만 유지하기로 선택하는 절차입니다.
-[국적법 제12조](https://www.law.go.kr/법령/국적법)에 따라 만 18세가 되는 해의 3월 31일까지 신고해야 병역 의무를 피하지 않고 깔끔하게 정리됩니다.
+국적법 제12조에 따라 만 18세가 되는 해의 3월 31일까지 신고해야 병역 의무를 피하지 않고 깔끔하게 정리됩니다.
 이 기한을 놓치면 병역 문제와 얽혀 절차가 막힙니다.
 
 ### 국적상실 — 외국 시민권 취득으로 자동 발생
@@ -88,7 +88,7 @@ slug: "multiple-nationality-permission-conditions-vs-departure-loss-difference"
 
 ### 한국 여권 사용은 부정사용으로 처벌됩니다
 
-국적이 이미 상실된 상태에서 한국 여권으로 출입국하거나 신분증으로 사용하면 [여권법](https://www.law.go.kr/법령/여권법) 위반에 해당합니다.
+국적이 이미 상실된 상태에서 한국 여권으로 출입국하거나 신분증으로 사용하면 여권법 위반에 해당합니다.
 "몰랐다"는 사후 해명이 통하지 않는 영역입니다.
 실제 심사에서는 여권 사용 이력 자체가 증거로 남기 때문에 빠져나갈 여지가 거의 없습니다.
 
@@ -119,12 +119,9 @@ slug: "multiple-nationality-permission-conditions-vs-departure-loss-difference"
 ### 65세 이상 영주귀국 재외동포
 
 영주 목적으로 한국에 돌아와 국적회복을 신청하면서 외국국적불행사서약을 하면 복수국적자 지위가 인정됩니다.
-이 경로는 [재외동포청](https://www.oka.go.kr) 및 [출입국·외국인정책본부](https://www.immigration.go.kr) 안내를 함께 확인해야 합니다.
+이 경로는 재외동포청 및 출입국·외국인정책본부 안내를 함께 확인해야 합니다.
 
-
-
-![Close-up of Polish passports and travel tickets symbolizing travel and adventure.](https://images.pexels.com/photos/33497885/pexels-photo-33497885.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Aircraft parked at airport terminal with jet bridge, reflecting busy international travel.](https://images.pexels.com/photos/34558328/pexels-photo-34558328.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">국적상실신고를 미루면 실제로 무엇이 막히는지</h2>
 
@@ -196,7 +193,7 @@ F-4 신청 시 제출하는 무범죄조회서의 유효기간은 발급일로�
 
 **Q6. 복수국적 허용 조건이 최근 변경되었다고 들었습니다.**
 
-국적법 관련 규정은 시행령과 운영 기준이 일부 조정되는 경우가 있으므로 본인 사안의 최신 적용 기준은 [법무부](https://www.moj.go.kr) 및 [출입국·외국인정책본부](https://www.immigration.go.kr) 안내와 함께 사전 확인이 필요합니다.
+국적법 관련 규정은 시행령과 운영 기준이 일부 조정되는 경우가 있으므로 본인 사안의 최신 적용 기준은 법무부 및 출입국·외국인정책본부 안내와 함께 사전 확인이 필요합니다.
 
 <h2 id="section-8">행정사사무소 이룸 F-4 서비스 안내</h2>
 
@@ -232,3 +229,4 @@ F-4 신청 시 제출하는 무범죄조회서의 유효기간은 발급일로�
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [출입국·외국인정책본부](https://www.immigration.go.kr)

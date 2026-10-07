@@ -233,9 +233,3 @@ A. 국적법 절차에 따라 국적을 회복하면 대한민국 국민 신분�
 - [F-4 비자 체류기간 연장허가 — 신청 시기와 거부 사유 대응법](/blog/f4-visa-domestic-renewal-guide)
 - [F-4 재외동포 비자 신청 자격 완벽 가이드 — 미국·캐나다·호주 동포 필독](/blog/f4-visa-eligibility)
 - [거소증 신청 방법 — F-4 재외동포 거소증 발급 완전 가이드](/blog/geo-so-jeung-guide)
-
-## 출처
-
-- [법제처 국가법령정보센터](https://www.law.go.kr) - 재외동포의 출입국과 법적 지위에 관한 법률, 출입국관리법 및 시행령
-- [하이코리아](https://www.hikorea.go.kr) - 재외동포(F-4) 체류기간연장허가 안내
-- [출입국·외국인정책본부](https://www.immigration.go.kr) - 체류자격별 안내

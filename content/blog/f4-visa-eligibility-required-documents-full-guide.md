@@ -55,7 +55,7 @@ F-4는 이름 그대로 재외동포에게 주어지는 체류자격입니다.
 
 이 설명이 부족하면 심사가 길어지거나 보완 요청이 반복됩니다.
 
-> **주의:** 단순노무 활동을 주된 목적으로 하는 경우 F-4 자격에서 제외될 수 있습니다. 허용·제한 직종은 [하이코리아](https://www.hikorea.go.kr)에서 최신 고시를 확인해야 합니다.
+> **주의:** 단순노무 활동을 주된 목적으로 하는 경우 F-4 자격에서 제외될 수 있습니다. 허용·제한 직종은 하이코리아에서 최신 고시를 확인해야 합니다.
 
 <h2 id="section-2">재외동포 자격 판단, 국가별로 갈리는 부분</h2>
 
@@ -129,7 +129,7 @@ F-4를 준비하기 전에 국적 문제부터 짚어야 하는 경우가 많습
 
 ### 외국 시민권 취득 = 한국 국적 자동 상실
 
-외국 시민권을 취득하면 한국 국적은 그 시점에 자동으로 상실됩니다([국적법 제15조](https://www.law.go.kr)).
+외국 시민권을 취득하면 한국 국적은 그 시점에 자동으로 상실됩니다(국적법 제15조).
 
 국적상실신고는 행정 정리 절차일 뿐이며, 신고 전이라도 이미 상실 상태입니다.
 
@@ -143,10 +143,7 @@ F-4를 준비하기 전에 국적 문제부터 짚어야 하는 경우가 많습
 
 국적상실신고와 F-4 신청을 어떤 순서로 묶을지는 본인 상황에 따라 갈리므로, 실제 적용은 전문가 확인이 필요합니다.
 
-
-
-![Aerial shot of a densely built urban area with modern architecture during sunset.](https://images.pexels.com/photos/35396703/pexels-photo-35396703.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Close-up of business professional holding a large stack of brown folders in an office setting.](https://images.pexels.com/photos/7654588/pexels-photo-7654588.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">F-4 신청 절차, 본국 신청과 국내 전환</h2>
 
@@ -172,7 +169,7 @@ F-4는 본국(재외공관)에서 사증을 받아 입국하는 방법과, 국�
 
 처리 기간은 출입국사무소별로 다르며, 가장 빠른 곳을 찾아 진행해 드립니다.
 
-관할별 심사 운영은 [출입국·외국인정책본부](https://www.immigration.go.kr)에서 확인할 수 있습니다.
+관할별 심사 운영은 출입국·외국인정책본부에서 확인할 수 있습니다.
 
 <h2 id="section-6">실무에서 가장 자주 막히는 세 가지</h2>
 
@@ -260,3 +257,4 @@ F-4 신청 시 시민권증서는 원본 제출이 원칙입니다.
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

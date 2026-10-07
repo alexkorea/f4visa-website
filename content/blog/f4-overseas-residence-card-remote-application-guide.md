@@ -35,7 +35,7 @@ slug: "f4-overseas-residence-card-remote-application-guide"
 
 먼저 봐야 할 것은 거소증 신청이 외국인등록 절차에 준한다는 점입니다.
 
-[하이코리아](https://www.hikorea.go.kr) 및 [출입국·외국인정책본부](https://www.immigration.go.kr) 안내에 따르면 거소신고는 본인이 관할 출입국·외국인청에 직접 방문해 지문 채취와 얼굴 사진 촬영을 거쳐야 합니다.
+하이코리아 및 출입국·외국인정책본부 안내에 따르면 거소신고는 본인이 관할 출입국·외국인청에 직접 방문해 지문 채취와 얼굴 사진 촬영을 거쳐야 합니다.
 
 ### 본인 방문이 필요한 단계
 
@@ -146,10 +146,7 @@ slug: "f4-overseas-residence-card-remote-application-guide"
 
 ---
 
-
-
-![Calm urban skyline photo over a tranquil river on a clear day.](https://images.pexels.com/photos/31527638/pexels-photo-31527638.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![A striking, empty corridor in Seoul with framed symmetry and moody lighting.](https://images.pexels.com/photos/11214073/pexels-photo-11214073.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">가장 빨리 허가받는 출입국사무소를 찾는 방법</h2>
 
@@ -174,7 +171,7 @@ slug: "f4-overseas-residence-card-remote-application-guide"
 
 먼저 봐야 할 것은 국적상실신고가 끝났는지 여부입니다.
 
-[국적법](https://www.law.go.kr) 제15조에 따라 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다.
+국적법 제15조에 따라 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다.
 
 ### 자동 상실의 의미
 
@@ -273,3 +270,4 @@ F-4 비자 신청 시 시민권증서 원본이 필요합니다.
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

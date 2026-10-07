@@ -70,7 +70,7 @@ slug: "f4-residence-card-proxy-minimum-stay-issuance"
 ### 국적상실 정리가 안 되어 있으면 여기서 막힙니다
 
 서류보다 더 중요한 것은 국적 상태입니다.
-[국적법](https://law.go.kr) 제15조에 따라 **외국 시민권을 취득한 순간 한국 국적은 즉시 자동 상실**됩니다.
+국적법 제15조에 따라 **외국 시민권을 취득한 순간 한국 국적은 즉시 자동 상실**됩니다.
 국적상실신고는 이미 상실된 상태를 행정적으로 정리하는 절차일 뿐, 신고 전이라도 법적으로는 이미 외국인입니다.
 바로 이 부분입니다.
 국적상실 후 한국 여권을 사용하면 여권법 위반(부정사용)에 해당하므로, 입국은 반드시 외국 여권으로 해야 합니다.
@@ -111,12 +111,9 @@ slug: "f4-residence-card-proxy-minimum-stay-issuance"
 거소증을 받은 뒤에도 끝이 아닙니다.
 국내 거소가 변경되면 변경신고 의무가 있고, 기한을 넘기면 과태료가 걸릴 수 있습니다.
 체류기간 연장 시점도 미리 관리해야 합니다.
-관련 기준은 [하이코리아](https://www.hikorea.go.kr)와 [법무부 출입국·외국인정책본부](https://www.immigration.go.kr)에서 고시되며, 세부 적용은 관할 기관 확인이 필요합니다.
+관련 기준은 하이코리아와 법무부 출입국·외국인정책본부에서 고시되며, 세부 적용은 관할 기관 확인이 필요합니다.
 
-
-
-![Top view of two Ukrainian passports with US dollar bills on a white surface.](https://images.pexels.com/photos/8061944/pexels-photo-8061944.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![A stack of black ring binders with yellow and green labels for organization.](https://images.pexels.com/photos/16978372/pexels-photo-16978372.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">직접 신청과 대행의 실제 차이</h2>
 
@@ -168,7 +165,7 @@ slug: "f4-residence-card-proxy-minimum-stay-issuance"
 
 **Q5. 국적상실신고를 아직 안 했는데 진행할 수 있나요?**
 
-외국 시민권 취득 시점에 한국 국적은 이미 자동 상실된 상태입니다([국적법](https://law.go.kr) 제15조).
+외국 시민권 취득 시점에 한국 국적은 이미 자동 상실된 상태입니다(국적법 제15조).
 가족관계등록부 정리 상태에 따라 선행 절차가 달라질 수 있어, 본인 상황의 정확한 순서는 전문가 확인이 필요합니다.
 
 **Q6. 비용은 얼마인가요?**
@@ -210,3 +207,4 @@ slug: "f4-residence-card-proxy-minimum-stay-issuance"
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

@@ -119,12 +119,6 @@ F-4 자격은 사업자등록의 진입장벽을 낮춰줄 뿐, 업종별 자격
 - [F-4 비자 프리랜서 활동 가능 범위 완벽 정리](/blog/f4-visa-freelance-activities)
 - [F-4 비자 종합소득세 신고 의무 완벽정리](/blog/f4-visa-tax-obligations-comprehensive-income)
 
-## 출처
-
-- [국세청](https://www.nts.go.kr) - 사업자등록 안내
-- [하이코리아](https://www.hikorea.go.kr) - 체류자격별 안내
-- [법제처 국가법령정보센터](https://www.law.go.kr) - 출입국관리법 및 시행령
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

@@ -111,17 +111,6 @@ A. 원칙적으로 만료 후 신청은 불법체류로 처리될 수 있습니�
 - [F-4 비자 갱신 서류와 절차 — 최신 기준 총정리](/blog/f4-renewal-documents-process-checklist)
 - [F-4 재외동포 비자 갱신 완벽 가이드](/blog/f4-visa-renewal-complete-guide)
 
-## 출처 및 참고
-
-- [하이코리아](https://www.hikorea.go.kr)
-- [법무부 출입국·외국인정책본부](https://www.immigration.go.kr)
-- [국가법령정보센터](https://www.law.go.kr)
-
-수수료는 관련 고시에 따라 정해지며 시점에 따라 달라질 수 있으므로, 정확한 금액은 관할 출입국·외국인청 또는 상담을 통해 확인하시기 바랍니다.
-
-행정사사무소 이룸은 신청 시기 판단부터 거부 사유 사전 점검, 불허 이후 대응까지 함께 검토해 드립니다.
-02-363-2251로 문의하시면 사안에 맞는 진행 방향을 안내해 드립니다.
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

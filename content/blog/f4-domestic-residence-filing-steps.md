@@ -78,7 +78,7 @@ F-4 비자를 소지하고 90일 이상 한국에 체류할 계획이 있는 재
 
 | 서류명 | 발급처 | 비고 |
 |---|---|---|
-| 국내거소신고 신청서 | 출입국 비치 / [하이코리아](https://www.hikorea.go.kr) 다운로드 | 본인 서명 필수 |
+| 국내거소신고 신청서 | 출입국 비치 / 하이코리아 다운로드 | 본인 서명 필수 |
 | 여권 원본 및 사본 | 본국 발급 | 유효기간 6개월 이상 |
 | F-4 사증 또는 사증면제 도장 | 입국 시 부여 | 입국심사인 확인 |
 | 표준규격 사진 | 사진관 | 6개월 이내 촬영 |
@@ -111,7 +111,7 @@ F-4 비자를 소지하고 90일 이상 한국에 체류할 계획이 있는 재
 
 ### 사전 예약과 방문
 
-[하이코리아](https://www.hikorea.go.kr) 또는 [법무부 출입국·외국인정책본부](https://www.immigration.go.kr)에서 방문 예약을 받습니다.
+하이코리아 또는 법무부 출입국·외국인정책본부에서 방문 예약을 받습니다.
 
 현장에서는 예약자가 우선 처리되며, 워크인은 대기가 길어 당일 처리가 안 되는 경우가 잦습니다.
 
@@ -158,13 +158,10 @@ F-4 비자를 소지하고 90일 이상 한국에 체류할 계획이 있는 재
 | 등기우편 (한국 내 주소) | 신청 후 출국 가능 | 수령 대리인 협조 |
 | 본국 발송 | 신청 후 출국 가능 | 거소허가번호 발급 후 |
 
-
-
 <figure style="margin:32px auto;text-align:center">
   <img src="https://images.pexels.com/photos/31925324/pexels-photo-31925324.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A bustling street in Seoul with people shopping and walking, showcasing urban lifestyle." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
   
 </figure>
-
 
 <h2 id="section-6">신고 후 변동 사항 처리</h2>
 
@@ -275,7 +272,7 @@ F-4 거소신고는 서류 한 줄, 출입국 한 곳 차이로 처리 속도가
 
 법령·고시 변경에 따라 신고 절차와 요건은 달라질 수 있습니다.
 
-본인 사안에 맞는 정확한 적용 여부는 [법제처 국가법령정보센터](https://www.law.go.kr) 및 관할 기관 확인이 필요합니다.
+본인 사안에 맞는 정확한 적용 여부는 법제처 국가법령정보센터 및 관할 기관 확인이 필요합니다.
 
 ---
 
@@ -285,3 +282,4 @@ F-4 거소신고는 서류 한 줄, 출입국 한 곳 차이로 처리 속도가
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

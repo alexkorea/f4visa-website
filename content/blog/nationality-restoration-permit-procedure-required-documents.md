@@ -37,7 +37,7 @@ slug: "nationality-restoration-permit-procedure-required-documents"
 
 먼저 봐야 할 것은 국적상실과 국적회복이 완전히 다른 단계라는 점입니다.
 
-외국 시민권을 취득하는 순간 한국 국적은 즉시 자동으로 상실됩니다([국적법 제15조](https://www.law.go.kr)).
+외국 시민권을 취득하는 순간 한국 국적은 즉시 자동으로 상실됩니다(국적법 제15조).
 
 국적상실신고는 이미 벌어진 상실 상태를 가족관계등록부에 정리하는 행정 절차일 뿐입니다.
 
@@ -122,7 +122,7 @@ slug: "nationality-restoration-permit-procedure-required-documents"
 
 ### 어디서 신청하고 어디서 걸리나
 
-신청과 심사 기준은 [출입국·외국인정책본부](https://www.immigration.go.kr)와 [하이코리아](https://www.hikorea.go.kr)에서 공식적으로 안내됩니다.
+신청과 심사 기준은 출입국·외국인정책본부와 하이코리아에서 공식적으로 안내됩니다.
 
 실제로 가장 많이 걸리는 구간은 3단계 신원조회입니다.
 
@@ -134,10 +134,7 @@ slug: "nationality-restoration-permit-procedure-required-documents"
 > 전화 02-363-2251 / 카카오톡 아이디: alexkorea
 > 정확한 비용과 절차는 무료 상담을 통해 확인하세요.
 
-
-
-![Top view of two Ukrainian passports with US dollar bills on a white surface.](https://images.pexels.com/photos/8061944/pexels-photo-8061944.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Close-up of a hand signing insurance documents in an office setting.](https://images.pexels.com/photos/8441817/pexels-photo-8441817.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">국적회복 후 F-4 비자 전환 — 국적회복 후 거소증</h2>
 
@@ -241,3 +238,4 @@ F-4 거소증은 거소허가번호가 발급된 이후에 출국이 가능합�
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

@@ -69,10 +69,10 @@ export function BlogPagedList({ posts }: { posts: BlogListItem[] }) {
             href={`/blog/${post.slug}`}
             className="group overflow-hidden rounded-2xl border border-border bg-card transition-all hover:border-primary/30 hover:shadow-lg"
           >
-            <div className="relative aspect-[16/10] overflow-hidden">
+            <div className="relative aspect-[16/9] overflow-hidden">
               {/* 목록 카드 썸네일 = og:image 의 800×450 카드판(THUMBNAIL_STANDARD 1장) */}
               <Image src={post.image.replace(/^(\/og\/.+)\.png$/, "$1-card.png")} alt={post.title} fill className="object-cover transition-transform duration-300 group-hover:scale-105" />
-              <div className="absolute top-3 left-3">
+              <div className="absolute bottom-3 right-3">
                 <span className="inline-flex items-center gap-2 px-4 py-2 bg-primary text-primary-foreground text-xs font-medium rounded-full">
                   <Tag className="h-3 w-3" />
                   {post.category}

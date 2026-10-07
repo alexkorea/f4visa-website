@@ -294,13 +294,10 @@ F-4는 **비자(체류자격)**, 거소증은 **그 비자로 한국에 주소�
 
 대부분의 출입국·외국인청은 **신용카드·현금** 모두 받지만, 일부 청은 현금만 받기도 합니다. 특히 지방 출장소는 결제 수단이 한정적이라 현금을 함께 챙겨 가는 편이 낫습니다.
 
-
-
 <figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/9757373/pexels-photo-9757373.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Scenic view of traditional Korean architecture amidst lush greenery." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
+  <img src="https://images.pexels.com/photos/955394/pexels-photo-955394.jpegScenic view of traditional Korean architecture amidst lush greenery." alt="A hand holding a pen signing a document close-up on a desk, symbolizing agreement or contract finalization." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
   
 </figure>
-
 
 ## <a id="section-6"></a>6. 신청 절차 단계별 흐름
 

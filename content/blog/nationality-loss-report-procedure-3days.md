@@ -35,7 +35,7 @@ slug: "nationality-loss-report-procedure-3days"
 
 많이 놓치는 부분은 "신고를 해야 국적이 상실된다"고 오해하는 지점입니다.
 
-[국적법 제15조](https://law.go.kr)에 따라 외국 국적을 자발적으로 취득한 순간 한국 국적은 그 즉시 자동 상실됩니다.
+국적법 제15조에 따라 외국 국적을 자발적으로 취득한 순간 한국 국적은 그 즉시 자동 상실됩니다.
 
 신고는 가족관계등록부에서 한국 국적자 신분을 정리하는 행정 절차일 뿐입니다.
 
@@ -73,7 +73,7 @@ slug: "nationality-loss-report-procedure-3days"
 
 부모가 외국 국적을 취득할 때 미성년 자녀도 함께 취득한 경우, 자녀의 국적상실신고도 함께 진행합니다.
 
-만 18세 미만 자녀는 [국적법 제13조](https://law.go.kr) 국적선택 의무와 연결되는 지점이 있어 사안 검토가 필요합니다.
+만 18세 미만 자녀는 국적법 제13조 국적선택 의무와 연결되는 지점이 있어 사안 검토가 필요합니다.
 
 자녀의 신고 누락은 이후 병역·국적선택 단계에서 꼬일 수 있는 부분입니다.
 
@@ -140,10 +140,7 @@ slug: "nationality-loss-report-procedure-3days"
 
 ---
 
-
-
-![South Korean flag on a flagpole against a vibrant blue sky with tree branches.](https://images.pexels.com/photos/14774580/pexels-photo-14774580.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Businessman in blue shirt reviewing documents with a pen over a newspaper in an office setting.](https://images.pexels.com/photos/7877182/pexels-photo-7877182.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">국적상실 직후 — F-4 거소증 신청으로 이어지는 흐름</h2>
 
@@ -238,7 +235,7 @@ F-4 신청 시 가장 먼저 요구되는 서류는 시민권증서 원본과 �
 - 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - 상담시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)
 
-관련 법령 및 공식 정보는 [국가법령정보센터](https://law.go.kr), [하이코리아](https://www.hikorea.go.kr), [출입국·외국인정책본부](https://www.immigration.go.kr)에서 확인할 수 있습니다.
+관련 법령 및 공식 정보는 국가법령정보센터, 하이코리아, 출입국·외국인정책본부에서 확인할 수 있습니다.
 
 ---
 
@@ -248,3 +245,4 @@ F-4 신청 시 가장 먼저 요구되는 서류는 시민권증서 원본과 �
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

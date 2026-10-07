@@ -43,7 +43,7 @@ slug: "overseas-korean-dual-nationality-eligibility"
 
 복수국적이 인정되는 길은 크게 두 가지입니다.
 하나는 **출생에 의한 복수국적**(선천적), 다른 하나는 **국적회복·귀화 시 외국국적불행사 서약**을 통한 인정입니다.
-법령 원문은 [국가법령정보센터 국적법](https://www.law.go.kr) 에서 직접 확인할 수 있습니다.
+법령 원문은 국가법령정보센터 국적법 에서 직접 확인할 수 있습니다.
 실제 심사에서는 두 경로의 요건이 전혀 다르게 적용됩니다.
 
 > **주의:** 외국 국적 취득 후 한국 여권 사용은 형사처벌 대상입니다.
@@ -120,10 +120,7 @@ slug: "overseas-korean-dual-nationality-eligibility"
 지금 무료 상담 신청하기 → **02-363-2251 / 카카오톡: alexkorea**
 처리 기간은 출입국·국적 부서별로 다르며, 가장 빠른 곳을 찾아 진행해 드립니다.
 
-
-
-![Close-up of Polish passports and travel tickets symbolizing travel and adventure.](https://images.pexels.com/photos/33497885/pexels-photo-33497885.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Two individuals reviewing and signing official documents in an indoor setting.](https://images.pexels.com/photos/9870226/pexels-photo-9870226.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-6">선천적 복수국적자와 국적이탈</h2>
 
@@ -137,7 +134,7 @@ slug: "overseas-korean-dual-nationality-eligibility"
 
 남성은 18세가 되는 해의 3월 31일까지 국적이탈을 하지 않으면 병역 의무가 종료되기 전까지 국적이탈이 제한됩니다.
 이 기한을 놓치면 병역 의무를 마치거나 면제될 때까지 한국 국적을 유지해야 하므로 미국 공직·군 진출 등에 제약이 생깁니다.
-관련 절차는 [재외동포청](https://www.oka.go.kr) 과 [하이코리아](https://www.hikorea.go.kr) 안내를 함께 확인하는 것이 정확합니다.
+관련 절차는 재외동포청 과 하이코리아 안내를 함께 확인하는 것이 정확합니다.
 
 > **실무 팁:** 선천적 복수국적자의 국적이탈은 출생신고가 한국 가족관계등록부에 되어 있어야 가능합니다.
 > 출생신고가 안 된 채로 나이만 지나가는 경우가 가장 흔합니다.
@@ -228,3 +225,4 @@ slug: "overseas-korean-dual-nationality-eligibility"
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

@@ -69,7 +69,7 @@ F-4 거소증은 신청 접수 후 거소허가번호만 발급되면 카드 실
 
 오래 전 출국하신 분일수록 제적등본을 본인이 직접 떼는 데 시간이 걸립니다.
 주민등록번호가 안 잡히거나, 한자 이름이 바뀐 경우 보통 이 단계에서 막힙니다.
-[정부24](https://www.gov.kr) 발급이 어려운 경우 대행 발급으로 처리해 드립니다.
+정부24 발급이 어려운 경우 대행 발급으로 처리해 드립니다.
 
 | 서류 | 발급처 | 비고 |
 | --- | --- | --- |
@@ -86,7 +86,7 @@ F-4는 외국 국적 동포 비자입니다.
 
 ### 자동상실은 이미 일어나 있습니다
 
-[국적법 제15조](https://www.law.go.kr/법령/국적법)에 따라 외국 시민권을 자진 취득한 시점에 한국 국적은 자동으로 상실됩니다.
+국적법 제15조에 따라 외국 시민권을 자진 취득한 시점에 한국 국적은 자동으로 상실됩니다.
 국적상실신고는 행정 정리 절차일 뿐, 신고 전이라도 이미 상실 상태라는 뜻입니다.
 이 점을 모르고 한국 여권을 사용하면 여권법상 부정사용에 해당합니다.
 
@@ -117,10 +117,7 @@ F-4는 외국 국적 동포 비자입니다.
 
 지금 무료 상담 신청하기 → **02-363-2251 / 카카오톡: alexkorea**
 
-
-
-![South Korean flag on a flagpole against a vibrant blue sky with tree branches.](https://images.pexels.com/photos/14774580/pexels-photo-14774580.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Close-up of an employee sorting documents with sticky notes and pens on a wooden desk.](https://images.pexels.com/photos/7888676/pexels-photo-7888676.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">출입국사무소 선택이 처리 속도를 가릅니다</h2>
 
@@ -131,7 +128,7 @@ F-4는 외국 국적 동포 비자입니다.
 
 서울·수도권 일부 사무소는 예약 자체가 한 달 이상 밀리는 경우가 있습니다.
 반면 동일한 자격이라도 접수가 빨리 잡히는 사무소가 따로 있습니다.
-[하이코리아](https://www.hikorea.go.kr) 예약 시스템에서 빈자리를 잡는 것부터가 실무의 시작입니다.
+하이코리아 예약 시스템에서 빈자리를 잡는 것부터가 실무의 시작입니다.
 
 ### 임시주소와 관할 사무소의 관계
 
@@ -225,3 +222,4 @@ F-4는 외국 국적 동포 비자입니다.
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

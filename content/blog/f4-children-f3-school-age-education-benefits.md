@@ -92,7 +92,7 @@ F-3는 미성년자만 사용할 수 있는 자격이라, 자녀가 만 19세에
 
 서류가 많아도 부모-자녀 가족관계가 외국 출생증명서로만 입증되면 학교 측에서 한 번 더 확인을 요청하는 경우가 흔합니다.
 
-> **주의:** 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다([국적법 제15조](https://law.go.kr)). 국적상실 신고를 하지 않은 상태로 한국 여권을 사용하면 여권법 위반(부정사용)에 해당하므로, F-4 신청 전 본국 시민권증서 원본을 반드시 준비해야 합니다.
+> **주의:** 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다(국적법 제15조). 국적상실 신고를 하지 않은 상태로 한국 여권을 사용하면 여권법 위반(부정사용)에 해당하므로, F-4 신청 전 본국 시민권증서 원본을 반드시 준비해야 합니다.
 
 <h2 id="section-4">건강보험·급식·교복 등 부수 혜택</h2>
 
@@ -112,7 +112,7 @@ F-3 자녀는 부모의 직장 건강보험에 피부양자로 등재되거나, 
 
 교복 지원, 입학 준비금 등은 지자체 조례에 따라 달라지므로 학교가 위치한 시·도 교육청 기준을 확인해야 합니다.
 
-[정부24](https://www.gov.kr) 또는 [교육부](https://www.moe.go.kr) 사이트에서 최신 지원 항목을 확인할 수 있습니다.
+정부24 또는 교육부 사이트에서 최신 지원 항목을 확인할 수 있습니다.
 
 ---
 
@@ -121,10 +121,7 @@ F-3 자녀는 부모의 직장 건강보험에 피부양자로 등재되거나, 
 
 ---
 
-
-
-![Blue Ukrainian passports on a light surface, highlighting travel documents.](https://images.pexels.com/photos/8061986/pexels-photo-8061986.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Joyful family bonding moment in a lush Singapore park setting, capturing laughter and love.](https://images.pexels.com/photos/37049848/pexels-photo-37049848.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">F-3 자녀 신청·연장 절차의 실무 흐름</h2>
 
@@ -228,7 +225,7 @@ F-4 부모와 F-3 자녀의 비자 일정은 서로 묶여 있어, 한쪽이 흔
 - **주소:** (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - **상담시간:** 평일 09:30 — 17:30 (점심 12:00 — 13:00)
 
-법령·고시는 [하이코리아](https://www.hikorea.go.kr), [출입국·외국인정책본부](https://www.immigration.go.kr), [국가법령정보센터](https://www.law.go.kr)에서 최신 내용을 확인할 수 있습니다.
+법령·고시는 하이코리아, 출입국·외국인정책본부, 국가법령정보센터에서 최신 내용을 확인할 수 있습니다.
 
 ---
 
@@ -238,3 +235,4 @@ F-4 부모와 F-3 자녀의 비자 일정은 서로 묶여 있어, 한쪽이 흔
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

@@ -37,7 +37,7 @@ F-1-5는 출입국관리법 시행령 별표 1의2에 따른 **방문동거(F-1)
 
 F-4 동포가 한국에서 안정적으로 생활하면서 본국의 부모를 모셔오고자 할 때 사용하는 비자가 바로 이 자격입니다.
 
-[법무부 출입국·외국인정책본부](https://www.immigration.go.kr) 고시 기준으로 부여되며, 단순 관광 목적의 C-3-1과는 체류 기간과 활동 범위가 완전히 다릅니다.
+법무부 출입국·외국인정책본부 고시 기준으로 부여되며, 단순 관광 목적의 C-3-1과는 체류 기간과 활동 범위가 완전히 다릅니다.
 
 ### F-1-5와 다른 가족초청 비자의 차이
 
@@ -152,10 +152,7 @@ F-4 동포가 한국에서 안정적으로 생활하면서 본국의 부모를 �
 
 지금 무료 상담 신청하기 → **02-363-2251 / 카카오톡: alexkorea**
 
-
-
-![Top view of two Ukrainian passports with US dollar bills on a white surface.](https://images.pexels.com/photos/8061944/pexels-photo-8061944.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Asian family posing happily on the grass in a sunny park, showcasing love and togetherness.](https://images.pexels.com/photos/160994/pexels-photo-160994.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">F-1-5 비자 체류기간 연장과 활동 범위</h2>
 
@@ -177,7 +174,7 @@ F-1-5는 원칙적으로 **취업 활동이 제한**됩니다.
 
 다만 일정 요건 하에 체류자격외 활동허가를 받아 시간제 또는 특정 활동이 가능한 경우가 있고, 최근 운영 기준이 일부 조정되었습니다.
 
-본인 사례에 적용 가능한지는 [HiKorea](https://www.hikorea.go.kr) 공지와 관할 출입국 확인이 필요합니다.
+본인 사례에 적용 가능한지는 HiKorea 공지와 관할 출입국 확인이 필요합니다.
 
 <h2 id="section-6">자주 막히는 부분 — 실제 심사 포인트</h2>
 
@@ -282,3 +279,4 @@ F-1-5는 서류 자체보다 **초청인의 자격 정리와 가족관계 라인
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

@@ -214,13 +214,10 @@ F-4 심사에서 "병역의무 해소"는 **현역 복무 완료, 공익/대체 
   <strong style="color:#1e40af">💡 실무 팁:</strong> 만 18세 되는 해 3월 31일 이전에 시민권을 취득했다면, 그 사실을 **기본증명서(상세)**에 명확히 반영해 두세요. 국적상실신고가 늦어진 경우에도 "실제 상실 시점"이 그 전이라는 점을 증빙할 수 있어야 심사에서 꼬이지 않습니다.
 </div>
 
-
-
 <figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A close-up shot of Filipino passports at the airport, indicating travel and identity." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
+  <img src="https://images.pexels.com/photos/28494398/pexels-photo-28494398.jpegA close-up shot of Filipino passports at the airport, indicating travel and identity." alt="Bustling street in Seoul with vibrant signs and people walking. Captures urban life in South Korea." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
   
 </figure>
-
 
 <h2 id="section-5">5. 필요 서류와 실무 진행 절차</h2>
 

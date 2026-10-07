@@ -280,13 +280,10 @@ H-2로 공장에서 단순조립 일을 2년 하고 그 경력으로 F-4를 받�
   <strong style="color:#92400e">⚠️ 주의:</strong> F-4 단순노무 제한을 어기고 적발되면 <strong>체류자격 외 활동</strong>으로 범칙금과 체류기간 단축 처분이 내려질 수 있습니다. 반복되면 연장 거부·강제퇴거까지 이어집니다. F-4가 되었다고 아무 일이나 해도 된다는 오해가 가장 위험합니다.
 </div>
 
-
-
 <figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/13306495/pexels-photo-13306495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A detailed close-up of the wrinkled South Korean flag on fabric, showcasing its vibrant colors." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
+  <img src="https://images.pexels.com/photos/19271599/pexels-photo-19271599.jpegA detailed close-up of the wrinkled South Korean flag on fabric, showcasing its vibrant colors." alt="A lively urban street scene in downtown Seoul, South Korea, showcasing architecture and vibrant city life." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
   
 </figure>
-
 
 ## <span id="section-5"></span>5. H-2에서 F-4로 전환 — 실무 절차와 서류
 

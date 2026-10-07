@@ -181,9 +181,3 @@ A. 국적 상실·이탈 시점과 병역 이행·면제 여부를 가족관계�
 - [미국·캐나다 재외동포 F-4 비자 신청 실무](/blog/f4-bukmi-dongpo)
 - [F-4 재외동포 비자 서류 완전 가이드 — 미국 영주권자 기준](/blog/f4-visa-us-pr-documents)
 - [F-4 비자 미국 시민권자 신청 절차 완벽 가이드](/blog/f4-visa-us-citizens)
-
-## 출처
-
-- [법제처 국가법령정보센터](https://www.law.go.kr) - 재외동포의 출입국과 법적 지위에 관한 법률, 국적법, 출입국관리법 및 시행령
-- [하이코리아](https://www.hikorea.go.kr)
-- [출입국·외국인정책본부](https://www.immigration.go.kr)

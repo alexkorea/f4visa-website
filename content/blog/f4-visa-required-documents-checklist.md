@@ -23,10 +23,9 @@ F-4 비자 신청에서 가장 먼저 준비해야 할 서류는 시민권증서
     <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 실무에서 가장 많이 놓치는 부분</a></li>
     <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
     <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 자주 묻는 질문(FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 출처 및 참고</a></li>
-    <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 무료 상담 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-12" style="color:#2563eb;text-decoration:none">12. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-13" style="color:#2563eb;text-decoration:none">13. 전문가 상담이 필요하신가요?</a></li>
+    <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">10. 무료 상담 안내</a></li>
+    <li style="margin:8px 0"><a href="#section-12" style="color:#2563eb;text-decoration:none">11. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+    <li style="margin:8px 0"><a href="#section-13" style="color:#2563eb;text-decoration:none">12. 전문가 상담이 필요하신가요?</a></li>
   </ul>
 </nav>
 
@@ -74,7 +73,7 @@ F-4 신청 시 가장 먼저 봐야 할 것은 **시민권증서 원본**입니�
 
 ### 병역 미필자의 제한
 
-만 25세 이상 남성 중 병역 미필 상태에서 외국 국적을 취득한 경우, F-4 자격에 제한이 있습니다. 「재외동포의 출입국과 법적 지위에 관한 법률」 시행령상 병역 회피 목적 국적이탈자에 대한 자격 제한이 적용됩니다(자세한 조문은 [law.go.kr](https://www.law.go.kr) 참조).
+만 25세 이상 남성 중 병역 미필 상태에서 외국 국적을 취득한 경우, F-4 자격에 제한이 있습니다. 「재외동포의 출입국과 법적 지위에 관한 법률」 시행령상 병역 회피 목적 국적이탈자에 대한 자격 제한이 적용됩니다(자세한 조문은 law.go.kr 참조).
 
 ### 추가로 들어가는 서류
 
@@ -93,13 +92,10 @@ F-4 신청 시 가장 먼저 봐야 할 것은 **시민권증서 원본**입니�
 > **지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea**
 > 정확한 비용과 절차는 사례별로 다르므로 상담을 통해 확인하세요.
 
-
-
 <figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A close-up shot of Filipino passports at the airport, indicating travel and identity." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
+  <img src="https://images.pexels.com/photos/6567860/pexels-photo-6567860.jpegA close-up shot of Filipino passports at the airport, indicating travel and identity." alt="Close-up of a businesswoman holding and reviewing documents in an office setting." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
   
 </figure>
-
 
 <h2 id="section-6">F-4 비자 신청 절차표 — 발급 순서가 핵심</h2>
 
@@ -160,15 +156,6 @@ F-4 신청 시 가장 먼저 봐야 할 것은 **시민권증서 원본**입니�
 **Q6. 서류는 다 영문인데 번역이 필요한가요?**
 관할에 따라 공증 번역본을 요구하기도 합니다. 시민권증서·무범죄조회서는 영문 원본 + 아포스티유로 통과되는 경우가 많지만, 출생증명서 등 부속 서류는 번역이 붙는 사례가 있습니다.
 
-<h2 id="section-10">출처 및 참고</h2>
-
-- 국적법 제15조 — [law.go.kr](https://www.law.go.kr)
-- 재외동포의 출입국과 법적 지위에 관한 법률 — [law.go.kr](https://www.law.go.kr)
-- 출입국·외국인정책본부 — [immigration.go.kr](https://www.immigration.go.kr)
-- 하이코리아 비자포털 — [hikorea.go.kr](https://www.hikorea.go.kr)
-
-법령 및 출입국 지침은 변경될 수 있으므로 신청 시점의 관할 기관 확인이 필요합니다.
-
 <h2 id="section-11">무료 상담 안내</h2>
 
 서류 한 장이 빠지면 일정이 한 달씩 밀립니다. 본인 사례에 맞는 서류 목록과 발급 순서를 먼저 확인하세요.
@@ -197,7 +184,6 @@ F-4 신청 시 가장 먼저 봐야 할 것은 **시민권증서 원본**입니�
 
 비용은 사례별로 상이하므로 무료 상담 시 정확히 안내드립니다.
 
-
 ---
 
 <h2 id="section-13">전문가 상담이 필요하신가요?</h2>
@@ -206,3 +192,4 @@ F-4 신청 시 가장 먼저 봐야 할 것은 **시민권증서 원본**입니�
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

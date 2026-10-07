@@ -36,7 +36,7 @@ slug: "dual-citizenship-requirements-renunciation-loss-guide"
 
 ### 국적법 제10조 제2항이 정한 예외 대상
 
-[법제처 국가법령정보센터](https://www.law.go.kr)에서 확인할 수 있는 국적법 제10조 제2항은 외국국적 포기 의무의 예외를 정하고 있습니다.
+법제처 국가법령정보센터에서 확인할 수 있는 국적법 제10조 제2항은 외국국적 포기 의무의 예외를 정하고 있습니다.
 
 | 대상 | 근거 | 비고 |
 |------|------|------|
@@ -123,12 +123,9 @@ slug: "dual-citizenship-requirements-renunciation-loss-guide"
 
 해외 거주자는 관할 재외공관에, 국내 체류자는 출입국·외국인관서를 통해 신고할 수 있습니다.
 접수처별 처리 기간과 요구 서류의 세부 형식이 다르고 수시로 바뀌므로, 관할 기관 확인이 필요합니다.
-정확한 절차는 [하이코리아](https://www.hikorea.go.kr)와 [법무부 출입국·외국인정책본부](https://www.immigration.go.kr)에서 공지됩니다.
+정확한 절차는 하이코리아와 법무부 출입국·외국인정책본부에서 공지됩니다.
 
-
-
-![Blue Ukrainian passports on a light surface, highlighting travel documents.](https://images.pexels.com/photos/8061986/pexels-photo-8061986.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![A close-up of a businessman signing official documents at a wooden desk.](https://images.pexels.com/photos/30268251/pexels-photo-30268251.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">병역과 국적이탈 — 시기를 놓치면 되돌리기 어렵습니다</h2>
 
@@ -230,3 +227,4 @@ slug: "dual-citizenship-requirements-renunciation-loss-guide"
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

@@ -50,7 +50,7 @@ slug: "overseas-resident-registration-application-benefits"
 
 해외 영주권자가 한국에 들어와 경제활동, 부동산 거래, 의료 이용을 할 때 신분 확인이 막히는 문제가 반복됐습니다.
 
-[정부24](https://www.gov.kr) 및 [법제처 국가법령정보센터](https://www.law.go.kr)에서 확인 가능한 주민등록법 제6조에 따라 재외국민도 국내 거주 신고 시 주민등록 대상에 포함됩니다.
+정부24 및 법제처 국가법령정보센터에서 확인 가능한 주민등록법 제6조에 따라 재외국민도 국내 거주 신고 시 주민등록 대상에 포함됩니다.
 
 실제 현장에서는 이 제도 덕분에 영주권 포기 없이도 한국 내 행정업무가 가능해졌습니다.
 
@@ -171,7 +171,7 @@ slug: "overseas-resident-registration-application-benefits"
 
 국민연금은 임의가입 형태로 활용할 수 있는 경우가 있습니다.
 
-자세한 보험료율과 가입 가능 시점은 매년 변경되므로 [국민건강보험공단](https://www.nhis.or.kr) 공식 안내 또는 전문가 상담으로 확인하세요.
+자세한 보험료율과 가입 가능 시점은 매년 변경되므로 국민건강보험공단 공식 안내 또는 전문가 상담으로 확인하세요.
 
 ### 자녀 교육 관련
 
@@ -181,10 +181,7 @@ slug: "overseas-resident-registration-application-benefits"
 
 다만 특별전형 요건은 부모와 자녀의 해외 체류 기간을 엄격히 확인하므로 주민등록 자체만으로 자동 적용되지 않습니다.
 
-
-
-![Police officers on duty in Seoul, South Korea, showcasing urban life and safety enforcement.](https://images.pexels.com/photos/31720191/pexels-photo-31720191.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![A diverse group of professionals signing documents around a table. Ideal for business or teamwork concepts.](https://images.pexels.com/photos/8730969/pexels-photo-8730969.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-6">자주 발생하는 문제와 해결</h2>
 
@@ -299,3 +296,4 @@ slug: "overseas-resident-registration-application-benefits"
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [정부24](https://www.gov.kr)

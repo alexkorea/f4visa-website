@@ -33,7 +33,7 @@ slug: "dual-citizenship-permission-criteria-renunciation-vs-loss"
 
 핵심은 이것입니다.
 한국 국적법은 "후천적으로 외국 국적을 자진 취득한 사람"에게는 복수국적을 허용하지 않습니다.
-[국적법](https://www.law.go.kr/법령/국적법) 제15조 제1항은 자진하여 외국 국적을 취득한 국민은 그 외국 국적을 취득한 때에 대한민국 국적을 상실한다고 규정합니다.
+국적법 제15조 제1항은 자진하여 외국 국적을 취득한 국민은 그 외국 국적을 취득한 때에 대한민국 국적을 상실한다고 규정합니다.
 복수국적이 가능한지는 결국 "어떤 경위로 두 국적을 갖게 되었는가"에서 갈립니다.
 
 ### 선천적 복수국적자
@@ -126,14 +126,11 @@ slug: "dual-citizenship-permission-criteria-renunciation-vs-loss"
 처리 기간은 접수 기관과 시기에 따라 달라지며, 등록부 정리가 끝나야 F-4 신청이 매끄럽게 이어집니다.
 접수 기관별 소요 기간 차이는 상담 시 최신 기준으로 안내드립니다.
 
-
-
-![Family walking beside Cheonggyecheon Stream in Seoul on a bright spring day.](https://images.pexels.com/photos/31925345/pexels-photo-31925345.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Close-up of a senior adult signing a legal document with a focus on hand and gold ring.](https://images.pexels.com/photos/618158/pexels-photo-618158.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">국적상실 후 F-4 비자, 순서가 꼬이면 오히려 늦어집니다</h2>
 
-국적을 상실한 재외동포는 [하이코리아](https://www.hikorea.go.kr)를 통해 안내되는 F-4(재외동포) 체류자격으로 한국에 장기 체류할 수 있습니다.
+국적을 상실한 재외동포는 하이코리아를 통해 안내되는 F-4(재외동포) 체류자격으로 한국에 장기 체류할 수 있습니다.
 
 ### F-4 신청 시 먼저 챙길 서류
 
@@ -152,7 +149,7 @@ slug: "dual-citizenship-permission-criteria-renunciation-vs-loss"
 국적을 상실한 사람이 다시 한국 국적을 얻으려면 국적회복허가 절차를 거칩니다.
 특히 만 65세 이후 입국해 신청하면 외국 국적을 포기하지 않는 복수국적 경로가 열립니다.
 만 65세 미만이라면 국적회복 시 원칙적으로 외국 국적을 포기해야 하므로, F-4로 체류할지 국적회복까지 갈지는 연령과 생활 기반에 따라 판단이 갈립니다.
-관련 법령과 심사 기준은 [법무부 출입국·외국인정책본부](https://www.immigration.go.kr)에서 고시하며, 세부 요건은 수시로 변경되므로 신청 전 관할 기관 확인을 거쳐야 합니다.
+관련 법령과 심사 기준은 법무부 출입국·외국인정책본부에서 고시하며, 세부 요건은 수시로 변경되므로 신청 전 관할 기관 확인을 거쳐야 합니다.
 
 <h2 id="section-7">자주 묻는 질문 (FAQ)</h2>
 
@@ -229,3 +226,4 @@ slug: "dual-citizenship-permission-criteria-renunciation-vs-loss"
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

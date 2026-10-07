@@ -23,7 +23,6 @@ slug: "overseas-korean-property-acquisition-procedure-tax-guide"
     <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 부동산 매매 계약과 외국환 신고</a></li>
     <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 외국인 부동산 취득 신고와 등기</a></li>
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 부동산 취득 시 발생하는 세금</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자금 출처 소명과 세무 리스크</a></li>
   </ul>
 </nav>
 
@@ -46,7 +45,7 @@ slug: "overseas-korean-property-acquisition-procedure-tax-guide"
 
 외국 국적 동포는 **외국인토지법이 폐지된 이후 부동산 거래신고 등에 관한 법률**의 적용을 받습니다.
 재외국민은 내국인과 동일한 절차로 처리됩니다.
-[법제처 국가법령정보센터](https://law.go.kr)에서 본인 신분에 해당하는 법령을 먼저 확인하는 것이 안전합니다.
+법제처 국가법령정보센터에서 본인 신분에 해당하는 법령을 먼저 확인하는 것이 안전합니다.
 
 오히려 많이 놓치는 부분은, 본인이 어느 쪽에 해당하는지 모른 채 진행하다 뒤늦게 신고 누락으로 과태료를 받는 경우입니다.
 
@@ -92,7 +91,7 @@ slug: "overseas-korean-property-acquisition-procedure-tax-guide"
 외국 국적 동포가 본국에서 한국으로 매매 대금을 송금할 때, **외국환거래법상 거주자/비거주자 구분**에 따라 신고 의무가 달라집니다.
 거주자라면 별도 신고 없이 송금이 가능하지만, 비거주자가 부동산 취득 목적으로 송금하는 경우 외국환은행을 통한 신고가 필요합니다.
 
-자세한 절차는 [기획재정부 외국환거래법](https://www.law.go.kr)과 거래 외국환은행에서 확인하는 것이 안전합니다.
+자세한 절차는 기획재정부 외국환거래법과 거래 외국환은행에서 확인하는 것이 안전합니다.
 
 ### 계약서 작성 시 자주 빠지는 부분
 
@@ -118,22 +117,18 @@ slug: "overseas-korean-property-acquisition-procedure-tax-guide"
 ### 소유권 이전 등기
 
 등기는 잔금 지급 후 60일 이내에 신청하는 것이 보통입니다.
-등기 신청 시 필요한 서류는 [대한민국 법원 인터넷등기소](http://www.iros.go.kr)에서 확인 가능합니다.
+등기 신청 시 필요한 서류는 대한민국 법원 인터넷등기소에서 확인 가능합니다.
 
 오히려 등기 단계에서 막히는 부분은, 매수인의 한국 내 주소 증빙이 약할 때입니다.
 F-4 거소증이 없는 상태에서 등기를 시도하면 주소 표기 문제로 보정 명령이 나옵니다.
 
 ---
 
-
 정확한 비용과 절차는 사례별로 다르므로, 본인 상황에 맞는 진행 순서를 상담을 통해 확인하세요.
 
 ---
 
-
-
-![Busy day at a Seoul subway station with commuters navigating their way.](https://images.pexels.com/photos/19271594/pexels-photo-19271594.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Financial document with a calculator, pen, and glasses symbolizing data analysis.](https://images.pexels.com/photos/33175673/pexels-photo-33175673.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">부동산 취득 시 발생하는 세금</h2>
 
@@ -151,7 +146,7 @@ F-4 거소증이 없는 상태에서 등기를 시도하면 주소 표기 문제
 
 취득세율은 부동산 종류, 매수자의 주택 보유 수에 따라 달라집니다.
 외국 국적 동포라도 한국 내 다주택 보유 여부가 취득세율에 반영됩니다.
-정확한 세율 적용은 [국세청](https://www.nts.go.kr)과 [위택스](https://www.wetax.go.kr)에서 확인하세요.
+정확한 세율 적용은 국세청과 위택스에서 확인하세요.
 
 ### 보유 단계 세금
 
@@ -170,36 +165,3 @@ F-4 거소증이 없는 상태에서 등기를 시도하면 주소 표기 문제
 
 > **실무 팁:** 외국 국적 동포가 부동산을 매수할 때부터 양도 시점의 세금 부담을 미리 계산해두는 것이 안전합니다.
 > 비용은 사례별로 상이하므로 무료 상담 시 정확히 안내드립니다.
-
-<h2 id="section-6">자금 출처 소명과 세무 리스크</h2>
-
-서류가 많아도 자금 출처 설명이 약하면 바로 꼬입니다.
-국세청은 외국 국적 동포의 고가 부동산 취득에 대해 자금조달계획서를 요구합니다.
-
-### 자금조달계획서가 필요한 경우
-
-- 투기과열지구 내 주택 매수
-- 일정 금액 이상의 주택 매수
-- 조정대상지역 내 주택 매수
-
-본국에서 송금된 자금이라면 송금 내역과 본국 소득 증빙이 함께 필요합니다.
-가족으로부터 증여받은 자금이라면 증여세 신고가 선행되어야 합니다.
-
-### 사후관리 조사
-
-부동산 취득 후에도 국세청은 자금 출처에 대한 사후 조사를 진행할 수 있습니다.
-취득 시 제출한 자금조달계획서와 실제 자금 흐름이 일치하지 않으면 가산세가 부과됩니다.
-
-이 부분은 매수 단계에서 미리 정리해두지 않으면 나중에 풀기 어려운 문제로 번집니다.
-
-
-**가장 신속히 허가되는 출입국사무소를 찾아서 진행해 드립니다.**
-**한국내 최소체류기간으로 처리 가능합니다.**
-
-1. 거소증 신청대행
-2. 거소증 수령대행
-3. 거소증 본국발급
-4. 각종 서류 발급대행 (기본증명서, 가족관계증명서, 제적등본 등)
-5. 숙박관련 숙박제공자와의 연락
-
-정확한 비용은 사례별로 상이하므로 무료 상담 시 안내드립니다.

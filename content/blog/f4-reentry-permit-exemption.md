@@ -43,8 +43,8 @@ F-4 비자 소지자는 출국일로부터 2년 이내 재입국 시 별도의 �
 ### 법적 근거
 
 재외동포의 출입국과 법적 지위에 관한 법률, 출입국관리법 제30조에 근거를 둡니다.
-정확한 조문은 [국가법령정보센터](https://www.law.go.kr)에서 확인할 수 있습니다.
-세부 운영 지침은 [하이코리아](https://www.hikorea.go.kr) 공지사항에 수시로 갱신됩니다.
+정확한 조문은 국가법령정보센터에서 확인할 수 있습니다.
+세부 운영 지침은 하이코리아 공지사항에 수시로 갱신됩니다.
 
 <h2 id="section-2">재입국허가 면제 유효기간 2년의 의미</h2>
 
@@ -96,10 +96,7 @@ F-4 비자 스티커만 받고 거소신고를 미루다 출국하면, 다음 �
 
 지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea
 
-
-
-![A detailed close-up of the wrinkled South Korean flag on fabric, showcasing its vibrant colors.](https://images.pexels.com/photos/13306495/pexels-photo-13306495.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Entrance to AREX subway with Korean and English signage in Seoul.](https://images.pexels.com/photos/32211611/pexels-photo-32211611.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">실무에서 자주 발생하는 케이스</h2>
 
@@ -146,7 +143,7 @@ F-4 비자 스티커만 받고 거소신고를 미루다 출국하면, 다음 �
 입국 후 다시 거소신고 절차를 밟아야 하고, 처리 기간은 출입국사무소별로 달라집니다.
 
 **Q3. 출국 전에 재입국허가를 미리 받을 수 있나요?**
-가능합니다. 관할 출입국·외국인청에 직접 또는 [하이코리아](https://www.hikorea.go.kr)를 통해 신청할 수 있습니다.
+가능합니다. 관할 출입국·외국인청에 직접 또는 하이코리아를 통해 신청할 수 있습니다.
 단수 1년, 복수 2년 한도이며 체류기간 범위 내에서만 유효합니다.
 
 **Q4. 거소증을 안 받고 출국했는데 다시 들어올 때 어떤 자격이 되나요?**
@@ -188,7 +185,7 @@ F-4 재입국허가 면제 적용 여부, 거소증 발급 시점, 2년 초과 �
 - 상담시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)
 
 비용은 사례별로 상이하므로 무료 상담 시 정확히 안내드립니다.
-관련 법령과 운영 지침은 [국가법령정보센터](https://www.law.go.kr), [하이코리아](https://www.hikorea.go.kr), [법무부 출입국·외국인정책본부](https://www.immigration.go.kr)에서 확인 가능하며, 최신 변경 사항은 관할 기관 확인이 필요합니다.
+관련 법령과 운영 지침은 국가법령정보센터, 하이코리아, 법무부 출입국·외국인정책본부에서 확인 가능하며, 최신 변경 사항은 관할 기관 확인이 필요합니다.
 
 ---
 
@@ -198,3 +195,4 @@ F-4 재입국허가 면제 적용 여부, 거소증 발급 시점, 2년 초과 �
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

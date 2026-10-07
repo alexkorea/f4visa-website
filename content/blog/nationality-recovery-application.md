@@ -35,9 +35,9 @@ slug: "nationality-recovery-application"
 ### 국적상실은 신고가 아니라 사실로 발생
 
 외국 시민권을 취득하면 그 시점에 한국 국적은 자동으로 상실됩니다.
-[국적법 제15조](https://www.law.go.kr/법령/국적법)에 따라 외국 국적을 자진해서 취득한 순간 한국 국적은 즉시 사라집니다.
+국적법 제15조에 따라 외국 국적을 자진해서 취득한 순간 한국 국적은 즉시 사라집니다.
 국적상실신고는 가족관계등록부를 정리하는 행정 절차일 뿐, 신고 전이라도 이미 상실 상태라는 점이 실무에서 가장 많이 오해받는 부분입니다.
-국적상실 후 한국 여권을 사용하면 [여권법](https://www.law.go.kr/법령/여권법) 위반(부정사용)에 해당할 수 있어 별도의 제재 사유가 됩니다.
+국적상실 후 한국 여권을 사용하면 여권법 위반(부정사용)에 해당할 수 있어 별도의 제재 사유가 됩니다.
 
 ### 국적회복 허가 대상
 
@@ -57,7 +57,7 @@ slug: "nationality-recovery-application"
 
 ### 결격사유
 
-[국적법 제9조 제2항](https://www.law.go.kr/법령/국적법)은 다음 사유에 해당하면 국적회복을 허가하지 않는다고 정하고 있습니다.
+국적법 제9조 제2항은 다음 사유에 해당하면 국적회복을 허가하지 않는다고 정하고 있습니다.
 
 - 국가나 사회에 위해를 끼친 사실이 있는 사람
 - 품행이 단정하지 못한 사람
@@ -102,7 +102,7 @@ slug: "nationality-recovery-application"
 
 ### 접수 기관
 
-국적회복 허가 신청은 [출입국·외국인청 또는 출입국·외국인사무소](https://www.hikorea.go.kr)에 접수합니다.
+국적회복 허가 신청은 출입국·외국인청 또는 출입국·외국인사무소에 접수합니다.
 국내 거주 중인 신청자는 거주지 관할 청·사무소에, 해외 거주자는 입국 후 체류지 관할 청·사무소에 접수합니다.
 재외공관 접수는 원칙적으로 제한되어 있어 한국 입국 후 신청이 일반적입니다.
 
@@ -131,17 +131,14 @@ slug: "nationality-recovery-application"
 
 정확한 비용과 절차는 전문가 상담을 통해 확인하세요.
 
-
-
-![Calm urban skyline photo over a tranquil river on a clear day.](https://images.pexels.com/photos/31527638/pexels-photo-31527638.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Detailed shot of a hand holding a blue pen while signing a document. Ideal for legal and business themes.](https://images.pexels.com/photos/7054505/pexels-photo-7054505.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-6">허가 이후 절차와 외국국적 처리</h2>
 
 ### 외국 국적 포기 또는 불행사 서약
 
 국적회복 허가를 받은 후 1년 이내에 외국 국적을 포기해야 합니다.
-다만 [국적법 제10조 제2항](https://www.law.go.kr/법령/국적법)에 따라 만 65세 이상 등 일정 요건을 충족한 재외동포는 외국국적불행사 서약으로 갈음할 수 있습니다.
+다만 국적법 제10조 제2항에 따라 만 65세 이상 등 일정 요건을 충족한 재외동포는 외국국적불행사 서약으로 갈음할 수 있습니다.
 불행사 서약은 한국 내에서 외국 국적자로서의 권리를 행사하지 않겠다는 서약이며, 이를 위반하면 한국 국적이 다시 상실될 수 있습니다.
 
 ### 가족관계등록부 회복
@@ -246,3 +243,4 @@ A. 신청 사무소, 신원조회 진행 속도, 본인의 서류 완비 여부�
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

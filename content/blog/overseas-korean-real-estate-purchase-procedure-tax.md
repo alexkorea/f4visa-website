@@ -37,7 +37,7 @@ slug: "overseas-korean-real-estate-purchase-procedure-tax"
 
 ### 시민권자와 영주권자의 차이
 
-미국·캐나다·호주 시민권을 취득했다면 [국적법 제15조](https://www.law.go.kr)에 따라 한국 국적은 자동 상실됩니다.
+미국·캐나다·호주 시민권을 취득했다면 국적법 제15조에 따라 한국 국적은 자동 상실됩니다.
 
 국적상실신고를 하지 않았더라도 법적으로는 이미 외국인입니다.
 
@@ -49,7 +49,7 @@ slug: "overseas-korean-real-estate-purchase-procedure-tax"
 
 F-4 비자로 국내거소신고를 마친 재외동포는 외국인이지만, **거소증을 가진 외국인**으로서 일부 신고 의무에서 내국인에 준하는 취급을 받습니다.
 
-특히 [부동산 거래신고 등에 관한 법률](https://www.law.go.kr)상 외국인 취득신고 의무는 거소신고 여부와 무관하게 적용됩니다.
+특히 부동산 거래신고 등에 관한 법률상 외국인 취득신고 의무는 거소신고 여부와 무관하게 적용됩니다.
 
 이 부분을 놓치는 분들이 의외로 많습니다.
 
@@ -145,7 +145,6 @@ F-4 비자로 국내거소신고를 마친 재외동포는 외국인이지만, *
 
 이 부분이 약하면 취득세가 2~3배까지 차이날 수 있습니다.
 
-
 **가장 신속히 허가되는 출입국사무소를 찾아서 진행해 드립니다.**
 **한국내 최소체류기간으로 처리 가능합니다.**
 
@@ -157,11 +156,7 @@ F-4 비자로 국내거소신고를 마친 재외동포는 외국인이지만, *
 
 정확한 비용은 사례별로 상이하므로 무료 상담 시 안내드립니다.
 
-
-
-
-![A detailed close-up of the wrinkled South Korean flag on fabric, showcasing its vibrant colors.](https://images.pexels.com/photos/13306495/pexels-photo-13306495.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Hands gesturing during a real estate document review on a modern office desk with a calculator.](https://images.pexels.com/photos/8292842/pexels-photo-8292842.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-6">보유 단계 세금</h2>
 
@@ -183,7 +178,7 @@ F-4 비자로 국내거소신고를 마친 재외동포는 외국인이지만, *
 
 매입한 부동산을 임대하면 비거주자라도 **국내 원천 임대소득**에 대해 한국에서 과세됩니다.
 
-[국세청 홈택스](https://www.hometax.go.kr)에서 사업자등록 또는 주택임대사업자등록을 진행해야 하며, 임대 개시 전 신고가 원칙입니다.
+국세청 홈택스에서 사업자등록 또는 주택임대사업자등록을 진행해야 하며, 임대 개시 전 신고가 원칙입니다.
 
 본국과의 조세조약에 따라 이중과세 조정이 가능하지만, 신고 자체를 누락하면 조정이 적용되지 않습니다.
 
@@ -214,3 +209,5 @@ F-4 비자로 국내거소신고를 마친 재외동포는 외국인이지만, *
 > **주의:** 원천징수액이 실제 양도세보다 많을 경우 환급 신청을 별도로 진행해야 합니다. 자동 환급되지 않습니다.
 
 원천징수 누락 시 매수자에게 책임이 돌아가므로 계약서 단계에서 명확히 정리해야 합니다.
+
+**공식 사이트에서 확인하기:** [홈택스](https://www.hometax.go.kr)

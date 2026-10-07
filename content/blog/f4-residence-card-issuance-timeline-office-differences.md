@@ -44,14 +44,14 @@ slug: "f4-residence-card-issuance-timeline-office-differences"
 ### 방문예약 대기까지 합치면 차이가 더 벌어집니다
 
 발급 기간을 접수 후 심사 기간만으로 계산하면 많이 놓치는 부분이 생깁니다.
-[하이코리아](https://www.hikorea.go.kr) 방문예약 자체가 몇 주씩 밀리는 사무소가 있기 때문입니다.
+하이코리아 방문예약 자체가 몇 주씩 밀리는 사무소가 있기 때문입니다.
 예약 대기에 심사 기간이 더해지면, 체감 발급 기간은 그만큼 길어집니다.
 전체 일정은 **예약 대기 + 접수 심사 + 카드 제작·배송**의 합으로 계산해야 실제와 맞습니다.
 
 <h2 id="section-2">출입국사무소별 소요시간 비교</h2>
 
 아래는 실무에서 체감되는 대략적인 구간입니다.
-접수 물량과 시기에 따라 수시로 변하므로, 정확한 현황은 [법무부 출입국·외국인정책본부](https://www.immigration.go.kr)와 관할 사무소 확인이 필요합니다.
+접수 물량과 시기에 따라 수시로 변하므로, 정확한 현황은 법무부 출입국·외국인정책본부와 관할 사무소 확인이 필요합니다.
 
 ### 수도권 주요 사무소
 
@@ -91,7 +91,7 @@ slug: "f4-residence-card-issuance-timeline-office-differences"
 보완 통지를 받으면 재접수 대기가 붙어 전체 기간이 두 배로 늘어나는 사례가 흔합니다.
 특히 무범죄조회서는 해외에서 재발급받는 데만 몇 주가 걸리므로, 유효기간 계산을 놓치면 일정 전체가 꼬입니다.
 
-> **주의:** 외국 시민권을 취득한 경우 한국 국적은 취득 시점에 이미 자동 상실된 상태입니다([국적법 제15조](https://law.go.kr)).
+> **주의:** 외국 시민권을 취득한 경우 한국 국적은 취득 시점에 이미 자동 상실된 상태입니다(국적법 제15조).
 > 국적상실신고는 행정 정리 절차일 뿐이며, 신고 전이라도 한국 여권을 사용하면 여권법 위반(부정사용)에 해당합니다.
 > 거소신고 전에 국적 정리 상태부터 점검해야 뒤에서 꼬이지 않습니다.
 
@@ -133,10 +133,7 @@ slug: "f4-residence-card-issuance-timeline-office-differences"
 > **실무 팁:** 국내 주소가 마땅치 않은 경우 서울 내 임시주소 제공이 가능합니다(별도 비용 안내).
 > 거소 예정지가 정해져야 관할 사무소와 예약이 확정되므로, 주소 문제를 먼저 푸는 것이 순서상 맞습니다.
 
-
-
-![A man holding a divorce certificate in a formal office environment.](https://images.pexels.com/photos/7876054/pexels-photo-7876054.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Vibrant street scene in Seoul, capturing urban life and architecture in springtime.](https://images.pexels.com/photos/31680679/pexels-photo-31680679.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">신청 전에 갖춰야 할 서류 점검표</h2>
 
@@ -149,7 +146,7 @@ slug: "f4-residence-card-issuance-timeline-office-differences"
 | 제적등본 | 해당자 | 동포 입증에 흔히 쓰임 |
 | 여권·사진·신청서 | 규격 준수 | 사진 규격 불일치로 반려되는 사례 있음 |
 
-국내거소신고의 법적 근거는 [재외동포의 출입국과 법적 지위에 관한 법률](https://law.go.kr) 제6조입니다.
+국내거소신고의 법적 근거는 재외동포의 출입국과 법적 지위에 관한 법률 제6조입니다.
 세부 제출 서류는 신청인의 국적 취득 경로와 국적 정리 상태에 따라 달라질 수 있어, 본인 사안 기준의 목록은 상담 시 확정해 드립니다.
 
 <h2 id="section-6">자주 묻는 질문 (FAQ)</h2>
@@ -219,3 +216,4 @@ slug: "f4-residence-card-issuance-timeline-office-differences"
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

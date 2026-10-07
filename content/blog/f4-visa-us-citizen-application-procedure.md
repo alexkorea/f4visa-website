@@ -38,7 +38,7 @@ slug: "f4-visa-us-citizen-application-procedure"
 
 미국 귀화 선서를 마친 그 순간 한국 국적은 자동으로 상실됩니다.
 
-[국적법 제15조](https://www.law.go.kr)에 따라 외국 시민권 취득은 한국 국적 자동상실 사유이며, 국적상실신고는 행정 정리 절차일 뿐입니다.
+국적법 제15조에 따라 외국 시민권 취득은 한국 국적 자동상실 사유이며, 국적상실신고는 행정 정리 절차일 뿐입니다.
 
 신고 전이라도 이미 한국인이 아닌 상태입니다.
 
@@ -46,7 +46,7 @@ slug: "f4-visa-us-citizen-application-procedure"
 
 많이 놓치는 부분은 바로 이 지점입니다.
 
-미국 시민권 취득 후에도 한국 여권으로 입출국하는 경우, 이는 [여권법](https://www.law.go.kr) 위반(부정사용)에 해당합니다.
+미국 시민권 취득 후에도 한국 여권으로 입출국하는 경우, 이는 여권법 위반(부정사용)에 해당합니다.
 
 실무에서는 인천공항 자동심사대에서 미국 시민권 정보가 잡혀 별도 조사실로 안내되는 사례가 늘고 있습니다.
 
@@ -77,11 +77,11 @@ slug: "f4-visa-us-citizen-application-procedure"
 
 서류 미비로 반려되면 다시 우편 또는 방문 보완을 거쳐야 하므로 처음부터 정확히 준비하는 것이 빠릅니다.
 
-자세한 영사관별 접수 방식은 [외교부 재외공관](https://www.mofa.go.kr) 안내를 참고합니다.
+자세한 영사관별 접수 방식은 외교부 재외공관 안내를 참고합니다.
 
 ### 한국 내 신청 흐름
 
-가장 흔한 경로는 무비자(K-ETA 포함)로 입국한 뒤 [하이코리아](https://www.hikorea.go.kr)를 통해 거소증 신청 예약을 잡고 관할 출입국을 방문하는 방식입니다.
+가장 흔한 경로는 무비자(K-ETA 포함)로 입국한 뒤 하이코리아를 통해 거소증 신청 예약을 잡고 관할 출입국을 방문하는 방식입니다.
 
 처리 기간은 출입국사무소별로 차이가 크며, 가장 빠른 곳을 찾아 진행해 드립니다.
 
@@ -113,7 +113,7 @@ FBI 무범죄조회서의 유효기간은 발급일로부터 6개월입니다.
 
 특히 미국에서 발급받은 뒤 한국에 들어오는 일정이 길어지면 도착 후 신청 단계에서 기간이 깎여 있는 경우가 많습니다.
 
-[F-4 비자 정보](https://www.hikorea.go.kr)는 하이코리아 비자/체류 메뉴에서 최신 안내를 확인할 수 있습니다.
+F-4 비자 정보는 하이코리아 비자/체류 메뉴에서 최신 안내를 확인할 수 있습니다.
 
 ### 한국 내 가족관계서류 발급의 함정
 
@@ -145,19 +145,16 @@ FBI 무범죄조회서의 유효기간은 발급일로부터 6개월입니다.
 
 본인 사례에 맞는 정확한 신청 경로와 가장 빠른 출입국사무소는 사례별로 달라 무료 상담 시 안내드립니다.
 
-
-
 <figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/34548652/pexels-photo-34548652.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Sunlit traditional Korean Hanok house amidst autumn trees, showcasing Asian architectural beauty." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
+  <img src="https://images.pexels.com/photos/35396690/pexels-photo-35396690.jpegSunlit traditional Korean Hanok house amidst autumn trees, showcasing Asian architectural beauty." alt="Evening view of a bustling street in Seoul&#x27;s cultural district with shops and mountain backdrop." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
   
 </figure>
-
 
 <h2 id="section-6">거소증(F-4) 발급 후 실제로 할 수 있는 것</h2>
 
 F-4는 단순한 비자가 아니라 거의 모든 경제활동을 열어주는 자격입니다.
 
-[법무부 출입국·외국인정책본부](https://www.immigration.go.kr) 자료 기준 F-4 거소증 소지자는 단순 노무를 제외한 대부분의 취업이 가능합니다.
+법무부 출입국·외국인정책본부 자료 기준 F-4 거소증 소지자는 단순 노무를 제외한 대부분의 취업이 가능합니다.
 
 ### 부동산·금융·세금에서 달라지는 부분
 
@@ -264,3 +261,4 @@ USCIS에 N-565 양식으로 재발급을 신청해야 하며, 처리 기간이 �
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

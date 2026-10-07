@@ -51,7 +51,7 @@ F-4 비자(국내 거소신고증)가 만료된 상태에서 다시 한국에 �
 
 <h2 id="section-2">재입국 전 본국에서 준비해야 할 서류</h2>
 
-F-4 사증 재발급은 본국 관할 [대한민국 재외공관](https://www.0404.go.kr/)에서 진행합니다.
+F-4 사증 재발급은 본국 관할 대한민국 재외공관에서 진행합니다.
 서류가 많아도 핵심 한두 개가 빠지면 그 자리에서 막힙니다.
 
 ### 기본 신청 서류
@@ -74,7 +74,7 @@ F-4 사증 재발급은 본국 관할 [대한민국 재외공관](https://www.04
 
 <h2 id="section-3">입국 후 거소증 재신청 절차</h2>
 
-사증을 새로 받아 입국한 뒤에는 90일 이내 [국내거소신고](https://www.hikorea.go.kr/)를 해야 합니다.
+사증을 새로 받아 입국한 뒤에는 90일 이내 국내거소신고를 해야 합니다.
 거소증을 다시 받기 전까지는 의료보험, 은행 거래, 부동산 거래 등 실생활이 거의 정지됩니다.
 
 ### 1단계 - 출입국·외국인청 방문 예약
@@ -119,10 +119,7 @@ F-4 사증 재발급은 본국 관할 [대한민국 재외공관](https://www.04
 이 경우 숙박제공자 동의서, 임대차계약서 등 모든 서류를 한꺼번에 맞춰드릴 수 있습니다.
 정확한 비용은 사례별로 상이하므로 무료 상담 시 안내드립니다.
 
-
-
-![Vibrant display of Korean traditional dance with performers in cultural attire, Jakarta.](https://images.pexels.com/photos/35432325/pexels-photo-35432325.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Spacious interior view of Seoul Incheon Airport showcasing escalators and tourist center.](https://images.pexels.com/photos/31649603/pexels-photo-31649603.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">만료 기간이 오래된 경우 - 자진 말소와 재신고</h2>
 
@@ -221,9 +218,9 @@ F-4 비자 만료 후 재입국 절차는 본국 공관 사증 발급, 한국 �
 상담 시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)
 
 **참고 자료**
-- [출입국·외국인정책본부 하이코리아](https://www.hikorea.go.kr/)
-- [국가법령정보센터 - 국적법](https://www.law.go.kr/)
-- [외교부 영사서비스](https://www.0404.go.kr/)
+- 출입국·외국인정책본부 하이코리아
+- 국가법령정보센터 - 국적법
+- 외교부 영사서비스
 
 ---
 
@@ -233,3 +230,4 @@ F-4 비자 만료 후 재입국 절차는 본국 공관 사증 발급, 한국 �
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

@@ -32,7 +32,7 @@ slug: "nationality-loss-report-required-documents-guide"
 <h2 id="section-1">국적상실 신고, 신고해야 상실되는 것이 아닙니다</h2>
 
 많이 놓치는 부분은 바로 이 지점입니다.
-[국적법](https://www.law.go.kr) 제15조에 따라 외국 시민권을 자진 취득하면 한국 국적은 그 취득 시점에 **즉시 자동 상실**됩니다.
+국적법 제15조에 따라 외국 시민권을 자진 취득하면 한국 국적은 그 취득 시점에 **즉시 자동 상실**됩니다.
 국적상실 신고는 상실 여부를 심사받는 절차가 아니라, 이미 상실된 사실을 가족관계등록부에 반영하는 **행정 정리 절차**입니다.
 
 ### 신고 전 한국 여권 사용이 진짜 문제입니다
@@ -61,7 +61,7 @@ slug: "nationality-loss-report-required-documents-guide"
 
 ### 국내에서 접수하는 경우
 
-한국에 입국해 있다면 관할 [출입국·외국인관서](https://www.hikorea.go.kr)에 직접 접수할 수 있습니다.
+한국에 입국해 있다면 관할 출입국·외국인관서에 직접 접수할 수 있습니다.
 서류가 완비된 상태라면 접수는 당일에 끝납니다.
 핵심은 접수 전에 시민권증서 번역과 한국 측 증명서를 먼저 맞춰 두는 것입니다.
 
@@ -126,10 +126,7 @@ slug: "nationality-loss-report-required-documents-guide"
 입국이 어렵다면 재외공관 접수와 서류 발급대행을 조합하는 방법이 있습니다.
 이 경우 등록부 정리까지의 기간을 넉넉히 잡아야 하며, 정확한 소요 기간은 관할 공관 확인이 먼저입니다.
 
-
-
 ![A happy father and son bonding in a lush Korean garden in Pyeongchang, South Korea.](https://images.pexels.com/photos/20188256/pexels-photo-20188256.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
 
 <h2 id="section-5">F-4 비자와 같이 진행하면 한 번에 끝납니다</h2>
 
@@ -146,7 +143,7 @@ slug: "nationality-loss-report-required-documents-guide"
 
 무범죄조회서를 너무 일찍 떼면 유효기간이 지나 다시 발급받아야 하고, 아포스티유·인증 절차까지 처음부터 반복됩니다.
 보통은 이 단계에서 일정이 꼬입니다.
-[법무부 출입국·외국인정책본부](https://www.immigration.go.kr)의 심사 기준과 관할 사무소별 처리 속도까지 감안한 일정은 상담을 통해 잡는 것이 안전합니다.
+법무부 출입국·외국인정책본부의 심사 기준과 관할 사무소별 처리 속도까지 감안한 일정은 상담을 통해 잡는 것이 안전합니다.
 행정사사무소 이룸은 최대한 빨리 허가받도록 지속적으로 노력하고 있으며, 거소허가번호 발급 후에는 출국도 가능합니다.
 
 <h2 id="section-6">흔히 놓치는 실수 정리</h2>
@@ -228,3 +225,4 @@ slug: "nationality-loss-report-required-documents-guide"
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

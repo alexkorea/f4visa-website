@@ -43,7 +43,7 @@ slug: "f4-geosojeung-issuance-duration-by-office-guide"
 ### 실무에서 보는 사무소별 소요시간 비교
 
 아래 표는 실무 처리 경험을 기준으로 한 대략적인 범위입니다.
-시기별 접수 물량에 따라 달라질 수 있으므로, 정확한 현황은 [하이코리아](https://www.hikorea.go.kr) 또는 관할 기관 확인이 필요합니다.
+시기별 접수 물량에 따라 달라질 수 있으므로, 정확한 현황은 하이코리아 또는 관할 기관 확인이 필요합니다.
 
 | 접수 지역 | 실무상 소요 범위 | 비고 |
 |---|---|---|
@@ -76,7 +76,7 @@ slug: "f4-geosojeung-issuance-duration-by-office-guide"
 많이 놓치는 부분은 방문 예약 대기입니다.
 서울권 사무소는 예약 자체가 몇 주씩 밀려 있는 경우가 흔합니다.
 심사 기간만 계산하고 항공권을 끊으면, 예약 단계에서 일정이 통째로 꼬입니다.
-법적 근거와 신고 의무는 [재외동포의 출입국과 법적 지위에 관한 법률](https://www.law.go.kr/법령/재외동포의출입국과법적지위에관한법률) 제6조(국내거소신고)에서 규정하고 있습니다.
+법적 근거와 신고 의무는 재외동포의 출입국과 법적 지위에 관한 법률 제6조(국내거소신고)에서 규정하고 있습니다.
 
 ### 심사 중 보완 요청이 나오는 경우
 
@@ -142,10 +142,7 @@ slug: "f4-geosojeung-issuance-duration-by-office-guide"
 > 순서는 반대입니다.
 > 서류 완비 → 방문 예약 확보 → 항공권 구매 순으로 잡아야 체류 기간이 최소화됩니다.
 
-
-
-![Blue Ukrainian passports on a light surface, highlighting travel documents.](https://images.pexels.com/photos/8061986/pexels-photo-8061986.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![A woman signing a document with a pen on a desk, emphasizing hands and writing.](https://images.pexels.com/photos/7681321/pexels-photo-7681321.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">발급 기간이 길어지는 대표 원인 3가지</h2>
 
@@ -171,7 +168,7 @@ slug: "f4-geosojeung-issuance-duration-by-office-guide"
 
 관할 출입국·외국인관서 사정에 따라 다르며, 접수 사무소별 편차가 있습니다.
 서울권은 길고 지방 사무소는 상대적으로 짧은 경향이 있으며, 시기별 물량에 따라 달라집니다.
-정확한 현황은 [법무부 출입국·외국인정책본부](https://www.immigration.go.kr) 및 관할 기관 확인이 필요합니다.
+정확한 현황은 법무부 출입국·외국인정책본부 및 관할 기관 확인이 필요합니다.
 
 ### Q2. 거소증이 나오기 전에 출국해도 되나요?
 
@@ -238,3 +235,4 @@ slug: "f4-geosojeung-issuance-duration-by-office-guide"
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

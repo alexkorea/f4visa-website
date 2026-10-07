@@ -41,7 +41,7 @@ slug: "nationality-loss-report-3day-procedure-documents"
 
 ### 자동 상실의 법적 근거
 
-근거 조문은 [국적법 제15조](https://www.law.go.kr)에 명확히 나와 있습니다.
+근거 조문은 국적법 제15조에 명확히 나와 있습니다.
 
 자진 취득 시점이 곧 상실 시점이라는 점이 핵심입니다.
 
@@ -151,10 +151,7 @@ slug: "nationality-loss-report-3day-procedure-documents"
 
 ---
 
-
-
-![Top view of two Ukrainian passports with US dollar bills on a white surface.](https://images.pexels.com/photos/8061944/pexels-photo-8061944.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Close-up of hands signing documents in a business setting, emphasizing professionalism and teamwork.](https://images.pexels.com/photos/8730991/pexels-photo-8730991.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">국적상실 후 바로 이어지는 F-4 비자 단계</h2>
 
@@ -277,7 +274,7 @@ F-4 신청 시 기본증명서에 ‘국적상실’ 기재가 떠야 정상 접
 - **주소:** (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - **상담 시간:** 평일 09:30 — 17:30 (점심 12:00 — 13:00)
 
-참고: [국적법 — 국가법령정보센터](https://www.law.go.kr), [하이코리아](https://www.hikorea.go.kr), [출입국·외국인정책본부](https://www.immigration.go.kr)
+참고: 국적법 — 국가법령정보센터, 하이코리아, 출입국·외국인정책본부
 
 ---
 
@@ -287,3 +284,4 @@ F-4 신청 시 기본증명서에 ‘국적상실’ 기재가 떠야 정상 접
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

@@ -48,7 +48,7 @@ slug: "nationality-recovery-application-8months-documents"
 
 ### 자동 국적상실과 국적회복의 관계
 
-외국 시민권을 자진해서 취득한 시점에 한국 국적은 자동 상실됩니다([국적법 제15조](https://www.law.go.kr)).
+외국 시민권을 자진해서 취득한 시점에 한국 국적은 자동 상실됩니다(국적법 제15조).
 
 국적상실신고를 하지 않았다고 해서 국적이 유지되는 것이 아니라, 이미 상실된 상태를 행정상 정리하는 절차일 뿐입니다.
 
@@ -72,7 +72,7 @@ slug: "nationality-recovery-application-8months-documents"
 
 ### 거절 사유로 자주 걸리는 경우
 
-법무부는 [국적법 제9조](https://www.law.go.kr)에 따라 다음과 같은 경우 허가하지 않을 수 있습니다.
+법무부는 국적법 제9조에 따라 다음과 같은 경우 허가하지 않을 수 있습니다.
 
 - 국가나 사회에 위해를 끼친 사실이 있는 사람
 - 품행이 단정하지 못한 사람
@@ -167,7 +167,7 @@ slug: "nationality-recovery-application-8months-documents"
 
 국내 거주 중인 경우, 주소지 관할 출입국·외국인청에 직접 접수합니다.
 
-[하이코리아](https://www.hikorea.go.kr)에서 사전 방문예약을 한 후 방문해야 하며, 예약 없이 가면 접수 자체가 어렵습니다.
+하이코리아에서 사전 방문예약을 한 후 방문해야 하며, 예약 없이 가면 접수 자체가 어렵습니다.
 
 면접은 보통 접수와 함께 또는 별도 일정으로 진행됩니다.
 
@@ -190,10 +190,7 @@ slug: "nationality-recovery-application-8months-documents"
 
 서류에 적은 내용과 면접에서 답하는 내용이 어긋나면 바로 보완 요청으로 이어집니다.
 
-
-
-![Close-up of Polish passports and travel tickets symbolizing travel and adventure.](https://images.pexels.com/photos/33497885/pexels-photo-33497885.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Hands signing an important document at a wooden table, symbolizing agreement and commitment.](https://images.pexels.com/photos/16475250/pexels-photo-16475250.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-6">허가 통지 후 — 관보 고시와 F-4 전환</h2>
 
@@ -207,7 +204,7 @@ slug: "nationality-recovery-application-8months-documents"
 
 요건 미충족자는 1년 이내에 외국 국적을 포기해야 한국 국적 회복 효력이 유지됩니다.
 
-복수국적 허용 요건은 변동 가능성이 있어 [법무부 출입국·외국인정책본부](https://www.immigration.go.kr) 공지를 함께 확인해야 합니다.
+복수국적 허용 요건은 변동 가능성이 있어 법무부 출입국·외국인정책본부 공지를 함께 확인해야 합니다.
 
 본인이 어느 유형에 해당하는지에 따라 후속 처리 방식이 갈리므로, 사전에 정리해 두는 것이 실무 포인트입니다.
 
@@ -305,3 +302,4 @@ slug: "nationality-recovery-application-8months-documents"
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

@@ -58,7 +58,7 @@ slug: "nationality-recovery-review-criteria-period"
 
 실무에서는 두 번째 "품행" 항목이 가장 자주 걸립니다.
 
-자세한 법조문은 [국가법령정보센터 국적법](https://www.law.go.kr/법령/국적법)에서 확인할 수 있습니다.
+자세한 법조문은 국가법령정보센터 국적법에서 확인할 수 있습니다.
 
 <h2 id="section-2">심사 기준 — 실제로 갈리는 포인트</h2>
 
@@ -137,10 +137,7 @@ slug: "nationality-recovery-review-criteria-period"
 
 ---
 
-
-
-![Close-up view of a hand signing an official child adoption certificate document.](https://images.pexels.com/photos/8524948/pexels-photo-8524948.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Two adults sign documents on a wooden table at a business meeting, emphasizing teamwork.](https://images.pexels.com/photos/8439700/pexels-photo-8439700.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">신청 서류 — 빠뜨리기 쉬운 항목</h2>
 
@@ -170,7 +167,7 @@ slug: "nationality-recovery-review-criteria-period"
 
 이 중 아포스티유 절차가 실제로 가장 시간을 많이 잡아먹습니다.
 
-[하이코리아](https://www.hikorea.go.kr) 및 [출입국·외국인정책본부](https://www.immigration.go.kr) 공지를 함께 확인하시는 것이 좋습니다.
+하이코리아 및 출입국·외국인정책본부 공지를 함께 확인하시는 것이 좋습니다.
 
 <h2 id="section-6">국적회복 후 절차 — 끝이 아닌 시작</h2>
 
@@ -267,3 +264,4 @@ slug: "nationality-recovery-review-criteria-period"
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

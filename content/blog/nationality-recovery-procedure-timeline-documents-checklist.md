@@ -33,7 +33,7 @@ slug: "nationality-recovery-procedure-timeline-documents-checklist"
 
 ### 과거 한국 국적을 가졌던 사람만 가능
 
-국적회복은 [국적법](https://www.law.go.kr) 제9조에 따라 **대한민국 국민이었던 외국인**이 법무부장관의 허가를 받아 국적을 되찾는 절차입니다.
+국적회복은 국적법 제9조에 따라 **대한민국 국민이었던 외국인**이 법무부장관의 허가를 받아 국적을 되찾는 절차입니다.
 처음부터 외국인이었던 사람은 귀화 대상이지, 국적회복 대상이 아닙니다.
 먼저 봐야 할 것은 본인의 제적등본 또는 가족관계등록부에 한국 국적자였던 기록이 남아 있는지입니다.
 이 기록이 없거나 정리가 안 되어 있으면 신청 전에 등록부 정정부터 해결해야 합니다.
@@ -53,7 +53,7 @@ slug: "nationality-recovery-procedure-timeline-documents-checklist"
 
 국내에서는 주소지 관할 출입국·외국인청에 신청합니다.
 해외 체류 중이라면 재외공관 접수도 가능하지만, 실무에서는 국내 접수가 처리 흐름을 따라가기에 낫습니다.
-관할과 접수 요건은 [하이코리아](https://www.hikorea.go.kr)에서 확인할 수 있습니다.
+관할과 접수 요건은 하이코리아에서 확인할 수 있습니다.
 
 | 단계 | 내용 | 소요 기간(통상) |
 |------|------|------|
@@ -108,7 +108,7 @@ slug: "nationality-recovery-procedure-timeline-documents-checklist"
 
 ### 품행 요건에서 실제로 보는 것
 
-[법무부 출입국·외국인정책본부](https://www.immigration.go.kr)는 국적법 제9조 제2항에 따라 품행이 단정하지 못한 사람, 국가 안전보장에 위해가 되는 사람 등의 회복을 허가하지 않습니다.
+법무부 출입국·외국인정책본부는 국적법 제9조 제2항에 따라 품행이 단정하지 못한 사람, 국가 안전보장에 위해가 되는 사람 등의 회복을 허가하지 않습니다.
 실제 심사에서는 거주국과 한국 양쪽의 범죄경력, 출입국 규정 위반 이력, 세금 체납 여부가 확인됩니다.
 경미한 벌금 기록이라도 경위서에서 설명이 부족하면 심사가 길어질 수 있습니다.
 기록이 있다면 숨기는 것보다 경위를 정리해 소명하는 쪽이 낫습니다.
@@ -120,10 +120,7 @@ slug: "nationality-recovery-procedure-timeline-documents-checklist"
 최근 비슷한 사례에서도 국적상실 경위서의 서술 방식에 따라 심사 흐름이 갈렸습니다.
 본인 사안이 제한 사유에 해당하는지는 기록을 놓고 개별 검토가 있어야 판단할 수 있습니다.
 
-
-
-![Busy day at a Seoul subway station with commuters navigating their way.](https://images.pexels.com/photos/19271594/pexels-photo-19271594.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Close-up of business professionals signing a document with a pen indoors.](https://images.pexels.com/photos/8470831/pexels-photo-8470831.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">허가 후 절차 — 여기서 멈추면 국적이 다시 상실됩니다</h2>
 
@@ -227,3 +224,4 @@ F-4 신청 시에도 시민권증서 원본이 들어간다는 점은 동일합�
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

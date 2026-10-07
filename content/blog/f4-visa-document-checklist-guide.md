@@ -231,13 +231,10 @@ F-4 심사는 '이 사람이 과거에 한국 국민이었거나 한국 국민�
   </tbody>
 </table>
 
-
-
 <figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/32028722/pexels-photo-32028722.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Explore a quaint street in a Seoul neighborhood, showcasing Korean culture and architecture." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
+  <img src="https://images.pexels.com/photos/6538576/pexels-photo-6538576.jpegExplore a quaint street in a Seoul neighborhood, showcasing Korean culture and architecture." alt="An adult&#x27;s hand reaches for office file folders, capturing a thoughtful moment. Indoors setting." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
   
 </figure>
-
 
 ## 6. 국적상실·국적포기 상황별 서류
 

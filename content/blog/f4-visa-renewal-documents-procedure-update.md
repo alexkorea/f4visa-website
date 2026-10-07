@@ -84,7 +84,7 @@ F-4 자격으로 30일 이상 본국으로 출국했다가 재입국한 경우 �
 
 미국은 FBI 발급분, 캐나다는 RCMP 발급분이 표준입니다.
 
-[출입국·외국인정책본부 하이코리아](https://www.hikorea.go.kr)에서 관할 사무소별 추가 요청 서류를 확인할 수 있습니다.
+출입국·외국인정책본부 하이코리아에서 관할 사무소별 추가 요청 서류를 확인할 수 있습니다.
 
 <h2 id="section-3">출입국사무소별 처리 흐름 차이</h2>
 
@@ -98,7 +98,7 @@ F-4 자격으로 30일 이상 본국으로 출국했다가 재입국한 경우 �
 
 ### 사전예약 시스템 변화
 
-2026년 기준 [하이코리아 사전예약 시스템](https://www.hikorea.go.kr) 운영 방식이 사무소별로 차이가 있습니다.
+2026년 기준 하이코리아 사전예약 시스템 운영 방식이 사무소별로 차이가 있습니다.
 
 예약이 오래 밀려 있는 사무소가 있는 반면, 단기 예약이 가능한 사무소도 있어 사무소 선택이 처리 속도를 좌우합니다.
 
@@ -118,7 +118,7 @@ F-4 거소신고 갱신은 만료 4개월 이내에 신청할 수 있습니다.
 
 만료일이 출국 중에 도래하는 경우 처리 절차가 달라집니다.
 
-본국에서 [재외공관](https://www.0404.go.kr)을 통해 F-4 사증을 다시 발급받는 방법, 거소증을 한국에서 갱신받은 뒤 본국으로 발송받는 방법이 있는데 본인 상황에 맞는 선택이 갈립니다.
+본국에서 재외공관을 통해 F-4 사증을 다시 발급받는 방법, 거소증을 한국에서 갱신받은 뒤 본국으로 발송받는 방법이 있는데 본인 상황에 맞는 선택이 갈립니다.
 
 ---
 
@@ -128,10 +128,7 @@ F-4 거소신고 갱신은 만료 4개월 이내에 신청할 수 있습니다.
 
 ---
 
-
-
-![A detailed close-up of the wrinkled South Korean flag on fabric, showcasing its vibrant colors.](https://images.pexels.com/photos/13306495/pexels-photo-13306495.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Hands organizing files in a box, symbolizing investigation and research.](https://images.pexels.com/photos/8371705/pexels-photo-8371705.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">거주국별 자주 막히는 지점</h2>
 
@@ -151,7 +148,7 @@ FBI 또는 RCMP 무범죄증명은 발급 기관 사정에 따라 오래 걸릴 
 
 국가별로 무범죄증명 발급 기관이 다르고, 일부 국가는 우편 신청만 받아 발급 자체에 시간이 걸립니다.
 
-[법무부 출입국·외국인정책본부](https://www.immigration.go.kr) 안내 기준이 거주국별로 갱신되므로 신청 직전 확인이 필요합니다.
+법무부 출입국·외국인정책본부 안내 기준이 거주국별로 갱신되므로 신청 직전 확인이 필요합니다.
 
 <h2 id="section-6">갱신 신청 절차 단계별 정리</h2>
 
@@ -249,3 +246,4 @@ F-4 최초 신청 시 원본 제시가 필수입니다.
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

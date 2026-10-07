@@ -244,13 +244,10 @@ slug: "f4-visa-military-service-unfulfilled-restriction"
 
 간혹 "특별 면제를 받아준다" 같은 접근을 보게 되는데, 재외동포법 제5조 제2항은 개별 사유로 예외 적용되는 조항이 아닙니다. 37세 연말까지는 누구도 F-4를 발급받을 수 없습니다. 이런 주장을 듣는다면 바로 의심해야 합니다.
 
-
-
 <figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/9757373/pexels-photo-9757373.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Scenic view of traditional Korean architecture amidst lush greenery." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
+  <img src="https://images.pexels.com/photos/7054502/pexels-photo-7054502.jpegScenic view of traditional Korean architecture amidst lush greenery." alt="Hands signing a contract with a blue pen, close-up view." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
   
 </figure>
-
 
 ## <span id="section-6"></span>6. 병역 마친 후 F-4 신청 절차와 서류
 

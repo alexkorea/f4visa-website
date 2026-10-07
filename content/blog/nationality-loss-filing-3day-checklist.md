@@ -35,7 +35,7 @@ slug: "nationality-loss-filing-3day-checklist"
 
 가장 먼저 봐야 할 것은 **국적상실의 시점**입니다.
 
-[국적법 제15조](https://www.law.go.kr/법령/국적법)에 따라 외국 국적을 자진해서 취득한 순간 한국 국적은 자동으로 상실됩니다.
+국적법 제15조에 따라 외국 국적을 자진해서 취득한 순간 한국 국적은 자동으로 상실됩니다.
 
 신고를 해야 상실되는 것이 아니라, 이미 상실된 사실을 행정상 정리하는 것이 국적상실 신고입니다.
 
@@ -43,7 +43,7 @@ slug: "nationality-loss-filing-3day-checklist"
 
 시민권 선서식을 마친 그 시점부터 법적으로는 한국인이 아닙니다.
 
-이 사실을 모르고 한국 여권을 계속 사용하면 [여권법](https://www.law.go.kr/법령/여권법) 위반(부정사용)에 해당될 수 있습니다.
+이 사실을 모르고 한국 여권을 계속 사용하면 여권법 위반(부정사용)에 해당될 수 있습니다.
 
 오히려 신고를 미룬다고 한국 국적이 유지되는 것이 아니므로, 빨리 정리하는 편이 안전합니다.
 
@@ -136,10 +136,7 @@ F-4 비자를 신청하려면 국적상실이 처리되어 있어야 하므로, 
 
 ---
 
-
-
-![Calm urban skyline photo over a tranquil river on a clear day.](https://images.pexels.com/photos/31527638/pexels-photo-31527638.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Close-up of businessmen signing documents at a wooden table in an office.](https://images.pexels.com/photos/7641842/pexels-photo-7641842.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">실무에서 자주 막히는 지점</h2>
 
@@ -258,7 +255,7 @@ F-4 신청 단계에서도 시민권증서 원본을 다시 요구하므로, 원
 - 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - 상담 시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)
 
-[법무부 출입국·외국인정책본부](https://www.immigration.go.kr) 및 [하이코리아](https://www.hikorea.go.kr) 공식 안내도 함께 확인하세요.
+법무부 출입국·외국인정책본부 및 하이코리아 공식 안내도 함께 확인하세요.
 
 ---
 
@@ -268,3 +265,4 @@ F-4 신청 단계에서도 시민권증서 원본을 다시 요구하므로, 원
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

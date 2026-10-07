@@ -24,8 +24,7 @@ slug: "overseas-korean-real-estate-acquisition-tax-procedure"
     <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 재외동포 부동산 취득 절차 한눈에 보기</a></li>
     <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 재외동포 부동산 취득세 구조</a></li>
     <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 보유세와 양도세, 재외동포가 놓치기 쉬운 부분</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 자금 출처와 증여세 문제</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 등기 이전과 부동산 거래신고</a></li>
+    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">5. 등기 이전과 부동산 거래신고</a></li>
   </ul>
 </nav>
 
@@ -77,7 +76,7 @@ slug: "overseas-korean-real-estate-acquisition-tax-procedure"
 
 > **실무 팁:** 송금영수증에는 반드시 "부동산 매수자금" 사유를 명시하고, 본인 명의 해외계좌에서 본인 명의 국내계좌로 송금하세요. 가족 명의 송금은 증여세 문제로 바로 꼬일 수 있습니다.
 
-외국환거래 신고 기준은 송금액과 거래 형태에 따라 달라지며, 본인 상황에 맞는 적용 여부는 [한국은행 외환정보](https://www.bok.or.kr) 및 거래은행 확인이 필요합니다.
+외국환거래 신고 기준은 송금액과 거래 형태에 따라 달라지며, 본인 상황에 맞는 적용 여부는 한국은행 외환정보 및 거래은행 확인이 필요합니다.
 
 <h2 id="section-3">재외동포 부동산 취득세 구조</h2>
 
@@ -99,7 +98,7 @@ F-4 거소증 보유자가 주택을 취득할 때 적용되는 취득세율은 
 
 이 부분이 약하면 계약은 했는데 등기가 막혀버립니다.
 
-정확한 세율과 중과 여부는 [지방세법](https://www.law.go.kr) 기준에 따라 매년 개정되므로, 본인 상황에 맞는 적용 여부는 무료 상담을 통해 확인하세요.
+정확한 세율과 중과 여부는 지방세법 기준에 따라 매년 개정되므로, 본인 상황에 맞는 적용 여부는 무료 상담을 통해 확인하세요.
 
 <h2 id="section-4">보유세와 양도세, 재외동포가 놓치기 쉬운 부분</h2>
 
@@ -125,35 +124,11 @@ F-4 거소증 보유자가 주택을 취득할 때 적용되는 취득세율은 
 
 ---
 
-
 정확한 비용과 절차는 사례별로 달라지므로, 본인 상황을 정리해 전문가 상담을 통해 확인하세요.
 
 ---
 
-
-
-![Calm urban skyline photo over a tranquil river on a clear day.](https://images.pexels.com/photos/31527638/pexels-photo-31527638.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
-
-<h2 id="section-5">자금 출처와 증여세 문제</h2>
-
-### 부모·자녀 간 자금 이동이 가장 흔한 함정
-
-해외 거주 부모가 자녀 명의로 한국 부동산을 사주는 경우, 자금 흐름이 곧 증여로 잡힙니다.
-
-증여세는 증여자가 비거주자이고 수증자가 거주자인지, 반대인지에 따라 신고 의무자와 세율 구조가 달라집니다.
-
-보통은 "해외에서 보낸 돈인데 한국 세무서가 알겠어?" 라고 생각하다가 매매 후 자금출처 소명 요구를 받고 막힙니다.
-
-### 자금출처 소명, 실제로 어디까지 봐야 하나
-
-국세청은 부동산 매수자에 대해 PCI(소득·소비·자산) 분석을 통해 자금출처를 검증합니다.
-
-특히 30대 이하 매수자, 고가 주택, 단기간 자금 유입 케이스는 우선 점검 대상입니다.
-
-최근 비슷한 사례에서 해외 송금 사유가 부정확해 추가 소명 요청을 받은 경우가 있었습니다.
-
-자세한 소명 전략은 거래 구조에 따라 다르므로 상담 시 안내드립니다.
+![Hands using a calculator at a desk with documents and folders, ideal for finance or accounting themes.](https://images.pexels.com/photos/8296974/pexels-photo-8296974.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-6">등기 이전과 부동산 거래신고</h2>
 
@@ -171,8 +146,7 @@ F-4 거소증 보유자가 주택을 취득할 때 적용되는 취득세율은 
 
 실무에서는 이 공증 일정이 매매 잔금일과 안 맞아 등기가 밀리는 경우가 자주 생깁니다.
 
-정확한 등기 일정 조율은 [대법원 인터넷등기소](http://www.iros.go.kr) 확인 및 법무사 협조가 필요합니다.
-
+정확한 등기 일정 조율은 대법원 인터넷등기소 확인 및 법무사 협조가 필요합니다.
 
 **가장 신속히 허가되는 출입국사무소를 찾아서 진행해 드립니다.**
 **한국내 최소체류기간으로 처리 가능합니다.**
@@ -184,3 +158,5 @@ F-4 거소증 보유자가 주택을 취득할 때 적용되는 취득세율은 
 5. 숙박관련 숙박제공자와의 연락
 
 정확한 비용은 사례별로 상이하므로 무료 상담 시 안내드립니다.
+
+**공식 사이트에서 확인하기:** [국가법령정보센터](https://www.law.go.kr)

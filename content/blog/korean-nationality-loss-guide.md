@@ -217,9 +217,3 @@ A. 본인 또는 부모·조부모가 과거 한국 국적을 보유했던 사�
 - [이중국적 허용 기준 — 한국 이중국적 가능한 경우와 불가능한 경우](/blog/dual-nationality-korea-guide)
 - [국적회복 신청 — 과거 한국 국적자의 국적 회복 절차 완전 가이드](/blog/korean-nationality-recovery-guide)
 - [국적이탈 신고 — 선천적 이중국적자 한국 국적 포기 절차](/blog/nationality-renunciation-korea)
-
-## 출처
-
-- [법제처 국가법령정보센터](https://www.law.go.kr) - 국적법 및 시행령 원문 확인
-- [하이코리아](https://www.hikorea.go.kr) - 재외동포 체류 및 국적 관련 민원 안내
-- [외교부 재외동포영사국](https://www.mofa.go.kr) - 재외공관 국적 관련 민원 안내

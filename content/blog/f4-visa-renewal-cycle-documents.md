@@ -64,7 +64,7 @@ F-4는 단수·복수 사증과 거소신고증이 분리되어 운영됩니다.
 
 | 서류 | 발급처 | 비고 |
 |------|--------|------|
-| 통합신청서 | [하이코리아](https://www.hikorea.go.kr) 양식 | 신청인 직접 작성 |
+| 통합신청서 | 하이코리아 양식 | 신청인 직접 작성 |
 | 여권 원본 및 사본 | 본국 발급 | 유효기간 6개월 이상 |
 | 표준규격 사진 1매 | 사진관 | 최근 6개월 이내 |
 | 국내거소신고증 원본 | 출입국·외국인청 | 기존 발급분 |
@@ -102,7 +102,7 @@ F-4는 단수·복수 사증과 거소신고증이 분리되어 운영됩니다.
 
 거소증 갱신은 본인 주소지 관할 출입국·외국인청에서 처리합니다.
 
-[하이코리아](https://www.hikorea.go.kr)에서 사전 방문 예약이 필수이며, 수도권 일부 청은 예약이 한 달 이상 밀려 있습니다.
+하이코리아에서 사전 방문 예약이 필수이며, 수도권 일부 청은 예약이 한 달 이상 밀려 있습니다.
 
 실무에서는 예약이 가장 빠른 사무소를 찾아 진행하면 처리 속도가 크게 갈립니다.
 
@@ -143,10 +143,7 @@ F-4는 단수·복수 사증과 거소신고증이 분리되어 운영됩니다.
 
 본인 이력에 우려가 있다면 사전 검토가 필수입니다.
 
-
-
-![A hand holding a Russian passport above a travel-themed map, capturing world travel concepts.](https://images.pexels.com/photos/7010140/pexels-photo-7010140.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Close-up of a woman's hands with business documents on a wooden desk in an office setting.](https://images.pexels.com/photos/7969739/pexels-photo-7969739.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">본국에서 갱신 또는 재신청</h2>
 
@@ -215,7 +212,7 @@ F-4 갱신은 본인 이력, 거주 상황, 만료 시점에 따라 절차가 �
 - 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - 상담시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)
 
-[법무부 출입국·외국인정책본부](https://www.immigration.go.kr) | [하이코리아](https://www.hikorea.go.kr) | [국가법령정보센터](https://www.law.go.kr)
+법무부 출입국·외국인정책본부 | 하이코리아 | 국가법령정보센터
 
 ---
 
@@ -225,3 +222,4 @@ F-4 갱신은 본인 이력, 거주 상황, 만료 시점에 따라 절차가 �
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

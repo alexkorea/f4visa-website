@@ -44,7 +44,7 @@ F-4는 취업 활동에 별도 허가가 필요 없는 거주 자격에 가깝�
 
 근거는 「재외동포의 출입국과 법적 지위에 관한 법률」 제10조 및 동법 시행령, 그리고 법무부 고시 제2023-297호입니다.
 
-자세한 조문은 [국가법령정보센터](https://www.law.go.kr)에서 확인할 수 있습니다.
+자세한 조문은 국가법령정보센터에서 확인할 수 있습니다.
 
 ### 사업자등록도 자유
 
@@ -180,7 +180,7 @@ F-4 보유자는 본인 명의로 사업자등록이 가능합니다.
 
 F-4를 단순노무에 고용한 사업주에게도 범칙금이 부과되므로, 채용 단계에서 고용주가 거절하는 경우가 많습니다.
 
-근거 법령은 [출입국관리법](https://www.law.go.kr)에서 확인 가능합니다.
+근거 법령은 출입국관리법에서 확인 가능합니다.
 
 ### F-5 영주권 전환 시 결정적 감점
 
@@ -188,10 +188,7 @@ F-4에서 F-5(영주권)로 전환할 때 과거 활동 위반 이력은 결정�
 
 당장의 범칙금보다, 향후 영주권·국적 회복 절차가 막힌다는 것이 더 큰 손실입니다.
 
-
-
-![Vibrant display of Korean traditional dance with performers in cultural attire, Jakarta.](https://images.pexels.com/photos/35432325/pexels-photo-35432325.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![A picturesque street in Seoul, South Korea, featuring cafes and shops with people walking and cycling.](https://images.pexels.com/photos/19271534/pexels-photo-19271534.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-6">직종별 합법성 빠른 비교표</h2>
 
@@ -293,7 +290,7 @@ F-5 영주권 전환에서는 일정 소득 요건이 적용됩니다.
 - **주소:** (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - **운영시간:** 평일 09:30 — 17:30 (점심 12:00 — 13:00)
 
-관할 출입국·외국인청의 최신 운영 기준은 [하이코리아](https://www.hikorea.go.kr) 및 [법무부 출입국·외국인정책본부](https://www.immigration.go.kr)에서 확인 가능합니다.
+관할 출입국·외국인청의 최신 운영 기준은 하이코리아 및 법무부 출입국·외국인정책본부에서 확인 가능합니다.
 
 ---
 
@@ -303,3 +300,4 @@ F-5 영주권 전환에서는 일정 소득 요건이 적용됩니다.
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

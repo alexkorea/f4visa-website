@@ -271,13 +271,10 @@ F-4는 한국계 혈통을 전제로 한 비자이기 때문에 **한국 가족�
   <strong style="color:#92400e">⚠️ 주의:</strong> 거소증 수령 전에 출국하려면 우편 수령 가능 여부, 수령 주소(국내 수령 주소 또는 대리인 주소)를 접수 시점에 반드시 지정해야 합니다. 사후 변경이 까다롭습니다.
 </div>
 
-
-
 <figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/7010170/pexels-photo-7010170.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A hand holding a Russian passport over a map, suggesting travel preparation." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
+  <img src="https://images.pexels.com/photos/13679334/pexels-photo-13679334.jpegA hand holding a Russian passport over a map, suggesting travel preparation." alt="Bright neon lights and bustling night scene in downtown Seoul, Korea." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
   
 </figure>
-
 
 ## 6. 주소 증빙이 약할 때의 해결책
 

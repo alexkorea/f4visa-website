@@ -31,7 +31,7 @@ CIS 지역 고려인의 F-4 비자는 일반 재외동포와 달리 **선조의 
 
 <h2 id="section-1">CIS 고려인 F-4 자격의 핵심 기준</h2>
 
-CIS 지역 고려인은 [재외동포의 출입국과 법적지위에 관한 법률](https://www.law.go.kr) 제2조에 따라 대한민국 정부 수립 이전 국외로 이주한 자와 그 직계비속에 해당합니다.
+CIS 지역 고려인은 재외동포의 출입국과 법적지위에 관한 법률 제2조에 따라 대한민국 정부 수립 이전 국외로 이주한 자와 그 직계비속에 해당합니다.
 문제는 여기서 시작됩니다.
 서류로 한국 혈통을 증명하는 것이 일반 미주·일본 동포보다 훨씬 까다롭습니다.
 
@@ -129,15 +129,12 @@ CIS 지역별 서류 차이와 본인 케이스의 가장 빠른 진행 경로�
 
 ---
 
-
-
-![Family walking beside Cheonggyecheon Stream in Seoul on a bright spring day.](https://images.pexels.com/photos/31925345/pexels-photo-31925345.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Bustling urban street in Seoul with diverse traffic and cityscape views.](https://images.pexels.com/photos/21011601/pexels-photo-21011601.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">F-4 거소증 신청과 한국 내 절차</h2>
 
 CIS에서 F-4 사증을 받고 입국한 후, 90일 이내에 관할 출입국·외국인청에서 외국국적동포 국내거소신고(거소증)를 해야 합니다.
-[하이코리아](https://www.hikorea.go.kr) 사전 예약 후 방문 접수합니다.
+하이코리아 사전 예약 후 방문 접수합니다.
 
 ### 거소증 신청 시 필요 서류
 
@@ -249,3 +246,4 @@ CIS 지역 고려인 케이스에 대한 실무 경험을 바탕으로, 가장 �
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

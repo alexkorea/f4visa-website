@@ -198,9 +198,3 @@ A. 재발급은 원칙적으로 국내 관할 출입국·외국인청에서 처�
 - [거소증 신청 방법 — F-4 재외동포 거소증 발급 완전 가이드](/blog/geo-so-jeung-guide)
 - [거소증 필요서류 — F-4 재외동포 거소증 신청 서류 체크리스트](/blog/geo-so-jeung-required-documents)
 - [미국·캐나다 재외동포 F-4 비자 신청 실무](/blog/f4-bukmi-dongpo)
-
-## 출처
-
-- [법제처 국가법령정보센터](https://www.law.go.kr) - 재외동포의 출입국과 법적 지위에 관한 법률, 출입국관리법 및 시행령
-- [하이코리아](https://www.hikorea.go.kr) - 재외동포(F-4) 체류자격 및 거소신고 안내
-- [출입국·외국인정책본부](https://www.immigration.go.kr) - 체류자격별 안내

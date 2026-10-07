@@ -23,11 +23,10 @@ F-4 거소증은 **거소허가번호만 발급되면 카드 수령 전에 출�
     <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 한국 최소 체류로 거소증 받는 흐름</a></li>
     <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 출입국사무소별 처리 속도 차이</a></li>
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 대행 진행 시 자주 받는 질문</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. E-E-A-T — 공식 출처 확인</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. FAQ</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">6. FAQ</a></li>
+    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">8. 전문가 상담이 필요하신가요?</a></li>
+    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
   </ul>
 </nav>
 
@@ -134,10 +133,7 @@ F-4 비자 신청과 거소신고 모두 사본만으로는 진행되지 않습�
 
 ---
 
-
-
-![Close-up of Polish passports and travel tickets symbolizing travel and adventure.](https://images.pexels.com/photos/33497885/pexels-photo-33497885.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![A business professional's hands signing a document at a desk, focusing on details.](https://images.pexels.com/photos/8730985/pexels-photo-8730985.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">대행 진행 시 자주 받는 질문</h2>
 
@@ -164,16 +160,6 @@ F-4 신청에는 원본이 필요합니다.
 신고 절차와 거소증 신청을 **연동해서 동시 진행**하는 것이 일반적입니다.
 
 신고 누락 상태로 한국 여권을 사용 중이라면 별도 정리가 먼저 필요합니다.
-
-<h2 id="section-6">E-E-A-T — 공식 출처 확인</h2>
-
-법령과 절차는 변동 가능성이 있으므로 아래 공식 출처를 함께 확인하세요.
-
-- [하이코리아 (HiKorea)](https://www.hikorea.go.kr) — 출입국 민원, 사전 예약
-- [출입국·외국인정책본부](https://www.immigration.go.kr) — 비자·체류 안내
-- [국가법령정보센터](https://www.law.go.kr) — 국적법, 재외동포법 원문
-
-세부 적용 기준은 출입국사무소 관할 확인이 필요합니다.
 
 <h2 id="section-7">FAQ</h2>
 

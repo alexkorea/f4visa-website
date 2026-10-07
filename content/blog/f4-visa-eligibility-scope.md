@@ -282,13 +282,10 @@ F-4 비자는 이 중 **외국국적동포**에게 발급되는 체류자격입�
 
 ---
 
-
-
 <figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/34548652/pexels-photo-34548652.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Sunlit traditional Korean Hanok house amidst autumn trees, showcasing Asian architectural beauty." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
+  <img src="https://images.pexels.com/photos/7680681/pexels-photo-7680681.jpegSunlit traditional Korean Hanok house amidst autumn trees, showcasing Asian architectural beauty." alt="Close-up of a tidy desk with receipts, documents, and office stationery for business organization." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
   
 </figure>
-
 
 <h2 id="section-5">5. 무범죄조회서·시민권증서 — 실무에서 자주 꼬이는 서류</h2>
 

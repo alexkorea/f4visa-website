@@ -44,7 +44,7 @@ F-4는 출입국관리법 시행령 별표 1의2에 따라 단순노무를 제�
 
 여기에는 개인사업자로서의 영업 행위, 법인 설립, 임원 등재가 모두 포함됩니다.
 
-근거 법령은 [출입국관리법](https://law.go.kr) 및 [재외동포의 출입국과 법적 지위에 관한 법률](https://law.go.kr)에서 확인할 수 있습니다.
+근거 법령은 출입국관리법 및 재외동포의 출입국과 법적 지위에 관한 법률에서 확인할 수 있습니다.
 
 ### 다른 비자와의 차이점
 
@@ -76,7 +76,7 @@ F-4는 신분형 자격이라 별도 투자금 요건 없이 사업자등록을 
 | 농축수산 | 단순 농작업, 양식장 보조 | 동일 |
 | 가사·돌봄 | 가사 도우미, 단순 돌봄 | 동일 |
 
-자세한 고시 내용은 [법무부 출입국·외국인정책본부](https://www.immigration.go.kr) 공지사항에서 확인 가능합니다.
+자세한 고시 내용은 법무부 출입국·외국인정책본부 공지사항에서 확인 가능합니다.
 
 ### 사행행위·풍속업 제한
 
@@ -96,7 +96,7 @@ F-4는 신분형 자격이라 별도 투자금 요건 없이 사업자등록을 
 
 거소증이 없으면 세무서에서 사업자등록증을 발급하지 않습니다.
 
-거소신고는 [하이코리아](https://www.hikorea.go.kr) 또는 관할 출입국·외국인청에서 진행합니다.
+거소신고는 하이코리아 또는 관할 출입국·외국인청에서 진행합니다.
 
 ### 2단계: 사업장 임대차계약
 
@@ -108,7 +108,7 @@ F-4는 신분형 자격이라 별도 투자금 요건 없이 사업자등록을 
 
 ### 3단계: 세무서 사업자등록 신청
 
-관할 세무서 민원실 또는 [국세청 홈택스](https://www.hometax.go.kr)에서 신청합니다.
+관할 세무서 민원실 또는 국세청 홈택스에서 신청합니다.
 
 | 제출 서류 | 내용 | 비고 |
 |---|---|---|
@@ -164,10 +164,7 @@ F-4 소지자가 법인 대표이사로 등재되는 것에는 별도 자격 제
 
 > **실무 팁:** 매출 규모, 거래처 요구, 향후 투자 계획을 종합해서 선택해야 합니다. 단순히 "법인이 멋있어 보여서" 시작했다가 회계 비용으로 고생하는 사례가 자주 보입니다.
 
-
-
-![Vibrant display of Korean traditional dance with performers in cultural attire, Jakarta.](https://images.pexels.com/photos/35432325/pexels-photo-35432325.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![A wooden vintage shop facade on an urban street with various traditional items on display.](https://images.pexels.com/photos/39037954/pexels-photo-39037954.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-6">사업자등록 후 자주 발생하는 실무 이슈</h2>
 
@@ -291,3 +288,4 @@ F-4 사업자등록은 거소증, 임대차, 업종 적합성, 후속 신고가 
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

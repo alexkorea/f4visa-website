@@ -37,7 +37,7 @@ F-4 거소증 발급 기간은 서류가 완비된 상태라면 접수 후 며�
 
 ### 1구간 — 방문예약 대기
 
-[하이코리아](https://www.hikorea.go.kr) 전자민원의 방문예약 화면에서 잡히는 날짜가 첫 번째 변수입니다.
+하이코리아 전자민원의 방문예약 화면에서 잡히는 날짜가 첫 번째 변수입니다.
 
 같은 날 조회해도 사무소마다 가장 빠른 예약일이 다르게 뜹니다.
 
@@ -100,7 +100,7 @@ F-4 거소증 발급 기간은 서류가 완비된 상태라면 접수 후 며�
 
 같은 사무소도 두 달 전과 지금이 다르기 때문입니다.
 
-> **주의:** 위 경향은 확정된 처리기간이 아닙니다. 공식 처리기간과 관할 안내는 [법무부 출입국·외국인정책본부](https://www.immigration.go.kr)와 하이코리아에서 관할 기관 확인이 필요합니다.
+> **주의:** 위 경향은 확정된 처리기간이 아닙니다. 공식 처리기간과 관할 안내는 법무부 출입국·외국인정책본부와 하이코리아에서 관할 기관 확인이 필요합니다.
 
 <h2 id="section-4">서류 하나가 전체 기간을 늘립니다</h2>
 
@@ -120,7 +120,7 @@ F-4 신청에는 **시민권증서 원본**이 들어갑니다.
 
 ### 국적상실 처리 여부
 
-외국 시민권을 취득한 순간 한국 국적은 즉시 자동으로 상실됩니다([국적법 제15조](https://www.law.go.kr)).
+외국 시민권을 취득한 순간 한국 국적은 즉시 자동으로 상실됩니다(국적법 제15조).
 
 국적상실신고는 행정 정리 절차일 뿐이고, 신고 전이라도 이미 상실 상태입니다.
 
@@ -139,10 +139,7 @@ F-4 신청에는 **시민권증서 원본**이 들어갑니다.
 
 **지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea**
 
-
-
-![Close-up view of a hand signing an official child adoption certificate document.](https://images.pexels.com/photos/8524948/pexels-photo-8524948.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Close-up of a business professional in a white suit holding documents in a modern office setting.](https://images.pexels.com/photos/10339252/pexels-photo-10339252.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">거소허가번호가 나오면 출국할 수 있습니다</h2>
 
@@ -254,3 +251,4 @@ F-4 신청에는 **시민권증서 원본**이 들어갑니다.
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

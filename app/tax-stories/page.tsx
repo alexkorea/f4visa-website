@@ -82,9 +82,9 @@ export default async function TaxStoriesPage() {
                     href={`/blog/${post.slug}`}
                     className="group overflow-hidden rounded-2xl border border-border bg-card transition-all hover:border-primary/30 hover:shadow-lg"
                   >
-                    <div className="relative aspect-[16/10] overflow-hidden">
+                    <div className="relative aspect-[1200/630] overflow-hidden">
                       <Image src={post.image} alt={post.title} fill className="object-cover transition-transform duration-300 group-hover:scale-105" />
-                      <div className="absolute top-3 left-3">
+                      <div className="absolute bottom-3 right-3">
                         <span className="inline-flex items-center gap-2 px-4 py-2 bg-primary text-primary-foreground text-xs font-medium rounded-full">
                           <Tag className="h-3 w-3" />
                           {post.category}

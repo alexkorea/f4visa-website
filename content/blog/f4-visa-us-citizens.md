@@ -277,13 +277,10 @@ F-4는 크게 두 경로로 받습니다. 어느 쪽이 빠를지는 현재 위�
   <strong style="color:#1e40af">💡 실무 팁:</strong> 미국 공관 신청 대기가 길거나 서류 보완이 반복될 것 같으면, 단기 비자로 한국에 들어와 국내에서 체류자격 변경으로 전환하는 쪽이 실제로 더 빠릅니다. 행정사사무소 이룸은 이 경우를 대비해 서울 내 임시주소 제공까지 지원합니다.
 </div>
 
-
-
 <figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/7010170/pexels-photo-7010170.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A hand holding a Russian passport over a map, suggesting travel preparation." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
+  <img src="https://images.pexels.com/photos/26730892/pexels-photo-26730892.jpegA hand holding a Russian passport over a map, suggesting travel preparation." alt="Dimly lit urban alley lined with tall buildings in Seoul, exuding a moody vibe." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
   
 </figure>
-
 
 ## 신청 절차 단계별 진행 순서
 

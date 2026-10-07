@@ -162,10 +162,7 @@ slug: "f4-koryoin-application-guide"
 서류를 미리 떼두었다가 신청이 늦어져 다시 발급받는 사례가 자주 발생합니다.
 본국 재발급은 시간이 오래 걸리므로 **신청 직전 발급**이 안전합니다.
 
-
-
-![Close-up view of a hand signing an official child adoption certificate document.](https://images.pexels.com/photos/8524948/pexels-photo-8524948.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Vibrant city street with traffic lights and pedestrians under summer sunlight.](https://images.pexels.com/photos/18940114/pexels-photo-18940114.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">단순노무 활동 제한</h2>
 
@@ -187,7 +184,7 @@ F-4는 취업비자가 아니라 **체류 자격**입니다.
 - 자영업·사업자등록 후 사업 운영
 - 강사·연구·기술 직군
 
-자세한 직종 분류와 본인 직무가 어디에 속하는지는 [하이코리아](https://www.hikorea.go.kr) 안내와 함께 사례별 검토가 필요합니다.
+자세한 직종 분류와 본인 직무가 어디에 속하는지는 하이코리아 안내와 함께 사례별 검토가 필요합니다.
 
 <h2 id="section-6">법령 근거와 확인 경로</h2>
 
@@ -197,9 +194,9 @@ F-4는 취업비자가 아니라 **체류 자격**입니다.
 - 출입국관리법 및 시행규칙
 - 국적법 제15조(국적상실)
 
-법령 원문은 [국가법령정보센터](https://www.law.go.kr)에서 확인할 수 있습니다.
-공관별 사증 요건은 [외교부](https://www.mofa.go.kr) 또는 주재국 한국 공관 공지를 따로 봐야 합니다.
-국내 절차는 [출입국·외국인정책본부](https://www.immigration.go.kr) 안내가 기준입니다.
+법령 원문은 국가법령정보센터에서 확인할 수 있습니다.
+공관별 사증 요건은 외교부 또는 주재국 한국 공관 공지를 따로 봐야 합니다.
+국내 절차는 출입국·외국인정책본부 안내가 기준입니다.
 
 > **주의:** 동일 서류라도 관할 출입국사무소·공관별로 요구 양식이 미세하게 다릅니다.
 > 본인 사례 기준의 정확한 적용 여부는 사전 확인이 안전합니다.
@@ -266,3 +263,4 @@ F-4 신청 시 **시민권증서 원본**이 요구되는 경우가 일반적입
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

@@ -33,7 +33,7 @@ slug: "f4-geosojeung-daehaeng-minimum-stay"
 
 ### 국내거소신고란 무엇인가
 
-거소증(국내거소신고증)은 [재외동포의 출입국과 법적 지위에 관한 법률](https://www.law.go.kr) 제6조에 근거한 국내거소신고를 마친 재외동포에게 발급되는 신분증입니다.
+거소증(국내거소신고증)은 재외동포의 출입국과 법적 지위에 관한 법률 제6조에 근거한 국내거소신고를 마친 재외동포에게 발급되는 신분증입니다.
 거소증이 있어야 은행 계좌 개설, 건강보험 가입, 부동산 등기 등 국내 생활의 대부분이 풀립니다.
 겉으로는 간단해 보여도, 실무에서는 "어디까지 대행이 되는가"를 잘못 알고 일정을 짰다가 꼬이는 경우가 흔합니다.
 
@@ -64,7 +64,7 @@ slug: "f4-geosojeung-daehaeng-minimum-stay"
 
 한국 도착 후 서류를 만들기 시작하면 체류가 길어집니다.
 기본증명서(상세), 가족관계증명서(상세), 제적등본은 입국 전에 발급대행으로 미리 확보할 수 있습니다.
-방문 예약도 [하이코리아](https://www.hikorea.go.kr)를 통해 입국 전에 잡아두어야 도착 직후 바로 신청이 가능합니다.
+방문 예약도 하이코리아를 통해 입국 전에 잡아두어야 도착 직후 바로 신청이 가능합니다.
 보통은 이 예약 단계에서 걸립니다.
 사무소에 따라 예약이 몇 주씩 밀려 있는 곳이 있기 때문입니다.
 
@@ -88,7 +88,7 @@ slug: "f4-geosojeung-daehaeng-minimum-stay"
 ### 국적상실은 신고 전에 이미 발생한 상태입니다
 
 서류보다 더 중요한 것은 국적 상태의 정리입니다.
-[국적법](https://www.law.go.kr) 제15조에 따라 외국 시민권을 취득하면 한국 국적은 그 시점에 **자동으로 상실**됩니다.
+국적법 제15조에 따라 외국 시민권을 취득하면 한국 국적은 그 시점에 **자동으로 상실**됩니다.
 국적상실신고는 이미 발생한 상실을 행정적으로 정리하는 절차일 뿐, 신고 전이라도 법적으로는 이미 상실 상태입니다.
 
 > **주의:** 국적상실 후 한국 여권을 계속 사용하면 여권법 위반(부정사용)에 해당합니다.
@@ -133,10 +133,7 @@ slug: "f4-geosojeung-daehaeng-minimum-stay"
 
 지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea
 
-
-
-![Busy day at a Seoul subway station with commuters navigating their way.](https://images.pexels.com/photos/19271594/pexels-photo-19271594.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Professional woman in a home office reviewing documents on a laptop and papers.](https://images.pexels.com/photos/7679589/pexels-photo-7679589.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">출입국사무소 선택 — 발급 속도가 여기서 갈립니다</h2>
 
@@ -150,7 +147,7 @@ slug: "f4-geosojeung-daehaeng-minimum-stay"
 
 신고는 체류지 관할 사무소에서 이루어지므로, 임시주소를 어디에 두느냐가 곧 어느 사무소에서 신청하느냐를 결정합니다.
 빠른 사무소 관할에 체류지를 두는 것이 최소 체류 설계의 출발점입니다.
-사무소별 관할과 예약 방법은 [법무부 출입국·외국인정책본부](https://www.immigration.go.kr)에서 안내하고 있으며, 세부 운영은 변경될 수 있어 관할 기관 확인이 필요합니다.
+사무소별 관할과 예약 방법은 법무부 출입국·외국인정책본부에서 안내하고 있으며, 세부 운영은 변경될 수 있어 관할 기관 확인이 필요합니다.
 
 <h2 id="section-6">거소증 수령대행과 해외 발송 — 출국 후 절차</h2>
 
@@ -235,3 +232,4 @@ F-4 신청 시 시민권증서 **원본**이 요구됩니다.
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

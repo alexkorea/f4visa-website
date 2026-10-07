@@ -63,7 +63,7 @@ slug: "f4-visa-applicant-eligibility-korean-heritage-scope"
 **서브키워드:** 국적법 적용 & 위반 사례
 
 ### 국적법 제15조 실제 적용  
-국적법 제15조는 외국 시민권 취득 시 한국 국적이 즉시 자동으로 상실됨을 명시합니다([법령출처](https://www.law.go.kr/LSW/lsInfoP.do?efYd=20240410&lsiSeq=46231#0000)).  
+국적법 제15조는 외국 시민권 취득 시 한국 국적이 즉시 자동으로 상실됨을 명시합니다.  
 이 때문에 실제 심사에서는 국적상실신고 이전에도 이미 F-4 비자 자격이 되는 것이 핵심입니다.  
 가장 많이 놓치는 부분은 시민권 취득 이후에도 한국 여권을 쓰거나 출입국서류에 한국 국적을 적는 경우인데, 이건 명확하게 위반(여권법/출입국관리법)입니다.  
 최근 비슷한 사례에서 시민권증서 제출이 늦어질 경우 심사가 꼬이거나, 신청 자체가 거절되는 일이 있습니다.  
@@ -159,13 +159,10 @@ F-4 비자는 아래 서류가 기본입니다.
 
 ---
 
-
-
 <figure style="margin:32px auto;text-align:center">
   <img src="https://images.pexels.com/photos/32028722/pexels-photo-32028722.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Explore a quaint street in a Seoul neighborhood, showcasing Korean culture and architecture." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
   
 </figure>
-
 
 <h2 id="section-5">H2. 신청 절차와 실제 처리기간</h2>
 **서브키워드:** 심사 단계, 처리 속도, 출입국사무소별 차이
@@ -242,10 +239,6 @@ A. 처리기간은 출입국사무소별로 달라지며, 가장 빠른 곳을 �
 행정사사무소 이룸
 
 ---  
-공식 출처 확인:  
-- [법령정보시스템: 국적법 제15조](https://www.law.go.kr/LSW/lsInfoP.do?efYd=20240410&lsiSeq=46231#0000)  
-- [하이코리아 F-4 재외동포 비자 안내](https://www.hikorea.go.kr/Main/Category/ForeignPrsnGuide/OverseasKoreanF4)
-
 ---
 
 <h2 id="section-9">행정사사무소 이룸 F-4 서비스 안내</h2>
@@ -260,7 +253,6 @@ A. 처리기간은 출입국사무소별로 달라지며, 가장 빠른 곳을 �
 5. 숙박관련 숙박제공자와의 연락
 
 비용은 사례별로 상이하므로 무료 상담 시 정확히 안내드립니다.
-
 
 ---
 

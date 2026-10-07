@@ -221,9 +221,3 @@ A. 신고인이 미성년자인 경우 법정대리인이 대리해 진행하는
 - [국적회복 신청 — 과거 한국 국적자의 국적 회복 절차 완전 가이드](/blog/korean-nationality-recovery-guide)
 - [국적상실 신고 방법 — 외국 국적 취득 후 한국 국적 처리 가이드](/blog/korean-nationality-loss-guide)
 - [복수국적 허용 조건과 국적이탈 vs 국적상실 차이 완벽 정리](/blog/dual-nationality-conditions-vs-nationality-loss-renunciation)
-
-## 출처
-
-- [법제처 국가법령정보센터](https://www.law.go.kr) - 국적법 및 시행령
-- [법무부 국적과 안내](https://www.moj.go.kr) - 국적이탈 신고 절차 안내
-- [외교부 재외동포영사국](https://www.mofa.go.kr) - 재외공관 국적 관련 민원 안내

@@ -45,7 +45,7 @@ F-5-7(재외동포 영주권) 신청은 보통 F-4 자격으로 2년 이상 국�
 
 출국이 잦았던 분들은 바로 이 부분에서 걸리는 경우가 많습니다.
 
-자세한 체류 일수 산정 기준은 [하이코리아](https://www.hikorea.go.kr) 공지사항을 통해 최신 안내를 확인할 수 있습니다.
+자세한 체류 일수 산정 기준은 하이코리아 공지사항을 통해 최신 안내를 확인할 수 있습니다.
 
 ### 생계 유지 능력 요건
 
@@ -110,7 +110,7 @@ F-4로 2년을 채웠어도 출국 일수가 많으면 "국내 정착 의사"가
 
 ### 국적 상실 신고 누락
 
-외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다([국적법 제15조](https://www.law.go.kr)).
+외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다(국적법 제15조).
 
 국적상실신고는 행정 정리 절차일 뿐이며, 신고 전이라도 이미 상실 상태입니다.
 
@@ -143,10 +143,7 @@ F-4로 2년을 채웠어도 출국 일수가 많으면 "국내 정착 의사"가
 
 > **실무 팁:** 같은 서류라도 접수 관할청에 따라 보정 요청 빈도와 처리 속도가 크게 차이 납니다.
 
-
-
-![Exterior view of the US Immigration and Customs Enforcement building with a visible flag and signage.](https://images.pexels.com/photos/36984942/pexels-photo-36984942.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![A bustling night scene in Myeongdong, Seoul, showcasing vibrant signs and street activity.](https://images.pexels.com/photos/33019190/pexels-photo-33019190.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">F-4와 F-5의 차이점 비교</h2>
 
@@ -160,7 +157,7 @@ F-4로 2년을 채웠어도 출국 일수가 많으면 "국내 정착 의사"가
 
 F-4가 "동포로서의 거주권"이라면, F-5는 "국민에 가까운 영주권"이라는 차이가 있습니다.
 
-자세한 자격별 활동 범위는 [출입국·외국인정책본부](https://www.immigration.go.kr) 안내를 참고하세요.
+자세한 자격별 활동 범위는 출입국·외국인정책본부 안내를 참고하세요.
 
 <h2 id="section-6">F-5 신청 전 반드시 확인할 사항</h2>
 
@@ -244,3 +241,4 @@ F-4에서 F-5로의 전환은 서류 한 장 차이로 결과가 갈리는 경�
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

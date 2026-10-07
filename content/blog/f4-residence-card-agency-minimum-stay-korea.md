@@ -84,7 +84,7 @@ F-4 거소증은 출입국사무소에서 **거소허가번호**만 받으면 �
 
 해외 거주자가 한국에 도착해서 직접 떼러 다니면 하루~이틀이 그대로 소진됩니다.
 
-> **주의:** 시민권 취득 시 한국 국적은 [국적법 제15조](https://www.law.go.kr/법령/국적법)에 따라 **즉시 자동 상실**됩니다. 국적상실신고는 행정 정리 절차일 뿐이며, 신고 전이라도 이미 상실 상태입니다. 국적상실 후 한국 여권을 사용하면 여권법 위반(부정사용)에 해당합니다.
+> **주의:** 시민권 취득 시 한국 국적은 국적법 제15조에 따라 **즉시 자동 상실**됩니다. 국적상실신고는 행정 정리 절차일 뿐이며, 신고 전이라도 이미 상실 상태입니다. 국적상실 후 한국 여권을 사용하면 여권법 위반(부정사용)에 해당합니다.
 
 <h2 id="section-3">최소 체류로 끝내는 동선 — 입국 후 며칠이면 충분한가</h2>
 
@@ -144,12 +144,9 @@ F-4 거소증은 한국 내 체류지를 기재해야 신청이 가능합니다.
 
 본인은 임시주소를 등록하고 곧바로 신청 접수가 가능합니다.
 
-> **주의:** 임시주소는 거소증 발급 후에도 일정 기간 유지·관리가 필요하며, 변경 시 14일 이내 신고 의무가 있습니다(재외동포법 제6조②, [HiKorea](https://www.hikorea.go.kr) 참고).
+> **주의:** 임시주소는 거소증 발급 후에도 일정 기간 유지·관리가 필요하며, 변경 시 14일 이내 신고 의무가 있습니다(재외동포법 제6조②, HiKorea 참고).
 
-
-
-![Top view of two Ukrainian passports with US dollar bills on a white surface.](https://images.pexels.com/photos/8061944/pexels-photo-8061944.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![A close-up image of a hand holding a pen and writing on white paper, symbolizing business and communication.](https://images.pexels.com/photos/7504771/pexels-photo-7504771.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-6">신청서 작성과 심사에서 갈리는 포인트</h2>
 
@@ -251,7 +248,7 @@ F-4 거소증 신청은 서류 한 줄, 사무소 한 곳의 차이로 며칠이
 - 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - 상담시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)
 
-참고: [출입국·외국인정책본부](https://www.immigration.go.kr) | [HiKorea](https://www.hikorea.go.kr) | [국가법령정보센터 — 국적법](https://www.law.go.kr/법령/국적법)
+참고: 출입국·외국인정책본부 | HiKorea | 국가법령정보센터 — 국적법
 
 ---
 
@@ -261,3 +258,4 @@ F-4 거소증 신청은 서류 한 줄, 사무소 한 곳의 차이로 며칠이
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

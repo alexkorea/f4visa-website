@@ -128,17 +128,14 @@ F-4는 과거 대한민국 국적을 보유했던 사람과 그 직계비속이 
 
 국적상실 상태에서 한국 여권을 계속 사용하면 여권법상 부정사용에 해당합니다.
 
-정확한 법조문은 [국가법령정보센터](https://www.law.go.kr)에서 국적법·여권법을 직접 확인할 수 있습니다.
+정확한 법조문은 국가법령정보센터에서 국적법·여권법을 직접 확인할 수 있습니다.
 
 본인 사례가 어디에 해당하는지는 이력마다 갈리므로 관할 기관 확인이 필요합니다.
 
 정확한 비용과 절차는 전문가 상담을 통해 확인하세요.
 지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea
 
-
-
-![A modern urban building surrounded by colorful autumn trees in a cityscape setting.](https://images.pexels.com/photos/14194618/pexels-photo-14194618.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![A neat office setup with binders, eyeglasses, and a laptop, perfect for productivity.](https://images.pexels.com/photos/7681493/pexels-photo-7681493.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">F-4 신청 절차와 처리 흐름</h2>
 
@@ -162,7 +159,7 @@ F-4는 과거 대한민국 국적을 보유했던 사람과 그 직계비속이 
 
 가장 빠른 곳을 찾아 진행하는 것이 실무에서 체감되는 차이를 만듭니다.
 
-관할 기준과 신청 방식은 [하이코리아](https://www.hikorea.go.kr)와 [출입국·외국인정책본부](https://www.immigration.go.kr)에서 확인할 수 있습니다.
+관할 기준과 신청 방식은 하이코리아와 출입국·외국인정책본부에서 확인할 수 있습니다.
 
 <h2 id="section-6">신청 전 자주 막히는 실무 포인트</h2>
 
@@ -255,3 +252,4 @@ F-4 자격은 서류의 수보다 국적 이력의 연결에서 통과 여부가
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

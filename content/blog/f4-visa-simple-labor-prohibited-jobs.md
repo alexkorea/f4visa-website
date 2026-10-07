@@ -35,7 +35,7 @@ F-4 재외동포 비자는 단순노무 업종 취업이 법령으로 명확히 
 
 ### 어디에 규정되어 있는가
 
-F-4 자격자의 취업활동 범위는 출입국관리법 시행령 제23조 및 [법무부 고시 제2023-187호](https://www.law.go.kr)에 따라 정해집니다.
+F-4 자격자의 취업활동 범위는 출입국관리법 시행령 제23조 및 법무부 고시 제2023-187호에 따라 정해집니다.
 핵심은 이것입니다.
 F-4는 "단순노무행위에 해당하는 직종에는 종사할 수 없다"가 명문 규정입니다.
 즉 허용된 업종을 나열하는 방식이 아니라, 금지 업종을 따로 정하는 네거티브 방식이라 본인이 하는 일이 단순노무에 해당하는지 스스로 점검해야 합니다.
@@ -137,10 +137,7 @@ F-4는 "단순노무행위에 해당하는 직종에는 종사할 수 없다"가
 네, 시간·기간과 관계없이 단순노무 직종 종사 자체가 위반입니다.
 오히려 단기 적발이 누적되면 상습성이 인정되어 처분이 더 무거워집니다.
 
-
-
-![Police officers on duty in Seoul, South Korea, showcasing urban life and safety enforcement.](https://images.pexels.com/photos/31720191/pexels-photo-31720191.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![A group of professionals brainstorming and planning on a whiteboard in a stylish office setting.](https://images.pexels.com/photos/8518810/pexels-photo-8518810.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-6">F-4 유지하면서 안전하게 일하는 실무 체크리스트</h2>
 
@@ -201,9 +198,9 @@ A. 가사·돌봄 영역의 단순노무는 금지 직종에 포함됩니다. �
 
 <h2 id="section-9">참고 법령 및 공식 자료</h2>
 
-- [출입국관리법 시행령 제23조](https://www.law.go.kr) — 체류자격별 활동범위
-- [하이코리아 — 재외동포(F-4) 안내](https://www.hikorea.go.kr)
-- [법무부 출입국·외국인정책본부](https://www.immigration.go.kr) — 단순노무 직종 고시
+- 출입국관리법 시행령 제23조 — 체류자격별 활동범위
+- 하이코리아 — 재외동포(F-4) 안내
+- 법무부 출입국·외국인정책본부 — 단순노무 직종 고시
 - 한국표준직업분류(KSCO) 대분류 9 — 단순노무종사자
 
 법령은 수시로 개정되므로 본인 사례에 적용되는 최신 기준은 관할 출입국사무소 또는 행정사 확인이 필요합니다.
@@ -244,3 +241,4 @@ F-4 단순노무 적발 위험이 있거나, 이미 적발되어 대응이 급�
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

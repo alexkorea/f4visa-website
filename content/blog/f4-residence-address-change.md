@@ -231,13 +231,10 @@ F-4 비자(재외동포 비자)로 국내거소신고를 마친 분들은 거소
 
 임대차계약서가 본인이 아닌 가족 명의로 되어 있는 경우, **계약자의 거주동의서가 추가로 필요**합니다. 부부 공동명의나 부모 명의 계약은 흔한 케이스인데, 이 부분이 약하면 동주민센터에서 보정 요청이 들어와 다시 방문해야 합니다.
 
-
-
 <figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/13306495/pexels-photo-13306495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A detailed close-up of the wrinkled South Korean flag on fabric, showcasing its vibrant colors." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
+  <img src="https://images.pexels.com/photos/39087503/pexels-photo-39087503.jpegA detailed close-up of the wrinkled South Korean flag on fabric, showcasing its vibrant colors." alt="A cheerful woman reviewing documents at her office desk, showcasing a productive work environment." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
   
 </figure>
-
 
 <h2 id="section-5">5. 신고 절차 단계별 따라하기</h2>
 

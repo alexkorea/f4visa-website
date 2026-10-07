@@ -89,7 +89,7 @@ F-4 비자 신고 대상은 다음과 같이 구분됩니다.
 
 신고는 두 가지 경로로 가능합니다.
 
-1. 하이코리아([hikorea.go.kr](https://www.hikorea.go.kr)) 온라인 신고
+1. 하이코리아(hikorea.go.kr) 온라인 신고
 2. 관할 출입국·외국인청 방문 신고
 
 온라인 신고가 가능하지만 본인의 체류 상태나 근무지 정보에 따라 시스템에서 처리되지 않는 경우가 흔히 발생합니다.
@@ -151,10 +151,7 @@ F-4 비자 신고 대상은 다음과 같이 구분됩니다.
 
 ---
 
-
-
-![A family wearing traditional Hanbok enjoys a spring day at a Seoul park.](https://images.pexels.com/photos/32073492/pexels-photo-32073492.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Street scene in Seoul capturing pedestrians at a crosswalk on a bustling day.](https://images.pexels.com/photos/19271539/pexels-photo-19271539.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">이직·퇴사 시 추가 신고 의무</h2>
 
@@ -264,11 +261,9 @@ F-4 비자 취업 신고는 단순 행정 절차로 보이지만, 신고 시점�
 - 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - 상담 시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)
 
-관련 법령 및 공식 정보는 아래 출처에서 확인할 수 있습니다.
-
-- [하이코리아 (출입국·외국인정책본부)](https://www.hikorea.go.kr)
-- [법무부 출입국·외국인정책본부](https://www.immigration.go.kr)
-- [국가법령정보센터](https://www.law.go.kr)
+- 하이코리아 (출입국·외국인정책본부)
+- 법무부 출입국·외국인정책본부
+- 국가법령정보센터
 
 ---
 
@@ -278,3 +273,4 @@ F-4 비자 취업 신고는 단순 행정 절차로 보이지만, 신고 시점�
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

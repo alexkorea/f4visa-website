@@ -59,7 +59,7 @@ F-4 비자는 원칙적으로 대부분의 업종에서 자유롭게 취업하�
 
 > **실무 팁:** F-4는 취업 후 근무처가 생기면 취업개시 신고를 해야 합니다. 업종보다 '실제 직무 내용'이 먼저 드러나므로, 직무기술이 애매하면 이 단계에서 걸립니다.
 
-공식 근거는 [하이코리아(hikorea.go.kr)](https://www.hikorea.go.kr)와 [법무부 출입국·외국인정책본부(immigration.go.kr)](https://www.immigration.go.kr)에서 확인할 수 있습니다.
+공식 근거는 하이코리아(hikorea.go.kr)와 법무부 출입국·외국인정책본부(immigration.go.kr)에서 확인할 수 있습니다.
 
 <h2 id="section-2">F-4 비자 제한 업종 — 단순노무행위</h2>
 
@@ -93,7 +93,7 @@ F-4의 가장 대표적인 제한은 '단순노무행위'입니다.
 
 > **주의:** 단순노무 세부 직종은 법무부 고시로 개정될 수 있습니다. 최근 이 기준이 조정된 사례가 있어, 본인 직무의 정확한 적용 여부는 관할 출입국·외국인청 확인이 필요합니다.
 
-세부 직종 고시 원문은 [국가법령정보센터(law.go.kr)](https://www.law.go.kr)에서 확인할 수 있습니다.
+세부 직종 고시 원문은 국가법령정보센터(law.go.kr)에서 확인할 수 있습니다.
 
 <h2 id="section-3">F-4 비자 사행·유흥 등 풍속 관련 제한 업종</h2>
 
@@ -148,10 +148,7 @@ F-4는 복수 근무처나 겸업도 가능성이 있지만, 각 활동이 모�
 
 > **실무 팁:** 최근 비슷한 사례에서, 본업은 문제없었지만 부업으로 등록한 업종이 제한에 걸려 연장이 지연된 경우가 있었습니다. 본인 상황에 맞는 조합인지 사전 검토가 필요합니다.
 
-
-
-![Family walking beside Cheonggyecheon Stream in Seoul on a bright spring day.](https://images.pexels.com/photos/31925345/pexels-photo-31925345.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Two young professional women engaging in a conversation in a modern office setting.](https://images.pexels.com/photos/8101526/pexels-photo-8101526.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">F-4 비자 취업 제한 위반 시 불이익</h2>
 
@@ -208,7 +205,7 @@ F-4 신청 자체와도 연결되는 부분이 있습니다.
 
 **Q3. 단순노무 세부 직종은 어디서 확인하나요?**
 
-법무부 고시로 정해지며 [국가법령정보센터(law.go.kr)](https://www.law.go.kr)에서 원문을 볼 수 있습니다.
+법무부 고시로 정해지며 국가법령정보센터(law.go.kr)에서 원문을 볼 수 있습니다.
 
 고시는 개정될 수 있어 본인 직무의 적용 여부는 관할 기관 확인이 필요합니다.
 
@@ -254,3 +251,4 @@ F-4 신청 자체와도 연결되는 부분이 있습니다.
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

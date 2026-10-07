@@ -27,7 +27,7 @@ author: "행정사사무소 이룸"
 <ul style="margin:0;padding-left:20px;line-height:1.9">
 <li>F-4 비자는 최초 발급 시 <strong>2년 체류</strong>, 연장 시 <strong>최대 2년씩 연장</strong> 가능</li>
 <li>체류기간 만료일 <strong>4개월 전부터</strong> 연장 신청 가능</li>
-<li><a href="https://www.hikorea.go.kr" target="_blank" rel="noopener" style="color:#1e40af">하이코리아 포털</a>을 통해 <strong>온라인으로 신청</strong> 가능 (직접 방문 없이)</li>
+<li>하이코리아 포털을 통해 <strong>온라인으로 신청</strong> 가능 (직접 방문 없이)</li>
 <li>체류기간 초과 시 출국 강제, 재입국 금지 등 불이익 발생</li>
 <li>연장 심사 기간은 관할 기관 사정에 따라 다르며 개별 확인 필요</li>
 </ul>
@@ -112,7 +112,7 @@ F-4 비자 체류기간 연장은 아래 요건을 모두 충족해야 합니다
 </tr>
 <tr style="background:#f8fafc">
 <td style="padding:12px;text-align:center;border:1px solid #ddd"><strong>1</strong></td>
-<td style="padding:12px;border:1px solid #ddd"><a href="https://www.hikorea.go.kr" target="_blank" rel="noopener" style="color:#1e40af">하이코리아 포털</a> 접속 → 회원가입 또는 로그인 (외국인등록번호 필요)</td>
+<td style="padding:12px;border:1px solid #ddd">하이코리아 포털 접속 → 회원가입 또는 로그인 (외국인등록번호 필요)</td>
 </tr>
 <tr>
 <td style="padding:12px;text-align:center;border:1px solid #ddd"><strong>2</strong></td>
@@ -153,7 +153,7 @@ F-4 비자 체류기간 연장은 아래 요건을 모두 충족해야 합니다
 5. 외국인등록증에 체류기간 연장 스탬프 날인 또는 새 등록증 발급
 
 **전국 주요 출입국·외국인청:**
-- 서울출입국·외국인청 — 2026년 10월 19일부터 서울특별시 송파구 정의로 55(신축청사)로 이전 — 10월 18일까지는 양천구 목동동로 151 ([법무부 공지 2026-10-02](https://www.immigration.go.kr/bbs/immigration/47/611051/artclView.do)), 문의 02-2650-6214, 이전 후 번호는 1345 확인
+- 서울출입국·외국인청 — 2026년 10월 19일부터 서울특별시 송파구 정의로 55(신축청사)로 이전 — 10월 18일까지는 양천구 목동동로 151 (법무부 공지 2026-10-02), 문의 02-2650-6214, 이전 후 번호는 1345 확인
 - 인천공항출입국·외국인청
 - 부산출입국·외국인청
 - 수원출입국·외국인청 등
@@ -206,3 +206,5 @@ A. 네, 미국·캐나다·호주 등 어느 나라의 시민권자라도 F-4 �
 <p style="margin:8px 0;font-size:14px;opacity:0.8">월~금 09:30~17:30 (KST) | 토·공휴일 휴무</p>
 <a href="/contact" style="display:inline-block;margin-top:12px;padding:12px 28px;background:#A33344;color:white;border-radius:6px;text-decoration:none;font-weight:bold">무료 상담 신청하기</a>
 </div>
+
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

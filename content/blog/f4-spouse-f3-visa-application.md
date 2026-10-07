@@ -79,13 +79,13 @@ F-3를 받는 경로는 크게 두 가지입니다.
 
 배우자가 외국에 있는 경우, 거주국 주재 한국 공관에서 F-3 사증을 신청합니다.
 초청자가 한국에서 사증발급인정서를 먼저 받아 보내주면 공관 심사 속도가 빨라지는 경우가 보통입니다.
-사증발급인정서는 [하이코리아](https://www.hikorea.go.kr)에서 절차를 확인할 수 있습니다.
+사증발급인정서는 하이코리아에서 절차를 확인할 수 있습니다.
 
 ### 한국 내 체류자격 변경
 
 배우자가 이미 다른 자격(예: 단기방문 C-3, 관광 등)으로 한국에 있다면 출입국·외국인청에서 F-3로 변경 신청이 가능합니다.
 다만 단기자격에서 장기자격으로의 변경은 제한되는 경우가 많아 실무에서는 사전 검토가 필수입니다.
-관할 출입국·외국인청 정보는 [출입국·외국인정책본부](https://www.immigration.go.kr)에서 확인할 수 있습니다.
+관할 출입국·외국인청 정보는 출입국·외국인정책본부에서 확인할 수 있습니다.
 
 ### 처리 기간과 관할 차이
 
@@ -148,10 +148,7 @@ F-4 초청자가 한국에 실제로 거주하지 않으면 동반자 자격이 
 미성년 자녀를 함께 데려오는 경우 자녀의 출생증명서, 부모-자녀 관계 입증 서류가 별도로 들어갑니다.
 배우자 서류에 묶어 처리되지 않으니 분리해서 준비해야 합니다.
 
-
-
-![Close-up of Polish passports and travel tickets symbolizing travel and adventure.](https://images.pexels.com/photos/33497885/pexels-photo-33497885.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Asian family bonding outdoors, with adults sitting on a bench engaging with a child.](https://images.pexels.com/photos/8297670/pexels-photo-8297670.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-6">F-3 체류 중 유의사항</h2>
 
@@ -239,3 +236,4 @@ F-4 소지자의 배우자 F-3 신청은 혼인관계 입증과 초청자 신분
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

@@ -63,12 +63,10 @@ F-4 비자 소지자로서 F-5 영주권으로 전환하려면 아래 조건 중
 
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
 
-
 <figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/32073492/pexels-photo-32073492.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A family wearing traditional Hanbok enjoys a spring day at a Seoul park." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
+  <img src="https://images.pexels.com/photos/8851560/pexels-photo-8851560.jpegA family wearing traditional Hanbok enjoys a spring day at a Seoul park." alt="Colorful flags adorn Namdaemun Market street in Seoul, South Korea." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
   
 </figure>
-
 
   <strong style="color:#92400e">⚠️ 주의:</strong> 소득 증빙 시 해당 연도 소득만이 아니라 최근 3년간의 평균 소득 수준을 요구하는 경우도 있으므로, 소득과 관련된 문서는 철저히 준비해야 합니다.
 </div>
@@ -114,7 +112,6 @@ A: 불가능합니다. 신청 절차 도중 출입국은 신청에 영향을 미
 
 #### Q2. 신청 후 얼마나 걸리나요?
 A: 평균 8주에서 12주 사이가 소요되며, 관할 출입국청의 상황에 따라 변동될 수 있습니다.
-
 
 ### 8. 행정사사무소 이룸과 함께하는 안전하고 빠른 비자 전환 <span id="section-8"></span>
 

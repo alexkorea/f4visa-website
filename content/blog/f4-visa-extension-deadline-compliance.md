@@ -26,9 +26,8 @@ F-4 비자 연장은 체류기간 만료일 4개월 전부터 신청 가능하�
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 연장 심사에서 자주 막히는 지점</a></li>
     <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
     <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 관련 법령 및 공식 출처</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
+    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+    <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
   </ul>
 </nav>
 
@@ -46,7 +45,7 @@ F-4 거소신고를 마친 분의 체류기간은 기본 2년이며, 연장 시 
 
 ### 신청 방법
 
-신청 채널은 [하이코리아](https://www.hikorea.go.kr) 온라인 신청과 관할 출입국·외국인청 방문 신청 두 가지입니다.
+신청 채널은 하이코리아 온라인 신청과 관할 출입국·외국인청 방문 신청 두 가지입니다.
 
 온라인 신청은 본인 공동인증서 또는 외국인등록번호 기반 인증이 필요합니다.
 
@@ -139,10 +138,7 @@ F-4 자격이 외국 국적 취득자(재외동포)에 근거한 경우, 시민�
 
 이 단계에서 가장 많이 막히는 부분은 **체류지·소득·체류 사유** 입증입니다.
 
-
-
-![A family wearing traditional Hanbok enjoys a spring day at a Seoul park.](https://images.pexels.com/photos/32073492/pexels-photo-32073492.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![A calm Seoul street scene with utility poles, trees, and buildings on a clear day.](https://images.pexels.com/photos/38837842/pexels-photo-38837842.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-6">연장 심사에서 자주 막히는 지점</h2>
 
@@ -203,14 +199,6 @@ A. 주소 변경 신고를 먼저 마쳐야 합니다. 주소 변경 후 연장 
 
 A. 가능합니다. 위임장과 대리인 신분증, 신청자 서류 일체가 있으면 행정사를 통한 대리 접수가 가능합니다.
 
-<h2 id="section-9">관련 법령 및 공식 출처</h2>
-
-- [재외동포의 출입국과 법적 지위에 관한 법률](https://www.law.go.kr) — F-4 자격 및 체류 관련 근거 법령
-- [출입국·외국인정책본부](https://www.immigration.go.kr) — 체류기간 연장 및 거소신고 안내
-- [하이코리아](https://www.hikorea.go.kr) — 온라인 신청 및 예약 시스템
-
-법령 및 처리 기준은 변동될 수 있으니, 관할 기관 확인이 필요합니다.
-
 <h2 id="section-10">전문가 상담이 필요하신가요?</h2>
 
 체류기간 만료가 가까워졌거나, 이미 지난 경우라면 빠른 대응이 결과를 가릅니다.
@@ -233,3 +221,4 @@ A. 가능합니다. 위임장과 대리인 신분증, 신청자 서류 일체가
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

@@ -55,7 +55,7 @@ F-4 재외동포비자는 과거 한국 국적을 보유했던 본인이거나 �
 <h2 id="section-2">국적상실과 F-4 자격의 관계 — 여기서 많이 꼬입니다</h2>
 
 실무에서 가장 많이 놓치는 부분이 바로 국적상실입니다.
-[국적법 제15조](https://www.law.go.kr)에 따르면 외국 시민권을 취득한 순간 한국 국적은 즉시 자동으로 상실됩니다.
+국적법 제15조에 따르면 외국 시민권을 취득한 순간 한국 국적은 즉시 자동으로 상실됩니다.
 
 ### 국적상실신고는 '정리 절차'일 뿐
 
@@ -116,12 +116,9 @@ F-4 신청에서는 외국 시민권 취득을 증명하는 **시민권증서 �
 | CIS(고려인) | 출생·혈통 서류 | 기록 불일치 정정 |
 
 출신국별 세부 요건은 규정 개정에 영향을 받습니다.
-본인 국가의 최신 적용 기준은 [하이코리아](https://www.hikorea.go.kr)와 [법무부 출입국·외국인정책본부](https://www.immigration.go.kr) 공지에서 확인하시고, 판단이 애매한 부분은 상담으로 좁히는 편이 낫습니다.
+본인 국가의 최신 적용 기준은 하이코리아와 법무부 출입국·외국인정책본부 공지에서 확인하시고, 판단이 애매한 부분은 상담으로 좁히는 편이 낫습니다.
 
-
-
-![Top view of two Ukrainian passports with US dollar bills on a white surface.](https://images.pexels.com/photos/8061944/pexels-photo-8061944.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Two Asian women in business attire discussing work while holding folders against a pink background.](https://images.pexels.com/photos/7845235/pexels-photo-7845235.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">무범죄경력증명서, 유효기간 때문에 막히는 경우</h2>
 
@@ -215,3 +212,4 @@ F-4 자격 판단과 서류 짝 맞추기는 개인 이력마다 갈립니다.
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

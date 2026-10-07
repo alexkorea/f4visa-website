@@ -34,7 +34,7 @@ F-4(재외동포) 비자는 대한민국 국적을 보유했던 자 또는 그 �
 
 따라서 남성 재외동포가 F-4 비자를 신청하려면, 자신의 병역의무 상태를 정확히 파악하는 것이 가장 중요한 첫 단계입니다. 국적이탈 시기, 병역 면제 사유, 제2국민역 해소 여부 등에 따라 F-4 비자 신청 가능 시점과 절차가 완전히 달라집니다. 잘못된 정보에 기반하여 비자를 신청하면 거부될 뿐 아니라, 향후 재신청 시에도 불이익을 받을 수 있으므로 [전문가 상담](/contact)을 통해 정확한 진단을 받는 것이 권장됩니다.
 
-<img src="https://images.pexels.com/photos/3769138/pexels-photo-3769138.jpeg?auto=compress&cs=tinysrgb&w=800" alt="여권과 서류" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/6814521/pexels-photo-6814521.jpeg여권과 서류" alt="Professional setting of a business meeting with individuals signing documents on a conference table." style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
 
 &nbsp;
 
@@ -70,7 +70,7 @@ F-4 비자와 병역의무의 관계를 정확히 이해하려면, 관련 법률
 
 <div style="background:#FEF3C7; border-left:4px solid #F59E0B; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">⚠️ <strong>주의:</strong> 국적이탈 기한은 절대적입니다. "몰랐다", "부모가 알려주지 않았다" 등의 사유로 기한이 연장되지 않습니다. 기한을 하루라도 넘기면 병역의무가 확정되므로, 반드시 미리 확인하고 준비하세요.</div>
 
-<img src="https://images.pexels.com/photos/5668838/pexels-photo-5668838.jpeg?auto=compress&cs=tinysrgb&w=800" alt="법률 서류 검토" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/955392/pexels-photo-955392.jpeg법률 서류 검토" alt="Close-up of a man&#x27;s hands signing a formal document indoors." style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
 
 &nbsp;
 
@@ -120,7 +120,7 @@ F-4 비자와 병역의무의 관계를 정확히 이해하려면, 관련 법률
 
 F-4 비자 발급과 관련해서는, 출입국관리사무소에서 병역의무 해소 여부를 병무청 전산시스템을 통해 확인합니다. 제2국민역(전시근로역) 상태라 하더라도 일정 연령에 도달하면 병역의무가 해소된 것으로 처리되어 F-4 비자 발급이 가능합니다. 다만, 개인별 상황(병역기피 이력, 여행허가 위반 이력 등)에 따라 추가 심사가 필요할 수 있습니다. 만 37세가 가까워지는 시점에서 병무청(1588-9090)에 전화하여 자신의 병역 상태와 해소 예정 시점을 미리 확인하는 것이 좋습니다.
 
-<img src="https://images.pexels.com/photos/4427620/pexels-photo-4427620.jpeg?auto=compress&cs=tinysrgb&w=800" alt="달력과 계획" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/8428067/pexels-photo-8428067.jpeg달력과 계획" alt="Businessman signing important documents at office desk." style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
 
 &nbsp;
 
@@ -166,7 +166,7 @@ C씨는 한국에서 태어나 만 10세에 가족과 함께 호주로 이주, �
 
 C씨는 **만 37세까지 대기하는 방법**을 선택했습니다. 그동안 한국에 단기 방문할 때는 C-3(단기방문) 비자를 이용했고, 호주에서의 직장 생활을 유지했습니다. 만 37세가 되어 제2국민역이 해소된 후, [국적상실 신고](/nationality-loss-report)를 확인하고 F-4 비자를 신청하여 발급받았습니다. 현재는 한국과 호주를 오가며 프리랜서로 활동하고 있습니다.
 
-<img src="https://images.pexels.com/photos/69866/pexels-photo-69866.jpeg?auto=compress&cs=tinysrgb&w=800" alt="공항 출발 게이트" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/8815877/pexels-photo-8815877.jpeg공항 출발 게이트" alt="Close-up of professionals signing a business contract indoors, emphasizing agreement and documentation." style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
 
 &nbsp;
 

@@ -42,7 +42,7 @@ F-4 비자는 「재외동포의 출입국과 법적 지위에 관한 법률」(
 
 실무에서는 병역기피 의도가 명시적으로 드러나지 않더라도, 일정 연령 구간에서는 사실상 발급이 어렵습니다.
 
-근거 법령은 [국가법령정보센터](https://www.law.go.kr)에서 직접 확인할 수 있습니다.
+근거 법령은 국가법령정보센터에서 직접 확인할 수 있습니다.
 
 ### 만 37세까지 제한, 38세부터 신청 가능
 
@@ -148,13 +148,10 @@ F-4 비자는 「재외동포의 출입국과 법적 지위에 관한 법률」(
 
 이 부분은 매년 헌법재판소 결정이나 병역법 개정으로 미세하게 바뀌므로, 본인 연도 기준 적용 여부는 관할 기관 확인이 필요합니다.
 
-
-
 <figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/31925324/pexels-photo-31925324.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A bustling street in Seoul with people shopping and walking, showcasing urban lifestyle." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
+  <img src="https://images.pexels.com/photos/5387258/pexels-photo-5387258.jpegA bustling street in Seoul with people shopping and walking, showcasing urban lifestyle." alt="Close-up of hands signing a contract on a desk with office supplies, symbolizing legal agreements." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
   
 </figure>
-
 
 <h2 id="section-5">만 37세 전이라면 가능한 선택지</h2>
 
@@ -239,7 +236,7 @@ C-3(단기방문), D-10(구직), E-7(특정활동), F-2(거주) 등 본인 자�
 - **주소:** (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - **상담 시간:** 평일 09:30 — 17:30 (점심 12:00 — 13:00)
 
-관련 법령과 절차는 [하이코리아](https://www.hikorea.go.kr), [법무부 출입국·외국인정책본부](https://www.immigration.go.kr), [국가법령정보센터](https://www.law.go.kr)에서 직접 확인할 수 있으며, 본인 케이스에 대한 적용 여부는 무료 상담을 통해 안내받으시기 바랍니다.
+관련 법령과 절차는 하이코리아, 법무부 출입국·외국인정책본부, 국가법령정보센터에서 직접 확인할 수 있으며, 본인 케이스에 대한 적용 여부는 무료 상담을 통해 안내받으시기 바랍니다.
 
 ---
 
@@ -249,3 +246,4 @@ C-3(단기방문), D-10(구직), E-7(특정활동), F-2(거주) 등 본인 자�
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

@@ -61,7 +61,7 @@ slug: "residence-card-overseas-remote-application-agency"
 > **주의:** 외국 시민권을 취득하면 한국 국적은 국적법 제15조에 따라 즉시 자동 상실됩니다.
 > 국적상실신고 전이라도 이미 상실 상태이며, 이 상태에서 한국 여권을 사용하면 여권법상 부정사용에 해당합니다.
 
-관련 법령은 [국가법령정보센터](https://www.law.go.kr)에서 국적법 조문을 직접 확인할 수 있습니다.
+관련 법령은 국가법령정보센터에서 국적법 조문을 직접 확인할 수 있습니다.
 
 <h2 id="section-2">F-4 거소증 신청 서류, 무엇이 먼저 막히나</h2>
 
@@ -124,10 +124,7 @@ F-4 비자 신청 시 시민권증서 원본이 필요합니다.
 정확한 비용과 절차는 전문가 상담을 통해 확인하세요.
 지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea
 
-
-
-![Aerial shot of a densely built urban area with modern architecture during sunset.](https://images.pexels.com/photos/35396703/pexels-photo-35396703.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Airplane seen through a window, parked on the airport runway, capturing a travel moment.](https://images.pexels.com/photos/18090300/pexels-photo-18090300.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-4">국내 최소 체류로 끝내려면, 어디서 차이가 나나</h2>
 
@@ -152,7 +149,7 @@ F-4 비자 신청 시 시민권증서 원본이 필요합니다.
 
 관할별 처리 기간은 변동될 수 있으므로 관할 기관 확인이 필요합니다.
 
-거소신고 관련 안내는 [하이코리아](https://www.hikorea.go.kr)와 [법무부 출입국·외국인정책본부](https://www.immigration.go.kr)에서 확인할 수 있습니다.
+거소신고 관련 안내는 하이코리아와 법무부 출입국·외국인정책본부에서 확인할 수 있습니다.
 
 최근 비슷한 사례에서 입국 전 서류를 미리 맞춰둔 경우 체류 일정이 크게 줄었는데, 본인 상황에 맞는 적용 여부는 상담이 필요합니다.
 
@@ -227,3 +224,4 @@ F-4 신청 시 시민권증서 원본이 필요합니다.
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

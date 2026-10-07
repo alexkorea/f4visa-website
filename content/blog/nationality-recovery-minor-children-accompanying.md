@@ -25,11 +25,10 @@ slug: "nationality-recovery-minor-children-accompanying"
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 국적회복 후 가족관계등록 — 자녀까지 정리해야 합니다</a></li>
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. F-4 거소증과의 연결 — 자녀도 동일하게 발급</a></li>
     <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 처리 기간과 자주 막히는 지점</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 공식 출처와 법령 근거</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 자주 묻는 질문(FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-12" style="color:#2563eb;text-decoration:none">12. 전문가 상담이 필요하신가요?</a></li>
+    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문(FAQ)</a></li>
+    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">9. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+    <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+    <li style="margin:8px 0"><a href="#section-12" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
   </ul>
 </nav>
 
@@ -148,10 +147,7 @@ slug: "nationality-recovery-minor-children-accompanying"
 
 이 부분은 신청 단계에서 미리 결정해 두는 편이 안전합니다.
 
-
-
-![A family wearing traditional Hanbok enjoys a spring day at a Seoul park.](https://images.pexels.com/photos/32073492/pexels-photo-32073492.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Mother and two sons enjoying a relaxing picnic on a sunny day outdoors.](https://images.pexels.com/photos/15304037/pexels-photo-15304037.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-6">F-4 거소증과의 연결 — 자녀도 동일하게 발급</h2>
 
@@ -197,14 +193,6 @@ slug: "nationality-recovery-minor-children-accompanying"
 이 다섯 가지에서 보통 보완 요청이 나오며, 보완에 걸리는 시간이 전체 일정을 좌우합니다.
 
 처리 기간은 출입국사무소별로 차이가 크며, 가장 빠른 곳을 찾아 진행해 드립니다.
-
-<h2 id="section-8">공식 출처와 법령 근거</h2>
-
-- [국적법 (법제처 국가법령정보센터)](https://www.law.go.kr)
-- [하이코리아 — 국적회복허가 안내](https://www.hikorea.go.kr)
-- [법무부 출입국·외국인정책본부](https://www.immigration.go.kr)
-
-법령 개정이나 운영 지침은 수시로 바뀌므로, 신청 시점의 최신 운영 기준은 관할 기관 확인이 필요합니다.
 
 <h2 id="section-9">자주 묻는 질문(FAQ)</h2>
 

@@ -9,7 +9,7 @@ slug: "dual-citizenship-permit-eligibility-renunciation-loss"
 ---
 # 복수국적 허용 조건, 국적이탈과 국적상실은 바로 여기서 갈립니다
 
-결론부터 말하면, 대한민국은 복수국적을 원칙적으로 인정하지 않으며, [국적법](https://www.law.go.kr/법령/국적법)이 정한 예외 대상만 **외국국적불행사 서약**을 조건으로 두 국적을 유지할 수 있습니다.
+결론부터 말하면, 대한민국은 복수국적을 원칙적으로 인정하지 않으며, 국적법이 정한 예외 대상만 **외국국적불행사 서약**을 조건으로 두 국적을 유지할 수 있습니다.
 허용 대상은 선천적 복수국적자, 65세 이후 영주 귀국한 국적회복자, 혼인귀화자 등으로 좁게 정해져 있습니다.
 아래에서 복수국적 허용 조건, 국적이탈과 국적상실의 법적 차이, 국적상실 이후 F-4 비자로 이어지는 절차 순으로 다룹니다.
 
@@ -79,7 +79,7 @@ slug: "dual-citizenship-permit-eligibility-renunciation-loss"
 ### 신고 전 한국 여권 사용은 여권법 위반입니다
 
 시민권 취득 후 국적상실신고 전이라도 이미 외국인 신분입니다.
-이 상태에서 한국 여권으로 출입국하면 여권 부정사용으로 [여권법](https://www.law.go.kr/법령/여권법) 위반 문제가 생깁니다.
+이 상태에서 한국 여권으로 출입국하면 여권 부정사용으로 여권법 위반 문제가 생깁니다.
 겉으로는 간단해 보여도, 이 위반 이력이 남으면 이후 F-4 비자나 국적회복 심사에서 불리하게 드러날 수 있습니다.
 
 > **주의:** 시민권 취득 후에는 한국 여권을 사용하지 말고, 외국 여권과 비자(또는 무비자)로 입국해야 합니다.
@@ -112,15 +112,12 @@ slug: "dual-citizenship-permit-eligibility-renunciation-loss"
 국적상실은 신고와 무관하게 이미 발생한 상태라서, 미신고 기간이 길수록 여권·주민등록·부동산·상속 문제가 함께 꼬입니다.
 특히 F-4 비자나 국적회복을 준비하는 단계에서 미정리 상태가 드러나면, 그때부터 절차가 두 배로 길어집니다.
 
-
-
-![A man holding a divorce certificate in a formal office environment.](https://images.pexels.com/photos/7876054/pexels-photo-7876054.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Close-up of hands signing a legal document on a wooden table indoors.](https://images.pexels.com/photos/30268252/pexels-photo-30268252.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">국적상실 후 F-4 비자, 서류보다 순서가 먼저입니다</h2>
 
 시민권을 취득한 재외동포는 국적상실 정리 후 **F-4 재외동포 비자**로 한국에 장기 체류할 수 있습니다.
-자세한 절차는 [하이코리아](https://www.hikorea.go.kr)에서 안내하고 있으나, 실제로 많이 막히는 부분은 서류의 유효기간과 순서 관리입니다.
+자세한 절차는 하이코리아에서 안내하고 있으나, 실제로 많이 막히는 부분은 서류의 유효기간과 순서 관리입니다.
 
 ### 실제 심사에서 걸리는 서류 포인트
 
@@ -146,7 +143,7 @@ slug: "dual-citizenship-permit-eligibility-renunciation-loss"
 - 부모의 국적상실이 미정리 상태라 자녀 서류까지 연쇄로 막힌 경우
 
 이런 사례는 신고서 한 장의 문제가 아니라 정리 순서 설계의 문제입니다.
-국적 관련 법령과 심사 기준은 개정이 잦아, 최신 적용 여부는 [법무부](https://www.moj.go.kr) 등 관할 기관 확인이 필요합니다.
+국적 관련 법령과 심사 기준은 개정이 잦아, 최신 적용 여부는 법무부 등 관할 기관 확인이 필요합니다.
 
 <h2 id="section-7">자주 묻는 질문 (FAQ)</h2>
 
@@ -217,3 +214,4 @@ slug: "dual-citizenship-permit-eligibility-renunciation-loss"
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

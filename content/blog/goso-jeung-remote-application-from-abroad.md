@@ -134,7 +134,7 @@ F-4 자격을 이미 받았거나 받을 예정인 분, 한국 방문 일정을 
 
 외국 시민권을 취득하면 한국 국적은 즉시 자동으로 상실됩니다.
 
-이것은 [국적법 제15조](https://www.law.go.kr)에 근거합니다.
+이것은 국적법 제15조에 근거합니다.
 
 ### 신고 전이라도 이미 상실 상태
 
@@ -152,10 +152,7 @@ F-4 자격을 이미 받았거나 받을 예정인 분, 한국 방문 일정을 
 
 > **주의:** 국적상실신고와 F-4 신청은 순서가 얽혀 있습니다. 최근 비슷한 사례에서 이 순서 때문에 일정이 밀린 경우가 있었으므로, 본인 순서는 상담으로 확인하는 편이 안전합니다.
 
-
-
-![Family walking beside Cheonggyecheon Stream in Seoul on a bright spring day.](https://images.pexels.com/photos/31925345/pexels-photo-31925345.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![A modern jet airplane docked at an airport terminal gate, ready for boarding on a cloudy day.](https://images.pexels.com/photos/16562841/pexels-photo-16562841.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">거소증 원격 대행 절차</h2>
 
@@ -200,7 +197,7 @@ F-4 자격을 이미 받았거나 받을 예정인 분, 한국 방문 일정을 
 
 가장 빠른 사무소를 찾는 것이 체류 일정을 줄이는 실질적인 방법입니다.
 
-기준 정보는 [하이코리아](https://www.hikorea.go.kr)와 [법무부 출입국·외국인정책본부](https://www.immigration.go.kr)에서 확인할 수 있습니다.
+기준 정보는 하이코리아와 법무부 출입국·외국인정책본부에서 확인할 수 있습니다.
 
 ### 기한 관리
 
@@ -294,3 +291,4 @@ F-4 신청 시 시민권증서 원본이 필요합니다.
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

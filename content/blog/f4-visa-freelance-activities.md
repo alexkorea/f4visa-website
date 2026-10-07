@@ -53,7 +53,7 @@ F-4 비자는 취업 비자가 아니라 거주 비자에 가까운 성격을 �
 
 육체적 단순노동에 해당하는 활동은 금지됩니다.
 
-자세한 단순노무 분류는 법무부 고시 [F-4 자격 활동 범위](https://www.immigration.go.kr)에서 확인할 수 있는데, 본인 활동이 경계선에 있다면 사전 확인이 안전합니다.
+자세한 단순노무 분류는 법무부 고시 F-4 자격 활동 범위에서 확인할 수 있는데, 본인 활동이 경계선에 있다면 사전 확인이 안전합니다.
 
 > **주의:** "프리랜서니까 다 된다"는 오해가 가장 많습니다. 실제 단속 사례에서는 배달, 청소, 식당 보조 등으로 적발되는 경우가 자주 나옵니다.
 
@@ -130,7 +130,7 @@ F-4 비자는 취업 비자가 아니라 거주 비자에 가까운 성격을 �
 
 매년 5월 종합소득세 신고는 F-4 소지자에게도 동일하게 적용됩니다.
 
-자세한 신고 방법은 [국세청 홈택스](https://www.hometax.go.kr)에서 확인할 수 있습니다.
+자세한 신고 방법은 국세청 홈택스에서 확인할 수 있습니다.
 
 ### 건강보험과 국민연금
 
@@ -138,7 +138,7 @@ F-4 비자는 취업 비자가 아니라 거주 비자에 가까운 성격을 �
 
 소득 기반으로 보험료가 산정되므로, 프리랜서 소득 신고가 보험료에 직접 반영됩니다.
 
-정확한 보험료 산정은 [국민건강보험공단](https://www.nhis.or.kr) 또는 무료 상담을 통해 확인할 수 있습니다.
+정확한 보험료 산정은 국민건강보험공단 또는 무료 상담을 통해 확인할 수 있습니다.
 
 ---
 
@@ -148,10 +148,7 @@ F-4 비자는 취업 비자가 아니라 거주 비자에 가까운 성격을 �
 
 ---
 
-
-
-![Exterior view of the US Immigration and Customs Enforcement building with a visible flag and signage.](https://images.pexels.com/photos/36984942/pexels-photo-36984942.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
-
+![Warm interior of a cozy small shop in Osaka, featuring an Asian woman working, surrounded by local goods and decor.](https://images.pexels.com/photos/2890018/pexels-photo-2890018.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
 <h2 id="section-5">자격외활동 위반 시 처분과 대응</h2>
 
@@ -190,7 +187,7 @@ F-4 비자는 취업 비자가 아니라 거주 비자에 가까운 성격을 �
 
 거소신고를 마치지 않은 상태에서는 주민등록번호 대체번호가 없어 세금계산서 발행과 원천징수가 막힙니다.
 
-거소증 신청은 [하이코리아](https://www.hikorea.go.kr) 또는 행정사 대행으로 진행할 수 있습니다.
+거소증 신청은 하이코리아 또는 행정사 대행으로 진행할 수 있습니다.
 
 ### 사업자등록 후 직원을 고용할 수 있는가
 
@@ -263,3 +260,4 @@ F-4 프리랜서 활동 범위는 활동 종류, 거래 형태, 소득 구조에
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

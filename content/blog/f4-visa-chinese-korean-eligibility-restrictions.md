@@ -80,7 +80,7 @@ F-4 자격이 인정돼도 「출입국관리법 시행령」 별표1의2에서 
 
 자격증, 경력증명서, 사업자등록, 기술계 직무 입증서류가 실제로 차이를 만듭니다.
 
-법무부 [HiKorea](https://www.hikorea.go.kr) 공지에 직업 분류 가이드가 게시되어 있으나, 개별 사례 적용은 출입국사무소 재량 판단 영역이 큽니다.
+법무부 HiKorea 공지에 직업 분류 가이드가 게시되어 있으나, 개별 사례 적용은 출입국사무소 재량 판단 영역이 큽니다.
 
 > **실무 팁:** 서류만 잘 준비하는 것보다, 본인의 실제 활동이 어떤 직무 코드에 매칭되는지를 먼저 정리해야 합니다. 최근 비슷한 사례에서 동일한 자격증을 가진 두 신청인이 서로 다른 결과를 받은 적이 있어, 사안별 판단이 갈립니다.
 
@@ -128,13 +128,10 @@ F-4 자격이 인정돼도 「출입국관리법 시행령」 별표1의2에서 
 
 본인 사례가 본국 신청과 국내 신청 중 어느 쪽이 더 빠를지는 현재 보유 체류자격, 서류 상태, 한국 내 임시주소 확보 가능 여부에 따라 갈립니다.
 
-
-
 <figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/13306495/pexels-photo-13306495.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A detailed close-up of the wrinkled South Korean flag on fabric, showcasing its vibrant colors." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
+  <img src="https://images.pexels.com/photos/17065769/pexels-photo-17065769.jpegA detailed close-up of the wrinkled South Korean flag on fabric, showcasing its vibrant colors." alt="Top view of a tidy office desk with files, a calculator, and a plant, emphasizing organization." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
   
 </figure>
-
 
 <h2 id="section-5">거소증 발급 단계에서 막히는 지점</h2>
 
@@ -152,7 +149,7 @@ F-4 자격이 인정돼도 「출입국관리법 시행령」 별표1의2에서 
 
 거소증은 신청 후 일정 기간이 지나야 발급되며, 수령을 본인이 직접 받기 어려우면 대리수령·해외발송이 필요합니다.
 
-법무부 [출입국·외국인정책본부](https://www.immigration.go.kr) 안내에 발급 절차가 공지되어 있으나, 개별 일정은 사무소별로 다릅니다.
+법무부 출입국·외국인정책본부 안내에 발급 절차가 공지되어 있으나, 개별 일정은 사무소별로 다릅니다.
 
 <h2 id="section-6">자격이 인정돼도 거절되는 경우</h2>
 
@@ -173,7 +170,7 @@ F-4 자격이 인정돼도 「출입국관리법 시행령」 별표1의2에서 
 
 > **실무 팁:** 과거 강제퇴거 이력이 있더라도 무조건 막히는 것은 아닙니다. 입국금지 해제나 사면 이력이 있는 경우 별도 검토가 가능하지만, 사안별로 판단이 다릅니다.
 
-법령 원문은 [국가법령정보센터](https://www.law.go.kr)에서 「재외동포법」, 「출입국관리법」을 확인할 수 있습니다.
+법령 원문은 국가법령정보센터에서 「재외동포법」, 「출입국관리법」을 확인할 수 있습니다.
 
 다만 시행령·고시는 변경 빈도가 있어 관할 기관 확인이 필요합니다.
 
@@ -243,3 +240,4 @@ F-4 자격이 인정돼도 「출입국관리법 시행령」 별표1의2에서 
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

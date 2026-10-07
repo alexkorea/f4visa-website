@@ -199,13 +199,13 @@ F-4 비자를 가진 재외동포가 국내에 90일 이상 체류하면 국내�
 
 가장 기본적인 방법입니다. 본인이 거주하는 지역의 관할 출입국·외국인청(사무소·출장소)을 방문합니다. 주의할 점은 **거소신고지 관할**이지, 지금 실거주지 관할이 아니라는 점입니다. 이 부분이 약하면 접수 자체가 거부됩니다.
 
-방문 전 반드시 하이코리아(www.hikorea.go.kr)에서 **방문예약**을 잡아야 합니다. 예약 없이 가면 당일 접수가 거의 불가능하고, 인천·서울남부청 같은 인기 청은 2~4주 뒤로 밀리는 일이 흔합니다.
+방문 전 반드시 하이코리아에서 **방문예약**을 잡아야 합니다. 예약 없이 가면 당일 접수가 거의 불가능하고, 인천·서울남부청 같은 인기 청은 2~4주 뒤로 밀리는 일이 흔합니다.
 
 ### 하이코리아 전자민원 신청
 
 단순 분실·훼손은 하이코리아 전자민원으로도 접수할 수 있습니다.
 
-1. www.hikorea.go.kr 접속
+1. 접속
 2. 전자민원 > 민원신청 > 체류 > 외국인등록증(거소증) 재발급
 3. 본인인증(외국인등록번호 + 공동인증서 또는 F-PASS)
 4. 신청서 작성 및 사진 업로드
@@ -305,13 +305,10 @@ F-4 거소증 재발급은 원칙적으로 본인이 신청해야 하지만, 행
 2. **등기우편 수령**: 국내 주소로 배송. 부재 시 우체국 보관.
 3. **대리인 수령**: 위임장 + 본인 여권 사본 + 대리인 신분증 지참.
 
-
-
 <figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/8061980/pexels-photo-8061980.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Close-up of Ukrainian passports and travel card on a light surface with ample copy space." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
+  <img src="https://images.pexels.com/photos/4502977/pexels-photo-4502977.jpegClose-up of Ukrainian passports and travel card on a light surface with ample copy space." alt="From above of similar folders with plastic sleeves and titles on surface in wooden box on floor" style="width:50%;height:auto;border-radius:8px;display:inline-block" />
   
 </figure>
-
 
 ## 6. 해외 체류 중 분실했을 때
 
@@ -498,3 +495,4 @@ F-4 거소증 재발급은 단순해 보여도 관할 확인, 사유서 작성, 
 
 **[무료 상담 신청하기](https://f4visa.net/contact)**
 
+**공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

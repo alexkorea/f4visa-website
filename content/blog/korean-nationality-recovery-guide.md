@@ -3,7 +3,7 @@ title: "국적회복 신청 — 과거 한국 국적자의 국적 회복 절차 
 visa: "국적회복"
 date: "2026-05-23"
 image: "/og/korean-nationality-recovery-guide.png"
-excerpt: "과거 대한민국 국민이었던 분들의 국적회복 신청 요건, 절차, 필요 서류, 국적 회복 후 혜택을 기준으로 안내합니다. 국적회복이란·관련 글·출처까지 한 번에 확인하세요."
+excerpt: "과거 대한민국 국민이었던 분들의 국적회복 신청 요건, 절차, 필요 서류, 국적 회복 후 혜택을 기준으로 안내합니다. 국적회복이란·관련 글까지 한 번에 확인하세요."
 author: "이시정 대표행정사"
 description: "국적회복 허가 대상과 결격사유, 신청 서류, 심사 절차, 이중국적 처리 방식까지 과거 한국 국적자가 실제로 확인해야 할 내용을 사례별로 정리했습니다."
 pillar: "dual-nationality-korea-guide"
@@ -213,9 +213,3 @@ A. 반드시 그런 것은 아닙니다. 연령이나 인재 인정 여부 등 �
 - [국적이탈 신고 — 선천적 이중국적자 한국 국적 포기 절차](/blog/nationality-renunciation-korea)
 - [국적상실 신고 방법 — 외국 국적 취득 후 한국 국적 처리 가이드](/blog/korean-nationality-loss-guide)
 - [재외동포 국적회복 후 F-4 비자 전환 방법 — 절차·서류 총정리](/blog/overseas-korean-nationality-recovery-f4-transition)
-
-## 출처
-
-- [법제처 국가법령정보센터](https://www.law.go.kr) - 국적법 및 시행령
-- [법무부 국적과 안내](https://www.moj.go.kr) - 국적회복허가 절차 안내
-- [하이코리아](https://www.hikorea.go.kr) - 재외동포 체류 관련 안내

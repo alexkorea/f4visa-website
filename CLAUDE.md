@@ -1,4 +1,4 @@
-# SEO Blog Writing Skill for Next.js + Vercel
+# SEO Blog Writing Skill for Next.js + Cloudflare Pages (OpenNext)
 # Applies to all blog content for this project unless explicitly overridden.
 
 ## Core Principle
@@ -250,7 +250,7 @@ For multilingual articles:
 
 ---
 
-## Next.js / Vercel Implementation Rules
+## Next.js / Cloudflare Pages Implementation Rules
 For every blog page:
 - define metadata via `generateMetadata()` or metadata object
 - output canonical URL

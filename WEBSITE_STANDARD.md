@@ -24,7 +24,7 @@
 | 2 | 이 문서 | SEO 구조·모바일 게이트·기술·CTA·측정·배포·보고 |
 | 3 | `DESIGN_GUIDE.md` v1.0 | 레이아웃·타이포·컴포넌트 사용법·페이지 템플릿·금지목록·QA 채점표 |
 | 4 | frontend-design 스킬 | 위 셋이 정하지 않은 축에서 템플릿 티 제거. 값·구조·문구 변경 권한 없음 |
-| 5 | web-design-guidelines 스킬(Vercel) | 구현 완료 후 코드 검수 전용. file:line 결과 0건이어야 완료 |
+| 5 | web-design-guidelines 스킬 | 구현 완료 후 코드 검수 전용. file:line 결과 0건이어야 완료 |
 | — | supanova-design-skill | 로드 금지 |
 
 텍스트 소유권: title / description / H1 / H2 / 첫 문단 / FAQ / 본문은 SEO 소유. 디자인 단계에서 문구 변경 금지. 디자인이 쓰는 글은 히어로 보조문장·버튼 라벨·마이크로카피뿐.
@@ -39,7 +39,7 @@ STEP 2  페이지 템플릿 정의: 페이지 유형별 SEO 구조(H1~H3, FAQ, C
 STEP 3  DESIGN.md lint → 오류·경고 0
 STEP 4  모바일(375) 화면 설계 → 데스크톱 확장
 STEP 5  구현 (DESIGN.md 토큰·DESIGN_GUIDE 컴포넌트 외 스타일 금지)
-STEP 6  QA: 5장 모바일 체크 + DESIGN_GUIDE 8·9장 + Vercel 검수 + 4장 기술 검증
+STEP 6  QA: 5장 모바일 체크 + DESIGN_GUIDE 8·9장 + web-design-guidelines 검수 + 4장 기술 검증
 STEP 7  ATOMIC FULL DEPLOY → 9장 형식으로 보고
 ```
 
@@ -179,7 +179,7 @@ STEP 7  ATOMIC FULL DEPLOY → 9장 형식으로 보고
 
 **모바일 체크 실패**: ① 실패 항목 + 375px 스크린샷 ② 원인 요소의 CSS ③ 수정 후 375/390 재캡처
 
-**Vercel 검수 잔여**: ① file:line 목록 ② 각 항목 수정 또는 예외 사유(예외는 11-4)
+**web-design-guidelines 검수 잔여**: ① file:line 목록 ② 각 항목 수정 또는 예외 사유(예외는 11-4)
 
 **스키마 오류**: ① Rich Results Test 결과 원문 ② 페이지 내용과 불일치 여부 ③ 수정 후 재검증
 
@@ -271,7 +271,7 @@ STEP 7  ATOMIC FULL DEPLOY → 9장 형식으로 보고
 - 슬라이더·캐러셀·애니메이션·차트 라이브러리 → DESIGN_GUIDE 7장에서 대부분 금지. 있으면 제거가 답이지 최적화가 아님
 - next/image의 클라이언트 처리로 인한 render delay → 히어로는 정적 `<img>` + `fetchpriority="high"` + width/height
 - 외부 폰트 CDN CSS(cross-origin 렌더 차단) → next/font/local + 서브셋 woff2 self-host. Pretendard Variable 원본(약 2MB)을 그대로 쓰지 말고 한글 2,350자+라틴 서브셋(또는 Pretendard 정적 subset 파일) 사용, 필요한 굵기만
-- Vercel 시절 잔존 산출물·중복 폴리필
+- 이전 호스팅 시절 잔존 산출물·중복 폴리필
 - 모든 페이지에 깔리는 공통 레이아웃의 클라이언트 컴포넌트(헤더·CTA바) → 서버 컴포넌트 + 최소 client 조각
 
 ### 12-3. 측정 기준 (숫자 해석의 통일)

@@ -208,24 +208,11 @@ export async function POST(request: Request) {
     return false
   })
 
-  const intakeP = ok("intake", fetch("https://formconnection-crm.vercel.app/api/intake", {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      ...(process.env.INTAKE_API_KEY ? { "x-api-key": process.env.INTAKE_API_KEY } : {}),
-    },
-    body: JSON.stringify({
-      site: "f4visa.net", language: "ko",
-      name, email, phone,
-      service_interest: type, message, raw_payload: body,
-    }),
-  }))
-
-  const [telegramOk, gmailOk, resendOk, notionOk, crmOk, intakeOk] =
-    await Promise.all([telegramP, gmailP, resendP, notionP, crmP, intakeP])
+  const [telegramOk, gmailOk, resendOk, notionOk, crmOk] =
+    await Promise.all([telegramP, gmailP, resendP, notionP, crmP])
 
   const delivered = telegramOk || gmailOk || resendOk
-  const stored = notionOk || crmOk || intakeOk
+  const stored = notionOk || crmOk
 
   if (!delivered && !stored) {
     console.error("[f4visa contact] 전 경로 실패 — 문의 유실 위험", { name, email, phone })

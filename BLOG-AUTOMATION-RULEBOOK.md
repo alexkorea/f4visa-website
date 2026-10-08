@@ -17,7 +17,7 @@
 - 홈페이지 블로그 포스팅 자동화
 - 다국어 블로그 생성 및 게시
 - n8n 워크플로우 실행 및 점검
-- GitHub 반영 및 Vercel 배포
+- GitHub 반영 및 Cloudflare Pages 배포
 - 번역 API 호출
 - 이메일/알림 발송
 - SEO 메타 생성
@@ -113,7 +113,7 @@
 - timezone 값
 - cron 값
 - GitHub commit hash
-- Vercel deployment 상태
+- Cloudflare Pages 배포 상태
 - 실제 사이트 URL 접근 결과
 - 실제 게시글 URL
 - 이메일 수신 테스트 결과
@@ -173,14 +173,14 @@
 - DB 연결이 정상인가
 - queue가 비정상적으로 밀려 있지 않은가
 - 외부 API 연결이 가능한가
-- Vercel / GitHub / 메일 서비스 연결이 가능한가
+- Cloudflare / GitHub / 메일 서비스 연결이 가능한가
 
 ## 4-3. 인증/토큰/연결 상태 확인 및 자기복구
 작업 전 아래 항목을 확인한다.
 
 - GitHub token 유효 여부
 - GitHub token 권한 범위
-- Vercel token 유효 여부
+- Cloudflare API token 유효 여부
 - 번역 API key 유효 여부
 - LLM API key 유효 여부
 - 메일 발송 API key 유효 여부
@@ -283,7 +283,7 @@ workflow 관련 작업 후 반드시 아래를 기록한다.
 
 ---
 
-# 7. GitHub / Vercel 배포 규칙
+# 7. GitHub / Cloudflare Pages 배포 규칙
 
 ## 7-1. GitHub push = 완료 아님
 GitHub에 push만 되었다고 배포 완료라고 보고하지 않는다.
@@ -293,21 +293,21 @@ GitHub에 push만 되었다고 배포 완료라고 보고하지 않는다.
 - 올바른 repo인가
 - 올바른 branch인가
 - commit 생성되었는가
-- Vercel deploy가 시작되었는가
-- Vercel deploy가 성공했는가
+- Cloudflare Pages 배포(wrangler pages deploy)가 시작되었는가
+- Cloudflare Pages 배포가 성공했는가
 - 실제 사이트에 반영되었는가
 
 ## 7-2. 브랜치 착오 방지
 반드시 아래를 확인한다.
 
 - 현재 작업 branch
-- Vercel에 연결된 production branch
+- Cloudflare Pages production branch(--branch=main)
 - preview branch인지 production branch인지
 - 잘못된 repo에 push한 것은 아닌지
 
 ## 7-3. 경량 점검에서 확인할 항목
 - GitHub push 성공
-- Vercel deploy 성공
+- Cloudflare Pages 배포 성공
 - 최종 게시 URL 접근 가능
 - canonical 반영
 
@@ -639,7 +639,7 @@ API 응답 성공만으로 발송 완료라고 판단하지 않는다.
 - meta description 존재
 - canonical 존재 및 최종 URL과 일치
 - GitHub push 성공
-- Vercel deploy 성공
+- Cloudflare Pages 배포 성공
 - 최종 게시 URL 접근 가능
 - 테스트 표시가 실사이트에 남아 있지 않은지
 
@@ -807,7 +807,7 @@ API 응답 성공만으로 발송 완료라고 판단하지 않는다.
 - 주요 수정 내용:
 - 자기복구 수행 여부:
 - GitHub 반영 여부:
-- Vercel 배포 여부:
+- Cloudflare Pages 배포 여부:
 - 최종 게시 URL:
 - slug:
 - canonical:
@@ -905,7 +905,7 @@ API 응답 성공만으로 발송 완료라고 판단하지 않는다.
 - 기본 운영은 경량 하네스
 - 매 포스팅마다 핵심 항목은 반드시 검사
 - GitHub push만으로 완료 판단 금지
-- Vercel 실배포 확인 필수
+- Cloudflare Pages 실배포 확인 필수
 - 실사이트 반영 확인 필수
 - 다국어 혼입 금지
 - slug / URL SEO 검증 필수
@@ -933,7 +933,7 @@ API 응답 성공만으로 발송 완료라고 판단하지 않는다.
 - meta title / meta description 존재
 - canonical 일치
 - GitHub 반영
-- Vercel 배포 성공
+- Cloudflare Pages 배포 성공
 - 최종 URL 접근 가능 여부
 - 테스트 흔적 여부
 

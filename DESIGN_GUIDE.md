@@ -27,7 +27,7 @@
 | 2 | `WEBSITE_STANDARD` v2.0 | SEO 구조·CTA 위치·기술·배포·보고 | 항상 |
 | 3 | 이 문서 | 레이아웃·타이포·컴포넌트 사용법·금지·QA | 항상 |
 | 4 | `frontend-design`(Anthropic) | 위 셋이 안 정한 축에서 "템플릿 티" 제거 | 설계·구현 단계 |
-| 5 | `web-design-guidelines`(Vercel) | 접근성·폼·모션 코드 검수 | 구현 완료 후, 검수 전용 |
+| 5 | `web-design-guidelines` | 접근성·폼·모션 코드 검수 | 구현 완료 후, 검수 전용 |
 | — | `supanova-design-skill` | **로드 금지**. 5-3장에 필요한 규칙만 발췌됨 | — |
 
 frontend-design과 supanova는 카피를 다시 쓰려 한다. **title·H1·H2·첫 문단·FAQ·본문은 SEO 소유**이며 디자인 단계에서 문구를 바꾸지 않는다. 디자인이 쓸 수 있는 글은 히어로 보조문장·버튼 라벨·마이크로카피뿐이다.
@@ -201,7 +201,7 @@ frontend-design과 supanova는 카피를 다시 쓰려 한다. **title·H1·H2·
 | 페이지 진입 시 히어로 1회 페이드 (선택) | 무한 float·marquee·회전 그라디언트·카운트업 |
 | | `filter: blur` 애니메이션, 패럴랙스, sticky 스택 스크롤, 스크롤재킹, 자동재생 슬라이더 |
 
-접근성 (Vercel 검수에서 0건이어야 함):
+접근성 (web-design-guidelines 검수에서 0건이어야 함):
 - `prefers-reduced-motion`에서 transform 애니메이션 전부 해제
 - 아이콘 버튼 `aria-label`, 이미지 `alt`, 장식 아이콘 `aria-hidden`
 - `:focus-visible` 링 항상 표시, `outline: none` 단독 금지
@@ -236,7 +236,7 @@ frontend-design과 supanova는 카피를 다시 쓰려 한다. **title·H1·H2·
 | 9 | 본문 가독성 | 문단 5줄 이내, 780px, 목차·FAQ 처리 |
 | 10 | CTA 시인성 | 하단 바 + 섹션 끝 CTA, 빨강은 CTA에만 |
 
-보고서에는 항목별 점수·근거·375/390/1440 스크린샷·lint 결과·Vercel 검수 결과를 첨부한다.
+보고서에는 항목별 점수·근거·375/390/1440 스크린샷·lint 결과·web-design-guidelines 검수 결과를 첨부한다.
 
 ---
 
@@ -248,7 +248,7 @@ frontend-design과 supanova는 카피를 다시 쓰려 한다. **title·H1·H2·
 3. 모바일(375) 레이아웃 → 데스크톱 확장
 4. 구현 (토큰·컴포넌트 외 스타일 금지, SEO 텍스트 변경 금지)
 5. frontend-design 기준으로 템플릿 티 자체 점검
-6. Vercel web-design-guidelines 검수 → 0건
+6. web-design-guidelines 검수 → 0건
 7. 9장 채점 → 80점 이상
 8. ATOMIC FULL DEPLOY → 보고
 ```

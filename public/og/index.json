@@ -3024,6 +3024,22 @@
    "slug": "f4-visa-h2-former-workplace-outside-status-activity-permit",
    "generated_at": "2026-10-07T10:02:50.470Z",
    "version": "1.4"
+  },
+  "f4-visa-korean-language-proof-documents": {
+   "hash": "b7119a38ac5e1be9bd28dfeb59de03b138ec7566cbe6388904fff633f2460302",
+   "source": "pexels",
+   "seed": 574948370,
+   "theme": "city",
+   "prompt_subject": "korean urban street",
+   "map_version": null,
+   "pexels_id": 21011608,
+   "pexels_author": "Honggrider Rock",
+   "category": "F-4비자",
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-visa-korean-language-proof-documents",
+   "generated_at": "2026-10-08T10:04:29.468Z",
+   "version": "1.4"
   }
  }
 }

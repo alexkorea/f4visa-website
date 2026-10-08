@@ -5,6 +5,7 @@ import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { ContactForm } from "./contact-form"
 import { SITE } from "@/lib/site"
 import { Phone, Smartphone, Mail, MapPin } from "lucide-react"
+import { qrHref } from "@/lib/qr-links"
 
 export const metadata = {
   title: "상담 문의 — F-4 비자·거소증·국적 업무",
@@ -71,7 +72,7 @@ export default function ContactPage() {
                   <div className="mt-4 grid grid-cols-2 gap-4">
                     {[{ name: "Kakao Talk", qr: "/qr/kakao-20260927-224.webp" }, { name: "WeChat", qr: "/qr/wechat-20260927-224.webp" }, { name: "LINE", qr: "/qr/line-20260927-150.webp" }, { name: "WhatsApp", qr: "/qr/whatsapp-20260927-224.webp" }].map((m) => (
                       <div key={m.name} className="text-center">
-                        <div className="mx-auto mb-2 w-full aspect-square rounded-lg overflow-hidden border border-border"><img src={m.qr} alt={m.name} className="w-full h-full object-cover" /></div>
+                        <a href={qrHref(m.qr)} target="_blank" rel="noopener noreferrer" aria-label={`${m.name} 상담 열기`} className="mx-auto mb-2 block w-full aspect-square rounded-lg overflow-hidden border border-border"><img src={m.qr} alt={m.name} className="w-full h-full object-cover" /></a>
                         <span className="text-xs text-muted-foreground">{m.name}</span>
                       </div>
                     ))}

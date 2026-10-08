@@ -9,6 +9,7 @@
     "/qr/*",
     "/slides/*",
     "/blog/images/*",
+    "/photos/*",
     "/favicon.ico",
     "/robots.txt",
     "/*.png",

@@ -64,6 +64,7 @@ export default function NationalityRecoveryPage() {
         <PageHero
           title="국적회복 / 65세 이상 국적회복 특별 규정"
           subtitle="잃어버린 한국 국적을 되찾는 법 -- 복수국적 유지까지 가능한 국적회복 종합 안내"
+          photo="d-recovery"
         />
 
         {/* 누가 신청할 수 있나요? */}

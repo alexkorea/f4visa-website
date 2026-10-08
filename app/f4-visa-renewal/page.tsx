@@ -101,6 +101,7 @@ export default function F4VisaRenewalPage() {
         <PageHero
           title="F-4 비자 연장 절차 및 필요서류 안내"
           subtitle="안정적인 체류를 위한 필수 가이드"
+          photo="d-renewal"
         />
 
         {/* Intro */}

@@ -71,20 +71,19 @@ export function BlogPagedList({ posts }: { posts: BlogListItem[] }) {
           >
             <div className="relative aspect-[16/9] overflow-hidden">
               {/* 목록 카드 썸네일 = og:image 의 800×450 카드판(THUMBNAIL_STANDARD 1장) */}
-              <Image src={post.image.replace(/^(\/og\/.+)\.png$/, "$1-card.png")} alt={post.title} fill className="object-cover transition-transform duration-300 group-hover:scale-105" />
-              <div className="absolute bottom-3 right-3">
-                <span className="inline-flex items-center gap-2 px-4 py-2 bg-primary text-primary-foreground text-xs font-medium rounded-full">
+              <Image src={post.image.replace(/^(\/og\/.+)\.png$/, "$1-card.png")} alt={post.title} fill className="object-cover" />
+            </div>
+            <div className="p-6">
+              <div className="mb-4 flex flex-wrap items-center gap-2 text-xs text-muted-foreground">
+                <Calendar className="h-3.5 w-3.5" />
+                {post.date}
+                {/* BEYE-1007-FIX #12: 분류 칩은 썸네일 위(제목 글자를 덮었다)가 아니라 카드 글 영역에 */}
+                <span className="ml-auto inline-flex items-center gap-1.5 rounded-full bg-primary/10 px-3 py-1 font-medium text-primary">
                   <Tag className="h-3 w-3" />
                   {post.category}
                 </span>
               </div>
-            </div>
-            <div className="p-6">
-              <div className="mb-4 flex items-center gap-2 text-xs text-muted-foreground">
-                <Calendar className="h-3.5 w-3.5" />
-                {post.date}
-              </div>
-              <h2 className="text-lg font-semibold text-foreground group-hover:text-primary transition-colors line-clamp-2">
+              <h2 className="text-lg font-semibold text-foreground group-hover:text-primary transition-colors">
                 {post.title}
               </h2>
               <p className="mt-2 text-sm leading-relaxed text-muted-foreground line-clamp-3">

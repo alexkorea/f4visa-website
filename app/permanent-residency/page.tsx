@@ -69,6 +69,7 @@ export default function PermanentResidencyPage() {
         <PageHero
           title="재외동포 영주권 신청 / 신청 자격, 절차, 필요서류"
           subtitle="F-4 비자에서 F-5 영주권으로 -- 안정적인 한국 체류를 위한 종합 가이드"
+          photo="d-permanent"
         />
 
         {/* 영주권이란? */}

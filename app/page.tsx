@@ -7,6 +7,8 @@ import { CtaSection } from "@/components/cta-section"
 import { Faq, type FaqItem } from "@/components/faq"
 import { OrganizationJsonLd, WebSiteJsonLd } from "@/components/structured-data"
 import { SITE } from "@/lib/site"
+import { qrHref } from "@/lib/qr-links"
+import { SitePhoto } from "@/components/hero-photo"
 
 export const metadata = {
   alternates: { canonical: SITE.url },
@@ -16,31 +18,37 @@ const services = [
   {
     title: "F-4 비자와 거소증",
     href: "/f4-visa-resident-card",
+    photo: "card-resident",
     desc: "재외동포(F-4) 체류자격 신청과 국내거소신고증 발급을 서류 준비부터 접수까지 대행합니다.",
   },
   {
     title: "F-4 비자 연장",
     href: "/f4-visa-renewal",
+    photo: "card-renewal",
     desc: "체류기간 연장 시점과 필요 서류를 점검하고 관할 출입국·외국인청 접수를 대행합니다.",
   },
   {
     title: "국적상실·국적이탈 신고",
     href: "/nationality-loss-report",
+    photo: "card-nat-loss",
     desc: "외국 국적 취득에 따른 국적상실 신고, 복수국적자의 국적이탈 신고 절차를 안내합니다.",
   },
   {
     title: "국적회복",
     href: "/nationality-recovery",
+    photo: "card-nat-recovery",
     desc: "과거 대한민국 국민이었던 분의 국적회복 허가 신청을 요건 검토부터 진행합니다.",
   },
   {
     title: "영주권(F-5) 전환",
     href: "/permanent-residency",
+    photo: "card-permanent",
     desc: "F-4에서 F-5로 전환할 때의 체류·소득·기본소양 요건을 검토하고 신청을 대행합니다.",
   },
   {
     title: "세금 이야기",
     href: "/tax-stories",
+    photo: "card-tax",
     desc: "재외동포의 부동산 취득세·종합소득세 등 세금 실무는 협력 세무사와 함께 안내합니다.",
   },
 ]
@@ -118,7 +126,8 @@ export default function HomePage() {
             "radial-gradient(226.3px circle at 96px calc(100% - 64px), rgba(96,165,250,0.20), transparent 70%)",
             "linear-gradient(120deg, #fff7ed 0%, #eef6ff 46%, #ecfeff 100%)",
           ].join(", "), color: "var(--c-ink)" }}>
-          <div className="container-x relative py-16 lg:py-24">
+          {/* BEYE-1007-FIX #2: 히어로 주제 사진 — 넓은 화면은 글 오른쪽, 좁은 화면은 제목 위 썸네일 */}
+          <div className="container-x relative flex flex-col py-16 lg:grid lg:grid-cols-[minmax(0,1fr)_minmax(0,0.85fr)] lg:items-center lg:gap-12 lg:py-24">
             <div className="measure">
               <h1 className="text-3xl lg:text-5xl" style={{ color: "var(--c-brand)" }}>재외동포 F-4 비자와 거소증, 행정사가 대행합니다</h1>
               <p className="mt-4 text-lg" style={{ color: "var(--c-ink)" }}>
@@ -133,6 +142,10 @@ export default function HomePage() {
                 {SITE.trustLine}
               </p>
             </div>
+            {/* 좁은 화면은 제목 위 144px 썸네일 — 큰 사진이 모바일 LCP 가 되면 랩 LCP 가 늦어진다(components/page-hero.tsx 와 같은 규칙) */}
+            <div className="order-first mb-6 w-36 overflow-hidden rounded-xl shadow-sm lg:order-last lg:mb-0 lg:w-auto lg:rounded-2xl">
+              <SitePhoto slot="home-hero" hero sizes="(min-width: 1024px) 520px, 144px" />
+            </div>
           </div>
         </section>
         <section id="messenger" className="section section-alt">
@@ -145,13 +158,15 @@ export default function HomePage() {
             <ul className="grid grid-cols-2 gap-4 lg:grid-cols-4">
               {messengers.map((m) => (
                 <li key={m.name} className="card-x text-center">
-                  <Image
-                    src={m.qr}
-                    alt={`${m.name} 상담 QR 코드`}
-                    width={112}
-                    height={112}
-                    className="mx-auto rounded-[8px]"
-                  />
+                  <a href={qrHref(m.qr)} target="_blank" rel="noopener noreferrer" aria-label={`${m.name} 상담 열기`} className="mx-auto block w-fit">
+                    <Image
+                      src={m.qr}
+                      alt={`${m.name} 상담 QR 코드`}
+                      width={112}
+                      height={112}
+                      className="mx-auto rounded-[8px]"
+                    />
+                  </a>
                   <h3 className="mt-4 text-lg">{m.name}</h3>
                 </li>
               ))}
@@ -170,9 +185,14 @@ export default function HomePage() {
                 {SITE.name}은 행정사법에 따라 인가된 행정사사무소로, F-4 비자·거소증 신청, 체류기간 연장, 국적상실·국적이탈 신고, 국적회복, F-5 전환 서류의 작성과 관할 기관 접수를 대행합니다. 국내 서류 발급 대행, 제출 전 서류 항목별 검토, 심사 중 보완 요청 대응, 발급 서류 수령·해외 송달까지 진행하며, 소송·재판 대리는 하지 않습니다. 세금 실무는 협력 세무사와 함께 안내합니다.
               </p>
             </div>
-            <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {/* content-visibility:auto — 화면 근처에 오기 전에는 카드 사진(lazy)을 받지 않는다. 없으면 첫 로드에 6장이 히어로 글자와 대역을 다퉈 랩 LCP 가 늦어졌다(BEYE-1007 실측) */}
+            <ul className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3" style={{ contentVisibility: "auto", containIntrinsicSize: "auto 1400px" }}>
               {services.map((s) => (
-                <li key={s.href} className="card-x flex flex-col">
+                <li key={s.href} className="card-x flex flex-col overflow-hidden">
+                  {/* BEYE-1007-FIX #2: 카드 주제 사진(lazy) — 카드 패딩 밖으로 꽉 채운다 */}
+                  <div className="-mx-6 -mt-6 mb-5">
+                    <SitePhoto slot={s.photo} sizes="(min-width: 1024px) 360px, (min-width: 640px) 45vw, calc(100vw - 2rem)" />
+                  </div>
                   <h3>{s.title}</h3>
                   <p className="flex-1">{s.desc}</p>
                   <Link href={s.href} className="btn-text mt-4">

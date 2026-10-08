@@ -10,25 +10,60 @@ import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
 
+// BEYE-1007-FIX #10(맥7, 보스눈 QA 10-07): 현행 코드(F-4-41·F-4-42) 표가 먼저, 통합 이전 세부코드는 '예전 코드' 접기.
+// 현행 표·공통서류·통합일·F-4-R 문구는 법무부 체류민원 자격별 안내 매뉴얼 2026.9.(260918판) 원문 그대로다.
+// 예전 코드 표(F-4-11~F-4-99)는 현행 매뉴얼(260414·260901·260918판)에 없는 코드라 원문 대조가 안 된다 — 고치지 말고 접기 안에만 둔다.
+const PAGE_TITLE = "F-4 비자 종류 — 현행 세부코드와 대상별 제출서류"
+const PAGE_DESC =
+  "재외동포(F-4) 사증발급 세부대상은 현행 F-4-41(출생으로 한국 국적을 가졌던 사람)과 F-4-42(그 직계비속) 두 가지입니다. 대상별 추가 서류, 공통 제출서류, 예전 세부코드와의 관계를 정리했습니다."
+
 export const metadata = {
-  title: "F-4-42 변경 안내 — F-4 비자 종류와 대상별 사증발급 첨부서류",
-  description:
-    "F-4 재외동포 비자의 대상 구분과 사증발급신청 시 첨부서류 고시 내용을 유형별로 정리했습니다. 본인 상황에 해당하는 서류 목록을 확인하고 준비 순서를 잡을 수 있습니다.",
+  title: PAGE_TITLE,
+  description: PAGE_DESC,
   alternates: { canonical: `${SITE.url}/f4-visa-types` },
   openGraph: {
-    title: "F-4-42 변경 안내 — F-4 비자 종류와 대상별 사증발급 첨부서류 | 행정사사무소 이룸",
-    description: "F-4 재외동포 비자의 대상 구분과 사증발급신청 시 첨부서류 고시 내용을 유형별로 정리했습니다. 본인 상황에 해당하는 서류 목록을 확인하고 준비 순서를 잡을 수 있습니다.",
+    title: `${PAGE_TITLE} | 행정사사무소 이룸`,
+    description: PAGE_DESC,
     url: `${SITE.url}/f4-visa-types`,
     siteName: SITE.name,
     type: "website",
   },
   twitter: {
     card: "summary_large_image" as const,
-    title: "F-4-42 변경 안내 — F-4 비자 종류와 대상별 사증발급 첨부서류 | 행정사사무소 이룸",
-    description: "F-4 재외동포 비자의 대상 구분과 사증발급신청 시 첨부서류 고시 내용을 유형별로 정리했습니다. 본인 상황에 해당하는 서류 목록을 확인하고 준비 순서를 잡을 수 있습니다.",
+    title: `${PAGE_TITLE} | 행정사사무소 이룸`,
+    description: PAGE_DESC,
   },
 }
 
+// 현행 — 매뉴얼 260918판 '재외동포 사증발급 세부대상 및 추가 신청서류' 표
+const currentRows = [
+  {
+    code: "F-4-41",
+    target: "출생에 의하여 대한민국 국적을 보유하였던 자로서 외국국적을 취득한 사람",
+    documents: [
+      "본인이 대한민국의 국민이었던 사실을 증명하는 서류 — 가족관계기록사항에 관한 증명서, 제적등본 또는 폐쇄등록부 기타 본인이 대한민국의 국민이었던 사실을 증명하는 서류",
+      "외국국적을 취득한 원인 및 연월일을 증명하는 서류",
+    ],
+  },
+  {
+    code: "F-4-42",
+    target: "위(F-4-41)의 직계비속으로서 외국국적을 취득한 사람",
+    documents: [
+      "직계존속이 대한민국의 국민이었던 사실을 증명하는 서류 — 가족관계기록사항에 관한 증명서, 제적등본 또는 폐쇄등록부 기타 직계존속이 대한민국의 국민이었던 사실을 증명하는 서류",
+      "여권 등 본인과 직계존속의 외국국적 취득원인 및 연월일을 증명하는 서류",
+      "직계존비속의 관계임을 증명하는 서류(출생증명서 등)",
+    ],
+  },
+]
+
+// 공통 제출서류(사증발급·체류자격변경) — 매뉴얼 260918판
+const commonDocs = [
+  "한국어능력 입증서류 — 만 60세 이상, 과거 대한민국 국적을 보유했던 사람 등은 면제",
+  "해외 범죄경력증명서 — 만 14세 미만, 재외동포(F-4)는 만 60세 이상 등은 면제",
+  "외국국적동포임을 증명하는 서류 — 가족관계기록사항에 관한 증명서, 제적등본, 호구부, 거민증 및 출생증명서 등",
+]
+
+// ── 예전 코드(통합 이전 안내 자료) — 화면에서는 접기 안에만 ──
 const table1Rows = [
   {
     code: "F-4-11",
@@ -186,17 +221,17 @@ const faqs: FaqItem[] = [
   {
     question: "F-4 비자 세부코드는 어떻게 나뉘나요?",
     answer:
-      "2026년 2월 12일 동포 체류자격 통합 이후 법무부 체류민원 자격별 안내 매뉴얼(2026.9.)은 모든 국가의 동포에게 같은 기준을 적용하며, 재외동포(F-4) 사증발급 세부대상을 출생으로 대한민국 국적을 보유했다가 외국 국적을 취득한 사람(F-4-41)과 그 직계비속으로서 외국 국적을 취득한 사람(F-4-42)으로 안내합니다. 지역특화동포(F-4-R)는 별도 제도입니다. 아래 두 번째 표의 국가별 세부코드는 통합 이전 고시 기준이므로 신청 전에 현재 적용 여부를 확인해야 합니다.",
+      "2026년 2월 12일부터 방문취업(H-2)과 재외동포(F-4)로 나뉘어 있던 동포 체류자격이 재외동포(F-4)로 통합되어, 중국·CIS 지역 동포에게도 F-4 사증이 발급됩니다. 법무부 체류민원 자격별 안내 매뉴얼(2026.9.)의 재외동포 사증발급 세부대상은 출생으로 대한민국 국적을 보유했다가 외국 국적을 취득한 사람(F-4-41)과 그 직계비속으로서 외국 국적을 취득한 사람(F-4-42) 두 가지입니다. 지역특화동포(F-4-R)는 인구감소지역 지자체장 추천을 받는 별도 세부코드입니다.",
   },
   {
-    question: "F-4-11, F-4-12 코드는 그대로 사용하나요?",
+    question: "예전 자료에 나오는 F-4-11, F-4-12 같은 코드는 지금도 쓰나요?",
     answer:
-      "F-4-11은 F-4-41로, F-4-12는 F-4-42로 변경되었습니다. 과거 안내 자료의 코드와 다를 수 있으므로 신청 전 현재 코드를 확인해야 합니다.",
+      "현행 매뉴얼(2026.9.)에는 F-4-11~F-4-99 코드가 없습니다. 예전 F-4-11·F-4-12의 대상 문구는 현행 F-4-41·F-4-42와 같습니다. 과거 안내 자료나 이전에 받은 사증의 코드와 다를 수 있으므로 신청은 현행 코드 기준으로 준비합니다.",
   },
   {
     question: "제출 서류는 세부코드마다 다른가요?",
     answer:
-      "네. 같은 F-4라도 세부코드에 따라 요구되는 증빙이 다릅니다. 표의 제출 서류 항목을 기준으로 준비하되, 개별 사안에 따라 관할 기관이 추가 서류를 요청할 수 있습니다.",
+      "네. 공통 서류(한국어능력 입증서류·해외 범죄경력증명서·동포 입증서류)에 더해, F-4-41은 본인이, F-4-42는 직계존속이 대한민국 국민이었던 사실을 증명해야 하고 F-4-42는 가족관계를 증명하는 서류가 추가됩니다. 개별 사안에 따라 관할 기관이 추가 서류를 요청할 수 있습니다.",
   },
 ]
 
@@ -205,123 +240,83 @@ export default function F4VisaTypesPage() {
     <div className="flex min-h-screen flex-col">
       <ServiceJsonLd
         name="F-4 비자 종류별 안내"
-        description="F-4 비자 종류별 대상 및 제출 서류 안내. F-4-11부터 F-4-99까지 모든 세부 자격을 확인하세요."
+        description={PAGE_DESC}
         url={`${SITE.url}/f4-visa-types`}
       />
       <Header />
       <main id="main" className="flex-1">
         <PageBreadcrumb items={[{ label: "F-4 비자 종류", path: "/f4-visa-types" }]} />
         <PageHero
-          title="F-4 비자 종류"
-          subtitle="사증발급신청 등 첨부서류에 관한 고시"
+          title={PAGE_TITLE}
+          subtitle="현행 사증발급 세부대상은 F-4-41·F-4-42 두 가지입니다. 대상별 추가 서류와 공통 서류를 확인하세요."
+          photo="d-types"
         />
 
-        {/* Table 1 */}
+        {/* 현행 코드 */}
         <section className="section">
           <div className="container-x">
-            <h2 className="mb-2 text-2xl font-bold text-foreground md:text-3xl">
-              &ldquo;사증발급신청 등 첨부서류에 관한 고시&rdquo;국가 외의
-              외국국적동포
-            </h2>
-            <p className="mb-4 text-muted-foreground">
-              대한민국 국적을 보유하였던 자 및 그 직계비속 대상
-            </p>
-            <p className="mb-8 text-sm text-primary font-medium">
-              F-4-11은 F-4-41로, F-4-12는 F-4-42로 변경되었습니다.
+            <h2 className="mb-2 text-2xl font-bold text-foreground md:text-3xl">현행 F-4 사증발급 세부대상</h2>
+            <p className="mb-8 text-muted-foreground">
+              2026년 2월 12일부터 방문취업(H-2)과 재외동포(F-4)로 나뉘어 있던 동포 체류자격이 재외동포(F-4)로 통합되어, 중국·CIS 지역 동포에게도 F-4 사증이 발급됩니다. 세부대상은 아래 두 가지입니다.
             </p>
             <div className="overflow-x-auto rounded-2xl border border-border">
-              <table className="w-full min-w-[700px] text-sm">
+              <table className="w-full min-w-[640px] text-sm">
                 <thead>
                   <tr className="border-b border-border bg-secondary/50">
-                    <th className="px-4 py-4 text-left font-semibold text-foreground w-24">
-                      코드
-                    </th>
-                    <th className="px-4 py-4 text-left font-semibold text-foreground w-[40%]">
-                      대상
-                    </th>
-                    <th className="px-4 py-4 text-left font-semibold text-foreground">
-                      제출 서류
-                    </th>
+                    <th className="px-4 py-4 text-left font-semibold text-foreground w-24">코드</th>
+                    <th className="px-4 py-4 text-left font-semibold text-foreground w-[38%]">대상</th>
+                    <th className="px-4 py-4 text-left font-semibold text-foreground">추가 제출서류</th>
                   </tr>
                 </thead>
                 <tbody>
-                  {table1Rows.map((row, i) => (
-                    <tr
-                      key={row.code}
-                      className={`border-b border-border ${
-                        i % 2 === 0 ? "bg-card" : "bg-background"
-                      }`}
-                    >
-                      <td className="px-4 py-4 font-medium text-primary align-top">
-                        {row.code}
-                      </td>
-                      <td className="px-4 py-4 text-foreground align-top">
-                        {row.target}
-                      </td>
+                  {currentRows.map((row, i) => (
+                    <tr key={row.code} className={`border-b border-border ${i % 2 === 0 ? "bg-card" : "bg-background"}`}>
+                      <td className="px-4 py-4 font-semibold text-primary align-top">{row.code}</td>
+                      <td className="px-4 py-4 text-foreground align-top">{row.target}</td>
                       <td className="px-4 py-4 text-muted-foreground align-top">
-                        {row.documents}
+                        <ul className="list-disc space-y-1 pl-4">
+                          {row.documents.map((d) => (
+                            <li key={d}>{d}</li>
+                          ))}
+                        </ul>
                       </td>
                     </tr>
                   ))}
                 </tbody>
               </table>
             </div>
+
+            <h3 className="mt-10 mb-3 text-xl font-bold text-foreground">두 코드 공통 제출서류</h3>
+            <ul className="list-disc space-y-2 pl-5 text-foreground">
+              {commonDocs.map((d) => (
+                <li key={d}>{d}</li>
+              ))}
+            </ul>
+            <p className="mt-4 text-sm text-muted-foreground">
+              신청서, 여권, 표준규격사진, 수수료는 기본으로 냅니다. 지역특화동포(F-4-R)는 인구감소지역 지자체장 추천을 받는 별도 세부코드이며, 특례 적용을 포기하면 일반 재외동포(F-4-41·F-4-42)로 변경할 수 있습니다.
+            </p>
           </div>
         </section>
 
-        {/* Table 2 */}
+        {/* 예전 코드 — 접기 */}
         <section className="section section-alt">
           <div className="container-x">
-            <h2 className="mb-2 text-2xl font-bold text-foreground md:text-3xl">
-              &ldquo;사증발급신청 등 첨부서류에 관한 고시&rdquo;국가의
-              외국국적동포
-            </h2>
-            <p className="mb-4 text-muted-foreground">
-              F-4-13부터 F-4-99까지 세부 자격별 대상 및 제출 서류
-            </p>
-            <p className="mb-4 text-sm text-primary font-medium">
-              세부코드의 확인이 필요합니다.
-            </p>
-            <div className="mb-8 rounded-xl border border-border bg-secondary/30 p-4 text-sm text-muted-foreground">
-              <strong className="text-foreground">현행 기준 확인:</strong> 2026년 2월 12일 동포 체류자격 통합 이후 법무부 체류민원 자격별 안내 매뉴얼(2026.9.)은 모든 국가의 동포에게 같은 기준을 적용하고, 재외동포(F-4) 사증발급 세부대상을 F-4-41·F-4-42로 안내합니다. 아래 표는 통합 이전 국가별 고시 기준에 따른 세부코드이므로 신청 전에 현재 적용 여부를 확인하세요.
-            </div>
-            <div className="overflow-x-auto rounded-2xl border border-border">
-              <table className="w-full min-w-[700px] text-sm">
-                <thead>
-                  <tr className="border-b border-border bg-secondary/50">
-                    <th className="px-4 py-4 text-left font-semibold text-foreground w-24">
-                      코드
-                    </th>
-                    <th className="px-4 py-4 text-left font-semibold text-foreground w-[40%]">
-                      세부 대상
-                    </th>
-                    <th className="px-4 py-4 text-left font-semibold text-foreground">
-                      제출 서류
-                    </th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {table2Rows.map((row, i) => (
-                    <tr
-                      key={row.code}
-                      className={`border-b border-border ${
-                        i % 2 === 0 ? "bg-card" : "bg-background"
-                      }`}
-                    >
-                      <td className="px-4 py-4 font-medium text-primary align-top">
-                        {row.code}
-                      </td>
-                      <td className="px-4 py-4 text-foreground align-top">
-                        {row.target}
-                      </td>
-                      <td className="px-4 py-4 text-muted-foreground align-top">
-                        {row.documents}
-                      </td>
-                    </tr>
-                  ))}
-                </tbody>
-              </table>
-            </div>
+            <details className="group rounded-2xl border border-border bg-card">
+              <summary className="flex min-h-12 cursor-pointer list-none items-center justify-between gap-4 px-5 py-4 font-semibold text-foreground [&::-webkit-details-marker]:hidden">
+                예전 코드 (통합 이전 안내 자료의 F-4-11~F-4-99)
+                <span aria-hidden="true" className="text-xl text-muted-foreground group-open:hidden">+</span>
+                <span aria-hidden="true" className="hidden text-xl text-muted-foreground group-open:inline">−</span>
+              </summary>
+              <div className="border-t border-border px-5 py-5">
+                <p className="mb-6 text-sm text-muted-foreground">
+                  동포 체류자격 통합(2026년 2월 12일) 이전 안내 자료에 쓰이던 세부코드입니다. 현행 매뉴얼(2026.9.)에는 이 코드가 없고, 지금 신청은 위의 현행 코드로 합니다. 예전 F-4-11·F-4-12의 대상 문구는 현행 F-4-41·F-4-42와 같습니다.
+                </p>
+                <h3 className="mb-3 text-lg font-bold text-foreground">대한민국 국적을 보유하였던 자 및 그 직계비속</h3>
+                <OldTable rows={table1Rows} label="대상" />
+                <h3 className="mt-8 mb-3 text-lg font-bold text-foreground">통합 이전 국가별 고시 기준 세부코드</h3>
+                <OldTable rows={table2Rows} label="세부 대상" />
+              </div>
+            </details>
           </div>
         </section>
 
@@ -341,6 +336,31 @@ export default function F4VisaTypesPage() {
         />
       </main>
       <Footer />
+    </div>
+  )
+}
+
+function OldTable({ rows, label }: { rows: { code: string; target: string; documents: string }[]; label: string }) {
+  return (
+    <div className="overflow-x-auto rounded-xl border border-border">
+      <table className="w-full min-w-[640px] text-sm">
+        <thead>
+          <tr className="border-b border-border bg-secondary/50">
+            <th className="px-4 py-3 text-left font-semibold text-foreground w-24">예전 코드</th>
+            <th className="px-4 py-3 text-left font-semibold text-foreground w-[40%]">{label}</th>
+            <th className="px-4 py-3 text-left font-semibold text-foreground">제출 서류</th>
+          </tr>
+        </thead>
+        <tbody>
+          {rows.map((row, i) => (
+            <tr key={row.code} className={`border-b border-border ${i % 2 === 0 ? "bg-card" : "bg-background"}`}>
+              <td className="px-4 py-3 font-medium text-muted-foreground align-top">{row.code}</td>
+              <td className="px-4 py-3 text-foreground align-top">{row.target}</td>
+              <td className="px-4 py-3 text-muted-foreground align-top">{row.documents}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
     </div>
   )
 }

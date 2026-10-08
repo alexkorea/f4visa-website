@@ -100,6 +100,7 @@ export default function F4VisaResidentCardPage() {
         <PageHero
           title="F-4 비자와 거소증"
           subtitle="재외동포 체류자격과 외국인등록증"
+          photo="d-resident"
         />
 
         {/* F-4 비자란? */}

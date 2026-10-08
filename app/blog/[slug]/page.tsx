@@ -11,6 +11,7 @@ import { getAllPosts, getPostBySlug } from "@/lib/blog"
 import { SITE } from "@/lib/site"
 import { Calendar, Tag, ArrowLeft } from "lucide-react"
 import { InlineCTAForm } from "@/components/inline-cta-form"
+import { qrHref } from "@/lib/qr-links"
 
 export const revalidate = 3600
 export const dynamicParams = false
@@ -156,9 +157,9 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
                         { name: "WhatsApp", qr: "/qr/whatsapp-20260927-224.webp" },
                       ].map((m) => (
                         <div key={m.name} className="text-center">
-                          <div className="w-full aspect-square rounded-lg overflow-hidden border border-border mb-2">
+                          <a href={qrHref(m.qr)} target="_blank" rel="noopener noreferrer" aria-label={`${m.name} 상담 열기`} className="block w-full aspect-square rounded-lg overflow-hidden border border-border mb-2">
                             <img src={m.qr} alt={m.name} className="w-full h-full object-cover" />
-                          </div>
+                          </a>
                           <span className="text-xs text-muted-foreground">{m.name}</span>
                         </div>
                       ))}

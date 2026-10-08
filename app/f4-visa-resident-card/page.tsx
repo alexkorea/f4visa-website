@@ -99,7 +99,7 @@ export default function F4VisaResidentCardPage() {
         <PageBreadcrumb items={[{ label: "F-4 비자 거소증", path: "/f4-visa-resident-card" }]} />
         <PageHero
           title="F-4 비자와 거소증"
-          subtitle="재외동포 체류자격과 외국인등록증"
+          subtitle="재외동포 국내거소신고증(거소증) 발급 안내"
           photo="d-resident"
         />
 

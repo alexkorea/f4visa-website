@@ -3040,6 +3040,22 @@
    "slug": "f4-visa-korean-language-proof-documents",
    "generated_at": "2026-10-08T10:04:29.468Z",
    "version": "1.4"
+  },
+  "f4-visa-overseas-conviction-processing-standards": {
+   "hash": "28084374c2ea5b9abac5371f2881572db21e3df61826f646f2d954e4d3631f48",
+   "source": "pexels",
+   "seed": 101761379,
+   "theme": "city",
+   "prompt_subject": "korean urban street",
+   "map_version": null,
+   "pexels_id": 38837842,
+   "pexels_author": "Andre Tran",
+   "category": "F-4비자",
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-visa-overseas-conviction-processing-standards",
+   "generated_at": "2026-10-09T10:01:37.186Z",
+   "version": "1.4"
   }
  }
 }

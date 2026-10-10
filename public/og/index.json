@@ -3056,6 +3056,22 @@
    "slug": "f4-visa-overseas-conviction-processing-standards",
    "generated_at": "2026-10-09T10:01:37.186Z",
    "version": "1.4"
+  },
+  "f4-visa-overseas-criminal-record-submission-rules": {
+   "hash": "e764271434304b368d12753ae0ac103b46a061c69f5644ea885accb1447fefea",
+   "source": "pexels",
+   "seed": 137179889,
+   "theme": "city",
+   "prompt_subject": "korean urban street",
+   "map_version": null,
+   "pexels_id": 21011597,
+   "pexels_author": "Honggrider Rock",
+   "category": "F-4비자",
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-visa-overseas-criminal-record-submission-rules",
+   "generated_at": "2026-10-10T10:01:36.119Z",
+   "version": "1.4"
   }
  }
 }

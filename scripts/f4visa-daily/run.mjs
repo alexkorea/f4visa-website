@@ -32,6 +32,7 @@ import path from 'node:path'
 import os from 'node:os'
 import { fileURLToPath } from 'node:url'
 import { spawnSync } from 'node:child_process'
+import { stripDescription, stripOfficialBasis, customerViolations } from './customer-strip.mjs'
 
 const HERE = path.dirname(fileURLToPath(import.meta.url))
 const REPO = path.resolve(HERE, '..', '..')
@@ -208,28 +209,35 @@ function pickTopicImage(slug, category) {
 function render(e, docs) {
   if (SITE === 'f6visa') {
     return CFG.locales.map((loc) => {
-      const { fm, body } = docs[loc]
-      const content = `---\ntitle: ${q(fm.title)}\ndate: ${q(DATE)}\ncategory: ${q(e.meta.category[loc])}\nexcerpt: ${q(fm.description)}\nslug: ${q(e.slug)}\n---\n\n${wrapFaq(escapeTilde(body.replace(/^\s+/, '')))}`
+      // QA1010-F6: "공식 근거" 박스·매뉴얼 날짜 문구는 고객 화면에서 뺀다(원문은 bank/ 에 보관).
+      const { fm } = docs[loc]
+      const { body } = stripOfficialBasis(docs[loc].body)
+      const content = `---\ntitle: ${q(fm.title)}\ndate: ${q(DATE)}\ncategory: ${q(e.meta.category[loc])}\nexcerpt: ${q(stripDescription(fm.description, loc))}\nslug: ${q(e.slug)}\n---\n\n${wrapFaq(escapeTilde(body.replace(/^\s+/, '')))}`
       const rel = `content/${loc}/blog/${e.slug}.mdx`
       return { rel, content, remote: rel }
     })
   }
   if (SITE === 'f4visa') {
-    const { fm, body } = docs.ko
-    const content = `---\ntitle: ${q(fm.title)}\ndate: ${q(DATE)}\ncategory: ${q(e.meta.category.ko)}\nexcerpt: ${q(fm.description)}\nimage: ${q(`/og/${e.slug}.png`)}\nslug: ${q(e.slug)}\n---\n${escapeTilde(body.replace(/^\s+/, ''))}`
+    // QA1010-F6·VN-APO: f6 와 같은 규칙 — "공식 근거" 박스·매뉴얼 날짜 문구는 발행 사본에서 뺀다.
+    const { fm } = docs.ko
+    const { body } = stripOfficialBasis(docs.ko.body)
+    const content = `---\ntitle: ${q(fm.title)}\ndate: ${q(DATE)}\ncategory: ${q(e.meta.category.ko)}\nexcerpt: ${q(stripDescription(fm.description, 'ko'))}\nimage: ${q(`/og/${e.slug}.png`)}\nslug: ${q(e.slug)}\n---\n${escapeTilde(body.replace(/^\s+/, ''))}`
     const rel = `content/blog/${e.slug}.md`
     return [{ rel, content, remote: rel }]
   }
   // investkorea — Supabase 행 + 아카이브 사본
   return CFG.locales.map((loc) => {
-    const { fm, body } = docs[loc]
+    // QA1010-F6·VN-APO: f6 와 같은 규칙 — "공식 근거" 박스·매뉴얼 날짜 문구는 발행 사본에서 뺀다.
+    const { fm } = docs[loc]
+    const { body } = stripOfficialBasis(docs[loc].body)
+    const excerpt = stripDescription(fm.description, loc)
     const row = {
-      slug: e.slug, locale: loc, title: fm.title, category: e.meta.category[loc], excerpt: fm.description,
+      slug: e.slug, locale: loc, title: fm.title, category: e.meta.category[loc], excerpt,
       image: pickTopicImage(e.slug, e.meta.category.ko), content: escapeTilde(stripH1(body.replace(/^\s+/, ''))).trimEnd() + '\n',
       post_date: DATE, published: true,
     }
     const rel = `scripts/investkorea-daily/archive/${e.slug}.${loc}.md`
-    const content = `---\ntitle: ${q(fm.title)}\ndate: ${q(DATE)}\ncategory: ${q(row.category)}\nexcerpt: ${q(fm.description)}\nslug: ${q(e.slug)}\nlocale: ${q(loc)}\n---\n\n${row.content}`
+    const content = `---\ntitle: ${q(fm.title)}\ndate: ${q(DATE)}\ncategory: ${q(row.category)}\nexcerpt: ${q(excerpt)}\nslug: ${q(e.slug)}\nlocale: ${q(loc)}\n---\n\n${row.content}`
     return { rel, content, remote: `content/blog/${e.slug}.${loc}.md`, row }
   })
 }
@@ -324,6 +332,11 @@ async function main() {
       return 3
     }
     const files = render(e, docs)
+    {
+      // QA1010-F6 게이트(VN-APO 10-10 부터 f4·f6·ik 공통): 내부 근거 표기가 발행 사본에 남으면 그날 미발행(rc=3).
+      const leak = files.flatMap((f) => [f, f.post].filter(Boolean)).flatMap((f) => customerViolations(f.content).map((v) => `${f.rel}: "${v}"`))
+      if (leak.length) { for (const l of leak) console.log(`  ✗ 고객 화면 금지 문구 ${l}`); console.log(`✗ 원고 검사 FAIL — ${e.slug} (customer-strip.mjs 규칙 확인)`); return 3 }
+    }
     console.log(`→ 선택: ${e.slug} (order ${e.order}, ${e.meta.batch || '-'}) × ${CFG.locales.length} locales`)
     for (const f of files) console.log(`  · ${f.row ? `supabase insert ${f.row.slug}|${f.row.locale} + ` : ''}${f.rel} (${Buffer.byteLength(f.content)}B)`)
 

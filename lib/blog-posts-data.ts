@@ -9085,7 +9085,7 @@ A. 관할 출입국·외국인청에 방문해 재발급 신청을 합니다. �
       <td style="border:1px solid #e5e7eb;padding:10px">캐나다</td>
       <td style="border:1px solid #e5e7eb;padding:10px">Citizenship Certificate 원본</td>
       <td style="border:1px solid #e5e7eb;padding:10px">RCMP 지문조회(Certified)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">주한 캐나다대사관 영사확인 또는 아포스티유(가입 이후)</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">아포스티유(2024년 1월 11일 이전 발급·인증 서류는 접수처 확인)</td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">호주</td>

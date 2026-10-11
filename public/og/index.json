@@ -3072,6 +3072,22 @@
    "slug": "f4-visa-overseas-criminal-record-submission-rules",
    "generated_at": "2026-10-10T10:01:36.119Z",
    "version": "1.4"
+  },
+  "f5-permanent-residency-basic-literacy-requirement-overseas-korean": {
+   "hash": "9cd4ae02230306a022e13cf8e3389544da09c9c222a7537254844d730b7f5c1c",
+   "source": "pexels",
+   "seed": 1619812800,
+   "theme": "residence",
+   "prompt_subject": "apartment building entrance",
+   "map_version": null,
+   "pexels_id": 31728573,
+   "pexels_author": "Hyeok Jang",
+   "category": "영주권",
+   "visa": "F-5",
+   "lang": "ko",
+   "slug": "f5-permanent-residency-basic-literacy-requirement-overseas-korean",
+   "generated_at": "2026-10-11T10:01:18.749Z",
+   "version": "1.4"
   }
  }
 }

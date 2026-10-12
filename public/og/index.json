@@ -3088,6 +3088,22 @@
    "slug": "f5-permanent-residency-basic-literacy-requirement-overseas-korean",
    "generated_at": "2026-10-11T10:01:18.749Z",
    "version": "1.4"
+  },
+  "f5-permanent-residency-loss-cancellation-reasons-overseas-korean": {
+   "hash": "21fa3f89600d5ef39cfa5bcccf7644a04e8ba62a27e21c799a49444e1ecd7843",
+   "source": "pexels",
+   "seed": 2431165825,
+   "theme": "residence",
+   "prompt_subject": "apartment building entrance",
+   "map_version": null,
+   "pexels_id": 32148707,
+   "pexels_author": "Theodore Nguyen",
+   "category": "영주권",
+   "visa": "F-5",
+   "lang": "ko",
+   "slug": "f5-permanent-residency-loss-cancellation-reasons-overseas-korean",
+   "generated_at": "2026-10-12T10:01:20.756Z",
+   "version": "1.4"
   }
  }
 }

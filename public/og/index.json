@@ -3104,6 +3104,22 @@
    "slug": "f5-permanent-residency-loss-cancellation-reasons-overseas-korean",
    "generated_at": "2026-10-12T10:01:20.756Z",
    "version": "1.4"
+  },
+  "f4-41-f4-42-eligibility-proof-documents-by-category": {
+   "hash": "a8f105fd5193d3d7ddc90eab64d07147c6034f291e84e772229f0aea9a2d154a",
+   "source": "pexels",
+   "seed": 569864005,
+   "theme": "city",
+   "prompt_subject": "korean urban street",
+   "map_version": null,
+   "pexels_id": 37785249,
+   "pexels_author": "CK Seng",
+   "category": "F-4비자",
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-41-f4-42-eligibility-proof-documents-by-category",
+   "generated_at": "2026-10-13T10:01:35.167Z",
+   "version": "1.4"
   }
  }
 }

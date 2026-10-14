@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "prebuild": "node scripts/qr-hash-gate.mjs",
+    "prebuild": "node scripts/qr-hash-gate.mjs && node scripts/blog-dup-gate.mjs",
     "dev": "next dev",
     "build": "next build && node scripts/seo-gate.mjs",
     "start": "next start",

@@ -30,7 +30,7 @@ const SITE = 'f4visa'
 import fs from 'node:fs'
 import path from 'node:path'
 import os from 'node:os'
-import { fileURLToPath } from 'node:url'
+import { fileURLToPath, pathToFileURL } from 'node:url'
 import { spawnSync } from 'node:child_process'
 import { stripDescription, stripOfficialBasis, customerViolations } from './customer-strip.mjs'
 
@@ -75,6 +75,20 @@ const SITES = {
   },
 }
 const CFG = SITES[SITE]
+
+// BOSSEYE-FIX-1014 #13(맥6 10-13: 15묶음 43편 같은 주제) — slug 만 다르고 제목이 같은 주제인 원고는 발행하지 않는다.
+// scripts/blog-dup-gate.mjs 가 있는 레포에서만 켠다(f4visa). 사람이 보고 따로 낼 글이면 meta.json dupAllow 에 사유를 적는다.
+const DUP_GATE = path.join(REPO, 'scripts', 'blog-dup-gate.mjs')
+const dupGate = fs.existsSync(DUP_GATE) ? await import(pathToFileURL(DUP_GATE).href) : null
+async function dupHits(e) {
+  if (!dupGate || e.meta.dupAllow) return []
+  const p = path.join(e.dir, 'ko.md')
+  if (!fs.existsSync(p)) return []
+  let title = ''
+  try { title = parseManuscript(fs.readFileSync(p, 'utf8')).fm.title } catch { return [] }
+  return title ? dupGate.similarExisting(title, e.slug) : []
+}
+const dupText = (hits) => hits.slice(0, 3).map((h) => `${h.slug}(${h.score.toFixed(2)})`).join(', ')
 if (!CFG) { console.error(`✗ 알 수 없는 SITE: ${SITE}`); process.exit(4) }
 
 // ── 검사 규칙 ────────────────────────────────────────────────────────────────
@@ -301,6 +315,8 @@ async function main() {
       const exist = SITE === 'investkorea' ? await ikExisting(e.slug) : CFG.exists(e.slug)
       const { fails, warns } = checkEntry(e)
       if (exist.length) fails.unshift(`기존 slug: ${exist.slice(0, 2).join(', ')}`)
+      const dup = await dupHits(e)
+      if (dup.length) fails.unshift(`같은 주제(유사 제목): ${dupText(dup)}`)
       if (fails.length) bad++
       console.log(`${fails.length ? '✗' : '✓'} ${String(e.order).padStart(2)} ${e.slug}${warns.length ? `  ⚠${warns.length}` : ''}`)
       for (const f of fails) console.log(`     ✗ ${f}`)
@@ -321,6 +337,13 @@ async function main() {
     if (exist.length) {
       console.log(`✗ 기존 slug 거부 — ${e.slug} 이미 있음: ${exist.slice(0, 3).join(', ')} (덮어쓰지 않는다, 다음 원고로)`)
       if (WRITE) { state.rejected.push({ slug: e.slug, date: DATE, reason: `exists: ${exist.slice(0, 3).join(', ')}` }); writeState(state) }
+      continue
+    }
+    // 1-2) 같은 주제 거부 — 기존 글과 제목이 유사하면 쓰지 않는다(다음 원고로).
+    const dup = await dupHits(e)
+    if (dup.length) {
+      console.log(`✗ 같은 주제 거부 — ${e.slug} ≈ ${dupText(dup)} (scripts/blog-dup-gate.mjs, 따로 낼 글이면 meta.json dupAllow 에 사유)`)
+      if (WRITE) { state.rejected.push({ slug: e.slug, date: DATE, reason: `similar-title: ${dupText(dup)}` }); writeState(state) }
       continue
     }
     // 2) 원고 검사 — FAIL 이면 그날 미발행(rc=3). 건너뛰지 않는다: 사람이 고쳐야 한다.

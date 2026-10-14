@@ -9,7 +9,7 @@ import { ServiceJsonLd } from "@/components/structured-data"
 import { RelatedBlogLinks } from "@/components/related-blog-links"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { Button } from "@/components/ui/button"
-import { CalendarCheck, FileText, Building2, Quote } from "lucide-react"
+import { CalendarCheck, FileText, Building2, CheckCircle2 } from "lucide-react"
 
 export const metadata = {
   title: "F-4 비자 연장 — 필요서류와 절차, 신청 시기",
@@ -52,6 +52,32 @@ const steps = [
     description:
       "예약된 날짜에 관할 출입국/외국인청을 방문하여 연장 신청하거나, 전문 행정사무소에 대행을 위임합니다.",
   },
+]
+
+// BOSSEYE-FIX-1014 #8 — STEP 02 가 가리키는 '아래 필수 서류 목록'. 출입국 매뉴얼 원문 대조 결과는 docs/evidence/f4-renewal-documents.md
+// (근거·기준일은 고객 화면에 적지 않는다). 매뉴얼에 없는 서류·금액을 여기에 더하지 말 것.
+const requiredDocs = [
+  { name: "신청서", note: "체류기간 연장허가 신청서(통합신청서)" },
+  { name: "수수료", note: "체류기간 연장허가 심사 수수료" },
+  {
+    name: "한국어능력 입증서류",
+    note: "사회통합프로그램 사전평가 점수표(21점 이상) 또는 교육확인서(1단계 이상 이수), 한국어능력시험(TOPIK) 성적증명서(1급 이상), 세종학당 수료증(초급 1B 과정 이상), 교육부 한국교육원 한국어강좌 수료증(2단계 이상) 중 하나. 점수표·성적증명서는 성적 발표일부터 2년 안의 것",
+  },
+  { name: "체류지 입증서류", note: "임대차 계약서 등 국내 체류지를 확인할 수 있는 서류" },
+]
+
+const conditionalDocs = [
+  { name: "외국인 직업 신고서", note: "취업할 수 있는 체류자격(F-4 포함)으로 연장할 때 현재 직업을 신고합니다." },
+  { name: "결핵진단서", note: "결핵 고위험국가 국적이면서, 신청일 전 1년 안에 결핵 고위험국가에 연속 6개월 이상 머문 경우 등" },
+  { name: "재학증명서", note: "만 6세 이상 만 18세 이하 자녀가 초·중·고교에 재학 중인 경우" },
+]
+
+const koreanExempt = [
+  "과거 다른 체류자격으로 한국어능력 입증서류를 제출한 적이 있는 사람",
+  "과거 대한민국 국적을 가졌던 사람",
+  "만 60세 이상인 사람, 만 13세 이하인 사람",
+  "한국에서 초등학교 이상을 졸업한 사람",
+  "2019년 9월 2일 이전에 F-4 사증을 받은 사람, 그 이전부터 F-4 자격으로 체류 중인 사람(연장 시 면제)",
 ]
 
 const faqs = [
@@ -118,19 +144,6 @@ export default function F4VisaRenewalPage() {
                 연장 절차와 필수 서류들을 미리 챙겨 두는 것이 중요합니다.
               </p>
 
-              {/* Quote */}
-              <div className="mt-6 rounded-2xl border-l-4 border-primary bg-card p-6 lg:p-8">
-                <Quote className="mb-4 h-8 w-8 text-primary/40" />
-                <blockquote className="text-lg italic leading-relaxed text-foreground">
-                  &ldquo;F-4비자는 최초 최대 3년의 체류 기간이 부여됩니다. 만료 전
-                  반드시 연장(체류기간 연장허가) 신청을 해야 하며, 연장 시에도
-                  일반적으로 동일 기간이 부여됩니다. 연장을 통해 안정적으로 한국 내
-                  생활을 지속할 수 있습니다&rdquo;
-                </blockquote>
-                <p className="mt-4 text-sm font-medium text-muted-foreground">
-                  -- Alex, CEO F4visa Company
-                </p>
-              </div>
             </div>
           </div>
         </section>
@@ -168,6 +181,54 @@ export default function F4VisaRenewalPage() {
                   </p>
                 </div>
               ))}
+            </div>
+          </div>
+        </section>
+
+        {/* 필수 서류 목록 — STEP 02 '아래 필수 서류 목록' (BOSSEYE-FIX-1014 #8) */}
+        <section id="required-documents" className="section">
+          <div className="container-x">
+            <div className="measure">
+              <h2 className="text-2xl font-bold text-foreground md:text-3xl">
+                F-4 비자 연장 필수 서류 목록
+              </h2>
+              <p className="mt-4 text-muted-foreground">
+                체류기간 연장허가를 신청할 때 기본으로 준비하는 서류입니다. 해당하는 경우에만 내는 서류는 아래에 따로 적었습니다.
+              </p>
+              <ul className="mt-6 space-y-3">
+                {requiredDocs.map((d) => (
+                  <li key={d.name} className="flex items-start gap-3 rounded-xl border border-border bg-card p-4">
+                    <CheckCircle2 className="mt-1 h-5 w-5 shrink-0 text-primary" aria-hidden />
+                    <div>
+                      <p className="font-semibold text-foreground">{d.name}</p>
+                      <p className="mt-1 text-sm text-muted-foreground">{d.note}</p>
+                    </div>
+                  </li>
+                ))}
+              </ul>
+
+              <h3 className="mt-10 text-lg font-semibold text-foreground">해당하는 분만 추가로 내는 서류</h3>
+              <ul className="mt-4 space-y-3">
+                {conditionalDocs.map((d) => (
+                  <li key={d.name} className="rounded-xl border border-border bg-card p-4">
+                    <p className="font-semibold text-foreground">{d.name}</p>
+                    <p className="mt-1 text-sm text-muted-foreground">{d.note}</p>
+                  </li>
+                ))}
+              </ul>
+
+              <h3 className="mt-10 text-lg font-semibold text-foreground">한국어능력 입증서류를 내지 않아도 되는 경우</h3>
+              <ul className="mt-4 list-disc space-y-1 pl-5 text-muted-foreground">
+                {koreanExempt.map((t) => (
+                  <li key={t}>{t}</li>
+                ))}
+              </ul>
+              <p className="mt-4 text-sm text-muted-foreground">
+                한국어능력 입증서류를 내면(면제 대상 포함) 최대 3년까지 체류기간을 받을 수 있습니다. 내지 않으면 1년이 부여되고, 사회통합프로그램에 등록해 수강 중이면 2년이 부여됩니다.
+              </p>
+              <p className="mt-2 text-sm text-muted-foreground">
+                관할 출입국·외국인관서는 심사에 필요하면 서류를 더 요청할 수 있습니다. 내 상황에 맞는 서류는 상담으로 확인해 드립니다.
+              </p>
             </div>
           </div>
         </section>

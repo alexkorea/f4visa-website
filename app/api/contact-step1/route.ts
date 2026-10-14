@@ -6,7 +6,7 @@ const RESEND_API_KEY = process.env.RESEND_API_KEY || ""
 const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN || ""
 const TELEGRAM_CHAT_ID = process.env.TELEGRAM_CHAT_ID || ""
 
-type Receipt = { contact?: string; snsType?: string; snsId?: string; nationality?: string; email?: string }
+type Receipt = { contact?: string; snsType?: string; snsId?: string; nationality?: string; email?: string; message?: string }
 
 function esc(v: unknown): string {
   return String(v ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;')
@@ -21,10 +21,11 @@ function receiptTable(name: string, services: string[], r: Receipt): string {
   if (r.snsType && r.snsId) rows.push(['SNS', `${r.snsType} - ${r.snsId}`])
   if (r.nationality) rows.push(['국적', r.nationality])
   rows.push(['희망 업무', services.join(" / ")])
+  if (r.message) rows.push(['상황 설명', r.message])
   rows.push(['접수시각', new Date().toLocaleString('ko-KR', { timeZone: 'Asia/Seoul' })])
   const body = rows.map(([k, v]) =>
     `<tr><td style="padding:7px 14px 7px 0;color:#888;font-size:13px;white-space:nowrap;vertical-align:top">${esc(k)}</td>`
-    + `<td style="padding:7px 0;color:#1e3a5f;font-size:14px">${esc(v)}</td></tr>`).join('')
+    + `<td style="padding:7px 0;color:#1e3a5f;font-size:14px">${esc(v).replace(/\r?\n/g, '<br/>')}</td></tr>`).join('')
   return `<div style="margin:0 0 24px;padding:18px 20px;background:#f8f9fb;border-radius:10px;border-left:4px solid #1e3a5f">`
     + `<p style="margin:0 0 10px;color:#1e3a5f;font-size:14px;font-weight:700">접수 내용</p>`
     + `<table cellpadding="0" cellspacing="0" style="border-collapse:collapse;width:100%">${body}</table>`
@@ -85,6 +86,8 @@ export async function POST(request: Request) {
     const body = await request.json()
     if (body.website) return NextResponse.json({ success: true, inquiryId: '' })
     const { name, snsType, snsId, nationality, services } = body
+    // BOSSEYE-FIX-1014 #17: '상황을 간단히 적어주세요'(선택). 없거나 문자열이 아니면 빈 값 — 필수 검사에 쓰지 않는다.
+    const situation = typeof body.message === "string" ? body.message.trim().slice(0, 2000) : ""
     const checked = checkStep1(body)
     if (!checked.ok) {
       return NextResponse.json({ ok: false, error: checked.error }, { status: 400 })
@@ -96,6 +99,7 @@ export async function POST(request: Request) {
     const messageParts: string[] = []
     if (snsType && snsId) messageParts.push(`SNS: ${snsType} - ${snsId}`)
     if (nationality) messageParts.push(`국적: ${nationality}`)
+    if (situation) messageParts.push(`상황: ${situation}`)
     const message = messageParts.length > 0 ? messageParts.join(" | ") : undefined
 
     const crmResult = await saveToCRM({
@@ -105,7 +109,7 @@ export async function POST(request: Request) {
       name, email, phone: contact || undefined,
       nationality: nationality || undefined,
       serviceRaw, message,
-      rawPayload: { name, email, contact, snsType, snsId, nationality, services },
+      rawPayload: { name, email, contact, snsType, snsId, nationality, services, message: situation || undefined },
     })
 
     const inquiryId = crmResult.inboxId || `f4v-${Date.now()}`
@@ -120,7 +124,7 @@ export async function POST(request: Request) {
         // 고객 회신이 담당자에게 닿도록. (2026-09-22)
         reply_to: "5000meter@gmail.com",
         subject: "[행정사사무소 이룸] 행정사사무소 이룸에 상담요청해 주셔서 감사합니다.",
-        html: buildEmailHtml(name, Array.isArray(services) ? services : [services], inquiryId, { email, contact, snsType, snsId, nationality }),
+        html: buildEmailHtml(name, Array.isArray(services) ? services : [services], inquiryId, { email, contact, snsType, snsId, nationality, message: situation || undefined }),
       }),
     }).catch((err) => console.error("Resend email error:", err))
 
@@ -131,6 +135,7 @@ export async function POST(request: Request) {
     if (snsType && snsId) telegramText += `SNS: ${snsType} - ${snsId}\n`
     if (nationality) telegramText += `국적: ${nationality}\n`
     telegramText += `희망 업무: ${svcList}\n`
+    if (situation) telegramText += `상황: ${situation}\n`
 
     const telegramPromise = fetch(
       `https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage`,

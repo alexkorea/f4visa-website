@@ -19,11 +19,13 @@ export function SitePhoto({
   if (!p) throw new Error(`사진 없음: ${slot}`)
   const w = p.widths[p.widths.length - 1]
   if (hero) {
-    // 좁은 화면은 144px 썸네일 한 장(-320, 2배 밀도)만, 넓은 화면은 srcset. ReactDOM.preload 는 쓰지 않는다 —
+    // 좁은 화면은 144px 썸네일 — 밀도(x) 기술자로 화면 배율에 맞는 파일 하나만 받는다: 1배 -320 · 2배 -640 · 3배 -1280
+    // (BOSSEYE-FIX-1014 #4: 예전엔 -320 한 장뿐이라 DPR3 에서 흐렸다. 파일은 원본에서 줄인 기존 폭만 쓴다 — 업스케일 0).
+    // 넓은 화면은 srcset. ReactDOM.preload 는 쓰지 않는다 —
     // 홈 RSC 를 링크 프리페치할 때 미리받기 힌트까지 실려 모든 페이지가 홈 사진을 High 로 받았다(BEYE-1007 실측).
     return (
       <picture>
-        <source media="(max-width: 1023px)" srcSet={`${p.base}-320.webp`} />
+        <source media="(max-width: 1023px)" srcSet={`${p.base}-320.webp 1x, ${p.base}-640.webp 2x, ${p.base}-1280.webp 3x`} />
         <source media="(min-width: 1024px)" srcSet={photoSrcSet(p)} sizes={sizes} />
         <img
           src={`${p.base}-320.webp`}

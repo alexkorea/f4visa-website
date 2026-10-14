@@ -71,6 +71,7 @@ export function ContactForm() {
       snsId: snsId || undefined,
       nationality: (form.elements.namedItem("nationality") as HTMLSelectElement).value,
       services: selectedServices,
+      message: (form.elements.namedItem("message") as HTMLTextAreaElement).value.trim() || undefined,
       website: (form.elements.namedItem("website") as HTMLInputElement)?.value || "",
     }
     try {
@@ -214,7 +215,13 @@ export function ContactForm() {
           </div>
         </div>
 
-        <PrivacyConsent items="이름, 이메일, 연락처, SNS ID, 국적, 희망 업무" />
+        {/* BOSSEYE-FIX-1014 #17: 고객이 자기 상황을 적을 칸(선택). 접수 확인메일·담당자 알림 본문에 그대로 실린다. */}
+        <div>
+          <label htmlFor="message" className="mb-2 block text-sm font-medium text-foreground">상황을 간단히 적어주세요 <span className="text-muted-foreground font-normal text-xs">(선택)</span></label>
+          <textarea id="message" name="message" rows={4} maxLength={2000} className="w-full rounded-lg border border-border bg-background px-4 py-3 text-base text-foreground placeholder:text-muted-foreground focus:border-primary focus:outline-none focus:ring-1 focus:ring-primary" placeholder="예: 미국 시민권자이고 한국에 2주 머물 예정입니다. 거소증을 빨리 받고 싶습니다." />
+        </div>
+
+        <PrivacyConsent items="이름, 이메일, 연락처, SNS ID, 국적, 희망 업무, 상황 설명(적은 경우)" />
         <Button type="submit" className="btn btn-primary btn-block" size="lg" disabled={status === "sending" || selectedServices.length === 0}>
           {status === "sending" ? "처리 중..." : "신청하기"}
         </Button>

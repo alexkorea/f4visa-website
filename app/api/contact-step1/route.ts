@@ -5,6 +5,8 @@ import { checkStep1 } from "@/lib/contact-step1-validate"
 const RESEND_API_KEY = process.env.RESEND_API_KEY || ""
 const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN || ""
 const TELEGRAM_CHAT_ID = process.env.TELEGRAM_CHAT_ID || ""
+// 고객 문의 폼 알림은 전부 5000meter (보스 msg 1843). step1 경로엔 관리자 메일이 없었다(FIX-1014B).
+const NOTIFY_EMAIL = "5000meter@gmail.com"
 
 type Receipt = { contact?: string; snsType?: string; snsId?: string; nationality?: string; email?: string; message?: string }
 
@@ -30,6 +32,28 @@ function receiptTable(name: string, services: string[], r: Receipt): string {
     + `<p style="margin:0 0 10px;color:#1e3a5f;font-size:14px;font-weight:700">접수 내용</p>`
     + `<table cellpadding="0" cellspacing="0" style="border-collapse:collapse;width:100%">${body}</table>`
     + `<p style="margin:12px 0 0;color:#888;font-size:12px">내용이 사실과 다르면 이 메일에 그대로 회신해 주세요.</p></div>`
+}
+
+// 관리자 알림 — 고객이 적은 전 항목을 빈 값도 '-' 로 표에 싣는다(빠진 칸과 미입력을 구분하려고).
+function buildAdminHtml(name: string, services: string[], inquiryId: string, r: Receipt): string {
+  const rows: Array<[string, string]> = [
+    ['이름', name],
+    ['이메일', r.email || ''],
+    ['연락처', r.contact || ''],
+    ['SNS', r.snsType && r.snsId ? `${r.snsType} - ${r.snsId}` : (r.snsId || '')],
+    ['국적', r.nationality || ''],
+    ['희망 업무', services.join(" / ")],
+    ['상황 설명', r.message || ''],
+    ['접수번호', inquiryId],
+    ['접수시각', new Date().toLocaleString('ko-KR', { timeZone: 'Asia/Seoul' })],
+  ]
+  const body = rows.map(([k, v]) =>
+    `<tr><td style="padding:8px 12px;font-weight:bold;border:1px solid #ddd;background:#f9f9f9;white-space:nowrap;vertical-align:top">${esc(k)}</td>`
+    + `<td style="padding:8px 12px;border:1px solid #ddd;">${v ? esc(v).replace(/\r?\n/g, '<br/>') : '-'}</td></tr>`).join('')
+  return `<div style="font-family:'Apple SD Gothic Neo',sans-serif;max-width:600px;margin:0 auto;">`
+    + `<h2 style="color:#1a56db;">[F4비자] 새 상담 신청 (1단계)</h2>`
+    + `<table style="width:100%;border-collapse:collapse;margin:16px 0;">${body}</table>`
+    + `<p style="color:#666;font-size:13px;">f4visa.net 상담 폼(/api/contact-step1)에서 자동 발송. ${r.email ? '회신하면 고객에게 갑니다.' : '고객 이메일 없음 — 연락처로 회신.'}</p></div>`
 }
 
 function buildEmailHtml(name: string, services: string[], inquiryId: string, receipt: Receipt = {}): string {
@@ -128,6 +152,22 @@ export async function POST(request: Request) {
       }),
     }).catch((err) => console.error("Resend email error:", err))
 
+    const serviceList: string[] = Array.isArray(services) ? services : [services]
+    const adminPromise = fetch("https://api.resend.com/emails", {
+      method: "POST",
+      headers: { "Authorization": `Bearer ${RESEND_API_KEY}`, "Content-Type": "application/json" },
+      body: JSON.stringify({
+        from: "행정사사무소 이룸 <noreply@ko-visas.com>",
+        to: [NOTIFY_EMAIL],
+        // 관리자가 '회신' 을 누르면 곧바로 고객에게 가도록 (이메일 없으면 생략)
+        ...(email ? { reply_to: email } : {}),
+        subject: `[F4비자] 새 상담 신청 - ${name || "고객"}`,
+        html: buildAdminHtml(name, serviceList, inquiryId, { email, contact, snsType, snsId, nationality, message: situation || undefined }),
+      }),
+    }).then(async (res) => {
+      if (!res.ok) console.error("[f4visa step1] admin Resend", res.status, await res.text())
+    }).catch((err) => console.error("[f4visa step1] admin Resend error:", err))
+
     const svcList = Array.isArray(services) ? services.join(", ") : services
     let telegramText = `[F4Visa] 새 상담 신청\n\n`
     telegramText += `이름: ${name}\n이메일: ${email || "(없음)"}\n`
@@ -142,7 +182,7 @@ export async function POST(request: Request) {
       { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ chat_id: TELEGRAM_CHAT_ID, text: telegramText }) }
     ).catch((err) => console.error("Telegram error:", err))
 
-    await Promise.all([emailPromise, telegramPromise])
+    await Promise.all([emailPromise, adminPromise, telegramPromise])
     return NextResponse.json({ ok: true, inquiryId })
   } catch (error) {
     console.error("Contact step1 error:", error)

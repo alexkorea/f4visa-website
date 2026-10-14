@@ -3120,6 +3120,22 @@
    "slug": "f4-41-f4-42-eligibility-proof-documents-by-category",
    "generated_at": "2026-10-13T10:01:35.167Z",
    "version": "1.4"
+  },
+  "f4-c3-8-compatriot-visit-visa-5-year-multiple-entry": {
+   "hash": "d7dfc06d1fae735161951e49399aaa437b3ce95e603fbf5cb5621c5d8d371bae",
+   "source": "pexels",
+   "seed": 3072337086,
+   "theme": "city",
+   "prompt_subject": "korean urban street",
+   "map_version": null,
+   "pexels_id": 35007594,
+   "pexels_author": "⠀JW ⠀",
+   "category": "재외동포",
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-c3-8-compatriot-visit-visa-5-year-multiple-entry",
+   "generated_at": "2026-10-14T10:01:32.801Z",
+   "version": "1.4"
   }
  }
 }

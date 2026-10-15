@@ -3136,6 +3136,22 @@
    "slug": "f4-c3-8-compatriot-visit-visa-5-year-multiple-entry",
    "generated_at": "2026-10-14T10:01:32.801Z",
    "version": "1.4"
+  },
+  "f4-grant-restriction-serious-crime-sentence-five-years": {
+   "hash": "6ecb24765b4b6e75f72c19ce854bc2a1af46239af04d3ca136e9b66d8aab80eb",
+   "source": "pexels",
+   "seed": 2465980504,
+   "theme": "city",
+   "prompt_subject": "korean urban street",
+   "map_version": null,
+   "pexels_id": 31768180,
+   "pexels_author": "Theodore Nguyen",
+   "category": "F-4비자",
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-grant-restriction-serious-crime-sentence-five-years",
+   "generated_at": "2026-10-15T10:01:38.383Z",
+   "version": "1.4"
   }
  }
 }

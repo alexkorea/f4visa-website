@@ -3152,6 +3152,22 @@
    "slug": "f4-grant-restriction-serious-crime-sentence-five-years",
    "generated_at": "2026-10-15T10:01:38.383Z",
    "version": "1.4"
+  },
+  "f4-h2-employment-start-report-15-days-fine": {
+   "hash": "1a224f8e82f3f84e6b9564a0684f8a8b698aa4fe713db64fdad9338faa79addc",
+   "source": "pexels",
+   "seed": 2552065764,
+   "theme": "industry",
+   "prompt_subject": "shipping containers port",
+   "map_version": null,
+   "pexels_id": 39621567,
+   "pexels_author": "Oleksiy Yeshtokyn,🌻🇺🇦🌻",
+   "category": "재외동포",
+   "visa": "H-2",
+   "lang": "ko",
+   "slug": "f4-h2-employment-start-report-15-days-fine",
+   "generated_at": "2026-10-16T10:01:39.552Z",
+   "version": "1.4"
   }
  }
 }

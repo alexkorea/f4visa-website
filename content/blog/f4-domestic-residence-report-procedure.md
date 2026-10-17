@@ -49,11 +49,6 @@ F-2, E-7, D-8 등 일반 외국인은 외국인등록을 하지만, F-4는 재�
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">근거 법령</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">출입국관리법</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">재외동포법</td>
-    </tr>
-    <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">대상</td>
       <td style="border:1px solid #e5e7eb;padding:10px">일반 외국인</td>
       <td style="border:1px solid #e5e7eb;padding:10px">재외동포(F-4)</td>

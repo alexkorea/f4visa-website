@@ -71,39 +71,32 @@ slug: "f4-visa-military-service-unfulfilled-restriction"
     <tr>
       <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">구분</th>
       <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">F-4 신청 가능 여부</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">근거</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">17세 이전 국적 상실(부모 국적 취득 동반)</td>
       <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">병역 의무 발생 전</td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">18세 생일 이후 ~ 병역 미필 상태 국적 상실</td>
       <td style="border:1px solid #e5e7eb;padding:10px">제한 (37세까지)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">재외동포법 제5조 제2항</td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">현역·공익·대체복무 완료 후 국적 상실</td>
       <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">병역 의무 종료</td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">병역 면제 판정 후 국적 상실</td>
       <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">면제 확정 시 의무 종료 간주</td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">만 37세 되는 해 12월 31일 경과</td>
       <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">제2국민역 편입·병역 의무 종료</td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">여성</td>
       <td style="border:1px solid #e5e7eb;padding:10px">가능 (병역 무관)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">병역법 적용 대상 아님</td>
     </tr>
   </tbody>
 </table>

@@ -58,8 +58,6 @@ slug: "nationality-recovery-review-criteria-period"
 
 실무에서는 두 번째 "품행" 항목이 가장 자주 걸립니다.
 
-자세한 법조문은 국가법령정보센터 국적법에서 확인할 수 있습니다.
-
 <h2 id="section-2">심사 기준 — 실제로 갈리는 포인트</h2>
 
 서류는 통과 라인이 아니라 출발점입니다.

@@ -22,10 +22,9 @@ F-4 비자는 외국 국적을 취득한 한국계 동포에게 주어지는 재
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 신청 경로와 절차 개요</a></li>
     <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문(FAQ)</a></li>
     <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 참고 법령 및 공식 자료</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 상담 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-12" style="color:#2563eb;text-decoration:none">12. 전문가 상담이 필요하신가요?</a></li>
+    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">9. 상담 안내</a></li>
+    <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">10. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+    <li style="margin:8px 0"><a href="#section-12" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
   </ul>
 </nav>
 
@@ -158,13 +157,6 @@ F-4는 단순노무 직종을 수행할 수 없습니다. 신청 단계에서 �
 5. 숙박관련 숙박제공자와의 연락
 
 정확한 비용은 사례별로 상이하므로 무료 상담 시 안내드립니다.
-
-<h2 id="section-9">참고 법령 및 공식 자료</h2>
-
-- 「재외동포의 출입국과 법적 지위에 관한 법률」 제2조 — 국가법령정보센터
-- 「국적법」 제15조 (외국 국적 취득에 따른 국적 상실) — 국가법령정보센터
-- 출입국·외국인정책본부 하이코리아
-- 법무부 출입국·외국인정책본부
 
 세부 요건은 사안에 따라 달라질 수 있으며, 최신 지침은 관할 출입국사무소 확인이 필요합니다.
 

@@ -316,11 +316,6 @@ F-4 비자(재외동포 비자)로 국내거소신고를 마친 분들은 거소
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">근거 법령</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">주민등록법 (재외동포 준용)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">재외동포법</td>
-    </tr>
-    <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">신고 대상</td>
       <td style="border:1px solid #e5e7eb;padding:10px">행정복지센터</td>
       <td style="border:1px solid #e5e7eb;padding:10px">출입국·외국인청 또는 행정복지센터</td>

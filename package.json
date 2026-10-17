@@ -3,12 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "prebuild": "node scripts/qr-hash-gate.mjs && node scripts/blog-dup-gate.mjs",
+    "prebuild": "node scripts/qr-hash-gate.mjs && node scripts/blog-dup-gate.mjs && node scripts/nocite-src-gate.mjs",
     "dev": "next dev",
-    "build": "next build && node scripts/seo-gate.mjs",
+    "build": "next build && node scripts/seo-gate.mjs && node scripts/nocite-gate.mjs .next/server/app",
     "start": "next start",
     "lint": "eslint .",
-    "seo:gate": "node scripts/seo-gate.mjs"
+    "seo:gate": "node scripts/seo-gate.mjs",
+    "nocite:gate": "node scripts/nocite-src-gate.mjs && node scripts/nocite-gate.mjs .next/server/app"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.1",

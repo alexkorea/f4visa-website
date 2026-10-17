@@ -21,11 +21,10 @@ slug: "f4-koryoin-application-guide"
     <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 고려인 F-4 신청 절차</a></li>
     <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 실무에서 자주 막히는 지점</a></li>
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 단순노무 활동 제한</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 법령 근거와 확인 경로</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">6. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
+    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">8. 전문가 상담이 필요하신가요?</a></li>
+    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
   </ul>
 </nav>
 
@@ -185,18 +184,6 @@ F-4는 취업비자가 아니라 **체류 자격**입니다.
 - 강사·연구·기술 직군
 
 자세한 직종 분류와 본인 직무가 어디에 속하는지는 하이코리아 안내와 함께 사례별 검토가 필요합니다.
-
-<h2 id="section-6">법령 근거와 확인 경로</h2>
-
-근거는 분산되어 있어 한 군데만 보면 누락이 생깁니다.
-
-- 재외동포의 출입국과 법적 지위에 관한 법률
-- 출입국관리법 및 시행규칙
-- 국적법 제15조(국적상실)
-
-법령 원문은 국가법령정보센터에서 확인할 수 있습니다.
-공관별 사증 요건은 외교부 또는 주재국 한국 공관 공지를 따로 봐야 합니다.
-국내 절차는 출입국·외국인정책본부 안내가 기준입니다.
 
 > **주의:** 동일 서류라도 관할 출입국사무소·공관별로 요구 양식이 미세하게 다릅니다.
 > 본인 사례 기준의 정확한 적용 여부는 사전 확인이 안전합니다.

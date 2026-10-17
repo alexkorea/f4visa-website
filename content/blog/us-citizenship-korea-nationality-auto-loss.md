@@ -53,13 +53,13 @@ slug: "us-citizenship-korea-nationality-auto-loss"
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
   <thead style="background:#f0f7ff">
-    <tr><th style="border:1px solid #e5e7eb;padding:10px">상황</th><th style="border:1px solid #e5e7eb;padding:10px">한국 국적 처리</th><th style="border:1px solid #e5e7eb;padding:10px">근거</th></tr>
+    <tr><th style="border:1px solid #e5e7eb;padding:10px">상황</th><th style="border:1px solid #e5e7eb;padding:10px">한국 국적 처리</th></tr>
   </thead>
   <tbody>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">미국 귀화 (N-400 후 선서)</td><td style="border:1px solid #e5e7eb;padding:10px">선서일에 자동 상실</td><td style="border:1px solid #e5e7eb;padding:10px">국적법 제15조 1항</td></tr>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">미국 출생 시민권 (선천적)</td><td style="border:1px solid #e5e7eb;padding:10px">복수국적 (이탈/보유 별도)</td><td style="border:1px solid #e5e7eb;padding:10px">국적법 제14조</td></tr>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">영주권만 보유</td><td style="border:1px solid #e5e7eb;padding:10px">변동 없음</td><td style="border:1px solid #e5e7eb;padding:10px">상실 사유 아님</td></tr>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">미성년 자녀 동반 귀화</td><td style="border:1px solid #e5e7eb;padding:10px">별도 판단(부모 동반은 자진 아님 가능)</td><td style="border:1px solid #e5e7eb;padding:10px">관할 기관 확인 필요</td></tr>
+    <tr><td style="border:1px solid #e5e7eb;padding:10px">미국 귀화 (N-400 후 선서)</td><td style="border:1px solid #e5e7eb;padding:10px">선서일에 자동 상실</td></tr>
+    <tr><td style="border:1px solid #e5e7eb;padding:10px">미국 출생 시민권 (선천적)</td><td style="border:1px solid #e5e7eb;padding:10px">복수국적 (이탈/보유 별도)</td></tr>
+    <tr><td style="border:1px solid #e5e7eb;padding:10px">영주권만 보유</td><td style="border:1px solid #e5e7eb;padding:10px">변동 없음</td></tr>
+    <tr><td style="border:1px solid #e5e7eb;padding:10px">미성년 자녀 동반 귀화</td><td style="border:1px solid #e5e7eb;padding:10px">별도 판단(부모 동반은 자진 아님 가능)</td></tr>
   </tbody>
 </table>
 

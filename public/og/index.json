@@ -3168,6 +3168,22 @@
    "slug": "f4-h2-employment-start-report-15-days-fine",
    "generated_at": "2026-10-16T10:01:39.552Z",
    "version": "1.4"
+  },
+  "f4-h2-existing-holders-registration-stay-period-extension-limits": {
+   "hash": "1f900a4b129666522195d544a330a411e64a1705220686270d514d79856e26fd",
+   "source": "pexels",
+   "seed": 3978969373,
+   "theme": "industry",
+   "prompt_subject": "shipping containers port",
+   "map_version": null,
+   "pexels_id": 39364005,
+   "pexels_author": "Oleksiy Yeshtokyn,🌻🇺🇦🌻",
+   "category": "재외동포",
+   "visa": "H-2",
+   "lang": "ko",
+   "slug": "f4-h2-existing-holders-registration-stay-period-extension-limits",
+   "generated_at": "2026-10-17T10:01:42.660Z",
+   "version": "1.4"
   }
  }
 }

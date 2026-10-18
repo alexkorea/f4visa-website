@@ -3184,6 +3184,22 @@
    "slug": "f4-h2-existing-holders-registration-stay-period-extension-limits",
    "generated_at": "2026-10-17T10:01:42.660Z",
    "version": "1.4"
+  },
+  "f4-h2-new-issuance-suspended-unified-into-f4-2026": {
+   "hash": "8086a6cf5df02f1a31b9e64748202cccbbc14d67c7b6b3c47fb97ff74745a894",
+   "source": "pexels",
+   "seed": 1553016345,
+   "theme": "industry",
+   "prompt_subject": "shipping containers port",
+   "map_version": null,
+   "pexels_id": 37482245,
+   "pexels_author": "Jhany Blue",
+   "category": "재외동포",
+   "visa": "H-2",
+   "lang": "ko",
+   "slug": "f4-h2-new-issuance-suspended-unified-into-f4-2026",
+   "generated_at": "2026-10-18T10:01:41.687Z",
+   "version": "1.4"
   }
  }
 }

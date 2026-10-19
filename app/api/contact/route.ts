@@ -1,5 +1,6 @@
 import { NextResponse } from "next/server"
 import * as nodemailer from "nodemailer"
+import { customerReplyTo, noEmailBanner } from "@/lib/reply-to"
 
 const SITE_NAME = "F4Visa"
 const SITE_NAME_KR = "F4비자"
@@ -42,7 +43,7 @@ async function sendEmail(fields: Record<string, string>, senderName: string, sen
   await transporter.sendMail({
     from: { name: senderName + " via " + SITE_NAME, address: "teamone163@gmail.com" },
     to: "teamone163@gmail.com",
-    replyTo: senderEmail || undefined,
+    replyTo: customerReplyTo(senderName, senderEmail).replyTo,
     subject: `[${SITE_NAME_KR}] 새 상담 신청 - ${fields["이름"] || "고객"}`,
     html,
   })
@@ -54,7 +55,7 @@ async function sendEmail(fields: Record<string, string>, senderName: string, sen
 const RESEND_API_KEY = process.env.RESEND_API_KEY || ""
 const NOTIFY_EMAIL = "5000meter@gmail.com"
 
-async function sendResendAdmin(rows: string, name: string, email: string): Promise<boolean> {
+async function sendResendAdmin(rows: string, name: string, replyTo: string | undefined): Promise<boolean> {
   if (!RESEND_API_KEY) {
     console.error("[f4visa contact] RESEND_API_KEY 미설정 — Resend 알림 건너뜀")
     return false
@@ -66,10 +67,11 @@ async function sendResendAdmin(rows: string, name: string, email: string): Promi
       body: JSON.stringify({
         from: "행정사사무소 이룸 <noreply@ko-visas.com>",
         to: [NOTIFY_EMAIL],
-        // 관리자가 '회신' 을 누르면 곧바로 고객에게 가도록 (이메일 없으면 생략)
-        ...(email ? { reply_to: email } : {}),
+        // 관리자가 '회신' 을 누르면 곧바로 고객에게 가도록 — "이름" <email> (이메일 없으면 생략, FORM-REPLYTO-1019)
+        ...(replyTo ? { reply_to: replyTo } : {}),
         subject: `[${SITE_NAME_KR}] 새 상담 신청 - ${name || "고객"}`,
         html: `<div style="font-family:'Apple SD Gothic Neo',sans-serif;max-width:600px;margin:0 auto;">`
+          + (replyTo ? "" : noEmailBanner())
           + `<h2 style="color:#1a56db;">[${SITE_NAME_KR}] 새 상담 신청</h2>`
           + `<table style="width:100%;border-collapse:collapse;margin:16px 0;">${rows}</table></div>`,
       }),
@@ -145,6 +147,12 @@ export async function POST(request: Request) {
     )
   }
 
+  // FORM-REPLYTO-1019: 헤더에 실릴 값이라 개행·쉼표·<> 가 든 이메일은 거부한다.
+  const rt = customerReplyTo(name, email)
+  if (!rt.ok) {
+    return NextResponse.json({ success: false, error: "invalid_email" }, { status: 400 })
+  }
+
   const text = `[F4Visa] 새 상담 문의
 
 이름: ${name}
@@ -189,7 +197,7 @@ export async function POST(request: Request) {
     return false
   })
 
-  const resendP = sendResendAdmin(rows, name, email)
+  const resendP = sendResendAdmin(rows, name, rt.replyTo)
 
   const notionP = saveToNotion({ name, email, phone, type, message, service: type }).catch((err) => {
     console.error("[f4visa contact] Notion error:", err)

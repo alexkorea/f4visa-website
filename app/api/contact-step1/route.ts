@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server"
 import { saveToCRM } from "@/lib/notion-crm"
 import { checkStep1 } from "@/lib/contact-step1-validate"
+import { customerReplyTo, noEmailBanner } from "@/lib/reply-to"
 
 const RESEND_API_KEY = process.env.RESEND_API_KEY || ""
 const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN || ""
@@ -51,6 +52,7 @@ function buildAdminHtml(name: string, services: string[], inquiryId: string, r: 
     `<tr><td style="padding:8px 12px;font-weight:bold;border:1px solid #ddd;background:#f9f9f9;white-space:nowrap;vertical-align:top">${esc(k)}</td>`
     + `<td style="padding:8px 12px;border:1px solid #ddd;">${v ? esc(v).replace(/\r?\n/g, '<br/>') : '-'}</td></tr>`).join('')
   return `<div style="font-family:'Apple SD Gothic Neo',sans-serif;max-width:600px;margin:0 auto;">`
+    + (r.email ? '' : noEmailBanner())
     + `<h2 style="color:#1a56db;">[F4비자] 새 상담 신청 (1단계)</h2>`
     + `<table style="width:100%;border-collapse:collapse;margin:16px 0;">${body}</table>`
     + `<p style="color:#666;font-size:13px;">f4visa.net 상담 폼(/api/contact-step1)에서 자동 발송. ${r.email ? '회신하면 고객에게 갑니다.' : '고객 이메일 없음 — 연락처로 회신.'}</p></div>`
@@ -116,6 +118,9 @@ export async function POST(request: Request) {
     if (!checked.ok) {
       return NextResponse.json({ ok: false, error: checked.error }, { status: 400 })
     }
+    // FORM-REPLYTO-1019: 헤더에 실릴 값이라 개행·쉼표·<> 가 든 이메일은 거부한다.
+    const rt = customerReplyTo(name, checked.email)
+    if (!rt.ok) return NextResponse.json({ ok: false, error: "Invalid email" }, { status: 400 })
     const email = checked.email || undefined
     const contact = checked.contact || undefined
 
@@ -159,8 +164,8 @@ export async function POST(request: Request) {
       body: JSON.stringify({
         from: "행정사사무소 이룸 <noreply@ko-visas.com>",
         to: [NOTIFY_EMAIL],
-        // 관리자가 '회신' 을 누르면 곧바로 고객에게 가도록 (이메일 없으면 생략)
-        ...(email ? { reply_to: email } : {}),
+        // 관리자가 '회신' 을 누르면 곧바로 고객에게 가도록 — "이름" <email> (이메일 없으면 생략, FORM-REPLYTO-1019)
+        ...(rt.replyTo ? { reply_to: rt.replyTo } : {}),
         subject: `[F4비자] 새 상담 신청 - ${name || "고객"}`,
         html: buildAdminHtml(name, serviceList, inquiryId, { email, contact, snsType, snsId, nationality, message: situation || undefined }),
       }),

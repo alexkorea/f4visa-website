@@ -3216,6 +3216,22 @@
    "slug": "f4-h2-violation-processing-standards-fines-three-times",
    "generated_at": "2026-10-19T10:01:05.531Z",
    "version": "1.4"
+  },
+  "f4-status-change-in-korea-document-conditions-cis-past-compatriot-visa": {
+   "hash": "4e5a8d5ccb4168721f48399e38c9a0763984777e330c21b0a09c2e6d9bc5f6a9",
+   "source": "pexels",
+   "seed": 3657578183,
+   "theme": "city",
+   "prompt_subject": "korean urban street",
+   "map_version": null,
+   "pexels_id": 21011589,
+   "pexels_author": "Honggrider Rock",
+   "category": "F-4비자",
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-status-change-in-korea-document-conditions-cis-past-compatriot-visa",
+   "generated_at": "2026-10-20T10:01:32.294Z",
+   "version": "1.4"
   }
  }
 }

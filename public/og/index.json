@@ -3232,6 +3232,22 @@
    "slug": "f4-status-change-in-korea-document-conditions-cis-past-compatriot-visa",
    "generated_at": "2026-10-20T10:01:32.294Z",
    "version": "1.4"
+  },
+  "f5-income-assets-recognition-relaxation-gni-70-80-percent": {
+   "hash": "b236b6f4084eb3e715d63e9d9f146ab39375b92bba99d6267bfd59ce0e82046a",
+   "source": "pexels",
+   "seed": 351913855,
+   "theme": "residence",
+   "prompt_subject": "apartment building entrance",
+   "map_version": null,
+   "pexels_id": 31955781,
+   "pexels_author": "Theodore Nguyen",
+   "category": "영주권",
+   "visa": "F-5",
+   "lang": "ko",
+   "slug": "f5-income-assets-recognition-relaxation-gni-70-80-percent",
+   "generated_at": "2026-10-21T10:01:18.260Z",
+   "version": "1.4"
   }
  }
 }

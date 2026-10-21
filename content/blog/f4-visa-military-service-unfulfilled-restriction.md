@@ -16,7 +16,7 @@ slug: "f4-visa-military-service-unfulfilled-restriction"
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
   <h3 style="color:#1e40af;margin-top:0">목차
   <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 병역 미필 제한의 법적 근거</a></li>
+    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 병역 미필이면 F-4가 왜 제한되나요</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 누가 제한 대상에 해당하는가</a></li>
     <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 만 37세 기준 — 해석과 실제 적용</a></li>
     <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 병역 의무 종료 사유별 F-4 가능성</a></li>
@@ -33,7 +33,7 @@ slug: "f4-visa-military-service-unfulfilled-restriction"
   <strong style="color:#92400e">⚠️ 주의:</strong> 이 규정은 재외동포법 제5조 제2항에 명시된 명확한 제한이며, 개인의 사유(가족 초청, 사업, 간병 등)로 예외가 적용되지 않습니다. 만 37세 연말까지는 F-4 발급 자체가 거부됩니다.
 </div>
 
-## <span id="section-1"></span>1. F-4 병역 미필 제한의 법적 근거
+## <span id="section-1"></span>1. 병역 미필이면 F-4가 왜 제한되나요
 
 ### 재외동포법 제5조 제2항
 

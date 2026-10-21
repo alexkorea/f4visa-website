@@ -5,6 +5,7 @@ import { remark } from 'remark'
 import remarkGfm from 'remark-gfm'
 import remarkHtml from 'remark-html'
 import { redirectSourceSlugs } from './blog-redirects.mjs'
+import { addHeadingAnchors } from './heading-anchors'
 
 const CONTENT_DIR = path.join(process.cwd(), 'content', 'blog')
 
@@ -32,10 +33,10 @@ async function markdownToHtml(markdown: string): Promise<string> {
   // 그대로 두면 한 페이지에 H1 이 2개가 된다(실측 158/184) — BLOG_STANDARD 4장 위반.
   const stripped = markdown.replace(/^\uFEFF?\s*#(?!#)\s+.*(?:\r?\n)+/, '')
   const result = await remark().use(remarkGfm).use(remarkHtml, { sanitize: false }).process(stripped)
-  return pexelsSrcset(result.toString()
+  return pexelsSrcset(addHeadingAnchors(result.toString()
     // 본문 중간에 남은 H1 은 H2 로 낮춘다(H1 은 문서당 1개).
     .replace(/<h1(\s[^>]*)?>/g, '<h2$1>')
-    .replace(/<\/h1>/g, '</h2>'))
+    .replace(/<\/h1>/g, '</h2>')))
 }
 
 // 본문의 Pexels 핫링크 사진은 원고마다 `w=940`(일부 w=800) 한 장뿐이라 1440 화면(본문 780px, DPR2 → 필요 1404px)에서 흐렸다

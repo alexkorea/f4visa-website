@@ -71,7 +71,7 @@ F-4는 재외동포(F-4) 체류자격입니다. 대한민국 국민이었다가 
  <tr>
  <td style="border:1px solid #e5e7eb;padding:10px">단순노무(식당 서빙, 공장 단순직 등)</td>
  <td style="border:1px solid #e5e7eb;padding:10px">제한</td>
- <td style="border:1px solid #e5e7eb;padding:10px">재외동포법 시행령에 따른 제한 직종</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">출입국관리법 시행령·시행규칙과 법무부 고시에 따른 제한 직종</td>
  </tr>
  <tr>
  <td style="border:1px solid #e5e7eb;padding:10px">선거권·공무담임권</td>

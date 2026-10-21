@@ -14,24 +14,24 @@ slug: "dual-citizenship-permit-eligibility-renunciation-loss"
 아래에서 복수국적 허용 조건, 국적이탈과 국적상실의 법적 차이, 국적상실 이후 F-4 비자로 이어지는 절차 순으로 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 복수국적 허용 조건, 누가 두 국적을 가질 수 있나</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적이탈이란, 선천적 복수국적자의 선택 절차</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국적상실이란, 신고 전에 이미 국적이 없어진 상태</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국적이탈 vs 국적상실 비교, 여기서 차이가 납니다</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 국적상실 후 F-4 비자, 서류보다 순서가 먼저입니다</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 꼬이는 사례, 통과 여부보다 먼저 볼 것</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 복수국적 허용 조건, 누가 두 국적을 가질 수 있나</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적이탈이란, 선천적 복수국적자의 선택 절차</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국적상실이란, 신고 전에 이미 국적이 없어진 상태</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국적이탈 vs 국적상실 비교, 여기서 차이가 납니다</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 국적상실 후 F-4 비자, 서류보다 순서가 먼저입니다</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 꼬이는 사례, 통과 여부보다 먼저 볼 것</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">복수국적 허용 조건, 누가 두 국적을 가질 수 있나</h2>
 
-국적법 제10조 제2항은 국적을 선택하거나 회복·취득한 사람 중 일부에게만 외국 국적 포기 대신 **외국국적불행사 서약**을 허용합니다.
+국적법은 국적을 선택하거나 회복·취득한 사람 중 일부에게만 외국 국적 포기 대신 **외국국적불행사 서약**을 허용합니다.
 먼저 봐야 할 것은 본인이 이 예외 대상에 들어가는지 여부입니다.
 
 | 허용 대상 | 조건 | 비고 |
@@ -56,7 +56,7 @@ slug: "dual-citizenship-permit-eligibility-renunciation-loss"
 <h2 id="section-2">국적이탈이란, 선천적 복수국적자의 선택 절차</h2>
 
 국적이탈은 **태어나면서부터 복수국적**이 된 사람이 정해진 기간 안에 한국 국적을 스스로 포기하는 신고 절차입니다.
-근거는 국적법 제14조이며, 재외공관을 통해 신고합니다.
+재외공관을 통해 신고합니다.
 
 ### 국적선택 기간을 먼저 확인해야 합니다
 
@@ -73,7 +73,7 @@ slug: "dual-citizenship-permit-eligibility-renunciation-loss"
 <h2 id="section-3">국적상실이란, 신고 전에 이미 국적이 없어진 상태</h2>
 
 이 부분이 가장 많이 오해되는 지점입니다.
-국적법 제15조에 따라 **자진하여 외국 시민권을 취득하면 그 취득 시점에 한국 국적은 즉시 자동 상실**됩니다.
+국적법에 따라 **자진하여 외국 시민권을 취득하면 그 취득 시점에 한국 국적은 즉시 자동 상실**됩니다.
 국적상실신고는 가족관계등록부를 정리하는 행정 절차일 뿐, 신고를 안 했다고 한국 국적이 남아 있는 것이 아닙니다.
 
 ### 신고 전 한국 여권 사용은 여권법 위반입니다
@@ -101,7 +101,7 @@ slug: "dual-citizenship-permit-eligibility-renunciation-loss"
 | 구분 | 국적이탈 | 국적상실 |
 |---|---|---|
 | 대상 | 선천적 복수국적자 | 자진하여 외국 시민권을 취득한 사람 |
-| 법적 성격 | 본인의 선택(신고 또는 허가) | 법률상 자동 상실 (국적법 제15조) |
+| 법적 성격 | 본인의 선택(신고 또는 허가) | 법률상 자동 상실 |
 | 국적 소멸 시점 | 신고 수리(허가) 시 | 외국 국적 취득 시점에 즉시 |
 | 절차 | 재외공관 국적이탈 신고 | 국적상실신고로 등록부 정리 |
 | 기한 | 국적선택 기간 내 | 기한 없음, 다만 지연 시 불이익 가능 |

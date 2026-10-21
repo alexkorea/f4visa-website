@@ -16,28 +16,28 @@ slug: "nationality-recovery-review-criteria-period"
 이 글은 국적회복의 법적 근거, 심사에서 실제로 갈리는 포인트, 처리 기간, 그리고 흔히 막히는 지점을 실무 기준으로 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 국적회복의 법적 근거와 대상</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 심사 기준 — 실제로 갈리는 포인트</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 심사 기준 비교표</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 처리 기간 — 평균과 실제</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 신청 서류 — 빠뜨리기 쉬운 항목</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적회복 후 절차 — 끝이 아닌 시작</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 국적회복의 법적 근거와 대상</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 심사 기준 — 실제로 갈리는 포인트</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 심사 기준 비교표</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 처리 기간 — 평균과 실제</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 신청 서류 — 빠뜨리기 쉬운 항목</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적회복 후 절차 — 끝이 아닌 시작</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">국적회복의 법적 근거와 대상</h2>
 
-국적회복은 국적법 제9조에 근거한 절차로, 법무부장관의 허가를 받아야 한국 국적을 다시 취득할 수 있습니다.
+국적회복은 국적법에 근거한 절차로, 법무부장관의 허가를 받아야 한국 국적을 다시 취득할 수 있습니다.
 
 신고가 아니라 허가입니다.
 
-바로 이 부분이 재취득(국적법 제11조)과 가장 큰 차이입니다.
+바로 이 부분이 재취득과 가장 큰 차이입니다.
 
 ### 누가 신청할 수 있는가
 
@@ -45,11 +45,11 @@ slug: "nationality-recovery-review-criteria-period"
 
 출생으로 한국 국적을 가졌다가 외국 시민권을 취득한 분이 가장 많습니다.
 
-> **주의:** 국적법 제15조에 따라 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다. 국적상실신고는 행정 정리 절차일 뿐이며, 신고 전이라도 이미 상실 상태입니다. 국적상실 후 한국 여권을 계속 사용하면 여권법상 부정사용에 해당합니다.
+> **주의:** 국적법에 따라 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다. 국적상실신고는 행정 정리 절차일 뿐이며, 신고 전이라도 이미 상실 상태입니다. 국적상실 후 한국 여권을 계속 사용하면 여권법상 부정사용에 해당합니다.
 
 ### 회복이 제한되는 경우
 
-국적법 제9조 제2항은 회복 불허 사유를 명시하고 있습니다.
+국적법은 회복 불허 사유를 명시하고 있습니다.
 
 - 국가나 사회에 위해를 끼친 사실이 있는 자
 - 품행이 단정하지 못한 자
@@ -204,7 +204,7 @@ slug: "nationality-recovery-review-criteria-period"
 
 **Q1. 국적회복과 국적재취득은 어떻게 다른가요?**
 
-국적회복은 국적법 제9조에 따른 허가 절차이고, 재취득은 제11조에 따른 신고 절차입니다.
+국적회복은 국적법에 따른 허가 절차이고, 재취득은 신고 절차입니다.
 
 회복은 외국 시민권 취득 등으로 상실된 국적을 다시 받는 것이고, 재취득은 자진해서 외국 국적을 포기한 미성년자 등 한정된 경우에만 적용됩니다.
 

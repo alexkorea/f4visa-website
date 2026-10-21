@@ -16,15 +16,15 @@ F-4 비자를 받았다고 해서 자동으로 한국 세금 의무가 면제되
 거주자·비거주자 판정 기준, 종합소득 합산 범위, 신고 시점과 실제 현장에서 많이 꼬이는 부분까지 정리합니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자와 세법상 거주자 판정의 핵심</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 비자 보유자의 종합소득세 신고 의무</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 비거주자로 보는 F-4 비자 소지자의 세금</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. F-4 비자 소득증빙과 영주권 전환의 연결고리</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 비자 소지자가 자주 놓치는 세금 항목</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. F-4 세금 신고 시기와 실무 일정</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자와 세법상 거주자 판정의 핵심</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 비자 보유자의 종합소득세 신고 의무</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 비거주자로 보는 F-4 비자 소지자의 세금</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. F-4 비자 소득증빙과 영주권 전환의 연결고리</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 비자 소지자가 자주 놓치는 세금 항목</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. F-4 세금 신고 시기와 실무 일정</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 비자와 세법상 거주자 판정의 핵심</h2>
@@ -47,7 +47,7 @@ F-4 거소증이 있더라도 실제 한국 체류 일수와 생활 근거지가
 실무에서는 항공권, 출입국 기록, 임대차계약, 가족 거주지까지 함께 봅니다.
 근거 자료가 약하면 거주자 판정에서 다툼이 생깁니다.
 
-> **주의:** 거주자·비거주자 판정 기준은 「소득세법」 제1조의2 및 시행령 제2조에 규정되어 있으며, 본인 상황별 적용은 국세청 홈택스 및 관할 세무서 확인이 필요합니다.
+> **주의:** 거주자·비거주자 판정 기준은 「소득세법」 및 시행령에 규정되어 있으며, 본인 상황별 적용은 국세청 홈택스 및 관할 세무서 확인이 필요합니다.
 
 <h2 id="section-2">F-4 비자 보유자의 종합소득세 신고 의무</h2>
 

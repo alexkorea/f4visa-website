@@ -11,23 +11,23 @@ slug: "dual-nationality-allowance-departure-loss-comparison"
 
 복수국적은 한국에서 원칙적으로 금지이며, 일부 사유에 한해 좁게 허용됩니다.
 
-대상은 65세 이후 국적회복자, 선천적 복수국적자, 우수인재, 외국인과 혼인한 자 등 국적법 제10조·제13조에서 정한 범위로 한정됩니다.
+대상은 65세 이후 국적회복자, 선천적 복수국적자, 우수인재, 외국인과 혼인한 자 등 국적법이 정한 범위로 한정됩니다.
 
 이 글은 복수국적 허용 사유, 국적이탈과 국적상실의 본질적 차이, 그리고 외국 시민권 취득 이후 실무에서 가장 많이 꼬이는 지점을 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 복수국적이 허용되는 좁은 범위</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적이탈과 국적상실, 어디서 갈리는가</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 외국 시민권 취득 후 실무에서 막히는 지점</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국적상실 신고는 언제 어떻게 하는가</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 복수국적 허용 신청과 외국 국적 불행사 서약</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 복수국적이 허용되는 좁은 범위</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적이탈과 국적상실, 어디서 갈리는가</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 외국 시민권 취득 후 실무에서 막히는 지점</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국적상실 신고는 언제 어떻게 하는가</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 복수국적 허용 신청과 외국 국적 불행사 서약</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">복수국적이 허용되는 좁은 범위</h2>
@@ -50,7 +50,7 @@ slug: "dual-nationality-allowance-departure-loss-comparison"
 
 ### 65세 이후 국적회복자
 
-만 65세 이후 외국에서 영주할 목적 없이 한국에 거주하기 위해 국적을 회복한 재외동포에게 복수국적이 허용됩니다(국적법 제10조).
+만 65세 이후 외국에서 영주할 목적 없이 한국에 거주하기 위해 국적을 회복한 재외동포에게 복수국적이 허용됩니다.
 
 다만 외국 국적 불행사 서약서를 제출해야 하며, 한국 내에서 외국인 권리를 주장하지 않겠다는 서약이 핵심입니다.
 
@@ -74,7 +74,7 @@ slug: "dual-nationality-allowance-departure-loss-comparison"
 
 국적이탈은 선천적 복수국적자가 외국 국적을 선택하고 한국 국적을 포기하는 절차입니다.
 
-본인의 의사로 진행하며, 법무부 장관에게 신고하는 형식입니다(국적법 제14조).
+본인의 의사로 진행하며, 법무부 장관에게 신고하는 형식입니다.
 
 남성은 병역의무가 종료되거나 면제된 후에만 이탈이 가능하며, 그 전에는 제한됩니다.
 
@@ -82,7 +82,7 @@ slug: "dual-nationality-allowance-departure-loss-comparison"
 
 ### 국적상실 — 자동 발생
 
-국적상실은 외국 시민권을 자진해서 취득한 순간 자동으로 발생합니다(국적법 제15조).
+국적상실은 외국 시민권을 자진해서 취득한 순간 자동으로 발생합니다.
 
 > **주의:** 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다. 국적상실신고는 행정 정리 절차일 뿐이며, 신고 전이라도 이미 상실 상태입니다. 국적상실 후 한국 여권을 사용하면 여권법 위반(부정사용)에 해당합니다.
 

@@ -16,20 +16,20 @@ F-4 거소증은 출입국사무소에서 **거소허가번호**만 받으면 �
 이 글은 입국 → 신청 → 출국 → 카드 해외 수령까지의 실제 동선과 대행 서비스가 어떻게 시간을 단축하는지 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 거소증, 최소 체류가 가능한 이유</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 신청 전 반드시 준비해야 할 서류</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 최소 체류로 끝내는 동선 — 입국 후 며칠이면 충분한가</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 임시주소와 숙박제공자 — 가장 많이 막히는 부분</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 신청서 작성과 심사에서 갈리는 포인트</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 카드 수령과 출국 후 처리</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 거소증, 최소 체류가 가능한 이유</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 신청 전 반드시 준비해야 할 서류</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 최소 체류로 끝내는 동선 — 입국 후 며칠이면 충분한가</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 임시주소와 숙박제공자 — 가장 많이 막히는 부분</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 신청서 작성과 심사에서 갈리는 포인트</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 카드 수령과 출국 후 처리</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 거소증, 최소 체류가 가능한 이유</h2>
@@ -84,7 +84,7 @@ F-4 거소증은 출입국사무소에서 **거소허가번호**만 받으면 �
 
 해외 거주자가 한국에 도착해서 직접 떼러 다니면 하루~이틀이 그대로 소진됩니다.
 
-> **주의:** 시민권 취득 시 한국 국적은 국적법 제15조에 따라 **즉시 자동 상실**됩니다. 국적상실신고는 행정 정리 절차일 뿐이며, 신고 전이라도 이미 상실 상태입니다. 국적상실 후 한국 여권을 사용하면 여권법 위반(부정사용)에 해당합니다.
+> **주의:** 시민권 취득 시 한국 국적은 국적법에 따라 **즉시 자동 상실**됩니다. 국적상실신고는 행정 정리 절차일 뿐이며, 신고 전이라도 이미 상실 상태입니다. 국적상실 후 한국 여권을 사용하면 여권법 위반(부정사용)에 해당합니다.
 
 <h2 id="section-3">최소 체류로 끝내는 동선 — 입국 후 며칠이면 충분한가</h2>
 
@@ -144,7 +144,7 @@ F-4 거소증은 한국 내 체류지를 기재해야 신청이 가능합니다.
 
 본인은 임시주소를 등록하고 곧바로 신청 접수가 가능합니다.
 
-> **주의:** 임시주소는 거소증 발급 후에도 일정 기간 유지·관리가 필요하며, 변경 시 14일 이내 신고 의무가 있습니다(재외동포법 제6조②, HiKorea 참고).
+> **주의:** 임시주소는 거소증 발급 후에도 일정 기간 유지·관리가 필요하며, 변경 시 14일 이내 신고 의무가 있습니다(HiKorea 참고).
 
 ![A close-up image of a hand holding a pen and writing on white paper, symbolizing business and communication.](https://images.pexels.com/photos/7504771/pexels-photo-7504771.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 

@@ -16,24 +16,24 @@ F-4 재외동포비자는 "한국 국적을 보유했던 사람" 또는 "그 직
 이 글은 F-4 비자 신청 자격 판정 기준, 국가별 차이, 필요서류 리스트, 실제 심사에서 자주 막히는 지점, 그리고 거소증 단계까지의 흐름을 한 번에 정리합니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 신청 자격, 먼저 봐야 할 것</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 비자 필요서류, 빠지면 바로 반려되는 것들</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국가별 F-4 비자 신청 자격 차이</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. F-4 비자 신청 절차와 처리 기간</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 실무에서 가장 자주 막히는 지점</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. F-4 거소증과 신청 자격의 연결</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 신청 자격, 먼저 봐야 할 것</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 비자 필요서류, 빠지면 바로 반려되는 것들</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국가별 F-4 비자 신청 자격 차이</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. F-4 비자 신청 절차와 처리 기간</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 실무에서 가장 자주 막히는 지점</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. F-4 거소증과 신청 자격의 연결</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 비자 신청 자격, 먼저 봐야 할 것</h2>
 
-F-4 비자 신청 자격은 「재외동포의 출입국과 법적 지위에 관한 법률」 제2조에 근거합니다.
+F-4 비자 신청 자격은 「재외동포의 출입국과 법적 지위에 관한 법률」에 근거합니다.
 
 ### 자격 대상자 범위
 
@@ -51,7 +51,7 @@ F-4 자격이 인정되는 사람은 보통 다음 셋 중 하나입니다.
 
 ### 자격이 자동으로 생기지 않는 이유
 
-외국 시민권 취득 시 한국 국적은 **즉시 자동 상실**됩니다(국적법 제15조).
+외국 시민권 취득 시 한국 국적은 **즉시 자동 상실**됩니다.
 
 국적상실신고는 행정 정리 절차일 뿐, 신고 전이라도 이미 상실 상태입니다.
 

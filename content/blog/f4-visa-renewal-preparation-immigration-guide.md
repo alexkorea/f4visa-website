@@ -14,19 +14,19 @@ F-4 비자 갱신은 체류기간 만료 4개월 전부터 신청할 수 있고,
 아래에서 2026년 기준 서류 목록, 신청 절차, 실무에서 자주 막히는 지점, 국적상실신고와의 관계까지 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 갱신, 정확히 무엇을 연장하는 것인가</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 비자 갱신 서류 2026 — 기본 목록과 추가 서류</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 갱신 절차 — 온라인 신청과 방문 신청</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 실무에서 자주 막히는 부분</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 국적상실신고와 F-4 갱신의 관계</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 갱신이 거절되거나 보완 요구를 받았다면</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 갱신, 정확히 무엇을 연장하는 것인가</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 비자 갱신 서류 2026 — 기본 목록과 추가 서류</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 갱신 절차 — 온라인 신청과 방문 신청</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 실무에서 자주 막히는 부분</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 국적상실신고와 F-4 갱신의 관계</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 갱신이 거절되거나 보완 요구를 받았다면</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 비자 갱신, 정확히 무엇을 연장하는 것인가</h2>
@@ -132,7 +132,7 @@ F-4는 1회 부여되는 체류기간 상한이 3년이며, 만료 전에 연장
 
 ### 외국 시민권 취득 시 한국 국적은 이미 상실 상태
 
-국적법 제15조에 따라, 외국 시민권을 취득하면 한국 국적은 그 시점에 **즉시 자동 상실**됩니다.
+국적법에 따라, 외국 시민권을 취득하면 한국 국적은 그 시점에 **즉시 자동 상실**됩니다.
 국적상실신고는 행정 정리 절차일 뿐이며, 신고 전이라도 이미 상실된 상태입니다.
 
 > **주의:** 국적상실 후 한국 여권을 사용하면 여권법 위반(부정사용)에 해당합니다.

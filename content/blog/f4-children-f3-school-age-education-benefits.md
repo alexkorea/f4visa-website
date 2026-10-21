@@ -16,19 +16,19 @@ F-4 재외동포 비자 보유자의 자녀는 F-3 동반비자로 한국에 입
 이 글은 F-3 자녀의 학교 배정, 학비 처리, 건강보험·급식 혜택, 그리고 실제 등록 단계에서 막히는 지점까지 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-3 비자 자녀가 받을 수 있는 학령기 교육 혜택의 범위</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 부모 + F-3 자녀 비자 구조의 핵심</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 학교 등록 시 실제로 필요한 서류</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 건강보험·급식·교복 등 부수 혜택</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-3 자녀 신청·연장 절차의 실무 흐름</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 막히는 지점 — 실무에서 본 사례</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. FAQ</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-3 비자 자녀가 받을 수 있는 학령기 교육 혜택의 범위</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 부모 + F-3 자녀 비자 구조의 핵심</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 학교 등록 시 실제로 필요한 서류</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 건강보험·급식·교복 등 부수 혜택</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-3 자녀 신청·연장 절차의 실무 흐름</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 막히는 지점 — 실무에서 본 사례</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. FAQ</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-3 비자 자녀가 받을 수 있는 학령기 교육 혜택의 범위</h2>
@@ -92,7 +92,7 @@ F-3는 미성년자만 사용할 수 있는 자격이라, 자녀가 만 19세에
 
 서류가 많아도 부모-자녀 가족관계가 외국 출생증명서로만 입증되면 학교 측에서 한 번 더 확인을 요청하는 경우가 흔합니다.
 
-> **주의:** 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다(국적법 제15조). 국적상실 신고를 하지 않은 상태로 한국 여권을 사용하면 여권법 위반(부정사용)에 해당하므로, F-4 신청 전 본국 시민권증서 원본을 반드시 준비해야 합니다.
+> **주의:** 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다. 국적상실 신고를 하지 않은 상태로 한국 여권을 사용하면 여권법 위반(부정사용)에 해당하므로, F-4 신청 전 본국 시민권증서 원본을 반드시 준비해야 합니다.
 
 <h2 id="section-4">건강보험·급식·교복 등 부수 혜택</h2>
 

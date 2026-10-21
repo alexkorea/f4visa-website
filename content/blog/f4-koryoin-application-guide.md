@@ -14,18 +14,18 @@ slug: "f4-koryoin-application-guide"
 아래에서 신청 자격, 핵심 서류, 실무에서 자주 막히는 지점, 출입국 심사에서 갈리는 부분을 차례로 정리합니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 고려인 F-4 비자 자격 핵심</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 고려인 F-4 핵심 서류</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 고려인 F-4 신청 절차</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 실무에서 자주 막히는 지점</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 단순노무 활동 제한</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">6. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">8. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 고려인 F-4 비자 자격 핵심</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 고려인 F-4 핵심 서류</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 고려인 F-4 신청 절차</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 실무에서 자주 막히는 지점</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 단순노무 활동 제한</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">6. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">8. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">고려인 F-4 비자 자격 핵심</h2>
@@ -52,7 +52,7 @@ slug: "f4-koryoin-application-guide"
 - 직계존속의 한국 국적 이력 서류가 끊겨 입증이 불가능한 경우
 - 단순노무 종사 이력이 명확히 드러나 활동범위 위반 우려가 있는 경우
 
-> **주의:** 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다(국적법 제15조).
+> **주의:** 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다.
 > 국적상실신고는 행정 정리 절차일 뿐, 신고 전이라도 이미 상실 상태입니다.
 > 국적상실 후 한국 여권 사용은 여권법 위반(부정사용)에 해당합니다.
 

@@ -14,20 +14,20 @@ F-4 비자는 거의 모든 직종에서 자유롭게 일할 수 있지만, **�
 허용 범위, 금지 업종, 실제 심사에서 자주 걸리는 직종 해석 기준까지 실무 중심으로 정리합니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 취업 허용 범위의 기본 원칙</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 단순노무 금지의 법적 근거와 분류 기준</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 금지되는 업종과 사행성·유흥 관련 제한</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 위반 시 제재와 실무 리스크</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 허용 직종의 실무 판단 기준</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. F-4 사업자등록 시 업종 코드 선택</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 최근 변경 사항과 향후 변동 가능성</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 취업 허용 범위의 기본 원칙</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 단순노무 금지의 법적 근거와 분류 기준</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 금지되는 업종과 사행성·유흥 관련 제한</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 위반 시 제재와 실무 리스크</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 허용 직종의 실무 판단 기준</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. F-4 사업자등록 시 업종 코드 선택</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 최근 변경 사항과 향후 변동 가능성</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 비자 취업 허용 범위의 기본 원칙</h2>
@@ -51,7 +51,7 @@ F-4의 자유는 **단순노무가 아닌 활동**에 한정됩니다.
 <h2 id="section-2">단순노무 금지의 법적 근거와 분류 기준</h2>
 
 가장 먼저 봐야 할 것은 출입국관리법 시행령과 법무부 고시입니다.
-법무부 출입국·외국인정책본부 고시에 따라, F-4 자격자는 **「재외동포의 출입국과 법적 지위에 관한 법률」 제10조 제5항**에 근거해 단순노무행위가 금지됩니다.
+법무부 출입국·외국인정책본부 고시에 따라, F-4 자격자는 「재외동포의 출입국과 법적 지위에 관한 법률」에 근거해 단순노무행위가 금지됩니다.
 
 ### 한국표준직업분류 대분류 9
 

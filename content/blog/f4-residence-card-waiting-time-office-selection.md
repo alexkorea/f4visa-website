@@ -16,19 +16,19 @@ F-4 거소증 발급 기간은 서류가 완비된 상태라면 접수 후 며�
 아래에는 기간이 갈리는 세 구간, 사무소 유형별 차이, 그리고 실제로 기간을 줄이는 방법을 순서대로 담았습니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 거소증 발급 기간은 세 구간으로 갈립니다</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 출입국사무소별로 소요시간이 갈리는 이유</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 출입국사무소 유형별 처리 흐름 비교</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 서류 하나가 전체 기간을 늘립니다</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 거소허가번호가 나오면 출국할 수 있습니다</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. F-4 거소증 발급 기간을 줄이는 체크리스트</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 거소증 발급 기간은 세 구간으로 갈립니다</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 출입국사무소별로 소요시간이 갈리는 이유</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 출입국사무소 유형별 처리 흐름 비교</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 서류 하나가 전체 기간을 늘립니다</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 거소허가번호가 나오면 출국할 수 있습니다</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. F-4 거소증 발급 기간을 줄이는 체크리스트</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 거소증 발급 기간은 세 구간으로 갈립니다</h2>
@@ -120,7 +120,7 @@ F-4 신청에는 **시민권증서 원본**이 들어갑니다.
 
 ### 국적상실 처리 여부
 
-외국 시민권을 취득한 순간 한국 국적은 즉시 자동으로 상실됩니다(국적법 제15조).
+외국 시민권을 취득한 순간 한국 국적은 즉시 자동으로 상실됩니다.
 
 국적상실신고는 행정 정리 절차일 뿐이고, 신고 전이라도 이미 상실 상태입니다.
 

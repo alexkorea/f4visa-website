@@ -14,19 +14,19 @@ slug: "f4-visa-eligibility-preparation-documents-guide"
 자격 판단 기준, 국적상실과의 관계, 서류 목록과 유효기간, 그리고 실제 심사에서 자주 막히는 지점까지 순서대로 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 신청 자격 — 재외동포의 범위부터 확인</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적상실과 F-4 — 겉으로는 간단해 보여도 여기서 시작됩니다</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 비자 필요서류 총정리 — 시민권증서 원본과 유효기간이 핵심</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국내 신청과 재외공관 신청 — 어디서 하느냐에 따라 갈립니다</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 실제 심사에서 자주 막히는 지점</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 신청 전 체크리스트</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 상담 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 신청 자격 — 재외동포의 범위부터 확인</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적상실과 F-4 — 겉으로는 간단해 보여도 여기서 시작됩니다</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 비자 필요서류 총정리 — 시민권증서 원본과 유효기간이 핵심</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국내 신청과 재외공관 신청 — 어디서 하느냐에 따라 갈립니다</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 실제 심사에서 자주 막히는 지점</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 신청 전 체크리스트</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 상담 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 비자 신청 자격 — 재외동포의 범위부터 확인</h2>
@@ -55,7 +55,7 @@ slug: "f4-visa-eligibility-preparation-documents-guide"
 <h2 id="section-2">국적상실과 F-4 — 겉으로는 간단해 보여도 여기서 시작됩니다</h2>
 
 많이 놓치는 부분은 바로 국적 문제입니다.
-**외국 시민권을 취득하는 순간 한국 국적은 즉시 자동으로 상실됩니다(국적법 제15조).**
+**외국 시민권을 취득하는 순간 한국 국적은 즉시 자동으로 상실됩니다.**
 국적상실신고는 가족관계등록부를 정리하는 행정 절차일 뿐이며, 신고 전이라도 이미 국적은 상실된 상태입니다.
 
 ### 국적상실신고를 안 했다면
@@ -156,7 +156,7 @@ slug: "f4-visa-eligibility-preparation-documents-guide"
 
 **Q1. 시민권을 받았는데 국적상실신고를 안 했습니다. F-4 바로 신청할 수 있나요?**
 
-국적법 제15조에 따라 시민권 취득 시점에 한국 국적은 이미 자동 상실된 상태입니다.
+국적법에 따라 시민권 취득 시점에 한국 국적은 이미 자동 상실된 상태입니다.
 다만 서류상 정리가 안 되어 있으면 심사가 진행되지 않는 경우가 흔해, 실무에서는 국적상실신고를 먼저 처리한 뒤 F-4를 신청합니다.
 
 **Q2. 무범죄조회서는 언제 발급받는 게 좋나요?**

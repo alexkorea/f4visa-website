@@ -16,20 +16,20 @@ slug: "nationality-recovery-application-8months-documents"
 서류 준비부터 면접, 결과 통지 후 F-4 전환까지 실무에서 흔히 꼬이는 지점을 짚어 정리합니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 국적회복이란 무엇인가</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적회복 신청 자격과 대상</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 처리 기간의 실제 흐름</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국적회복 필요서류 총정리</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 신청 장소와 절차</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 허가 통지 후 — 관보 고시와 F-4 전환</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 비용 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 국적회복이란 무엇인가</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적회복 신청 자격과 대상</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 처리 기간의 실제 흐름</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국적회복 필요서류 총정리</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 신청 장소와 절차</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 허가 통지 후 — 관보 고시와 F-4 전환</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 비용 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">국적회복이란 무엇인가</h2>
@@ -48,7 +48,7 @@ slug: "nationality-recovery-application-8months-documents"
 
 ### 자동 국적상실과 국적회복의 관계
 
-외국 시민권을 자진해서 취득한 시점에 한국 국적은 자동 상실됩니다(국적법 제15조).
+외국 시민권을 자진해서 취득한 시점에 한국 국적은 자동 상실됩니다.
 
 국적상실신고를 하지 않았다고 해서 국적이 유지되는 것이 아니라, 이미 상실된 상태를 행정상 정리하는 절차일 뿐입니다.
 
@@ -72,7 +72,7 @@ slug: "nationality-recovery-application-8months-documents"
 
 ### 거절 사유로 자주 걸리는 경우
 
-법무부는 국적법 제9조에 따라 다음과 같은 경우 허가하지 않을 수 있습니다.
+법무부는 국적법에 따라 다음과 같은 경우 허가하지 않을 수 있습니다.
 
 - 국가나 사회에 위해를 끼친 사실이 있는 사람
 - 품행이 단정하지 못한 사람

@@ -14,25 +14,25 @@ slug: "nationality-loss-report-overseas"
 신고 기한, 제출 서류, 미신고 시 불이익, F-4 비자 전환과의 관계까지 실무에서 가장 많이 막히는 부분을 짚어드립니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 국적상실은 신고가 아니라 사실에서 발생합니다</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 신고 기한은 사실을 안 날로부터 1개월</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국적상실 신고 시 제출 서류</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. F-4 비자 신청과 국적상실 신고의 순서</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 미신고 시 실제로 생기는 문제</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적상실 신고 절차 흐름</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 국적상실은 신고가 아니라 사실에서 발생합니다</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 신고 기한은 사실을 안 날로부터 1개월</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국적상실 신고 시 제출 서류</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. F-4 비자 신청과 국적상실 신고의 순서</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 미신고 시 실제로 생기는 문제</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적상실 신고 절차 흐름</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">국적상실은 신고가 아니라 사실에서 발생합니다</h2>
 
 많이 놓치는 부분은 "신고를 해야 국적이 상실된다"는 오해입니다.
-국적법 제15조에 따라 외국 시민권을 자진 취득한 그 시점에 한국 국적은 즉시 자동 상실됩니다.
+국적법에 따라 외국 시민권을 자진 취득한 그 시점에 한국 국적은 즉시 자동 상실됩니다.
 신고는 행정 정리 절차일 뿐이며, 신고 전이라도 본인은 이미 외국인 신분입니다.
 
 ### 자동 상실 시점은 언제인가
@@ -49,7 +49,7 @@ slug: "nationality-loss-report-overseas"
 
 <h2 id="section-2">신고 기한은 사실을 안 날로부터 1개월</h2>
 
-가족관계의 등록 등에 관한 법률 제16조에 따라 국적상실 신고는 그 사실을 안 날로부터 1개월 이내입니다.
+가족관계의 등록 등에 관한 법률에 따라 국적상실 신고는 그 사실을 안 날로부터 1개월 이내입니다.
 재외국민의 경우 거주지 관할 재외공관(영사관·대사관)에 제출할 수 있고, 국내에서는 가족관계등록 관서에 제출합니다.
 
 ### 1개월을 넘기면 어떻게 되나

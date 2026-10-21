@@ -14,19 +14,19 @@ slug: "f4-visa-eligibility-documents-complete-guide"
 이 가이드는 자격 판단 기준부터 필요서류, 실제 심사에서 걸리는 지점까지 실무 중심으로 담았습니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 신청 자격, 누가 되는가</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적 상실과 F-4 자격의 관계</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 비자 필요서류 총정리</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 무범죄경력증명서, 실제로 가장 많이 막히는 서류</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 신청 절차와 거소증 발급 흐름</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 실제 심사에서 자주 걸리는 지점</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 신청 자격, 누가 되는가</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적 상실과 F-4 자격의 관계</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 비자 필요서류 총정리</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 무범죄경력증명서, 실제로 가장 많이 막히는 서류</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 신청 절차와 거소증 발급 흐름</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 실제 심사에서 자주 걸리는 지점</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 비자 신청 자격, 누가 되는가</h2>
@@ -53,7 +53,7 @@ F-4 자격은 크게 두 갈래로 갈립니다.
 
 ### 외국 시민권 취득 시 한국 국적은 즉시 자동 상실
 
-국적법 제15조에 따라 자진하여 외국 국적을 취득하면 그 즉시 대한민국 국적을 자동으로 상실합니다.
+국적법에 따라 자진하여 외국 국적을 취득하면 그 즉시 대한민국 국적을 자동으로 상실합니다.
 국적상실신고를 하지 않았더라도 이미 상실 상태입니다.
 국적상실신고는 뒤늦게 하는 행정 정리 절차일 뿐, 국적이 남아 있다는 뜻이 아닙니다.
 

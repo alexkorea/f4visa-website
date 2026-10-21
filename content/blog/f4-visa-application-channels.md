@@ -14,18 +14,18 @@ F-4 재외동포 비자는 **해외 재외공관에서 사증 발급 신청**을
 실제 현장에서 가장 많이 꼬이는 부분은 "어디서 받는 게 빠른가"가 아니라 **시민권증서 원본을 어디에 가지고 있느냐**, **무범죄조회서 유효기간(발급일 기준 6개월)이 남아있느냐** 입니다. 서류 상태가 경로를 결정하는 경우가 많습니다. 해외에서 받으려면 거주 관할 영사관을 정해두고 예약을 잡아야 하고, 국내에서 변경하려면 미리 한국 서류를 준비한 상태에서 입국해야 시간이 줄어듭니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 신청 두 경로의 핵심 차이</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 해외 재외공관 신청 절차와 서류</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국내 체류자격 변경(B-2 → F-4) 절차</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 처리 기간·비용·수수료 비교</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 국적상실신고와의 순서 문제</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 어느 쪽을 선택해야 하는가 - 경우별 결정표</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주하는 실수</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 행정사사무소 이룸 상담 안내</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차
+ <ul style="list-style:none;padding-left:0">
+ <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 신청 두 경로의 핵심 차이</a></li>
+ <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 해외 재외공관 신청 절차와 서류</a></li>
+ <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국내 체류자격 변경(B-2 → F-4) 절차</a></li>
+ <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 처리 기간·비용·수수료 비교</a></li>
+ <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 국적상실신고와의 순서 문제</a></li>
+ <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 어느 쪽을 선택해야 하는가 - 경우별 결정표</a></li>
+ <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주하는 실수</a></li>
+ <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
+ <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 행정사사무소 이룸 상담 안내</a></li>
+ </ul>
 </nav>
 
 ## <span id="section-1"></span>1. F-4 신청 두 경로의 핵심 차이
@@ -35,35 +35,35 @@ F-4 비자는 발급 근거가 같아도, **어디서 신청하느냐에 따라 
 ### 두 경로의 기본 구조
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
-    <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">구분</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">해외 재외공관 신청</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">국내 체류자격 변경</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">신청 장소</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">거주지 관할 한국 영사관·대사관</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">관할 출입국·외국인청(사무소)</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">입국 전 비자</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">F-4 사증 발급 후 입국</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">B-2(관광통과) 등으로 먼저 입국</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">주요 서류 제출처</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">영사관 대면 또는 대행</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">하이코리아 사전예약 + 방문</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">처리 후</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">입국 후 거소신고(90일 이내)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">거소증(F-4) 발급·수령</td>
-    </tr>
-  </tbody>
+ <thead style="background:#f0f7ff">
+ <tr>
+ <th style="border:1px solid #e5e7eb;padding:10px">구분</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">해외 재외공관 신청</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">국내 체류자격 변경</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">신청 장소</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">거주지 관할 한국 영사관·대사관</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">관할 출입국·외국인청(사무소)</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">입국 전 비자</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">F-4 사증 발급 후 입국</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">B-2(관광통과) 등으로 먼저 입국</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">주요 서류 제출처</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">영사관 대면 또는 대행</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">하이코리아 사전예약 + 방문</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">처리 후</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">입국 후 거소신고(90일 이내)</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">거소증(F-4) 발급·수령</td>
+ </tr>
+ </tbody>
 </table>
 
 ### 왜 이 차이가 중요한가
@@ -79,61 +79,61 @@ F-4 비자는 발급 근거가 같아도, **어디서 신청하느냐에 따라 
 예약이 가장 먼저입니다. 대부분의 영사관은 **온라인 예약제**로 운영되고, 성수기에는 예약이 밀릴 수 있습니다. 예약 날짜에 맞춰 서류를 역산해서 준비해야 합니다.
 
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 주의:</strong> 무범죄조회서(Background Check)는 발급일로부터 <strong>6개월</strong> 이내만 유효합니다. FBI 기록 발급은 발급 기관 사정에 따라 오래 걸리는 경우가 많아, 먼저 의뢰해두고 다른 서류를 준비해야 예약일에 맞출 수 있습니다.
+ <strong style="color:#92400e">⚠️ 주의:</strong> 무범죄조회서(Background Check)는 발급일로부터 <strong>6개월</strong> 이내만 유효합니다. FBI 기록 발급은 발급 기관 사정에 따라 오래 걸리는 경우가 많아, 먼저 의뢰해두고 다른 서류를 준비해야 예약일에 맞출 수 있습니다.
 </div>
 
 ### 필수 서류
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
-    <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">서류</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">발급처</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">유효기간·비고</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">사증발급신청서</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">영사관 양식</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">사진 1매 첨부(여권규격)</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">현 국적 여권 원본</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">해당국</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">유효기간 6개월 이상</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">시민권증서 원본</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">해당국 이민·귀화 당국</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">원본 지참, 사본 제출</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">기본증명서(상세)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">한국 구청·동주민센터</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">국적상실 반영 확인</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">가족관계증명서(상세)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">한국 구청</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">직계가족 한국적 증빙용</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">제적등본</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">한국 등록기준지</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">호주제 폐지 전 기록</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">무범죄조회서</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">FBI / RCMP 등</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">발급 후 6개월 이내</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">아포스티유/영사확인</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">해당국 주무부처</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">무범죄서·시민권 관련</td>
-    </tr>
-  </tbody>
+ <thead style="background:#f0f7ff">
+ <tr>
+ <th style="border:1px solid #e5e7eb;padding:10px">서류</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">발급처</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">유효기간·비고</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">사증발급신청서</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">영사관 양식</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">사진 1매 첨부(여권규격)</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">현 국적 여권 원본</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">해당국</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">유효기간 6개월 이상</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">시민권증서 원본</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">해당국 이민·귀화 당국</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">원본 지참, 사본 제출</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">기본증명서(상세)</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">한국 구청·동주민센터</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">국적상실 반영 확인</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">가족관계증명서(상세)</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">한국 구청</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">직계가족 한국적 증빙용</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">제적등본</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">한국 등록기준지</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">호주제 폐지 전 기록</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">무범죄조회서</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">FBI / RCMP 등</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">발급 후 6개월 이내</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">아포스티유/영사확인</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">해당국 주무부처</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">무범죄서·시민권 관련</td>
+ </tr>
+ </tbody>
 </table>
 
 ### 심사 후 받는 결과
@@ -141,7 +141,7 @@ F-4 비자는 발급 근거가 같아도, **어디서 신청하느냐에 따라 
 심사가 끝나면 여권에 **F-4 사증(단수/복수)** 이 찍혀 나옵니다. 이 상태로 한국에 입국하면 되고, 입국 후 90일 이내에 국내에서 **외국국적동포 국내거소신고**(거소증 발급)를 해야 실제로 체류·경제활동이 자유로워집니다.
 
 <div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 실무 팁:</strong> 영사관 F-4 사증만 받고 한국에서 거소신고를 빠르게 끝내려면, 입국 전에 한국 서류(기본증명서·가족관계증명서)를 미리 받아두고 숙소 주소를 확정해두는 게 핵심입니다. 서울에 연고가 없다면 임시주소 제공 서비스를 쓰는 사람도 많습니다.
+ <strong style="color:#1e40af">💡 실무 팁:</strong> 영사관 F-4 사증만 받고 한국에서 거소신고를 빠르게 끝내려면, 입국 전에 한국 서류(기본증명서·가족관계증명서)를 미리 받아두고 숙소 주소를 확정해두는 게 핵심입니다. 서울에 연고가 없다면 임시주소 제공 서비스를 쓰는 사람도 많습니다.
 </div>
 
 ## <span id="section-3"></span>3. 국내 체류자격 변경(B-2 → F-4) 절차
@@ -155,19 +155,19 @@ F-4 비자는 발급 근거가 같아도, **어디서 신청하느냐에 따라 
 ### 필요 서류 체크리스트
 
 <div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 국내 F-4 변경 체크리스트</strong>
-  <ul style="margin-top:12px">
-    <li>통합신청서(외국인 체류자격 변경허가 신청서)</li>
-    <li>여권 원본 및 사본(사진 페이지)</li>
-    <li>표준규격 컬러 사진 1매</li>
-    <li>시민권증서 원본 + 사본</li>
-    <li>기본증명서(상세) - 국적상실 반영된 것</li>
-    <li>가족관계증명서(상세)</li>
-    <li>제적등본</li>
-    <li>무범죄조회서(아포스티유) - 발급 6개월 이내</li>
-    <li>국내 체류지 입증 서류(주소 확인)</li>
-    <li>수수료(변경 + 거소증 발급)</li>
-  </ul>
+ <strong style="color:#166534">✅ 국내 F-4 변경 체크리스트</strong>
+ <ul style="margin-top:12px">
+ <li>통합신청서(외국인 체류자격 변경허가 신청서)</li>
+ <li>여권 원본 및 사본(사진 페이지)</li>
+ <li>표준규격 컬러 사진 1매</li>
+ <li>시민권증서 원본 + 사본</li>
+ <li>기본증명서(상세) - 국적상실 반영된 것</li>
+ <li>가족관계증명서(상세)</li>
+ <li>제적등본</li>
+ <li>무범죄조회서(아포스티유) - 발급 6개월 이내</li>
+ <li>국내 체류지 입증 서류(주소 확인)</li>
+ <li>수수료(변경 + 거소증 발급)</li>
+ </ul>
 </div>
 
 ### 하이코리아 예약과 제출
@@ -184,7 +184,7 @@ F-4 비자는 발급 근거가 같아도, **어디서 신청하느냐에 따라 
 6. **거소허가번호 발급 후 출국 가능**
 
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 주의:</strong> 국내 변경 중에 한국을 출국하려면 "허가번호"가 나와야 합니다. 접수만 해두고 출국하면 심사가 꼬일 수 있습니다. 급하게 출국해야 한다면 재입국 전 상태와 접수 단계를 먼저 확인하세요.
+ <strong style="color:#92400e">⚠️ 주의:</strong> 국내 변경 중에 한국을 출국하려면 "허가번호"가 나와야 합니다. 접수만 해두고 출국하면 심사가 꼬일 수 있습니다. 급하게 출국해야 한다면 재입국 전 상태와 접수 단계를 먼저 확인하세요.
 </div>
 
 ## <span id="section-4"></span>4. 처리 기간·비용·수수료 비교
@@ -192,50 +192,50 @@ F-4 비자는 발급 근거가 같아도, **어디서 신청하느냐에 따라 
 처리 기간은 "몇 일"로 단정하기 어렵습니다. 관청별 편차가 크고, 성수기(여름·연말) 대기가 따로 있기 때문입니다. 아래 수치는 실무에서 자주 관측되는 범위입니다(관할 기관 확인이 필요합니다).
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
-    <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">항목</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">해외 재외공관</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">국내 체류자격 변경</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">예약 대기</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">영사관별로 다름</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">예약 가능일에 따라 다름(하이코리아)</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">심사 소요</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">기관 사정에 따라 다름</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">기관 사정에 따라 다름</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">사증 수수료</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">단수 약 USD 45 / 복수 약 USD 90</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">해당 없음(국내 변경)</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">변경허가 수수료</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">해당 없음</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">100,000원 (변동 가능)</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">거소신고·거소증</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">30,000원 + 카드 발급비</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">30,000원 + 카드 발급비</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">무범죄서 준비</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">발급 기관 사정에 따라 다름</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">발급 기관 사정에 따라 다름(동일)</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">총 소요(체감)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">기관 사정에 따라 다름</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">기관 사정에 따라 다름</td>
-    </tr>
-  </tbody>
+ <thead style="background:#f0f7ff">
+ <tr>
+ <th style="border:1px solid #e5e7eb;padding:10px">항목</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">해외 재외공관</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">국내 체류자격 변경</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">예약 대기</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">영사관별로 다름</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">예약 가능일에 따라 다름(하이코리아)</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">심사 소요</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">기관 사정에 따라 다름</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">기관 사정에 따라 다름</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">사증 수수료</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">단수 약 USD 45 / 복수 약 USD 90</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">해당 없음(국내 변경)</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">변경허가 수수료</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">해당 없음</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">100,000원 (변동 가능)</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">거소신고·거소증</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">30,000원 + 카드 발급비</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">30,000원 + 카드 발급비</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">무범죄서 준비</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">발급 기관 사정에 따라 다름</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">발급 기관 사정에 따라 다름(동일)</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">총 소요(체감)</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">기관 사정에 따라 다름</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">기관 사정에 따라 다름</td>
+ </tr>
+ </tbody>
 </table>
 
 ### 수수료 정확 금액은 변동
@@ -243,64 +243,64 @@ F-4 비자는 발급 근거가 같아도, **어디서 신청하느냐에 따라 
 수수료는 **환율·정책에 따라 바뀝니다**. 공식 수수료 고지는 영사관 홈페이지 또는 출입국 고지를 기준으로 합니다. 특히 사증수수료는 국가별 상호주의에 따라 달라지므로, 미국·중국·캐나다·호주 등이 제각각입니다.
 
 <figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/40061589/pexels-photo-40061589.jpegA close-up shot of Filipino passports at the airport, indicating travel and identity." alt="Neon-lit alleyway in Seoul with vibrant signs and urban charm, showcasing a lively night scene." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
+ <img src="https://images.pexels.com/photos/40061589/pexels-photo-40061589.jpegA close-up shot of Filipino passports at the airport, indicating travel and identity." alt="Neon-lit alleyway in Seoul with vibrant signs and urban charm, showcasing a lively night scene." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
+ 
 </figure>
 
 ## <span id="section-5"></span>5. 국적상실신고와의 순서 문제
 
-F-4를 말할 때 **국적상실신고**를 빼놓을 수 없습니다. 국적법 제15조에 따라, 외국 시민권을 취득한 순간 한국 국적은 자동으로 상실됩니다. 국적상실신고는 행정 정리 절차일 뿐이고, **신고 전이라도 이미 한국 국적은 상실 상태**입니다.
+F-4를 말할 때 **국적상실신고**를 빼놓을 수 없습니다. 국적법에 따라, 외국 시민권을 취득한 순간 한국 국적은 자동으로 상실됩니다. 국적상실신고는 행정 정리 절차일 뿐이고, **신고 전이라도 이미 한국 국적은 상실 상태**입니다.
 
 ### 왜 이게 F-4 절차와 얽히는가
 
 실무에서 가장 많이 꼬이는 부분이 여기입니다. F-4를 받으려면 기본증명서에 **국적상실이 반영**되어 있어야 하는데, 국적상실신고를 하지 않으면 가족관계등록부에 한국인으로 남아있어 서류가 충돌합니다. 심사 과정에서 "한국 국적자인지 외국인인지" 혼란이 발생합니다.
 
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 주의:</strong> 국적상실 후에도 한국 여권을 사용하면 <strong>여권법 위반(부정사용)</strong>입니다. 이미 외국 시민권을 받은 상태에서 한국 여권으로 입출국하면 법적 문제가 생길 수 있습니다. F-4 받기 전이라도 한국 여권은 쓰지 않는 게 원칙입니다.
+ <strong style="color:#92400e">⚠️ 주의:</strong> 국적상실 후에도 한국 여권을 사용하면 <strong>여권법 위반(부정사용)</strong>입니다. 이미 외국 시민권을 받은 상태에서 한국 여권으로 입출국하면 법적 문제가 생길 수 있습니다. F-4 받기 전이라도 한국 여권은 쓰지 않는 게 원칙입니다.
 </div>
 
 ### 순서를 어떻게 잡는가
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
-    <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">순서</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">해야 할 일</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">경로별 포인트</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">1</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">시민권증서 원본 확보</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">분실 시 재발급 기간은 해당국 당국별 상이</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">국적상실신고</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">영사관 또는 국내 구청에서 접수</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">3</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">기본증명서 국적상실 반영 확인</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">반영까지의 기간은 기관별 상이·개별 확인</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">4</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">무범죄서·아포스티유 준비</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">발급 기관 사정에 따라 다름</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">5</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">F-4 신청(해외/국내 선택)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">예약·방문·접수</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">6</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">허가·거소증 수령</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">이후 출국·재입국 자유</td>
-    </tr>
-  </tbody>
+ <thead style="background:#f0f7ff">
+ <tr>
+ <th style="border:1px solid #e5e7eb;padding:10px">순서</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">해야 할 일</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">경로별 포인트</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">1</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">시민권증서 원본 확보</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">분실 시 재발급 기간은 해당국 당국별 상이</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">2</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">국적상실신고</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">영사관 또는 국내 구청에서 접수</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">3</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">기본증명서 국적상실 반영 확인</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">반영까지의 기간은 기관별 상이·개별 확인</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">4</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">무범죄서·아포스티유 준비</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">발급 기관 사정에 따라 다름</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">5</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">F-4 신청(해외/국내 선택)</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">예약·방문·접수</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">6</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">허가·거소증 수령</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">이후 출국·재입국 자유</td>
+ </tr>
+ </tbody>
 </table>
 
 ## <span id="section-6"></span>6. 어느 쪽을 선택해야 하는가 - 경우별 결정표
@@ -308,50 +308,50 @@ F-4를 말할 때 **국적상실신고**를 빼놓을 수 없습니다. 국적�
 선택 기준은 "더 빠른 쪽"이 아니라 **지금 본인이 어떤 상태에 있느냐**입니다. 아래 표에서 본인 상황에 가장 가까운 줄을 먼저 보세요.
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
-    <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">상황</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">추천 경로</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">이유</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">현재 해외 거주, 한국 방문 예정 없음</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">해외 재외공관</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">입국 전 사증 확보가 안정적</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">무비자로 이미 한국 입국</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">국내 변경</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">출국 없이 바로 전환 가능</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">시민권증서 원본이 해외에 있음</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">해외 재외공관</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">원본 지참이 현실적으로 쉬움</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">한국 장기 체류 중(친지·가족)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">국내 변경</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">한국 서류 즉시 발급 가능</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">90일 무비자 만료가 임박</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">국내 변경(즉시 접수)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">접수되면 체류 연장 효과</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">국적상실신고 미처리</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">신고부터 진행</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">기본증명서 반영 없이 F-4 어려움</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">가족 단위 여러 명 동시 신청</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">국내 변경(서울)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">서류 준비·대행 효율</td>
-    </tr>
-  </tbody>
+ <thead style="background:#f0f7ff">
+ <tr>
+ <th style="border:1px solid #e5e7eb;padding:10px">상황</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">추천 경로</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">이유</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">현재 해외 거주, 한국 방문 예정 없음</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">해외 재외공관</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">입국 전 사증 확보가 안정적</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">무비자로 이미 한국 입국</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">국내 변경</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">출국 없이 바로 전환 가능</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">시민권증서 원본이 해외에 있음</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">해외 재외공관</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">원본 지참이 현실적으로 쉬움</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">한국 장기 체류 중(친지·가족)</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">국내 변경</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">한국 서류 즉시 발급 가능</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">90일 무비자 만료가 임박</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">국내 변경(즉시 접수)</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">접수되면 체류 연장 효과</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">국적상실신고 미처리</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">신고부터 진행</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">기본증명서 반영 없이 F-4 어려움</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">가족 단위 여러 명 동시 신청</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">국내 변경(서울)</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">서류 준비·대행 효율</td>
+ </tr>
+ </tbody>
 </table>
 
 ### 특히 조심할 것
@@ -387,7 +387,7 @@ FBI 무범죄서를 2월에 받아두고 8월에 접수하러 가면 이미 6개
 국내 변경 접수만 하고 심사 중에 해외로 나가면 심사가 유보되거나 종료되는 경우가 있습니다. **허가번호 발급 후** 출국하는 게 원칙입니다.
 
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 주의:</strong> 제적등본·기본증명서·가족관계증명서 중 하나라도 <strong>등록기준지 변경 이력</strong>이 있으면 전부 추적해서 떼야 합니다. 한쪽만 제출하면 "공백 구간"이 생겨 심사관이 추가 서류를 요구합니다.
+ <strong style="color:#92400e">⚠️ 주의:</strong> 제적등본·기본증명서·가족관계증명서 중 하나라도 <strong>등록기준지 변경 이력</strong>이 있으면 전부 추적해서 떼야 합니다. 한쪽만 제출하면 "공백 구간"이 생겨 심사관이 추가 서류를 요구합니다.
 </div>
 
 ## <span id="section-8"></span>8. 자주 묻는 질문 (FAQ)
@@ -419,14 +419,14 @@ F-4 비자는 **어디서 받느냐**가 아니라 **어떤 순서로 준비하�
 행정사사무소 이룸은 F-4 신청 전 과정을 국내·해외 상관없이 대행합니다. 최대한 빨리 허가받게 하기 위해서 지속적으로 노력하고 있습니다.
 
 <div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 행정사사무소 이룸 제공 서비스</strong>
-  <ul style="margin-top:12px">
-    <li>한국 서류 발급대행 — 기본증명서(상세), 가족관계증명서(상세), 제적등본</li>
-    <li>F-4 거소증 신청대행 및 수령·발송 (거소허가번호 발급 후 출국 가능)</li>
-    <li>서울 내 임시주소 제공 (별도 비용 안내)</li>
-    <li>국적상실신고 동시 진행</li>
-    <li>해외 영사관 서류 리스트·예약 상담</li>
-  </ul>
+ <strong style="color:#166534">✅ 행정사사무소 이룸 제공 서비스</strong>
+ <ul style="margin-top:12px">
+ <li>한국 서류 발급대행 — 기본증명서(상세), 가족관계증명서(상세), 제적등본</li>
+ <li>F-4 거소증 신청대행 및 수령·발송 (거소허가번호 발급 후 출국 가능)</li>
+ <li>서울 내 임시주소 제공 (별도 비용 안내)</li>
+ <li>국적상실신고 동시 진행</li>
+ <li>해외 영사관 서류 리스트·예약 상담</li>
+ </ul>
 </div>
 
 **행정사사무소 이룸 (EROOM Administrative Office)**

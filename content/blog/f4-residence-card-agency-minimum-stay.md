@@ -16,19 +16,19 @@ F-4 거소증은 가장 빠르게 허가가 나오는 출입국사무소를 선�
 이 글은 최소 체류 일정으로 F-4 거소증을 발급받는 실제 절차, 사전 준비 서류, 출입국사무소 선택 기준, 신청대행이 실무적으로 어떻게 일정을 줄여주는지를 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 거소증, 왜 체류 일수가 문제가 되는가</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 거소증 대행 — 신청 전 반드시 갖춰야 할 서류</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 최소 체류로 발급받는 실제 일정 모델</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 지금 무료 상담 신청하기</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 거소증 대행이 실제로 줄여주는 시간</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 본국 발급 vs 한국 입국 후 발급</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 거소증, 왜 체류 일수가 문제가 되는가</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 거소증 대행 — 신청 전 반드시 갖춰야 할 서류</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 최소 체류로 발급받는 실제 일정 모델</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 지금 무료 상담 신청하기</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 거소증 대행이 실제로 줄여주는 시간</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 본국 발급 vs 한국 입국 후 발급</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 거소증, 왜 체류 일수가 문제가 되는가</h2>
@@ -86,7 +86,7 @@ F-4 거소증은 가장 빠르게 허가가 나오는 출입국사무소를 선�
 - 제적등본
 - 국적상실신고 완료 확인 서류
 
-> **주의:** 국적상실신고는 외국 시민권 취득 후 행정 정리 절차일 뿐이며, 시민권 취득 시점에 한국 국적은 이미 자동 상실된 상태입니다(국적법 제15조). 신고 전이라도 한국 여권을 사용하면 여권법 위반(부정사용)에 해당합니다.
+> **주의:** 국적상실신고는 외국 시민권 취득 후 행정 정리 절차일 뿐이며, 시민권 취득 시점에 한국 국적은 이미 자동 상실된 상태입니다. 신고 전이라도 한국 여권을 사용하면 여권법 위반(부정사용)에 해당합니다.
 
 행정사사무소 이룸은 한국 측 서류는 위임받아 대행 발급해 드리며, 본국 서류는 한국 입국 전에 반드시 챙겨오셔야 합니다.
 

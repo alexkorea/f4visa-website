@@ -14,24 +14,24 @@ slug: "nationality-recovery-application-steps-documents"
 신청 자격, 접수 전에 정리해야 할 국적상실 문제, 필요서류 목록, 단계별 타임라인, 허가 후 해야 할 일까지 실제 진행 순서대로 담았습니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 국적회복 허가란 — 누가 신청할 수 있나</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적회복 신청 전 먼저 확인할 것 — 국적상실 정리</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국적회복 필요서류 총정리</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 접수부터 허가까지 — 진행 타임라인</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 허가 후 절차 — 외국국적 처리와 복수국적</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적회복과 F-4, 어느 쪽이 맞나</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 국적회복 허가란 — 누가 신청할 수 있나</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적회복 신청 전 먼저 확인할 것 — 국적상실 정리</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국적회복 필요서류 총정리</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 접수부터 허가까지 — 진행 타임라인</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 허가 후 절차 — 외국국적 처리와 복수국적</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적회복과 F-4, 어느 쪽이 맞나</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">국적회복 허가란 — 누가 신청할 수 있나</h2>
 
-국적회복은 국적법 제9조에 근거한 제도입니다.
+국적회복은 국적법에 근거한 제도입니다.
 과거 대한민국 국민이었던 사람이 법무부장관의 허가를 받아 한국 국적을 다시 취득하는 절차입니다.
 귀화와 다른 점은 **과거에 한국 국민이었다는 사실**이 출발점이라는 것입니다.
 
@@ -46,7 +46,7 @@ slug: "nationality-recovery-application-steps-documents"
 
 ### 허가가 제한되는 경우
 
-국적법 제9조 제2항은 허가하지 않는 사유를 정하고 있습니다.
+국적법은 허가하지 않는 사유를 정하고 있습니다.
 
 - 국가나 사회에 위해를 끼친 사실이 있는 사람
 - 품행이 단정하지 못한 사람
@@ -62,7 +62,7 @@ slug: "nationality-recovery-application-steps-documents"
 
 ### 시민권 취득 = 한국 국적 자동 상실
 
-국적법 제15조에 따라 외국 시민권을 취득하면 그 시점에 한국 국적은 **즉시 자동 상실**됩니다.
+국적법에 따라 외국 시민권을 취득하면 그 시점에 한국 국적은 **즉시 자동 상실**됩니다.
 국적상실신고는 이미 상실된 상태를 가족관계등록부에 반영하는 행정 정리 절차일 뿐입니다.
 신고 전이라도 법적으로는 이미 상실 상태입니다.
 
@@ -138,7 +138,7 @@ slug: "nationality-recovery-application-steps-documents"
 
 ### 1년 내 외국국적 포기 또는 불행사 서약
 
-국적법 제10조에 따라 국적회복 허가를 받은 사람은 **1년 이내**에 외국 국적을 포기해야 합니다.
+국적법에 따라 국적회복 허가를 받은 사람은 **1년 이내**에 외국 국적을 포기해야 합니다.
 이 기한을 넘기면 한국 국적이 다시 상실됩니다.
 
 ### 65세 이상 영주귀국 — 복수국적 유지

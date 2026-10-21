@@ -16,19 +16,19 @@ slug: "f4-overseas-residence-card-remote-application-guide"
 신청 전 서류 발급, 임시주소 확보, 출입국사무소 예약, 신청 후 거소증 수령·해외 발송까지 원격 대행이 어떤 범위에서 가능한지 풀어봅니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 해외에서 거소증 100% 원격 신청이 안 되는 이유</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 해외 거소증 신청 전 본국에서 준비할 서류</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 임시주소 문제 — 해외 거주자가 가장 많이 막히는 지점</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 원격 대행으로 줄어드는 한국 체류 기간</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 가장 빨리 허가받는 출입국사무소를 찾는 방법</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적 정리가 안 된 상태에서 거소증을 신청하면</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 해외에서 거소증 100% 원격 신청이 안 되는 이유</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 해외 거소증 신청 전 본국에서 준비할 서류</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 임시주소 문제 — 해외 거주자가 가장 많이 막히는 지점</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 원격 대행으로 줄어드는 한국 체류 기간</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 가장 빨리 허가받는 출입국사무소를 찾는 방법</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적 정리가 안 된 상태에서 거소증을 신청하면</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">해외에서 거소증 100% 원격 신청이 안 되는 이유</h2>
@@ -171,7 +171,7 @@ slug: "f4-overseas-residence-card-remote-application-guide"
 
 먼저 봐야 할 것은 국적상실신고가 끝났는지 여부입니다.
 
-국적법 제15조에 따라 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다.
+국적법에 따라 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다.
 
 ### 자동 상실의 의미
 

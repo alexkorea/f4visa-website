@@ -14,28 +14,28 @@ F-4 재외동포 비자는 단순노무 업종 취업이 법령으로 명확히 
 이 글은 어떤 업종이 "단순노무"로 분류되는지, 실제 적발 사례에서 가장 많이 걸리는 지점, 그리고 사후 구제 절차까지 실무 기준으로 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자에서 "단순노무" 금지의 법적 근거</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 실제로 가장 많이 적발되는 단순노무 업종</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 적발 시 어떤 처분이 내려지나</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 합법적으로 일할 수 있는 업종 범위</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 자주 묻는 실무 질문 — 사례별 해석</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. F-4 유지하면서 안전하게 일하는 실무 체크리스트</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 적발 후 대응 절차</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. FAQ</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 참고 법령 및 공식 자료</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-12" style="color:#2563eb;text-decoration:none">12. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자에서 "단순노무" 금지의 법적 근거</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 실제로 가장 많이 적발되는 단순노무 업종</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 적발 시 어떤 처분이 내려지나</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 합법적으로 일할 수 있는 업종 범위</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 자주 묻는 실무 질문 — 사례별 해석</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. F-4 유지하면서 안전하게 일하는 실무 체크리스트</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 적발 후 대응 절차</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. FAQ</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 참고 법령 및 공식 자료</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-12" style="color:#2563eb;text-decoration:none">12. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 비자에서 "단순노무" 금지의 법적 근거</h2>
 
 ### 어디에 규정되어 있는가
 
-F-4 자격자의 취업활동 범위는 출입국관리법 시행령 제23조 및 법무부 고시 제2023-187호에 따라 정해집니다.
+F-4 자격자의 취업활동 범위는 출입국관리법 시행령 및 법무부 고시에 따라 정해집니다.
 핵심은 이것입니다.
 F-4는 "단순노무행위에 해당하는 직종에는 종사할 수 없다"가 명문 규정입니다.
 즉 허용된 업종을 나열하는 방식이 아니라, 금지 업종을 따로 정하는 네거티브 방식이라 본인이 하는 일이 단순노무에 해당하는지 스스로 점검해야 합니다.
@@ -198,7 +198,7 @@ A. 가사·돌봄 영역의 단순노무는 금지 직종에 포함됩니다. �
 
 <h2 id="section-9">참고 법령 및 공식 자료</h2>
 
-- 출입국관리법 시행령 제23조 — 체류자격별 활동범위
+- 출입국관리법 시행령 — 체류자격별 활동범위
 - 하이코리아 — 재외동포(F-4) 안내
 - 법무부 출입국·외국인정책본부 — 단순노무 직종 고시
 - 한국표준직업분류(KSCO) 대분류 9 — 단순노무종사자

@@ -16,20 +16,20 @@ F-4 재외동포 비자 소지자의 외국 국적 배우자와 미성년 자녀
 이 글은 F-1 동반비자의 자격, 필요 서류, 신청 경로, 실무에서 자주 막히는 지점, 거소증 전환까지의 흐름을 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 가족초청 F-1 동반비자란 무엇인가</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-1 동반비자 신청 자격과 핵심 요건</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-1 동반비자 필요 서류 정리</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. F-1 동반비자 신청 절차</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-1 동반비자에서 자주 막히는 부분</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 입국 후 거소증 신청과 체류 관리</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 국적 관련 유의사항</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 자주 묻는 질문(FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 가족초청 F-1 동반비자란 무엇인가</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-1 동반비자 신청 자격과 핵심 요건</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-1 동반비자 필요 서류 정리</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. F-1 동반비자 신청 절차</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-1 동반비자에서 자주 막히는 부분</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 입국 후 거소증 신청과 체류 관리</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 국적 관련 유의사항</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 자주 묻는 질문(FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 가족초청 F-1 동반비자란 무엇인가</h2>
@@ -186,7 +186,7 @@ F-1 비자로 입국한 가족은 입국일로부터 90일 이내에 외국인�
 
 거주지 관할 출입국·외국인청에 외국인등록을 하고, 등록증을 수령합니다.
 
-이후 주소지 변경이 생기면 전입한 날부터 15일 이내 신고가 의무입니다(출입국관리법 제36조①).
+이후 주소지 변경이 생기면 전입한 날부터 15일 이내 신고가 의무입니다.
 
 법무부 출입국·외국인정책본부 안내를 함께 확인하세요.
 
@@ -208,7 +208,7 @@ F-1 동반비자는 보통 1년 단위로 부여되며, 만료 전 연장 신청
 
 F-4 가족초청 과정에서 가장 많이 놓치는 부분이 국적 문제입니다.
 
-외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다(국적법 제15조).
+외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다.
 
 국적상실신고는 행정 정리 절차일 뿐이며, 신고 전이라도 이미 상실 상태입니다.
 

@@ -14,17 +14,17 @@ F-4 비자에서 **만 25세 이상 요건**은 사실상 남성 재외동포를
 많이 놓치는 부분은 "만 25세 이상"이 단순한 나이 기준이 아니라 **국적이탈 시점과 병역의무 발생 시점의 비교**라는 점입니다. 미국 시민권을 이미 오래 전에 취득해 한국 국적이 자동 상실된 경우라도, 상실 시점이 만 18세가 되는 해 3월 31일 이후라면 병역의무는 그대로 남아있고, 만 25세 이후에는 F-4 신청 단계에서 바로 걸립니다. 국적상실신고를 아직 안 했다고 해서 의무가 면제되지는 않습니다. 이 부분이 약하면 서류가 아무리 완벽해도 허가가 나오지 않습니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 만 25세 이상 요건의 실제 의미</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 병역의무 발생 기준과 국적이탈 시점</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 상황별 F-4 허가 가능성 비교</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 병역 해소 유형별 F-4 신청 방법</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 필요 서류와 실무 진행 절차</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 하는 실수와 거절 사유</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 38세 이후 제한 해제와 실무 변화</a></li>
-    <li><a href="#section-8" style="color:#faq">FAQ 자주 묻는 질문</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차
+ <ul style="list-style:none;padding-left:0">
+ <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 만 25세 이상 요건의 실제 의미</a></li>
+ <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 병역의무 발생 기준과 국적이탈 시점</a></li>
+ <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 상황별 F-4 허가 가능성 비교</a></li>
+ <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 병역 해소 유형별 F-4 신청 방법</a></li>
+ <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 필요 서류와 실무 진행 절차</a></li>
+ <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 하는 실수와 거절 사유</a></li>
+ <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 38세 이후 제한 해제와 실무 변화</a></li>
+ <li><a href="#section-8" style="color:#faq">FAQ 자주 묻는 질문</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">1. F-4 만 25세 이상 요건의 실제 의미</h2>
@@ -44,7 +44,7 @@ F-4 비자 심사에서 "만 25세 이상" 표현을 보고 "그럼 24세까지�
 이 조항의 배경은 명확합니다. 과거 병역 회피 목적으로 해외 국적을 취득하는 사례가 반복되면서, **F-4 같은 장기체류 비자가 병역 회피 수단으로 쓰이는 것을 막기 위한 장치**로 도입됐습니다. 제재 성격이 강하기 때문에, 일반적인 서류 보완으로 해결되는 문제가 아닙니다.
 
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 주의:</strong> "국적상실신고를 아직 안 했으니까 괜찮지 않을까"라고 생각하는 경우가 많은데, 국적법 제15조상 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다. 신고는 행정 정리 절차일 뿐, 이미 국적을 잃은 상태입니다. 신고하지 않고 한국 여권을 쓰는 것은 여권법상 부정사용에 해당할 수 있습니다.
+ <strong style="color:#92400e">⚠️ 주의:</strong> "국적상실신고를 아직 안 했으니까 괜찮지 않을까"라고 생각하는 경우가 많은데, 국적법상 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다. 신고는 행정 정리 절차일 뿐, 이미 국적을 잃은 상태입니다. 신고하지 않고 한국 여권을 쓰는 것은 여권법상 부정사용에 해당할 수 있습니다.
 </div>
 
 <h2 id="section-2">2. 병역의무 발생 기준과 국적이탈 시점</h2>
@@ -55,7 +55,7 @@ F-4 비자 심사에서 "만 25세 이상" 표현을 보고 "그럼 24세까지�
 
 ### 국적 자동상실 시점과의 관계
 
-외국 시민권을 취득하면 **국적법 제15조**에 따라 한국 국적이 즉시 자동 상실됩니다. 그러나 병역의무는 별개로 남습니다. 즉 국적은 없어졌지만, F-4 비자 심사에서는 **과거 병역의무자였는지**를 봅니다.
+외국 시민권을 취득하면 국적법에 따라 한국 국적이 즉시 자동 상실됩니다. 그러나 병역의무는 별개로 남습니다. 즉 국적은 없어졌지만, F-4 비자 심사에서는 **과거 병역의무자였는지**를 봅니다.
 
 ### 가장 많이 꼬이는 패턴
 
@@ -69,35 +69,35 @@ F-4 비자 심사에서 "만 25세 이상" 표현을 보고 "그럼 24세까지�
 ### 시점 판단표
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
-    <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">외국 시민권 취득 시점</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">병역의무</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">만 25세 이후 F-4 가능 여부</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">만 18세 되는 해 3월 31일 이전</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">발생 전 이탈 가능</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">일반적으로 가능</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">만 18세 되는 해 3월 31일 이후~만 37세 이전</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">해소 또는 면제 필요</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">해소 전까지 원칙적 불가</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">만 37세 되는 해 12월 31일 이후</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">사실상 소멸</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">여성</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">해당 없음</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
-    </tr>
-  </tbody>
+ <thead style="background:#f0f7ff">
+ <tr>
+ <th style="border:1px solid #e5e7eb;padding:10px">외국 시민권 취득 시점</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">병역의무</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">만 25세 이후 F-4 가능 여부</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">만 18세 되는 해 3월 31일 이전</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">발생 전 이탈 가능</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">일반적으로 가능</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">만 18세 되는 해 3월 31일 이후~만 37세 이전</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">해소 또는 면제 필요</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">해소 전까지 원칙적 불가</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">만 37세 되는 해 12월 31일 이후</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">사실상 소멸</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">여성</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">해당 없음</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
+ </tr>
+ </tbody>
 </table>
 
 <h2 id="section-3">3. 상황별 F-4 허가 가능성 비교</h2>
@@ -109,52 +109,52 @@ F-4 비자 심사에서 "만 25세 이상" 표현을 보고 "그럼 24세까지�
 ### 유형별 비교표
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
-    <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">유형</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">상황</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">F-4 가능성</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">핵심 포인트</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">A형</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">여성 재외동포, 만 25세 이상</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">병역 무관</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">B형</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">남성, 만 18세 3월 31일 이전 국적이탈</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">병역의무 발생 전 이탈</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">C형</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">남성, 병역 마친 후 국적이탈</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">병역증빙 필수</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">D형</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">남성, 병역 해소 전 국적이탈, 만 25~37세</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">원칙적 불가</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">38세까지 대기 또는 다른 비자 검토</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">E형</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">남성, 만 38세 이후</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">병역의무 사실상 소멸</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">F형</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">남성, 한국 국적을 가져본 적 없음(외국 출생 3세)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">혈통 증빙이 핵심</td>
-    </tr>
-  </tbody>
+ <thead style="background:#f0f7ff">
+ <tr>
+ <th style="border:1px solid #e5e7eb;padding:10px">유형</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">상황</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">F-4 가능성</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">핵심 포인트</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">A형</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">여성 재외동포, 만 25세 이상</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">병역 무관</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">B형</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">남성, 만 18세 3월 31일 이전 국적이탈</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">병역의무 발생 전 이탈</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">C형</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">남성, 병역 마친 후 국적이탈</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">병역증빙 필수</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">D형</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">남성, 병역 해소 전 국적이탈, 만 25~37세</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">원칙적 불가</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">38세까지 대기 또는 다른 비자 검토</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">E형</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">남성, 만 38세 이후</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">병역의무 사실상 소멸</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">F형</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">남성, 한국 국적을 가져본 적 없음(외국 출생 3세)</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">혈통 증빙이 핵심</td>
+ </tr>
+ </tbody>
 </table>
 
 ### 오히려 여성 신청자가 놓치는 함정
@@ -170,40 +170,40 @@ F-4 심사에서 "병역의무 해소"는 **현역 복무 완료, 공익/대체 
 ### 해소 유형별 증빙
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
-    <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">해소 유형</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">필요 서류</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">발급 기관</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">현역/보충역 복무 완료</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">병적증명서</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">병무청</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">면제(질병/신체 등급)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">병적증명서(면제 사유 기재)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">병무청</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">제2국민역 편입</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">병적증명서</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">병무청</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">연령 초과(만 38세 이후)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">기본증명서(상세), 병적증명서</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">시·구청 / 병무청</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">병역의무 미발생(18세 3월 31일 이전 이탈)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">국적상실 관련 기본증명서, 시민권증서 원본</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">시·구청 / 본국 당국</td>
-    </tr>
-  </tbody>
+ <thead style="background:#f0f7ff">
+ <tr>
+ <th style="border:1px solid #e5e7eb;padding:10px">해소 유형</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">필요 서류</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">발급 기관</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">현역/보충역 복무 완료</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">병적증명서</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">병무청</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">면제(질병/신체 등급)</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">병적증명서(면제 사유 기재)</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">병무청</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">제2국민역 편입</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">병적증명서</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">병무청</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">연령 초과(만 38세 이후)</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">기본증명서(상세), 병적증명서</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">시·구청 / 병무청</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">병역의무 미발생(18세 3월 31일 이전 이탈)</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">국적상실 관련 기본증명서, 시민권증서 원본</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">시·구청 / 본국 당국</td>
+ </tr>
+ </tbody>
 </table>
 
 ### 서류보다 더 중요한 것은 시점 기록
@@ -211,12 +211,12 @@ F-4 심사에서 "병역의무 해소"는 **현역 복무 완료, 공익/대체 
 실무에서는 **"언제 국적이 상실됐는지"를 보여주는 기본증명서(상세)**가 가장 결정적입니다. 시민권 취득 연월일과 국적상실 연월일이 명확히 찍혀 있어야 병역 판단이 가능합니다. 이 기록이 부족하거나 모호하면 추가 소명 단계에서 오래 걸립니다.
 
 <div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 실무 팁:</strong> 만 18세 되는 해 3월 31일 이전에 시민권을 취득했다면, 그 사실을 **기본증명서(상세)**에 명확히 반영해 두세요. 국적상실신고가 늦어진 경우에도 "실제 상실 시점"이 그 전이라는 점을 증빙할 수 있어야 심사에서 꼬이지 않습니다.
+ <strong style="color:#1e40af">💡 실무 팁:</strong> 만 18세 되는 해 3월 31일 이전에 시민권을 취득했다면, 그 사실을 **기본증명서(상세)**에 명확히 반영해 두세요. 국적상실신고가 늦어진 경우에도 "실제 상실 시점"이 그 전이라는 점을 증빙할 수 있어야 심사에서 꼬이지 않습니다.
 </div>
 
 <figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/28494398/pexels-photo-28494398.jpegA close-up shot of Filipino passports at the airport, indicating travel and identity." alt="Bustling street in Seoul with vibrant signs and people walking. Captures urban life in South Korea." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
+ <img src="https://images.pexels.com/photos/28494398/pexels-photo-28494398.jpegA close-up shot of Filipino passports at the airport, indicating travel and identity." alt="Bustling street in Seoul with vibrant signs and people walking. Captures urban life in South Korea." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
+ 
 </figure>
 
 <h2 id="section-5">5. 필요 서류와 실무 진행 절차</h2>
@@ -226,20 +226,20 @@ F-4 심사에서 "병역의무 해소"는 **현역 복무 완료, 공익/대체 
 F-4 신청에서 만 25세 이상 남성의 경우, 일반 서류에 **병역 관련 서류**가 더해집니다.
 
 <div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ F-4 신청 체크리스트 (만 25세 이상 남성)</strong>
-  <ul style="margin-top:12px">
-    <li>여권 원본 및 사본</li>
-    <li>시민권증서 원본 (F-4 신청 시 필수)</li>
-    <li>여권용 사진</li>
-    <li>F-4 비자 신청서</li>
-    <li>기본증명서(상세) — 국적상실 시점 확인용</li>
-    <li>가족관계증명서(상세)</li>
-    <li>제적등본</li>
-    <li>병적증명서 (병역 해소자)</li>
-    <li>무범죄조회서 (발급일로부터 6개월 이내)</li>
-    <li>본인 서명 확인서 또는 공증 (해당 시)</li>
-    <li>체류 목적 소명 서류 (필요 시)</li>
-  </ul>
+ <strong style="color:#166534">✅ F-4 신청 체크리스트 (만 25세 이상 남성)</strong>
+ <ul style="margin-top:12px">
+ <li>여권 원본 및 사본</li>
+ <li>시민권증서 원본 (F-4 신청 시 필수)</li>
+ <li>여권용 사진</li>
+ <li>F-4 비자 신청서</li>
+ <li>기본증명서(상세) — 국적상실 시점 확인용</li>
+ <li>가족관계증명서(상세)</li>
+ <li>제적등본</li>
+ <li>병적증명서 (병역 해소자)</li>
+ <li>무범죄조회서 (발급일로부터 6개월 이내)</li>
+ <li>본인 서명 확인서 또는 공증 (해당 시)</li>
+ <li>체류 목적 소명 서류 (필요 시)</li>
+ </ul>
 </div>
 
 ### 서류 발급 순서
@@ -256,7 +256,7 @@ F-4 신청에서 만 25세 이상 남성의 경우, 일반 서류에 **병역 �
 - 관할 기관 확인이 필요합니다.
 
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 주의:</strong> 무범죄조회서는 발급일로부터 6개월이 유효기간입니다. 먼저 무범죄조회서를 받아두고 다른 서류 준비를 길게 끌면, 접수 직전에 기한이 지나서 다시 발급받아야 하는 경우가 생깁니다. 다른 서류가 거의 다 갖춰진 뒤 발급하는 편이 안전합니다.
+ <strong style="color:#92400e">⚠️ 주의:</strong> 무범죄조회서는 발급일로부터 6개월이 유효기간입니다. 먼저 무범죄조회서를 받아두고 다른 서류 준비를 길게 끌면, 접수 직전에 기한이 지나서 다시 발급받아야 하는 경우가 생깁니다. 다른 서류가 거의 다 갖춰진 뒤 발급하는 편이 안전합니다.
 </div>
 
 <h2 id="section-6">6. 자주 하는 실수와 거절 사유</h2>
@@ -284,34 +284,34 @@ F-4 신청에서는 **시민권증서 원본이 필요**합니다. 사본이나 
 ### 거절 사유 요약표
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
-    <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">거절/보완 사유</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">실제로 걸리는 이유</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">병역 미해소 상태에서의 신청</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">만 25세~37세 남성 제한 규정에 걸림</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">국적상실 시점 증빙 부족</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">기본증명서에 상실 사유/시점이 불명확</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">시민권증서 원본 미제출</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">사본만으로는 본인 확인 및 국적 확정 불가</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">무범죄조회서 유효기간 경과</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">발급일로부터 6개월 초과</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">국적 미상실 상태로 한국여권 계속 사용</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">여권법 부정사용 이력, 국적 정리 선행 요구</td>
-    </tr>
-  </tbody>
+ <thead style="background:#f0f7ff">
+ <tr>
+ <th style="border:1px solid #e5e7eb;padding:10px">거절/보완 사유</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">실제로 걸리는 이유</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">병역 미해소 상태에서의 신청</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">만 25세~37세 남성 제한 규정에 걸림</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">국적상실 시점 증빙 부족</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">기본증명서에 상실 사유/시점이 불명확</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">시민권증서 원본 미제출</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">사본만으로는 본인 확인 및 국적 확정 불가</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">무범죄조회서 유효기간 경과</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">발급일로부터 6개월 초과</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">국적 미상실 상태로 한국여권 계속 사용</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">여권법 부정사용 이력, 국적 정리 선행 요구</td>
+ </tr>
+ </tbody>
 </table>
 
 <h2 id="section-7">7. 38세 이후 제한 해제와 실무 변화</h2>
@@ -331,41 +331,41 @@ F-4 신청에서는 **시민권증서 원본이 필요**합니다. 사본이나 
 만 25~37세 사이에 F-4가 막힌 남성이 한국에 장기 체류해야 하는 경우, 다른 자격으로의 접근을 먼저 검토해야 합니다.
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
-    <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">대안</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">특징</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">제한</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">단기 방문(C-3)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">단기 체류 가능</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">취업·장기 거주 불가</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">H-2(방문취업)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">중국·CIS 동포 일부 대상</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">국가·연령·자격 제한</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">E-7(특정활동)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">전문직 고용 계약 기반</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">직종·학력 요건 엄격</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">F-2-7(거주, 점수제)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">점수 요건 충족 시 가능</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">소득·학력·한국어 점수 필요</td>
-    </tr>
-  </tbody>
+ <thead style="background:#f0f7ff">
+ <tr>
+ <th style="border:1px solid #e5e7eb;padding:10px">대안</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">특징</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">제한</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">단기 방문(C-3)</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">단기 체류 가능</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">취업·장기 거주 불가</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">H-2(방문취업)</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">중국·CIS 동포 일부 대상</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">국가·연령·자격 제한</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">E-7(특정활동)</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">전문직 고용 계약 기반</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">직종·학력 요건 엄격</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">F-2-7(거주, 점수제)</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">점수 요건 충족 시 가능</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">소득·학력·한국어 점수 필요</td>
+ </tr>
+ </tbody>
 </table>
 
 구체적인 자격 요건과 점수 기준은 변동 가능성이 있어 관할 기관 확인이 필요합니다.
 
 <div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 실무 팁:</strong> 만 35~37세라면 38세를 기다리는 편이 다른 비자 준비보다 현실적인 경우가 많습니다. 반면 20대 후반이라면 10년 이상 대기하는 셈이라 E-7·F-2 등 다른 경로를 병행 검토하는 편이 낫습니다. 개별 시점에 따라 판단이 달라집니다.
+ <strong style="color:#1e40af">💡 실무 팁:</strong> 만 35~37세라면 38세를 기다리는 편이 다른 비자 준비보다 현실적인 경우가 많습니다. 반면 20대 후반이라면 10년 이상 대기하는 셈이라 E-7·F-2 등 다른 경로를 병행 검토하는 편이 낫습니다. 개별 시점에 따라 판단이 달라집니다.
 </div>
 
 <h2 id="faq">8. 자주 묻는 질문 FAQ</h2>

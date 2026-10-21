@@ -14,24 +14,24 @@ slug: "dual-citizenship-korea-eligibility-renunciation-loss"
 아래에서 복수국적 허용 조건, 국적이탈과 국적상실의 차이, 신고 절차와 F-4 비자 연결까지 순서대로 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 복수국적 허용 조건 — 국적법이 정한 예외만 가능합니다</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적이탈 vs 국적상실 — 개념부터 갈립니다</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국적상실 후 한국 여권 사용 — 가장 위험한 착각입니다</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국적이탈 신고 — 남성은 기한이 전부입니다</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 국적상실신고 절차와 서류 — F-4 비자로 이어집니다</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. FAQ — 자주 묻는 질문</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 복수국적 허용 조건 — 국적법이 정한 예외만 가능합니다</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적이탈 vs 국적상실 — 개념부터 갈립니다</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국적상실 후 한국 여권 사용 — 가장 위험한 착각입니다</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국적이탈 신고 — 남성은 기한이 전부입니다</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 국적상실신고 절차와 서류 — F-4 비자로 이어집니다</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. FAQ — 자주 묻는 질문</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">복수국적 허용 조건 — 국적법이 정한 예외만 가능합니다</h2>
 
 핵심은 이것입니다.
-대한민국은 복수국적을 "허가"하는 제도가 아니라, 제한된 대상에게 **외국국적불행사 서약**(국적법 제10조 제2항)을 조건으로 예외를 인정하는 구조입니다.
+대한민국은 복수국적을 "허가"하는 제도가 아니라, 제한된 대상에게 **외국국적불행사 서약**을 조건으로 예외를 인정하는 구조입니다.
 서약은 "대한민국 안에서 외국 국적을 행사하지 않겠다"는 약속이며, 외국 국적을 포기하는 것이 아닙니다.
 
 ### 만 65세 이후 입국한 국적회복 동포
@@ -66,13 +66,13 @@ slug: "dual-citizenship-korea-eligibility-renunciation-loss"
 
 ### 국적이탈 — 선천적 복수국적자의 "선택"
 
-국적이탈(국적법 제14조)은 **태어날 때부터 복수국적인 사람이 한국 국적을 스스로 내려놓는 신고**입니다.
+국적이탈은 **태어날 때부터 복수국적인 사람이 한국 국적을 스스로 내려놓는 신고**입니다.
 외국에 주소를 둔 상태에서 재외공관을 통해 신고해야 하며, 신고가 수리되어야 효력이 생깁니다.
 
 ### 국적상실 — 외국 시민권 취득 시 "자동"
 
 국적상실은 신고로 발생하는 것이 아닙니다.
-**자진하여 외국 시민권을 취득하면 그 취득 시점에 한국 국적은 즉시 자동으로 상실됩니다**(국적법 제15조).
+**자진하여 외국 시민권을 취득하면 그 취득 시점에 한국 국적은 즉시 자동으로 상실됩니다**.
 국적상실신고는 가족관계등록부를 정리하는 행정 절차일 뿐이고, 신고 전이라도 이미 상실된 상태입니다.
 
 | 구분 | 국적이탈 | 국적상실 |
@@ -81,7 +81,7 @@ slug: "dual-citizenship-korea-eligibility-renunciation-loss"
 | 발생 시점 | 신고 수리 시 | 외국 국적 취득 즉시 (자동) |
 | 본인 의사 | 선택 행위 | 의사와 무관하게 법률상 자동 발생 |
 | 신고의 성격 | 효력 발생 요건 | 사후 정리 절차 |
-| 근거 조문 | 국적법 제14조 | 국적법 제15조 |
+| 적용 법률 | 국적법 | 국적법 |
 
 <h2 id="section-3">국적상실 후 한국 여권 사용 — 가장 위험한 착각입니다</h2>
 
@@ -141,7 +141,7 @@ slug: "dual-citizenship-korea-eligibility-renunciation-loss"
 **Q1. 미국 시민권을 받았는데 국적상실신고를 안 하면 한국 국적이 유지되나요?**
 
 아닙니다.
-시민권 취득 순간 이미 자동 상실되었고(국적법 제15조), 신고는 등록부 정리 절차일 뿐입니다.
+시민권 취득 순간 이미 자동 상실되었고, 신고는 등록부 정리 절차일 뿐입니다.
 
 **Q2. 만 65세가 넘으면 누구나 복수국적이 되나요?**
 

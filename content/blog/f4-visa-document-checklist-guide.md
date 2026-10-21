@@ -13,22 +13,22 @@ F-4 재외동포 비자 신청 서류는 공통 필수서류와 국가별·상�
 
 F-4 비자 신청에서 가장 먼저 봐야 할 것은 **시민권증서 원본**과 **한국 가족관계서류**입니다. 이 두 가지가 서로 이름·생년월일·부모 정보에서 어긋나면, 다른 서류를 아무리 잘 준비해도 보통은 이 단계에서 걸립니다. 실무에서는 서류 개수가 아니라 '서류 사이의 일치'가 먼저 드러납니다.
 
-두 번째 핵심은 **무범죄경력증명서**와 **국적상실(또는 국적포기) 관련 서류**입니다. 무범죄경력증명서의 유효기간은 발급일로부터 6개월이고, 외국 시민권을 취득한 순간 한국 국적은 국적법 제15조에 의해 자동으로 상실된 상태라는 점을 전제로 서류를 구성해야 합니다. 이 전제를 놓치면 신청서 한 줄, 서류 한 장이 꼬이기 시작합니다.
+두 번째 핵심은 **무범죄경력증명서**와 **국적상실(또는 국적포기) 관련 서류**입니다. 무범죄경력증명서의 유효기간은 발급일로부터 6개월이고, 외국 시민권을 취득한 순간 한국 국적은 국적법에 의해 자동으로 상실된 상태라는 점을 전제로 서류를 구성해야 합니다. 이 전제를 놓치면 신청서 한 줄, 서류 한 장이 꼬이기 시작합니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 신청 전 먼저 확인할 3가지</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 공통 필수서류 체크리스트</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국가별 추가 서류 — 미국·캐나다·호주·뉴질랜드</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 한국에서 발급받아야 하는 가족관계서류</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 무범죄경력증명서·아포스티유 실무 기준</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적상실·국적포기 상황별 서류</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 신청서 작성 시 실제로 막히는 부분</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주하는 실수 TOP 7</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. FAQ</a></li>
-    <li><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 상담 안내</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차
+ <ul style="list-style:none;padding-left:0">
+ <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 신청 전 먼저 확인할 3가지</a></li>
+ <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 공통 필수서류 체크리스트</a></li>
+ <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국가별 추가 서류 — 미국·캐나다·호주·뉴질랜드</a></li>
+ <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 한국에서 발급받아야 하는 가족관계서류</a></li>
+ <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 무범죄경력증명서·아포스티유 실무 기준</a></li>
+ <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적상실·국적포기 상황별 서류</a></li>
+ <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 신청서 작성 시 실제로 막히는 부분</a></li>
+ <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주하는 실수 TOP 7</a></li>
+ <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. FAQ</a></li>
+ <li><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 상담 안내</a></li>
+ </ul>
 </nav>
 
 ## 1. F-4 비자 신청 전 먼저 확인할 3가지
@@ -38,7 +38,7 @@ F-4 비자 신청에서 가장 먼저 봐야 할 것은 **시민권증서 원본
 ### 1-1. 외국 시민권 취득일은 곧 국적상실일
 
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 주의:</strong> 국적법 제15조에 따라 외국 시민권을 취득하면 한국 국적은 즉시 자동 상실됩니다. 국적상실신고는 행정 정리 절차일 뿐이며, 신고 전이라도 이미 상실 상태입니다. 국적상실 이후 한국 여권을 계속 사용하는 것은 여권법상 부정사용에 해당합니다.
+ <strong style="color:#92400e">⚠️ 주의:</strong> 국적법에 따라 외국 시민권을 취득하면 한국 국적은 즉시 자동 상실됩니다. 국적상실신고는 행정 정리 절차일 뿐이며, 신고 전이라도 이미 상실 상태입니다. 국적상실 이후 한국 여권을 계속 사용하는 것은 여권법상 부정사용에 해당합니다.
 </div>
 
 ### 1-2. 가족관계등록부 존재 여부
@@ -54,20 +54,20 @@ F-4 비자 신청에서 가장 먼저 봐야 할 것은 **시민권증서 원본
 국가·상황과 무관하게 대부분의 F-4 신청에서 공통으로 들어가는 서류입니다. 이 목록을 기준으로 빠진 것을 먼저 채우면 전체 일정이 짧아집니다.
 
 <div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ F-4 공통 필수서류 체크리스트</strong>
-  <ul style="margin-top:12px">
-    <li>여권 (유효기간 6개월 이상)</li>
-    <li>여권용 사진 1매 (3.5×4.5cm, 최근 6개월 이내)</li>
-    <li>사증발급신청서 (재외동포 F-4)</li>
-    <li>시민권증서 원본 + 사본</li>
-    <li>무범죄경력증명서 원본 (발급일로부터 6개월 이내) + 아포스티유</li>
-    <li>한국 기본증명서(상세)</li>
-    <li>한국 가족관계증명서(상세)</li>
-    <li>제적등본 (1997년 이전 출생자 또는 부모 제적 확인 필요 시)</li>
-    <li>국적상실신고 접수증 또는 국적상실 기록이 반영된 기본증명서</li>
-    <li>체류지(한국 내 주소) 확인서류</li>
-    <li>수수료</li>
-  </ul>
+ <strong style="color:#166534">✅ F-4 공통 필수서류 체크리스트</strong>
+ <ul style="margin-top:12px">
+ <li>여권 (유효기간 6개월 이상)</li>
+ <li>여권용 사진 1매 (3.5×4.5cm, 최근 6개월 이내)</li>
+ <li>사증발급신청서 (재외동포 F-4)</li>
+ <li>시민권증서 원본 + 사본</li>
+ <li>무범죄경력증명서 원본 (발급일로부터 6개월 이내) + 아포스티유</li>
+ <li>한국 기본증명서(상세)</li>
+ <li>한국 가족관계증명서(상세)</li>
+ <li>제적등본 (1997년 이전 출생자 또는 부모 제적 확인 필요 시)</li>
+ <li>국적상실신고 접수증 또는 국적상실 기록이 반영된 기본증명서</li>
+ <li>체류지(한국 내 주소) 확인서류</li>
+ <li>수수료</li>
+ </ul>
 </div>
 
 ### 2-1. 신청서 항목별 핵심
@@ -83,40 +83,40 @@ F-4 비자 신청에서 가장 먼저 봐야 할 것은 **시민권증서 원본
 같은 F-4라도 국가별로 준비해야 하는 증명서와 아포스티유 처리 방식이 다릅니다. 먼저 본인 국적국이 아포스티유 협약국인지부터 확인해야 합니다.
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
-    <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">국가</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">시민권 증명</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">무범죄증명서</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">인증 방식</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">미국</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Naturalization Certificate 원본</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">FBI Identity History Summary</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">아포스티유 (연방 국무부)</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">캐나다</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Citizenship Certificate 원본</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">RCMP 지문조회(Certified)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">아포스티유(2024년 1월 11일 이전 발급·인증 서류는 접수처 확인)</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">호주</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Australian Citizenship Certificate</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">AFP National Police Check</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">아포스티유 (DFAT)</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">뉴질랜드</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Citizenship Certificate</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Ministry of Justice Criminal Record</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">아포스티유 (DIA)</td>
-    </tr>
-  </tbody>
+ <thead style="background:#f0f7ff">
+ <tr>
+ <th style="border:1px solid #e5e7eb;padding:10px">국가</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">시민권 증명</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">무범죄증명서</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">인증 방식</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">미국</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">Naturalization Certificate 원본</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">FBI Identity History Summary</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">아포스티유 (연방 국무부)</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">캐나다</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">Citizenship Certificate 원본</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">RCMP 지문조회(Certified)</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">아포스티유(2024년 1월 11일 이전 발급·인증 서류는 접수처 확인)</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">호주</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">Australian Citizenship Certificate</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">AFP National Police Check</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">아포스티유 (DFAT)</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">뉴질랜드</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">Citizenship Certificate</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">Ministry of Justice Criminal Record</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">아포스티유 (DIA)</td>
+ </tr>
+ </tbody>
 </table>
 
 ### 3-1. 시민권증서 원본 — 사본만으로는 안 됩니다
@@ -144,44 +144,44 @@ F-4 심사는 '이 사람이 과거에 한국 국민이었거나 한국 국민�
 1997년 이전 출생자, 부모가 이미 제적된 경우, 과거 호주제 시절 기록이 필요한 경우에 사용합니다. 제적등본은 일반 가족관계증명서에 나오지 않는 조부모·형제 정보까지 함께 보여 혈통 연결이 가능하게 합니다.
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
-    <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">서류</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">발급기관</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">형식</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">F-4에서 역할</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">기본증명서(상세)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">시·구청, 대법원 전자가족관계등록시스템</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">상세</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">국적상실·개명 기록 확인</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">가족관계증명서(상세)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">시·구청, 전자가족관계등록시스템</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">상세</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">부모·자녀 관계 증명</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">제적등본</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">시·구청</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">한글</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">조부모 세대까지 혈통 연결</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">혼인관계증명서</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">시·구청</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">상세</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">배우자 동반 신청 시</td>
-    </tr>
-  </tbody>
+ <thead style="background:#f0f7ff">
+ <tr>
+ <th style="border:1px solid #e5e7eb;padding:10px">서류</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">발급기관</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">형식</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">F-4에서 역할</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">기본증명서(상세)</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">시·구청, 대법원 전자가족관계등록시스템</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">상세</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">국적상실·개명 기록 확인</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">가족관계증명서(상세)</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">시·구청, 전자가족관계등록시스템</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">상세</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">부모·자녀 관계 증명</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">제적등본</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">시·구청</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">한글</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">조부모 세대까지 혈통 연결</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">혼인관계증명서</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">시·구청</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">상세</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">배우자 동반 신청 시</td>
+ </tr>
+ </tbody>
 </table>
 
 <div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 실무 팁:</strong> 해외에 거주하는 분이 한국 가족관계서류를 직접 발급받기 어려운 경우, 행정사사무소 이룸에서 기본증명서(상세)·가족관계증명서(상세)·제적등본 발급대행을 진행합니다. 카카오톡 alexkorea 로 시민권증서 사본과 한글 이름·부모 성함을 보내면 바로 확인 가능합니다.
+ <strong style="color:#1e40af">💡 실무 팁:</strong> 해외에 거주하는 분이 한국 가족관계서류를 직접 발급받기 어려운 경우, 행정사사무소 이룸에서 기본증명서(상세)·가족관계증명서(상세)·제적등본 발급대행을 진행합니다. 카카오톡 alexkorea 로 시민권증서 사본과 한글 이름·부모 성함을 보내면 바로 확인 가능합니다.
 </div>
 
 ## 5. 무범죄경력증명서·아포스티유 실무 기준
@@ -201,39 +201,39 @@ F-4 심사는 '이 사람이 과거에 한국 국민이었거나 한국 국민�
 한국어 번역본은 공증 또는 번역자 확인서가 있어야 합니다. 본인이 직접 번역한 경우 번역자 확인서에 성명·연락처·서명이 들어가야 합니다.
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
-    <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">항목</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">기준</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">유효기간</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">발급일로부터 6개월</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">원본 여부</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">원본 필수 (일부 국가는 디지털 원본 허용)</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">아포스티유</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">협약국은 아포스티유, 비협약국은 영사확인</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">번역</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">한국어 번역본 + 번역자 확인서</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">주의</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">이름 표기가 여권과 정확히 일치해야 함</td>
-    </tr>
-  </tbody>
+ <thead style="background:#f0f7ff">
+ <tr>
+ <th style="border:1px solid #e5e7eb;padding:10px">항목</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">기준</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">유효기간</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">발급일로부터 6개월</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">원본 여부</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">원본 필수 (일부 국가는 디지털 원본 허용)</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">아포스티유</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">협약국은 아포스티유, 비협약국은 영사확인</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">번역</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">한국어 번역본 + 번역자 확인서</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">주의</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">이름 표기가 여권과 정확히 일치해야 함</td>
+ </tr>
+ </tbody>
 </table>
 
 <figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/6538576/pexels-photo-6538576.jpegExplore a quaint street in a Seoul neighborhood, showcasing Korean culture and architecture." alt="An adult&#x27;s hand reaches for office file folders, capturing a thoughtful moment. Indoors setting." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
+ <img src="https://images.pexels.com/photos/6538576/pexels-photo-6538576.jpegExplore a quaint street in a Seoul neighborhood, showcasing Korean culture and architecture." alt="An adult&#x27;s hand reaches for office file folders, capturing a thoughtful moment. Indoors setting." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
+ 
 </figure>
 
 ## 6. 국적상실·국적포기 상황별 서류
@@ -258,7 +258,7 @@ F-4 심사는 '이 사람이 과거에 한국 국민이었거나 한국 국민�
 본인이 해외에서 출생해 자동으로 외국 국적을 얻은 뒤 한국 국적을 유지하지 않은 경우에는, 부모의 가족관계등록부를 근거로 혈통을 입증합니다.
 
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 주의:</strong> 국적상실신고 전이라도 외국 시민권 취득 시점부터 한국 국적은 이미 없는 상태입니다. 이 시점 이후 한국 여권을 사용해 출입국하거나 주민등록을 갱신하면 여권법·주민등록법 위반이 될 수 있습니다. F-4 준비와 동시에 국적상실신고 접수를 권장합니다.
+ <strong style="color:#92400e">⚠️ 주의:</strong> 국적상실신고 전이라도 외국 시민권 취득 시점부터 한국 국적은 이미 없는 상태입니다. 이 시점 이후 한국 여권을 사용해 출입국하거나 주민등록을 갱신하면 여권법·주민등록법 위반이 될 수 있습니다. F-4 준비와 동시에 국적상실신고 접수를 권장합니다.
 </div>
 
 ## 7. 신청서 작성 시 실제로 막히는 부분
@@ -278,7 +278,7 @@ F-4 심사는 '이 사람이 과거에 한국 국민이었거나 한국 국민�
 단기 체류 예정이어도 실제 거주 가능한 주소를 적어야 합니다. 호텔 주소로는 거소신고가 어렵습니다.
 
 <div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 실무 팁:</strong> 한국 내 거주지가 없는 분을 위해 행정사사무소 이룸에서는 서울 내 임시주소를 제공합니다 (별도 비용 안내). 거소허가번호 발급 후 출국이 가능하도록 F-4 거소증 신청대행 및 수령·발송까지 함께 처리합니다.
+ <strong style="color:#1e40af">💡 실무 팁:</strong> 한국 내 거주지가 없는 분을 위해 행정사사무소 이룸에서는 서울 내 임시주소를 제공합니다 (별도 비용 안내). 거소허가번호 발급 후 출국이 가능하도록 F-4 거소증 신청대행 및 수령·발송까지 함께 처리합니다.
 </div>
 
 ### 7-4. 체류 목적
@@ -298,17 +298,17 @@ F-4 심사는 '이 사람이 과거에 한국 국민이었거나 한국 국민�
 7. **한국 내 주소 공란** — 거소신고 불가
 
 <div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 제출 직전 최종 점검</strong>
-  <ul style="margin-top:12px">
-    <li>여권 유효기간 6개월 이상인가</li>
-    <li>시민권증서 '원본'이 손에 있는가</li>
-    <li>무범죄증명서 발급일이 6개월 이내인가</li>
-    <li>기본증명서·가족관계증명서는 '상세'인가</li>
-    <li>모든 외국 공문서에 아포스티유가 붙어 있는가</li>
-    <li>영문 이름과 한글 이름의 연결이 명확한가</li>
-    <li>한국 내 체류 주소가 실제 거주 가능한 주소인가</li>
-    <li>국적상실신고 진행 상태를 확인했는가</li>
-  </ul>
+ <strong style="color:#166534">✅ 제출 직전 최종 점검</strong>
+ <ul style="margin-top:12px">
+ <li>여권 유효기간 6개월 이상인가</li>
+ <li>시민권증서 '원본'이 손에 있는가</li>
+ <li>무범죄증명서 발급일이 6개월 이내인가</li>
+ <li>기본증명서·가족관계증명서는 '상세'인가</li>
+ <li>모든 외국 공문서에 아포스티유가 붙어 있는가</li>
+ <li>영문 이름과 한글 이름의 연결이 명확한가</li>
+ <li>한국 내 체류 주소가 실제 거주 가능한 주소인가</li>
+ <li>국적상실신고 진행 상태를 확인했는가</li>
+ </ul>
 </div>
 
 ## 9. FAQ

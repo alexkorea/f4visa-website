@@ -34,7 +34,7 @@ const faqs: FaqItem[] = [
   {
     question: "F-4를 신청하려면 한국 국적을 먼저 포기해야 하나요?",
     answer:
-      "F-4는 외국국적동포, 즉 대한민국 국적을 보유했던 사람이나 그 직계비속으로서 외국 국적을 취득한 사람을 위한 체류자격입니다(재외동포법 제2조제2호). 스스로 외국 국적을 취득했다면 그때 대한민국 국적을 이미 상실했으므로(국적법 제15조제1항) 따로 포기 절차는 없고, 국적상실신고를 해야 합니다(국적법 제16조제1항). 출생으로 복수국적이 된 사람은 한국 국적이 남아 있어 대한민국 법령 적용에서 국민으로만 처우되므로(국적법 제11조의2제1항), 외국 국적을 선택하려면 국적이탈 신고를 거쳐야 합니다(국적법 제14조). 2018년 5월 1일 이후 국적을 이탈·상실한 남성은 병역을 마치거나 면제처분 등을 받지 않았다면 40세가 되는 해 12월 31일까지 F-4가 제한됩니다(재외동포법 제5조제2항제1호).",
+      "F-4는 외국국적동포, 즉 대한민국 국적을 보유했던 사람이나 그 직계비속으로서 외국 국적을 취득한 사람을 위한 체류자격입니다. 스스로 외국 국적을 취득했다면 그때 대한민국 국적을 이미 상실했으므로 따로 포기 절차는 없고, 국적상실신고를 해야 합니다. 출생으로 복수국적이 된 사람은 한국 국적이 남아 있어 대한민국 법령 적용에서 국민으로만 처우되므로, 외국 국적을 선택하려면 국적이탈 신고를 거쳐야 합니다. 2018년 5월 1일 이후 국적을 이탈·상실한 남성은 병역을 마치거나 면제처분 등을 받지 않았다면 40세가 되는 해 12월 31일까지 F-4가 제한됩니다.",
   },
   {
                   question: "서류 유효기간이 있나요?",
@@ -42,7 +42,7 @@ const faqs: FaqItem[] = [
                 },
                 {
                   question: "국적상실신고를 안 하면 어떤 불이익이 있나요?",
-                  answer: "외국 국적을 취득한 때 한국 국적은 이미 상실된 것으로 보지만(국적법 제15조제1항), 국적상실자는 법무부장관에게 신고해야 합니다(같은 법 제16조제1항). 신고하지 않으면 가족관계 기록과 실제 국적이 맞지 않아 국내 행정·금융에서 기록 불일치로 불이익이 생길 수 있고, F-4 비자는 국적상실신고가 완료된 뒤에 신청할 수 있어 F-4 신청도 늦어집니다.",
+                  answer: "외국 국적을 취득한 때 한국 국적은 이미 상실된 것으로 보지만, 국적상실자는 법무부장관에게 신고해야 합니다. 신고하지 않으면 가족관계 기록과 실제 국적이 맞지 않아 국내 행정·금융에서 기록 불일치로 불이익이 생길 수 있고, F-4 비자는 국적상실신고가 완료된 뒤에 신청할 수 있어 F-4 신청도 늦어집니다.",
                 },
                 {
                   question: "국적상실신고와 F-4 비자를 같이 진행할 수 있나요?",
@@ -59,7 +59,7 @@ export default function NationalityLossReportPage() {
     <div className="flex min-h-screen flex-col">
       <ServiceJsonLd
         name="국적상실 신고 대행"
-        description="외국 국적 취득 시 한국 국적 상실 신고 절차, 필수 서류, 국적법 제15조 안내. 행정사사무소 이룸이 국적상실 신고를 대행합니다."
+        description="외국 국적 취득 시 한국 국적 상실 신고 절차, 필수 서류 안내. 행정사사무소 이룸이 국적상실 신고를 대행합니다."
         url={`${SITE.url}/nationality-loss-report`}
       />
       <Header />
@@ -77,7 +77,7 @@ export default function NationalityLossReportPage() {
               국적상실이란?
             </h2>
             <p className="mt-6 text-lg leading-relaxed text-muted-foreground">
-              국적법 제15조에 따라 외국 국적 취득과 동시에 한국 국적은 자동
+              국적법에 따라 외국 국적 취득과 동시에 한국 국적은 자동
               상실됩니다. 즉, 외국국적을 취득한 날 국적상실은 이미 되었지만,
               한국의 가족관계부에 국적상실사실을 신고해야 합니다. 신고는
               가족관계 및 출입국 기록의 정합성 확보를 위한 필수 절차입니다.
@@ -96,33 +96,33 @@ export default function NationalityLossReportPage() {
           </div>
         </section>
 
-        {/* 관련 법령 */}
+        {/* 국적 상실 기준 */}
         <section className="border-t border-border bg-secondary/20 py-8 md:py-12">
           <div className="container-x">
             <h2 className="text-3xl font-bold text-foreground">
-              관련 법령 (국적법 제15조)
+              외국 국적 취득과 국적 상실 기준
             </h2>
             <div className="mt-8 space-y-8">
               <h3 className="text-xl font-semibold text-foreground">
-                제15조 (외국 국적 취득에 따른 국적 상실)
+                외국 국적 취득에 따른 국적 상실
               </h3>
 
               <article className="space-y-6 rounded-xl border border-border bg-background p-6 leading-relaxed text-muted-foreground lg:p-8">
                 <div>
-                  <p className="font-medium text-foreground">제1항</p>
+                  <p className="font-medium text-foreground">스스로 외국 국적을 취득한 경우</p>
                   <p className="mt-2">
                     대한민국의 국민으로서 자진하여 외국 국적을 취득한 자는 그 외국
-                    국적을 취득한 때에 대한민국 국적을 상실한다.
+                    국적을 취득한 때에 대한민국 국적을 상실합니다.
                   </p>
                 </div>
 
                 <div>
-                  <p className="font-medium text-foreground">제2항</p>
+                  <p className="font-medium text-foreground">혼인·입양·인지 등으로 외국 국적을 취득한 경우</p>
                   <p className="mt-2">
                     대한민국의 국민으로서 다음 각 호의 어느 하나에 해당하는 자는 그
                     외국 국적을 취득한 때부터 6개월 내에 법무부장관에게 대한민국
                     국적을 보유할 의사가 있다는 뜻을 신고하지 아니하면 그 외국
-                    국적을 취득한 때로 소급하여 대한민국 국적을 상실한 것으로 본다.
+                    국적을 취득한 때로 소급하여 대한민국 국적을 상실한 것으로 봅니다.
                   </p>
                   <ol className="mt-4 list-inside list-decimal space-y-2 pl-4">
                     <li>
@@ -144,19 +144,19 @@ export default function NationalityLossReportPage() {
                 </div>
 
                 <div>
-                  <p className="font-medium text-foreground">제3항</p>
+                  <p className="font-medium text-foreground">외국 국적 취득일을 알 수 없는 경우</p>
                   <p className="mt-2">
                     외국 국적을 취득함으로써 대한민국 국적을 상실하게 된 자에
                     대하여 그 외국 국적의 취득일을 알 수 없으면 그가 사용하는 외국
-                    여권의 최초 발급일에 그 외국 국적을 취득한 것으로 추정한다.
+                    여권의 최초 발급일에 그 외국 국적을 취득한 것으로 추정합니다.
                   </p>
                 </div>
 
                 <div>
-                  <p className="font-medium text-foreground">제4항</p>
+                  <p className="font-medium text-foreground">신고 절차</p>
                   <p className="mt-2">
-                    제2항에 따른 신고 절차와 그 밖에 필요한 사항은 대통령령으로
-                    정한다.
+                    위 국적 보유 의사 신고의 절차와 그 밖에 필요한 사항은 대통령령으로
+                    정합니다.
                   </p>
                 </div>
               </article>
@@ -261,7 +261,7 @@ export default function NationalityLossReportPage() {
 
         <RelatedBlogLinks
           links={[
-            { slug: "korean-nationality-loss-guide", label: "국적상실 신고 방법 — 외국 국적 취득 후 처리", note: "국적법 제15조·제16조 기준 절차" },
+            { slug: "korean-nationality-loss-guide", label: "국적상실 신고 방법 — 외국 국적 취득 후 처리", note: "외국 국적 취득 후 신고 절차" },
             { slug: "f4-visa-us-citizens", label: "미국 시민권자 F-4 비자 신청 절차", note: "국적상실 정리 후 F-4 신청 흐름" },
             { slug: "dual-nationality-korea-guide", label: "한국 이중국적 허용 기준", note: "복수국적이 가능한 경우와 불가능한 경우" },
           ]}

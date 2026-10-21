@@ -18,16 +18,16 @@ F-4 재외동포 비자 소지자는 외국인이지만 사실상 내국인에 �
 이 글은 토지·아파트·상가 취득 시 신고 절차, 취득세·재산세·양도세 구조, 외환 송금 신고, 실무에서 흔히 막히는 지점까지 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 소지자의 부동산 취득 자격</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 부동산 취득 절차 단계별 정리</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 취득 시 발생하는 세금</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 농지·임야 취득 시 추가 절차</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 보유 단계에서의 세금</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 실무에서 자주 막히는 5가지 지점</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 소지자의 부동산 취득 자격</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 부동산 취득 절차 단계별 정리</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 취득 시 발생하는 세금</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 농지·임야 취득 시 추가 절차</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 보유 단계에서의 세금</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 실무에서 자주 막히는 5가지 지점</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 비자 소지자의 부동산 취득 자격</h2>
@@ -102,7 +102,7 @@ F-4 소지자는 「외국인토지법」이 아닌 「부동산 거래신고 �
 
 비거주자로 판정되면 장기보유특별공제 제한, 1세대 1주택 비과세 배제 등 불이익이 발생할 수 있습니다.
 
-근거는 국세청과 「소득세법」 제1조의2에서 확인할 수 있습니다.
+자세한 내용은 국세청과 「소득세법」에서 확인할 수 있습니다.
 
 > **주의:** F-4 비자 소지자라도 1년 중 한국 체류일이 짧다면 비거주자로 분류되어 세율과 공제가 불리해질 수 있습니다.
 

@@ -39,11 +39,11 @@ export const metadata: Metadata = {
 const faqs: FaqItem[] = [
   {
                   question: "복수국적자의 법적 지위는?",
-                  answer: "국적법 제11조의2 제1항 요건을 충족하는 복수국적자는 대한민국 법령 적용에서 대한민국 국민으로만 처우됩니다. 다만 직무상 제한이 있는 분야는 외국 국적 포기가 요구될 수 있습니다.",
+                  answer: "국적법 요건을 충족하는 복수국적자는 대한민국 법령 적용에서 대한민국 국민으로만 처우됩니다. 다만 직무상 제한이 있는 분야는 외국 국적 포기가 요구될 수 있습니다.",
                 },
                 {
                   question: "외국국적 불행사 서약 위반 시?",
-                  answer: "시행령 제18조의4 제4항의 행위에 해당하면 법무부장관이 6개월 내 국적선택을 명할 수 있습니다.",
+                  answer: "외국국적불행사 서약에 현저히 반하는 행위를 하면 법무부장관이 6개월 내 국적선택을 명할 수 있습니다.",
                 },
 ]
 
@@ -77,15 +77,12 @@ export default function NationalitySelectionDualNationalityPage() {
                 대한민국 국민으로만 처우
               </strong>
               받습니다.
-              <span className="text-sm">
-                (국적법 제11조의2 제1항, 국적법 시행령 제16조 제1항)
-              </span>
             </p>
             <ul className="mt-6 space-y-4">
               {[
                 "대한민국 국적 취득 후 외국국적불행사서약을 한 사람",
                 "대한민국의 국민으로서 외국 국적을 취득한 후 6개월 내 법무부장관에게 대한민국 국적 보유 의사 신고를 한 사람",
-                "국적법 부칙 제2조 제1항에 따라 법무부장관에게 외국국적불행사서약을 하고 대한민국 국적을 재취득한 후 외국국적불행사서약을 한 사람",
+                "국적법 부칙에 따라 법무부장관에게 외국국적불행사서약을 하고 대한민국 국적을 재취득한 후 외국국적불행사서약을 한 사람",
               ].map((item) => (
                 <li key={item} className="flex items-start gap-4">
                   <ShieldCheck className="mt-2 h-5 w-5 shrink-0 text-primary" />
@@ -107,7 +104,6 @@ export default function NationalitySelectionDualNationalityPage() {
                 <strong className="text-foreground">
                   외국 국적을 포기해야 합니다.
                 </strong>
-                <span className="text-sm">(국적법 제11조의2 제2항)</span>
               </p>
               <p className="mt-4 text-sm text-muted-foreground">
                 ※ 외국 국적 포기 및 불행사 서약에 관한 자세한 상담은
@@ -127,10 +123,8 @@ export default function NationalitySelectionDualNationalityPage() {
               <Clock className="mt-2 h-6 w-6 shrink-0 text-primary" />
               <p className="leading-relaxed text-muted-foreground">
                 복수국적자는 법에서 정한 기한 내에 하나의 국적을 선택해야 합니다.
-                <span className="text-sm">(국적법 제12조 제1항)</span>
                 <br />
                 병역준비역에 해당하는 경우에는 추가 기한 규정이 적용됩니다.
-                <span className="text-sm">(국적법 제12조 제2, 3항)</span>
               </p>
             </div>
           </div>
@@ -157,9 +151,6 @@ export default function NationalitySelectionDualNationalityPage() {
                   법무부장관은{" "}
                   <strong className="text-foreground">1년 내</strong> 하나의
                   국적을 선택할 것을 명해야 합니다.
-                  <span className="text-sm">
-                    (국적법 제14조의3 제1항)
-                  </span>
                 </p>
               </div>
 
@@ -176,9 +167,6 @@ export default function NationalitySelectionDualNationalityPage() {
                   현저히 반하는 행위를 한 경우,{" "}
                   <strong className="text-foreground">6개월 내</strong> 하나의
                   국적을 선택할 것을 명할 수 있습니다.
-                  <span className="text-sm">
-                    (국적법 제14조의3 제2항)
-                  </span>
                 </p>
               </div>
             </div>
@@ -191,9 +179,6 @@ export default function NationalitySelectionDualNationalityPage() {
             <h2 className="text-3xl font-bold text-foreground">
               &ldquo;현저히 반하는 행위&rdquo; 예시
             </h2>
-            <p className="mt-2 text-sm text-muted-foreground">
-              국적법 시행령 제18조의4 제4항
-            </p>
             <div className="mt-8 space-y-4">
               {[
                 "반복하여 외국 여권으로 대한민국에 출국/입국하는 경우",
@@ -226,10 +211,6 @@ export default function NationalitySelectionDualNationalityPage() {
                     국적선택명령서는 본인에게 직접 교부하거나 등기우편으로
                     송부합니다. 어려울 경우 가족이나 사실상 부양자에게
                     교부/송부할 수 있습니다.
-                    <span className="text-xs">
-                      (국적법 시행령 제18조의4 제1항, 국적법 시행규칙
-                      제12조의3)
-                    </span>
                   </p>
                 </div>
                 <div className="rounded-xl border border-border bg-background p-6">
@@ -237,9 +218,6 @@ export default function NationalitySelectionDualNationalityPage() {
                   <p className="mt-2 text-sm leading-relaxed text-muted-foreground">
                     소재불명 등으로 교부/송부가 어려운 경우 관보에 공고하며,
                     공고일부터 14일이 지난 때에 그 효력이 발생합니다.
-                    <span className="text-xs">
-                      (국적법 시행령 제18조의4 제2항)
-                    </span>
                   </p>
                 </div>
               </div>
@@ -253,7 +231,6 @@ export default function NationalitySelectionDualNationalityPage() {
               <p className="mt-2 leading-relaxed text-muted-foreground">
                 국적선택의 명령을 받고도 따르지 않은 사람은, 그 기간이 지난 때에
                 대한민국 국적을 상실합니다.
-                <span className="text-sm">(국적법 제14조의3 제4항)</span>
               </p>
             </div>
           </div>

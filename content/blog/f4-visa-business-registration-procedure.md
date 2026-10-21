@@ -16,20 +16,20 @@ F-4 재외동포 비자 소지자는 단순노무 업종을 제외한 거의 모
 이 글은 F-4 사업자등록의 가능 범위, 금지 업종, 실제 등록 절차, 자주 발생하는 실무 이슈를 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자로 사업자등록이 가능한 이유</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 사업자등록이 금지되는 업종</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 사업자등록 신청 절차</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 법인 설립 vs 개인사업자 선택</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 사업자등록 후 자주 발생하는 실무 이슈</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. F-4 사업자등록 준비 체크리스트</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자로 사업자등록이 가능한 이유</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 사업자등록이 금지되는 업종</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 사업자등록 신청 절차</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 법인 설립 vs 개인사업자 선택</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 사업자등록 후 자주 발생하는 실무 이슈</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. F-4 사업자등록 준비 체크리스트</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 비자로 사업자등록이 가능한 이유</h2>
@@ -40,7 +40,7 @@ F-4 자격은 다른 외국인 비자와 달리 취업 활동의 폭이 매우 �
 
 ### F-4 비자의 취업 활동 범위
 
-F-4는 출입국관리법 시행령 별표 1의2에 따라 단순노무를 제외한 일반 취업 활동이 폭넓게 허용됩니다.
+F-4는 출입국관리법 시행령에 따라 단순노무를 제외한 일반 취업 활동이 폭넓게 허용됩니다.
 
 여기에는 개인사업자로서의 영업 행위, 법인 설립, 임원 등재가 모두 포함됩니다.
 
@@ -194,7 +194,7 @@ F-4 갱신 시 사업 활동 내역이 함께 검토되는 경우가 있습니�
 
 특히 단순노무 업종으로 사실상 운영되고 있다면 갱신이 보류될 수 있습니다.
 
-> **주의:** 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다(국적법 제15조). 국적상실신고는 행정 정리 절차일 뿐, 신고 전이라도 이미 상실 상태이며, 한국 여권 사용은 여권법 위반(부정사용)에 해당합니다.
+> **주의:** 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다. 국적상실신고는 행정 정리 절차일 뿐, 신고 전이라도 이미 상실 상태이며, 한국 여권 사용은 여권법 위반(부정사용)에 해당합니다.
 
 <h2 id="section-7">F-4 사업자등록 준비 체크리스트</h2>
 

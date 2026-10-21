@@ -16,14 +16,14 @@ slug: "overseas-korean-property-acquisition-procedure-tax-guide"
 이 글은 취득 전 준비, 신고 절차, 세금 종류, 자금 송금, 실무에서 자주 막히는 지점까지 한 번에 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 재외동포 부동산 취득의 법적 지위부터 정리</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 취득 전 반드시 준비해야 할 서류</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 부동산 매매 계약과 외국환 신고</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 외국인 부동산 취득 신고와 등기</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 부동산 취득 시 발생하는 세금</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 재외동포 부동산 취득의 법적 지위부터 정리</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 취득 전 반드시 준비해야 할 서류</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 부동산 매매 계약과 외국환 신고</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 외국인 부동산 취득 신고와 등기</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 부동산 취득 시 발생하는 세금</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">재외동포 부동산 취득의 법적 지위부터 정리</h2>
@@ -35,7 +35,7 @@ slug: "overseas-korean-property-acquisition-procedure-tax-guide"
 ### 외국 국적 동포와 재외국민의 차이
 
 외국 국적 동포는 한국 국적을 상실하고 외국 시민권을 취득한 분들입니다.
-국적법 제15조에 따라 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다.
+국적법에 따라 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다.
 국적상실신고는 행정 정리 절차일 뿐, 신고 전이라도 이미 상실 상태입니다.
 
 재외국민은 한국 국적을 유지한 채 해외에 영주하거나 장기 체류하는 분들입니다.

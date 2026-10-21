@@ -12,21 +12,21 @@ slug: "f4-visa-required-documents-checklist"
 F-4 비자 신청에서 가장 먼저 준비해야 할 서류는 시민권증서 원본, 무범죄조회서(아포스티유), 한국 가족관계증명서(상세), 기본증명서(상세), 제적등본입니다. 신청 대상은 외국 국적을 취득한 재외동포(부 또는 모, 조부 또는 조모가 대한민국 국적을 보유했던 자)이며, 만 25세 이상 남성은 병역 관련 추가 서류가 붙습니다. 아래에서 서류별 발급 경로, 유효기간, 실무에서 자주 꼬이는 지점을 항목별로 정리합니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 필수서류 — 신분 증명 핵심</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 비자 필수서류 — 한국 가족관계 증빙</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 비자 필수서류 — 무범죄조회서(범죄경력증명서)</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. F-4 비자 필수서류 — 병역 관련 서류(만 25세 이상 남성)</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 비자 필수서류 — 신청서·체류 관련</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. F-4 비자 신청 절차표 — 발급 순서가 핵심</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 실무에서 가장 많이 놓치는 부분</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 자주 묻는 질문(FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">10. 무료 상담 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-12" style="color:#2563eb;text-decoration:none">11. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-13" style="color:#2563eb;text-decoration:none">12. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 필수서류 — 신분 증명 핵심</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 비자 필수서류 — 한국 가족관계 증빙</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 비자 필수서류 — 무범죄조회서(범죄경력증명서)</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. F-4 비자 필수서류 — 병역 관련 서류(만 25세 이상 남성)</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 비자 필수서류 — 신청서·체류 관련</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. F-4 비자 신청 절차표 — 발급 순서가 핵심</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 실무에서 가장 많이 놓치는 부분</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 자주 묻는 질문(FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">10. 무료 상담 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-12" style="color:#2563eb;text-decoration:none">11. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-13" style="color:#2563eb;text-decoration:none">12. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 비자 필수서류 — 신분 증명 핵심</h2>
@@ -35,7 +35,7 @@ F-4 비자 신청에서 가장 먼저 준비해야 할 서류는 시민권증서
 
 F-4 신청 시 가장 먼저 봐야 할 것은 **시민권증서 원본**입니다. 사본이나 스캔본은 접수 단계에서 반려됩니다. 미국 Naturalization Certificate, 캐나다 Citizenship Certificate 등 본인의 외국 시민권을 증명하는 원본 문서가 필요하며, 분실한 경우 해당국 이민국에 재발급 신청을 먼저 거쳐야 합니다.
 
-> **주의:** 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다(국적법 제15조). 국적상실신고는 행정 정리 절차일 뿐, 신고 전이라도 이미 상실 상태입니다. 국적상실 후 한국 여권 사용은 여권법 위반(부정사용)에 해당합니다.
+> **주의:** 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다. 국적상실신고는 행정 정리 절차일 뿐, 신고 전이라도 이미 상실 상태입니다. 국적상실 후 한국 여권 사용은 여권법 위반(부정사용)에 해당합니다.
 
 ### 외국 여권과 사진 규격
 
@@ -93,8 +93,8 @@ F-4 신청 시 가장 먼저 봐야 할 것은 **시민권증서 원본**입니�
 > 정확한 비용과 절차는 사례별로 다르므로 상담을 통해 확인하세요.
 
 <figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/6567860/pexels-photo-6567860.jpegA close-up shot of Filipino passports at the airport, indicating travel and identity." alt="Close-up of a businesswoman holding and reviewing documents in an office setting." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
+ <img src="https://images.pexels.com/photos/6567860/pexels-photo-6567860.jpegA close-up shot of Filipino passports at the airport, indicating travel and identity." alt="Close-up of a businesswoman holding and reviewing documents in an office setting." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
+ 
 </figure>
 
 <h2 id="section-6">F-4 비자 신청 절차표 — 발급 순서가 핵심</h2>

@@ -14,19 +14,19 @@ F-4에서 F-5 영주권으로 전환할 때 가장 먼저 봐야 할 것은 소�
 이 글은 F-5 전환 시 소득요건이 어떤 방식으로 적용되는지, 어떤 서류가 실제 심사에서 무게 있게 다뤄지는지, 그리고 흔히 막히는 지점이 어디인지 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4에서 F-5로 가는 길, 소득이 차지하는 비중</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 소득 입증 서류, 무엇이 핵심인가</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 활동범위와 소득의 연결 고리</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 거주 기간과 품행 요건, 소득과 함께 보는 축</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 자주 막히는 지점과 보완 전략</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 신청 시점과 서류 유효기간 관리</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4에서 F-5로 가는 길, 소득이 차지하는 비중</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 소득 입증 서류, 무엇이 핵심인가</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 활동범위와 소득의 연결 고리</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 거주 기간과 품행 요건, 소득과 함께 보는 축</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 자주 막히는 지점과 보완 전략</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 신청 시점과 서류 유효기간 관리</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4에서 F-5로 가는 길, 소득이 차지하는 비중</h2>
@@ -167,7 +167,7 @@ F-4 소득 흐름이 본인 사례에서 F-5 기준에 맞물리는지, 정확�
 ### 시민권자·국적상실자의 추가 서류
 
 외국 시민권 취득자는 시민권증서 원본이 필요하며, 국적상실 신고가 정리되어 있어야 합니다.
-국적법 제15조에 따라 외국 시민권 취득 시 한국 국적은 즉시 자동 상실되므로, 국적상실신고 전이라도 이미 상실 상태입니다.
+국적법에 따라 외국 시민권 취득 시 한국 국적은 즉시 자동 상실되므로, 국적상실신고 전이라도 이미 상실 상태입니다.
 이 상태에서 한국 여권을 사용하면 여권법 위반(부정사용)에 해당하므로 먼저 정리해야 합니다.
 
 <h2 id="section-7">행정사사무소 이룸 F-4 서비스 안내</h2>

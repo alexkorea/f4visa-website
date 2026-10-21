@@ -16,19 +16,19 @@ F-4 거소증을 가진 재외동포가 1년 넘게 한국을 떠날 계획이�
 본문에서는 출국 기간별 대응, 재입국허가 신청 절차, 거소증 실효 시 복구 방법, 그리고 실무에서 가장 많이 막히는 지점까지 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 출국 기간별 적용 규정</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 재입국허가 신청 절차</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 거소증 실효 시 복구 절차</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 출국 전 반드시 확인할 체크리스트</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 장기 출국 중 발생하는 실무 이슈</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 재입국 후 신고 의무</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 출국 기간별 적용 규정</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 재입국허가 신청 절차</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 거소증 실효 시 복구 절차</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 출국 전 반드시 확인할 체크리스트</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 장기 출국 중 발생하는 실무 이슈</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 재입국 후 신고 의무</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 출국 기간별 적용 규정</h2>
@@ -41,7 +41,7 @@ F-4는 다른 비자와 달리 **1년 이내 출국**이면 별도 재입국허�
 
 ### 1년 이내 출국 — 재입국허가 면제
 
-F-4 소지자는 「출입국관리법」 제30조 및 시행규칙에 따라 출국일로부터 1년 이내 재입국 시 별도 허가 없이 입국이 가능합니다.
+F-4 소지자는 「출입국관리법」 및 시행규칙에 따라 출국일로부터 1년 이내 재입국 시 별도 허가 없이 입국이 가능합니다.
 
 거소증과 유효한 여권만 있으면 자동출입국심사대 이용도 가능합니다.
 
@@ -176,7 +176,7 @@ F-5 전환은 한국 내 실거주 실적이 핵심 요건 중 하나입니다.
 
 ### 주소 변경 신고
 
-귀국 후 거주지가 바뀌었다면 14일 이내 관할 출입국·외국인청 또는 행정복지센터에 변경 신고를 해야 합니다(재외동포법 제6조②).
+귀국 후 거주지가 바뀌었다면 14일 이내 관할 출입국·외국인청 또는 행정복지센터에 변경 신고를 해야 합니다.
 
 미신고 시 과태료 대상입니다.
 

@@ -3,7 +3,7 @@ title: "F-4 거소증 주소 변경 신고 방법 — 기한·서류·절차 총
 visa: F-4
 date: "2026-05-15"
 category: "거소증"
-excerpt: "F-4 거소증 소지자는 주소 변경일로부터 14일 이내에 출입국사무소에 체류지 변경신고를 해야 합니다(재외동포법 제6조②). 기한을 넘기면 과태료와 체류 심사 불이익이 생길 수 있어 기한·서류·절차를 정리했습니다."
+excerpt: "F-4 거소증 소지자는 주소 변경일로부터 14일 이내에 출입국사무소에 체류지 변경신고를 해야 합니다. 기한을 넘기면 과태료와 체류 심사 불이익이 생길 수 있어 기한·서류·절차를 정리했습니다."
 image: "/og/f4-address-change-notification.png"
 slug: "f4-address-change-notification"
 ---
@@ -16,23 +16,23 @@ F-4 재외동포 비자로 국내거소신고증(거소증)을 발급받은 분�
 ---
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 주소 변경 신고, 왜 반드시 해야 하나</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 준비해야 할 서류</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 신고 방법 3가지</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 신청 절차 흐름</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 기한 초과 시 실제로 생기는 문제</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 지금 바로 문의하세요</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 주소 변경 신고, 왜 반드시 해야 하나</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 준비해야 할 서류</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 신고 방법 3가지</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 신청 절차 흐름</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 기한 초과 시 실제로 생기는 문제</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 지금 바로 문의하세요</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">주소 변경 신고, 왜 반드시 해야 하나</h2>
 
-재외동포법 제6조②에 따라, 국내거소신고를 마친 외국국적동포는 체류지를 변경한 날로부터 **14일 이내**에 관할 출입국사무소에 신고해야 합니다.
+재외동포법에 따라, 국내거소신고를 마친 외국국적동포는 체류지를 변경한 날로부터 **14일 이내**에 관할 출입국사무소에 신고해야 합니다.
 거소증 카드 자체에는 주소가 인쇄되지 않지만, 시스템상 등록된 주소와 실거주지가 다를 경우 행정 처리에서 문제가 생기기 시작합니다.
 
 은행 계좌 개설, 건강보험 적용, 각종 공공 민원 처리에서 등록 주소와 실거주지가 불일치하면 서류 반려 또는 처리 지연이 발생합니다.
@@ -52,7 +52,7 @@ F-4 재외동포 비자로 국내거소신고증(거소증)을 발급받은 분�
 임대차계약 시작일이나 전입신고일이 아니라, 실제 거주를 시작한 날이 기준입니다.
 단기 이동(호텔, 에어비앤비 등)도 일정 기간 이상이면 신고 대상이 될 수 있으므로, 애매한 경우에는 사전에 확인하는 것이 좋습니다.
 
-> **주의:** 14일 기한을 초과하면 재외동포법 제17조①에 따라 200만원 이하의 과태료가 부과됩니다(2026년 10월 기준).
+> **주의:** 14일 기한을 초과하면 재외동포법에 따라 200만원 이하의 과태료가 부과됩니다.
 > 신고를 미루다가 거소증 연장 또는 F-5 전환 신청 시점에서 불이익으로 이어지는 사례가 실무에서 반복됩니다.
 
 ---
@@ -150,7 +150,7 @@ Hi Korea에서 공인인증서 또는 간편인증으로 로그인 후 체류지
 많이 놓치는 부분은 바로 이 지점입니다.
 "나중에 해도 되겠지"라고 미뤘다가, 거소증 연장이나 F-5 전환 신청 시점에서 문제가 드러나는 경우가 실무에서 반복됩니다.
 
-재외동포법 제17조①에 따라 200만원 이하의 과태료가 부과될 수 있으며(2026년 10월 기준), 구체적인 금액은 초과 기간과 사정에 따라 달라집니다.
+재외동포법에 따라 200만원 이하의 과태료가 부과될 수 있으며, 구체적인 금액은 초과 기간과 사정에 따라 달라집니다.
 과태료 외에도, 신고 기록이 불량으로 남으면 체류 연장 또는 비자 전환 심사에서 불리하게 작용할 가능성이 있습니다.
 
 > **실무 팁:** 이미 14일이 지났다면, 더 미루지 말고 빠르게 신고하는 것이 불이익을 최소화하는 방법입니다.

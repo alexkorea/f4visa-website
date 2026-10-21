@@ -16,19 +16,19 @@ F-4 거소증 발급 기간은 일률적으로 정해져 있지 않고, 관할 �
 여기서는 서울·인천·수원·대전·부산 등 주요 관할별 실제 처리 속도, 신청 단계에서 지연이 발생하는 지점, 한국 체류기간을 줄이는 실무 동선까지 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 거소증 발급 기간이 사무소마다 다른 이유</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 주요 출입국사무소별 처리 기간 비교</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 거소증 신청 단계에서 지연이 발생하는 지점</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 한국 체류기간을 줄이는 실무 동선</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 거소증 발급 시 준비 서류 체크리스트</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 출입국사무소 선택 — 무엇을 먼저 봐야 하나</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 거소증 발급 기간이 사무소마다 다른 이유</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 주요 출입국사무소별 처리 기간 비교</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 거소증 신청 단계에서 지연이 발생하는 지점</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 한국 체류기간을 줄이는 실무 동선</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 거소증 발급 시 준비 서류 체크리스트</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 출입국사무소 선택 — 무엇을 먼저 봐야 하나</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 거소증 발급 기간이 사무소마다 다른 이유</h2>
@@ -120,7 +120,7 @@ F-4 비자 신청 시 시민권증서 원본은 반드시 제출해야 합니다
 
 ### 국적상실신고 미완료
 
-외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다(국적법 제15조).
+외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다.
 
 국적상실신고는 행정 정리 절차일 뿐, 신고 전이라도 이미 상실 상태입니다.
 

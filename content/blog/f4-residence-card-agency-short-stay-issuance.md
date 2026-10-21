@@ -14,19 +14,19 @@ slug: "f4-residence-card-agency-short-stay-issuance"
 아래에서 최소 체류 발급의 구조, 출입국사무소 선택, 준비 서류, 입국부터 출국까지의 실제 절차, 발급 후 카드 수령·발송까지 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 거소증 대행이 필요한 이유 — 체류 일정이 먼저 걸립니다</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 출입국사무소 선택 — 여기서 차이가 납니다</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 신청 전 준비 서류 — 서류보다 더 중요한 것은 유효기간 관리</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 입국부터 출국까지 — 최소 체류 절차의 실제 흐름</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 거소허가번호 발급 후 — 수령대행과 해외 발송</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 꼬이는 지점 — 실무에서 반복되는 세 가지</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 무료 상담 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 거소증 대행이 필요한 이유 — 체류 일정이 먼저 걸립니다</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 출입국사무소 선택 — 여기서 차이가 납니다</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 신청 전 준비 서류 — 서류보다 더 중요한 것은 유효기간 관리</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 입국부터 출국까지 — 최소 체류 절차의 실제 흐름</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 거소허가번호 발급 후 — 수령대행과 해외 발송</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 꼬이는 지점 — 실무에서 반복되는 세 가지</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 무료 상담 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 거소증 대행이 필요한 이유 — 체류 일정이 먼저 걸립니다</h2>
@@ -78,7 +78,7 @@ slug: "f4-residence-card-agency-short-stay-issuance"
 
 ### 많이 놓치는 부분 — 국적 정리 상태
 
-외국 시민권을 취득하면 국적법 제15조에 따라 **한국 국적은 그 즉시 자동으로 상실**됩니다.
+외국 시민권을 취득하면 국적법에 따라 **한국 국적은 그 즉시 자동으로 상실**됩니다.
 국적상실신고는 행정 정리 절차일 뿐이고, 신고 전이라도 이미 상실된 상태입니다.
 이 상태에서 한국 여권을 사용하면 여권법 위반(부정사용)에 해당하므로, 시민권 취득 후에는 반드시 외국 여권으로만 출입국해야 합니다.
 국적상실신고가 정리되지 않은 채 가족관계등록부에 한국 국적자로 남아 있으면, 보통은 이 단계에서 절차가 꼬입니다.

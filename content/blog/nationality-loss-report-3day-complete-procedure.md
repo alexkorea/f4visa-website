@@ -16,20 +16,20 @@ slug: "nationality-loss-report-3day-complete-procedure"
 이 글은 국적상실 신고가 왜 자동 상실 이후의 정리 절차인지, 어떤 서류가 어떤 순서로 들어가는지, 그리고 F-4 비자 전환까지 이어지는 실제 흐름을 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 국적상실은 신고가 아니라 자동 상실입니다</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적상실 신고 대상자와 신고 의무자</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국적상실 신고 필요서류</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 신고 채널 — 재외공관 vs 국내 가족관계등록관서</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 3일 일정으로 끝내는 실제 진행 흐름</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적상실 신고 후 이어지는 절차</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 막히는 실무 포인트</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 자주 묻는 질문</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 국적상실은 신고가 아니라 자동 상실입니다</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적상실 신고 대상자와 신고 의무자</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국적상실 신고 필요서류</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 신고 채널 — 재외공관 vs 국내 가족관계등록관서</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 3일 일정으로 끝내는 실제 진행 흐름</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적상실 신고 후 이어지는 절차</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 막히는 실무 포인트</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 자주 묻는 질문</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">국적상실은 신고가 아니라 자동 상실입니다</h2>
@@ -38,9 +38,9 @@ slug: "nationality-loss-report-3day-complete-procedure"
 
 실제로는 정반대입니다.
 
-### 국적법 제15조의 의미
+### 국적 자동 상실 규정의 의미
 
-국적법 제15조에 따르면 대한민국 국민이 자진하여 외국 국적을 취득한 때에는 그 외국 국적을 취득한 때에 대한민국 국적을 상실합니다.
+국적법에 따르면 대한민국 국민이 자진하여 외국 국적을 취득한 때에는 그 외국 국적을 취득한 때에 대한민국 국적을 상실합니다.
 
 즉 미국 시민권 선서를 한 날, 캐나다 시민권증서를 받은 날 그 순간 한국 국적은 이미 끝난 상태입니다.
 

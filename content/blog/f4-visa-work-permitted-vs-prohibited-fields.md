@@ -16,18 +16,18 @@ F-4 비자는 원칙적으로 대부분의 업종에서 자유롭게 취업하�
 이 글은 실제 심사에서 문제가 되는 취업 가능 업종과 제한 업종의 경계, 그리고 본인 직무가 어디에 속하는지 판단하는 기준을 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 취업 가능 업종의 기본 원칙</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 비자 제한 업종 — 단순노무행위</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 비자 사행·유흥 등 풍속 관련 제한 업종</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. F-4 비자 자영업·사업자등록 시 확인할 점</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 비자 취업 제한 위반 시 불이익</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 취업 가능 업종의 기본 원칙</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 비자 제한 업종 — 단순노무행위</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 비자 사행·유흥 등 풍속 관련 제한 업종</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. F-4 비자 자영업·사업자등록 시 확인할 점</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 비자 취업 제한 위반 시 불이익</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 비자 취업 가능 업종의 기본 원칙</h2>
@@ -38,7 +38,7 @@ F-4 비자는 원칙적으로 대부분의 업종에서 자유롭게 취업하�
 
 ### 자유롭게 열려 있는 활동
 
-재외동포법 제10조에 따라 F-4 소지자의 취업과 경제활동은 사회질서나 경제안정을 해치지 않는 범위에서 자유롭게 허용됩니다.
+재외동포법에 따라 F-4 소지자의 취업과 경제활동은 사회질서나 경제안정을 해치지 않는 범위에서 자유롭게 허용됩니다.
 
 - 사무직, 관리직, 경영직
 - 의사·법조인·회계사 등 전문 자격 기반 직종(별도 국내 자격 취득 전제)
@@ -67,7 +67,7 @@ F-4의 가장 대표적인 제한은 '단순노무행위'입니다.
 
 ### 단순노무행위란 무엇인가
 
-재외동포법 시행령 제23조는 단순노무행위, 사행행위, 그 밖에 선량한 풍속이나 사회질서에 반하는 행위를 F-4 활동 범위에서 제외합니다.
+재외동포법 시행령은 단순노무행위, 사행행위, 그 밖에 선량한 풍속이나 사회질서에 반하는 행위를 F-4 활동 범위에서 제외합니다.
 
 단순노무의 세부 직종은 법무부 고시로 정해져 있습니다.
 
@@ -162,7 +162,7 @@ F-4는 복수 근무처나 겸업도 가능성이 있지만, 각 활동이 모�
 
 F-4 신청 자체와도 연결되는 부분이 있습니다.
 
-외국 시민권을 취득하면 한국 국적은 국적법 제15조에 따라 즉시 자동으로 상실됩니다.
+외국 시민권을 취득하면 한국 국적은 국적법에 따라 즉시 자동으로 상실됩니다.
 
 국적상실신고는 행정 정리 절차일 뿐, 신고 전이라도 이미 상실 상태입니다.
 

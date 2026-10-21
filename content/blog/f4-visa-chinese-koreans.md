@@ -14,18 +14,18 @@ slug: "f4-visa-chinese-koreans"
 중국동포는 H-2(방문취업)에서 F-4로 전환하는 경우가 가장 흔합니다. 문제는 여기서 시작됩니다. H-2 때 하던 일이 F-4 단순노무 제한 직종에 해당하면 F-4로 바꾼 뒤 같은 일을 계속할 수 없습니다. 비자 등급은 올라가지만 일이 끊기는 구조가 생깁니다. 이 글은 중국동포가 실제로 F-4를 받을 때 자격이 어떻게 열리는지, 어디서 막히는지, 단순노무 제한을 어떻게 우회하는지 실무 기준으로 정리했습니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자와 중국동포의 관계</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 중국동포의 혈통 증명 — 가장 먼저 막히는 관문</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 자격 요건 — 연령·학력·경력·자산 중 하나</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. F-4 단순노무 취업제한 — 실제로 가장 문제되는 부분</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. H-2에서 F-4로 전환 — 실무 절차와 서류</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 범죄경력·결격사유 — 여기서 걸리면 바로 끝</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 하는 실수</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 상담 안내</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차
+ <ul style="list-style:none;padding-left:0">
+ <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자와 중국동포의 관계</a></li>
+ <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 중국동포의 혈통 증명 — 가장 먼저 막히는 관문</a></li>
+ <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 자격 요건 — 연령·학력·경력·자산 중 하나</a></li>
+ <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. F-4 단순노무 취업제한 — 실제로 가장 문제되는 부분</a></li>
+ <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. H-2에서 F-4로 전환 — 실무 절차와 서류</a></li>
+ <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 범죄경력·결격사유 — 여기서 걸리면 바로 끝</a></li>
+ <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 하는 실수</a></li>
+ <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
+ <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 상담 안내</a></li>
+ </ul>
 </nav>
 
 ## <span id="section-1"></span>1. F-4 비자와 중국동포의 관계
@@ -47,7 +47,7 @@ F-4는 재외동포(Overseas Korean) 체류자격입니다. 외국 국적을 가
 2. **해외에서 바로 F-4 발급**: 중국에서 연령 요건(만 60세 이상) 또는 학력 요건(전문대 이상 졸업)을 채운 상태로 재외공관에서 사증 받는 방식.
 
 <div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 실무 팁:</strong> 중국동포는 국적이 여전히 중국이라는 점이 미국·캐나다 동포와 결정적으로 다릅니다. 한국 국적을 가졌다가 포기한 경우가 아니라 대부분 처음부터 중국 국적자이기 때문에 국적상실신고 이슈는 거의 없고, 오히려 <strong>혈통 증명</strong>이 실무의 첫 관문이 됩니다.
+ <strong style="color:#1e40af">💡 실무 팁:</strong> 중국동포는 국적이 여전히 중국이라는 점이 미국·캐나다 동포와 결정적으로 다릅니다. 한국 국적을 가졌다가 포기한 경우가 아니라 대부분 처음부터 중국 국적자이기 때문에 국적상실신고 이슈는 거의 없고, 오히려 <strong>혈통 증명</strong>이 실무의 첫 관문이 됩니다.
 </div>
 
 ## <span id="section-2"></span>2. 중국동포의 혈통 증명 — 가장 먼저 막히는 관문
@@ -66,52 +66,52 @@ F-4는 "한국계 혈통 외국인"에게 주어지는 비자라서 혈통 증�
 - 한국어 번역 공증 필수
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
-    <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">구분</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">서류</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">발급처</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">실무 포인트</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">한국 서류</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">제적등본</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">본적지 시·군·구청</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">본적 주소를 정확히 모르면 추적이 오래 걸림</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">한국 서류</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">가족관계증명서(상세)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">전국 시·군·구청</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">일반증명서는 혈통 연결이 안 보여 사용 불가</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">한국 서류</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">기본증명서(상세)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">전국 시·군·구청</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">상세 반드시 요청</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">중국 서류</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">출생공증</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">호적지 공증처</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">부·모 인적사항이 한국 서류와 일치해야 함</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">중국 서류</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">친족관계공증</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">호적지 공증처</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">조부 대까지 한국인 혈통 연결 입증</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">중국 서류</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">호구부</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">거주지 파출소</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">민족란에 "조선족" 기재 확인</td>
-    </tr>
-  </tbody>
+ <thead style="background:#f0f7ff">
+ <tr>
+ <th style="border:1px solid #e5e7eb;padding:10px">구분</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">서류</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">발급처</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">실무 포인트</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">한국 서류</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">제적등본</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">본적지 시·군·구청</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">본적 주소를 정확히 모르면 추적이 오래 걸림</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">한국 서류</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">가족관계증명서(상세)</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">전국 시·군·구청</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">일반증명서는 혈통 연결이 안 보여 사용 불가</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">한국 서류</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">기본증명서(상세)</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">전국 시·군·구청</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">상세 반드시 요청</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">중국 서류</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">출생공증</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">호적지 공증처</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">부·모 인적사항이 한국 서류와 일치해야 함</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">중국 서류</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">친족관계공증</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">호적지 공증처</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">조부 대까지 한국인 혈통 연결 입증</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">중국 서류</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">호구부</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">거주지 파출소</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">민족란에 "조선족" 기재 확인</td>
+ </tr>
+ </tbody>
 </table>
 
 ### 실무에서 자주 걸리는 지점
@@ -119,7 +119,7 @@ F-4는 "한국계 혈통 외국인"에게 주어지는 비자라서 혈통 증�
 많이 놓치는 부분은 한국 서류의 한자 이름과 중국 공증서의 한자가 다를 때입니다. 특히 1950~70년대 출생자의 경우 한국 제적상 이름과 중국 호구상 이름이 한 글자 다른 경우가 흔합니다. 이 설명이 부족하면 바로 꼬입니다. 같은 사람임을 증명하는 추가 소명서와 친족 진술서가 필요합니다.
 
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 주의:</strong> 중국 측에서 발급받은 공증서류는 발급일로부터 6개월 이내 사용해야 합니다. 특히 무범죄조회서 유효기간은 <strong>발급일로부터 6개월</strong>입니다. 기한 지나면 다시 받아야 하므로 한국 서류 준비와 시기를 맞춰야 합니다.
+ <strong style="color:#92400e">⚠️ 주의:</strong> 중국 측에서 발급받은 공증서류는 발급일로부터 6개월 이내 사용해야 합니다. 특히 무범죄조회서 유효기간은 <strong>발급일로부터 6개월</strong>입니다. 기한 지나면 다시 받아야 하므로 한국 서류 준비와 시기를 맞춰야 합니다.
 </div>
 
 ## <span id="section-3"></span>3. 자격 요건 — 연령·학력·경력·자산 중 하나
@@ -136,46 +136,46 @@ F-4는 "한국계 혈통 외국인"에게 주어지는 비자라서 혈통 증�
 6. **공공기관 인정**: 재외동포재단 초청 등
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
-    <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">자격 경로</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">핵심 요건</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">증빙</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">실제 난이도</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">연령</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">만 60세 이상</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">여권·호구부</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">가장 단순</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">학력</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">전문대 이상 졸업</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">졸업증 공증·아포스티유</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">중간</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">기술자격</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">국가기술자격 산업기사 이상</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">자격증 원본</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">시험 준비 필요</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">근무 경력</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">제조·농축산·어업 2년 이상</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">고용보험 이력, 재직증명</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">H-2 체류자 다수 활용</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">사업</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">법인 설립 또는 일정 자본 투자</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">사업자등록·납세증명</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">자금 출처 설명 까다로움</td>
-    </tr>
-  </tbody>
+ <thead style="background:#f0f7ff">
+ <tr>
+ <th style="border:1px solid #e5e7eb;padding:10px">자격 경로</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">핵심 요건</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">증빙</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">실제 난이도</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">연령</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">만 60세 이상</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">여권·호구부</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">가장 단순</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">학력</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">전문대 이상 졸업</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">졸업증 공증·아포스티유</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">중간</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">기술자격</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">국가기술자격 산업기사 이상</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">자격증 원본</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">시험 준비 필요</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">근무 경력</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">제조·농축산·어업 2년 이상</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">고용보험 이력, 재직증명</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">H-2 체류자 다수 활용</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">사업</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">법인 설립 또는 일정 자본 투자</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">사업자등록·납세증명</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">자금 출처 설명 까다로움</td>
+ </tr>
+ </tbody>
 </table>
 
 ### H-2에서 가장 많이 쓰는 경로 — 제조업 2년 경력
@@ -187,7 +187,7 @@ H-2로 들어와 F-4 전환을 노리는 중국동포가 실제로 가장 많이
 보통은 이 단계에서 걸립니다. 본인은 "공장에서 일했다"고 생각해도, 고용보험 업종 코드가 제조업이 아니라 **도소매업**이나 **서비스업**으로 등록된 경우가 많습니다. 같은 사업장이라도 본사 코드가 도소매면 고용보험상 제조업 경력으로 잡히지 않습니다. 이 부분이 약하면 2년을 채워도 자격이 안 열립니다.
 
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 주의:</strong> 고용보험 피보험자격 이력에서 업종 코드가 <strong>제조업(10~33)</strong>, <strong>농업(01)</strong>, <strong>어업(03)</strong> 범위에 들어가야 경력 인정됩니다. 서비스업·도소매업 코드로 찍혀 있으면 2년을 일해도 해당 요건 미충족입니다. 신청 전 고용보험 공단에서 업종 코드 먼저 확인하세요.
+ <strong style="color:#92400e">⚠️ 주의:</strong> 고용보험 피보험자격 이력에서 업종 코드가 <strong>제조업(10~33)</strong>, <strong>농업(01)</strong>, <strong>어업(03)</strong> 범위에 들어가야 경력 인정됩니다. 서비스업·도소매업 코드로 찍혀 있으면 2년을 일해도 해당 요건 미충족입니다. 신청 전 고용보험 공단에서 업종 코드 먼저 확인하세요.
 </div>
 
 ## <span id="section-4"></span>4. F-4 단순노무 취업제한 — 실제로 가장 문제되는 부분
@@ -218,58 +218,58 @@ F-4는 "자유롭게 취업 가능"이라고 알려져 있지만, 실제로는 �
 - 교육·문화 분야 전문 업무
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
-    <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">업무 성격</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">H-2 가능</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">F-4 가능</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">비고</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">식당 서빙</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">불가</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">F-4 단순노무 제한</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">식당 운영·매니저</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">제한</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">사업 운영은 F-4 핵심 혜택</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">건설 잡부</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">불가</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">기술자격 있으면 기능공 가능</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">용접·배관 등 기능</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">자격증 소지가 기준</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">공장 단순조립</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">불가</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">가장 큰 충돌 지점</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">가사도우미</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">불가</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">간병인도 성격 따라 제한</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">IT·통번역</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">제한</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">F-4에서 자유</td>
-    </tr>
-  </tbody>
+ <thead style="background:#f0f7ff">
+ <tr>
+ <th style="border:1px solid #e5e7eb;padding:10px">업무 성격</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">H-2 가능</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">F-4 가능</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">비고</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">식당 서빙</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">불가</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">F-4 단순노무 제한</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">식당 운영·매니저</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">제한</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">사업 운영은 F-4 핵심 혜택</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">건설 잡부</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">불가</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">기술자격 있으면 기능공 가능</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">용접·배관 등 기능</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">자격증 소지가 기준</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">공장 단순조립</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">불가</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">가장 큰 충돌 지점</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">가사도우미</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">불가</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">간병인도 성격 따라 제한</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">IT·통번역</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">제한</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">F-4에서 자유</td>
+ </tr>
+ </tbody>
 </table>
 
 ### 실무에서 제일 많이 꼬이는 시나리오
@@ -277,12 +277,12 @@ F-4는 "자유롭게 취업 가능"이라고 알려져 있지만, 실제로는 �
 H-2로 공장에서 단순조립 일을 2년 하고 그 경력으로 F-4를 받은 뒤, **같은 공장에서 같은 일을 계속하면 불법**이 됩니다. 비자는 올라갔지만 일은 못 하는 상태가 되죠. 실제로 현장에서는 F-4 받고 나서 ① 기능직 자격증을 새로 따거나 ② 사업을 차리거나 ③ 기술직으로 직무를 옮기는 식으로 대응합니다.
 
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 주의:</strong> F-4 단순노무 제한을 어기고 적발되면 <strong>체류자격 외 활동</strong>으로 범칙금과 체류기간 단축 처분이 내려질 수 있습니다. 반복되면 연장 거부·강제퇴거까지 이어집니다. F-4가 되었다고 아무 일이나 해도 된다는 오해가 가장 위험합니다.
+ <strong style="color:#92400e">⚠️ 주의:</strong> F-4 단순노무 제한을 어기고 적발되면 <strong>체류자격 외 활동</strong>으로 범칙금과 체류기간 단축 처분이 내려질 수 있습니다. 반복되면 연장 거부·강제퇴거까지 이어집니다. F-4가 되었다고 아무 일이나 해도 된다는 오해가 가장 위험합니다.
 </div>
 
 <figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/19271599/pexels-photo-19271599.jpegA detailed close-up of the wrinkled South Korean flag on fabric, showcasing its vibrant colors." alt="A lively urban street scene in downtown Seoul, South Korea, showcasing architecture and vibrant city life." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
+ <img src="https://images.pexels.com/photos/19271599/pexels-photo-19271599.jpegA detailed close-up of the wrinkled South Korean flag on fabric, showcasing its vibrant colors." alt="A lively urban street scene in downtown Seoul, South Korea, showcasing architecture and vibrant city life." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
+ 
 </figure>
 
 ## <span id="section-5"></span>5. H-2에서 F-4로 전환 — 실무 절차와 서류
@@ -292,68 +292,68 @@ H-2로 공장에서 단순조립 일을 2년 하고 그 경력으로 F-4를 받�
 ### 전환 절차 단계
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
-    <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">단계</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">내용</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">소요 기간</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">1</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">자격 요건 확인 (경력·자격증·학력)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">본인 상황에 따라</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">중국 무범죄조회서 발급 (6개월 유효)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">발급 기관 사정에 따라 다름</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">3</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">한국 서류 준비 (기본증명서·가족관계증명서·제적등본)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1주</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">4</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">고용보험 이력서·납세증명 발급</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">즉시</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">5</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">출입국사무소 방문 예약 및 체류자격 변경 신청</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">예약 가능일에 따라 다름</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">6</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">심사 및 결과 통보</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">기관 사정에 따라 다름</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">7</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">F-4 국내거소신고 및 거소증 수령</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">관할 출입국 사정에 따라 다름</td>
-    </tr>
-  </tbody>
+ <thead style="background:#f0f7ff">
+ <tr>
+ <th style="border:1px solid #e5e7eb;padding:10px">단계</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">내용</th>
+ <th style="border:1px solid #e5e7eb;padding:10px">소요 기간</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">1</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">자격 요건 확인 (경력·자격증·학력)</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">본인 상황에 따라</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">2</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">중국 무범죄조회서 발급 (6개월 유효)</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">발급 기관 사정에 따라 다름</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">3</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">한국 서류 준비 (기본증명서·가족관계증명서·제적등본)</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">1주</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">4</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">고용보험 이력서·납세증명 발급</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">즉시</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">5</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">출입국사무소 방문 예약 및 체류자격 변경 신청</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">예약 가능일에 따라 다름</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">6</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">심사 및 결과 통보</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">기관 사정에 따라 다름</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">7</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">F-4 국내거소신고 및 거소증 수령</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">관할 출입국 사정에 따라 다름</td>
+ </tr>
+ </tbody>
 </table>
 
 ### 제출 서류 — 표준 목록
 
 <div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ H-2 → F-4 전환 제출서류 체크리스트</strong>
-  <ul style="margin-top:12px">
-    <li>신청서(통합신청서) 1부</li>
-    <li>여권 원본·사본</li>
-    <li>외국인등록증 원본</li>
-    <li>반명함판 사진 1매 (3.5×4.5cm, 흰 배경, 최근 6개월 이내)</li>
-    <li>수수료 (체류자격 변경 12만원 + 거소신고 3만원)</li>
-    <li>중국 무범죄조회서(6개월 이내) + 한국어 번역 공증</li>
-    <li>자격 입증서류: 고용보험 이력 또는 국가기술자격증 또는 졸업증명서</li>
-    <li>기본증명서(상세), 가족관계증명서(상세), 제적등본</li>
-    <li>거주 입증: 임대차계약서 또는 체류지 제공자 확인서</li>
-    <li>신원보증서(필요 시)</li>
-  </ul>
+ <strong style="color:#166534">✅ H-2 → F-4 전환 제출서류 체크리스트</strong>
+ <ul style="margin-top:12px">
+ <li>신청서(통합신청서) 1부</li>
+ <li>여권 원본·사본</li>
+ <li>외국인등록증 원본</li>
+ <li>반명함판 사진 1매 (3.5×4.5cm, 흰 배경, 최근 6개월 이내)</li>
+ <li>수수료 (체류자격 변경 12만원 + 거소신고 3만원)</li>
+ <li>중국 무범죄조회서(6개월 이내) + 한국어 번역 공증</li>
+ <li>자격 입증서류: 고용보험 이력 또는 국가기술자격증 또는 졸업증명서</li>
+ <li>기본증명서(상세), 가족관계증명서(상세), 제적등본</li>
+ <li>거주 입증: 임대차계약서 또는 체류지 제공자 확인서</li>
+ <li>신원보증서(필요 시)</li>
+ </ul>
 </div>
 
 ### 거소증 발급과 출국
@@ -361,7 +361,7 @@ H-2로 공장에서 단순조립 일을 2년 하고 그 경력으로 F-4를 받�
 F-4 체류자격 변경이 허가되면 국내거소신고를 통해 거소증(국내거소신고증)을 받습니다. **거소허가번호가 발급된 시점부터 출국 가능**하며, 거소증 실물 수령 전이라도 허가번호로 재입국에 문제가 없습니다. 단, 재입국 시 외국인용 출입국 심사대가 아닌 거소신고자 전용 심사대를 이용할 수 있는 건 거소증 실물 또는 모바일 거소증 확인이 가능해진 이후입니다.
 
 <div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 실무 팁:</strong> 행정사사무소 이룸은 한국 서류 발급부터 거소증 신청대행·수령·해외 발송까지 한 번에 처리합니다. 중국에서 한국으로 서류 때문에 왕복하는 시간을 줄이고 싶다면 거소증 해외 발송 옵션을 활용하세요. 서울 내 임시주소 제공도 가능합니다(별도 비용 안내).
+ <strong style="color:#1e40af">💡 실무 팁:</strong> 행정사사무소 이룸은 한국 서류 발급부터 거소증 신청대행·수령·해외 발송까지 한 번에 처리합니다. 중국에서 한국으로 서류 때문에 왕복하는 시간을 줄이고 싶다면 거소증 해외 발송 옵션을 활용하세요. 서울 내 임시주소 제공도 가능합니다(별도 비용 안내).
 </div>
 
 ## <span id="section-6"></span>6. 범죄경력·결격사유 — 여기서 걸리면 바로 끝
@@ -381,7 +381,7 @@ F-4 체류자격 변경이 허가되면 국내거소신고를 통해 거소증(�
 현장에서 가장 많이 걸리는 것은 **과거 단기 불법체류 이력**입니다. 2000년대 초반에 단기비자로 들어와 기간 초과 후 자진출국한 기록이 남아 있는 경우가 많습니다. 이 이력이 있으면 일정 기간은 재외동포비자 발급이 제한됩니다. 자진출국 기간에 따라 기간이 다르므로 관할 출입국·외국인청에 개별 조회가 필요합니다.
 
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 주의:</strong> 위조 서류 사용은 단순 불허가 아니라 <strong>영구적 입국금지</strong>로 이어질 수 있습니다. 특히 중국 공증서의 한국어 번역본을 사설업체에서 위조 제출하는 사례가 적발되면 본인뿐 아니라 동일 경로로 신청한 가족까지 연쇄 불이익이 생길 수 있습니다. 반드시 공증처 정식 서류를 사용하세요.
+ <strong style="color:#92400e">⚠️ 주의:</strong> 위조 서류 사용은 단순 불허가 아니라 <strong>영구적 입국금지</strong>로 이어질 수 있습니다. 특히 중국 공증서의 한국어 번역본을 사설업체에서 위조 제출하는 사례가 적발되면 본인뿐 아니라 동일 경로로 신청한 가족까지 연쇄 불이익이 생길 수 있습니다. 반드시 공증처 정식 서류를 사용하세요.
 </div>
 
 ### 범죄경력증명서 발급 실무

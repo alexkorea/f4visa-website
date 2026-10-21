@@ -16,17 +16,17 @@ slug: "residence-card-overseas-remote-application-agency"
 먼저 원격으로 처리되는 부분과 반드시 입국이 필요한 부분을 나눠서 짚고, 대행이 실제로 어디를 줄여주는지까지 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 해외 거소증 신청, 원격으로 되는 것과 안 되는 것</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 거소증 신청 서류, 무엇이 먼저 막히나</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 원격 대행 절차, 실제 순서는 이렇게 갈립니다</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국내 최소 체류로 끝내려면, 어디서 차이가 나나</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 해외 거소증 신청, 원격으로 되는 것과 안 되는 것</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 거소증 신청 서류, 무엇이 먼저 막히나</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 원격 대행 절차, 실제 순서는 이렇게 갈립니다</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국내 최소 체류로 끝내려면, 어디서 차이가 나나</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">해외 거소증 신청, 원격으로 되는 것과 안 되는 것</h2>
@@ -58,7 +58,7 @@ slug: "residence-card-overseas-remote-application-agency"
 
 즉 출국 시점을 앞당길 수 있는지가 실제로 갈리는 지점입니다.
 
-> **주의:** 외국 시민권을 취득하면 한국 국적은 국적법 제15조에 따라 즉시 자동 상실됩니다.
+> **주의:** 외국 시민권을 취득하면 한국 국적은 국적법에 따라 즉시 자동 상실됩니다.
 > 국적상실신고 전이라도 이미 상실 상태이며, 이 상태에서 한국 여권을 사용하면 여권법상 부정사용에 해당합니다.
 
 <h2 id="section-2">F-4 거소증 신청 서류, 무엇이 먼저 막히나</h2>

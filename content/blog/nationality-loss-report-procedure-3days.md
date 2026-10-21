@@ -16,26 +16,26 @@ slug: "nationality-loss-report-procedure-3days"
 여기서는 신고 의무자 범위, 필요서류, 재외공관과 국내 제출 차이, 그리고 신고 직후 F-4 거소증 신청으로 이어지는 흐름까지 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 국적상실은 신고가 아니라 자동 발생입니다</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 신고 의무자와 신고 기한</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 필요서류 — 한국 vs 재외공관 제출 비교</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 절차 흐름 — 3일이면 끝나는 이유</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 국적상실 직후 — F-4 거소증 신청으로 이어지는 흐름</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 놓치는 함정 정리</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 국적상실은 신고가 아니라 자동 발생입니다</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 신고 의무자와 신고 기한</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 필요서류 — 한국 vs 재외공관 제출 비교</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 절차 흐름 — 3일이면 끝나는 이유</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 국적상실 직후 — F-4 거소증 신청으로 이어지는 흐름</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 놓치는 함정 정리</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">국적상실은 신고가 아니라 자동 발생입니다</h2>
 
 많이 놓치는 부분은 "신고를 해야 국적이 상실된다"고 오해하는 지점입니다.
 
-국적법 제15조에 따라 외국 국적을 자발적으로 취득한 순간 한국 국적은 그 즉시 자동 상실됩니다.
+국적법에 따라 외국 국적을 자발적으로 취득한 순간 한국 국적은 그 즉시 자동 상실됩니다.
 
 신고는 가족관계등록부에서 한국 국적자 신분을 정리하는 행정 절차일 뿐입니다.
 
@@ -73,7 +73,7 @@ slug: "nationality-loss-report-procedure-3days"
 
 부모가 외국 국적을 취득할 때 미성년 자녀도 함께 취득한 경우, 자녀의 국적상실신고도 함께 진행합니다.
 
-만 18세 미만 자녀는 국적법 제13조 국적선택 의무와 연결되는 지점이 있어 사안 검토가 필요합니다.
+만 18세 미만 자녀는 국적법상 국적선택 의무와 연결되는 지점이 있어 사안 검토가 필요합니다.
 
 자녀의 신고 누락은 이후 병역·국적선택 단계에서 꼬일 수 있는 부분입니다.
 

@@ -14,19 +14,19 @@ F-4 거소증을 5년 이상 유지한 재외동포라면 F-5-7호로 전환 가
 이 글은 F-4 보유자가 F-5로 넘어갈 때 필요한 서류, 심사 포인트, 실무에서 막히는 지점을 정리합니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-5 영주권 신청 자격 — F-4 거소증 5년이 전부가 아닙니다</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-5 신청 서류 — 기본 서류와 추가 서류</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-5 심사 기준 — 서류보다 먼저 보는 것</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. F-5 신청 절차 — 접수부터 결정까지</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4에서 F-5 전환 시 자주 꼬이는 지점</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. F-5 영주권 취득 후 의무</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-5 영주권 신청 자격 — F-4 거소증 5년이 전부가 아닙니다</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-5 신청 서류 — 기본 서류와 추가 서류</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-5 심사 기준 — 서류보다 먼저 보는 것</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. F-5 신청 절차 — 접수부터 결정까지</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4에서 F-5 전환 시 자주 꼬이는 지점</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. F-5 영주권 취득 후 의무</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-5 영주권 신청 자격 — F-4 거소증 5년이 전부가 아닙니다</h2>
@@ -166,7 +166,7 @@ F-5 신청 직전 5년간 기록이 핵심이므로, 미리 출입국 기록을 
 재외동포 자격 입증을 위해 시민권증서 원본이 필요한 경우가 있습니다.
 F-4 신청 때 제출했더라도 F-5 단계에서 다시 요구될 수 있습니다.
 
-> **주의:** 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다(국적법 제15조). 국적상실신고는 행정 정리 절차일 뿐이며, 신고 전이라도 이미 상실 상태입니다. 국적상실 후 한국 여권 사용은 여권법 위반(부정사용)에 해당합니다.
+> **주의:** 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다. 국적상실신고는 행정 정리 절차일 뿐이며, 신고 전이라도 이미 상실 상태입니다. 국적상실 후 한국 여권 사용은 여권법 위반(부정사용)에 해당합니다.
 
 <h2 id="section-6">F-5 영주권 취득 후 의무</h2>
 
@@ -174,7 +174,7 @@ F-4 신청 때 제출했더라도 F-5 단계에서 다시 요구될 수 있습�
 
 - 영주증은 10년마다 재발급 (영주권 자체는 영구)
 - 출국 후 2년 이내 재입국하지 않으면 영주 자격 상실 가능
-- 주소 변경 시 전입한 날부터 15일 이내 신고(출입국관리법 제36조①)
+- 주소 변경 시 전입한 날부터 15일 이내 신고
 - 형사 처벌 시 자격 취소 사유 발생 가능
 
 장기 출국이 예정된 경우 사전 재입국허가를 받아두는 것이 안전합니다.

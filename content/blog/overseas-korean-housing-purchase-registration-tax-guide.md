@@ -16,15 +16,15 @@ slug: "overseas-korean-housing-purchase-registration-tax-guide"
 아래에서 재외동포 부동산 취득의 법적 근거, 5단계 절차, 자금 반입 신고, 취득·보유·양도 단계별 세금, 등기 서류까지 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 재외동포 부동산 취득, 법적으로 가능한 범위</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 부동산 취득 절차 5단계와 부동산 거래신고</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 해외자금 송금과 외국환거래 신고</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 취득세 신고와 단계별 세금</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 등기 서류와 부동산등기용 등록번호</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 매입 전 체크리스트</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 재외동포 부동산 취득, 법적으로 가능한 범위</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 부동산 취득 절차 5단계와 부동산 거래신고</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 해외자금 송금과 외국환거래 신고</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 취득세 신고와 단계별 세금</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 등기 서류와 부동산등기용 등록번호</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 매입 전 체크리스트</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">재외동포 부동산 취득, 법적으로 가능한 범위</h2>
@@ -32,7 +32,7 @@ slug: "overseas-korean-housing-purchase-registration-tax-guide"
 ### 외국국적동포도 내국인과 같은 방식으로 살 수 있습니다
 
 외국 시민권자가 된 동포는 법적으로 '외국인'이지만, 한국 부동산 취득 자체에는 제한이 거의 없습니다.
-재외동포의 출입국과 법적 지위에 관한 법률 제11조는 국내거소신고를 한 외국국적동포의 부동산 거래에서 내국인과 동등한 권리를 인정합니다.
+재외동포의 출입국과 법적 지위에 관한 법률은 국내거소신고를 한 외국국적동포의 부동산 거래에서 내국인과 동등한 권리를 인정합니다.
 군사시설 보호구역 등 일부 구역만 사전 허가 대상이고, 일반 아파트·주택·상가는 자유롭게 매입할 수 있습니다.
 겉으로는 간단해 보여도, 실제로 많이 막히는 부분은 취득 자체가 아니라 **신고 기한과 자금 증빙**입니다.
 
@@ -52,9 +52,9 @@ slug: "overseas-korean-housing-purchase-registration-tax-guide"
 |------|------|------|
 | 1. 계약 전 준비 | 거소증 또는 등기용 등록번호, 자금 계획 | 해외 서류는 아포스티유 확인 |
 | 2. 매매계약 체결 | 계약금 지급, 특약 확인 | 신분 증빙 지참 |
-| 3. 부동산 거래신고 | 계약일부터 **30일 이내** | 부동산 거래신고 등에 관한 법률 제3조 |
+| 3. 부동산 거래신고 | 계약일부터 **30일 이내** | 부동산 거래신고 등에 관한 법률 |
 | 4. 잔금 및 자금 반입 | 외국환은행 통한 송금 | 외국환거래규정상 신고 |
-| 5. 소유권이전등기·취득세 | 취득일부터 **60일 이내** 취득세 신고·납부 | 지방세법 제20조 |
+| 5. 소유권이전등기·취득세 | 취득일부터 **60일 이내** 취득세 신고·납부 | 지방세법 |
 
 ### 계약과 거래신고에서 걸리는 지점
 
@@ -89,7 +89,7 @@ slug: "overseas-korean-housing-purchase-registration-tax-guide"
 
 ### 취득세는 60일 이내 신고·납부
 
-취득세는 잔금일 등 취득일부터 60일 이내에 물건지 관할 지방자치단체에 신고하고 납부합니다(지방세법 제20조).
+취득세는 잔금일 등 취득일부터 60일 이내에 물건지 관할 지방자치단체에 신고하고 납부합니다.
 세율은 주택 수, 조정대상지역 여부, 취득 가격에 따라 달라지며, 재외동포의 다주택 판정은 국내 세대 기준과 얽혀 판단이 갈리는 지점이 있습니다.
 신고는 위택스에서 온라인으로도 가능합니다.
 
@@ -118,7 +118,7 @@ slug: "overseas-korean-housing-purchase-registration-tax-guide"
 
 ### 거소증이 있는 경우
 
-국내거소신고를 마친 외국국적동포는 **국내거소신고번호를 부동산등기용 등록번호로 사용**할 수 있습니다(부동산등기법 제49조).
+국내거소신고를 마친 외국국적동포는 **국내거소신고번호를 부동산등기용 등록번호로 사용**할 수 있습니다.
 등기 시에는 거소증(외국국적동포 국내거소신고증), 국내거소신고 사실증명, 여권 정도로 신분 관련 서류가 정리됩니다.
 F-4 거소증 발급은 하이코리아를 통해 진행하며, 출입국사무소별로 소요 기간이 다릅니다.
 처리 기간은 출입국사무소별로 차이가 크며, 저희는 가장 빠른 곳을 찾아 진행해 드립니다.

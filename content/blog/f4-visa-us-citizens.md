@@ -9,23 +9,23 @@ slug: "f4-visa-us-citizens"
 ---
 # F-4 비자 미국 시민권자 신청 절차 완벽 가이드
 
-미국 시민권을 취득한 한국계 미국인이 F-4 재외동포 비자를 받는 절차는 **"국적상실 처리 → 시민권증서 원본 준비 → 한국 가족관계서류 확보 → 재외공관 또는 한국 출입국 신청"** 이 네 단계로 압축됩니다. 가장 먼저 봐야 할 것은 현재 본인의 한국 국적 상태입니다. 국적법 제15조에 따라 외국 시민권을 취득한 순간 한국 국적은 자동으로 상실됩니다. 국적상실신고는 행정 정리 절차일 뿐, 신고 전이라도 법적으로는 이미 상실 상태입니다. 이 상태에서 한국 여권을 계속 사용하면 여권법상 부정사용이 되므로 바로 이 부분부터 확인해야 합니다.
+미국 시민권을 취득한 한국계 미국인이 F-4 재외동포 비자를 받는 절차는 **"국적상실 처리 → 시민권증서 원본 준비 → 한국 가족관계서류 확보 → 재외공관 또는 한국 출입국 신청"** 이 네 단계로 압축됩니다. 가장 먼저 봐야 할 것은 현재 본인의 한국 국적 상태입니다. 국적법에 따라 외국 시민권을 취득한 순간 한국 국적은 자동으로 상실됩니다. 국적상실신고는 행정 정리 절차일 뿐, 신고 전이라도 법적으로는 이미 상실 상태입니다. 이 상태에서 한국 여권을 계속 사용하면 여권법상 부정사용이 되므로 바로 이 부분부터 확인해야 합니다.
 
 실무에서는 미국 시민권자의 F-4 신청이 막히는 이유가 서류 부족이 아니라 **"한국 쪽 행정 정리가 안 된 상태"** 때문인 경우가 가장 많습니다. 한국 가족관계등록부에 여전히 한국 국민으로 남아 있거나, 국적상실신고가 안 되어 있거나, 과거 한국 주민등록이 정리되지 않은 상태에서 바로 F-4를 신청하면 보통 이 단계에서 걸립니다. 아래에서 실제 신청 순서와 필요한 서류, 현장에서 자주 꼬이는 지점을 하나씩 짚습니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자의 대상과 미국 시민권자의 위치</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 신청 전 반드시 확인할 국적상실 문제</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 미국 시민권자 F-4 신청 서류 전체 정리</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 재외공관 신청 vs 국내 체류자격 변경 신청</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 신청 절차 단계별 진행 순서</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 처리 기간·수수료·거소증 발급</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 하는 실수와 반려 사례</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문(FAQ)</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 행정사사무소 이룸 상담 안내</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차
+ <ul style="list-style:none;padding-left:0">
+ <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자의 대상과 미국 시민권자의 위치</a></li>
+ <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 신청 전 반드시 확인할 국적상실 문제</a></li>
+ <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 미국 시민권자 F-4 신청 서류 전체 정리</a></li>
+ <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 재외공관 신청 vs 국내 체류자격 변경 신청</a></li>
+ <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 신청 절차 단계별 진행 순서</a></li>
+ <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 처리 기간·수수료·거소증 발급</a></li>
+ <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 하는 실수와 반려 사례</a></li>
+ <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문(FAQ)</a></li>
+ <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 행정사사무소 이룸 상담 안내</a></li>
+ </ul>
 </nav>
 
 ## F-4 비자의 대상과 미국 시민권자의 위치
@@ -45,40 +45,40 @@ F-4는 재외동포(F-4) 체류자격입니다. 대한민국 국민이었다가 
 ### F-4로 할 수 있는 것과 할 수 없는 것
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
-    <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">구분</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">허용 여부</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">실무 포인트</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">전문직·사무직 취업</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">별도 고용허가 불필요</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">사업 운영·법인 설립</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">사업자등록 가능</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">부동산 취득·금융거래</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">거소증 기반 처리</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">단순노무(식당 서빙, 공장 단순직 등)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">제한</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">재외동포법 시행령에 따른 제한 직종</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">선거권·공무담임권</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">불가</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">외국인 신분 유지</td>
-    </tr>
-  </tbody>
+ <thead style="background:#f0f7ff">
+ <tr>
+ <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">구분</th>
+ <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">허용 여부</th>
+ <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">실무 포인트</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">전문직·사무직 취업</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">별도 고용허가 불필요</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">사업 운영·법인 설립</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">사업자등록 가능</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">부동산 취득·금융거래</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">가능</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">거소증 기반 처리</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">단순노무(식당 서빙, 공장 단순직 등)</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">제한</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">재외동포법 시행령에 따른 제한 직종</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">선거권·공무담임권</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">불가</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">외국인 신분 유지</td>
+ </tr>
+ </tbody>
 </table>
 
 F-4는 거주·취업 범위가 가장 넓은 장기 체류자격입니다. 사실상 영주권에 가까운 활동이 가능하지만, 단순노무 제한 직종은 별도로 확인이 필요합니다.
@@ -87,16 +87,16 @@ F-4는 거주·취업 범위가 가장 넓은 장기 체류자격입니다. 사�
 
 미국 시민권자가 F-4를 신청할 때 가장 먼저 꼬이는 부분이 바로 국적 문제입니다.
 
-### 국적법 제15조의 자동 상실 구조
+### 국적법의 자동 상실 구조
 
-국적법 제15조는 대한민국 국민이 자진하여 외국 국적을 취득한 경우, 그 외국 국적을 취득한 때에 대한민국 국적을 **자동으로 상실**한다고 규정합니다. 중요한 지점은 "신고 시점"이 아니라 **"시민권 취득 시점"**에 이미 상실된다는 것입니다.
+국적법은 대한민국 국민이 자진하여 외국 국적을 취득한 경우, 그 외국 국적을 취득한 때에 대한민국 국적을 **자동으로 상실**한다고 규정합니다. 중요한 지점은 "신고 시점"이 아니라 **"시민권 취득 시점"**에 이미 상실된다는 것입니다.
 
 - 미국 시민권 선서일 = 한국 국적 상실일
 - 국적상실신고 = 행정 정리 절차 (가족관계등록부 정리)
 - 신고 전이라도 법적으로는 이미 외국인
 
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 주의:</strong> 시민권 취득 후 한국 여권을 그대로 사용해 한국에 입·출국하면 여권법상 부정사용에 해당합니다. 이미 상실된 국적의 여권을 사용하는 행위이기 때문입니다. F-4 심사 과정에서 이 부분이 드러나면 일이 크게 꼬입니다.
+ <strong style="color:#92400e">⚠️ 주의:</strong> 시민권 취득 후 한국 여권을 그대로 사용해 한국에 입·출국하면 여권법상 부정사용에 해당합니다. 이미 상실된 국적의 여권을 사용하는 행위이기 때문입니다. F-4 심사 과정에서 이 부분이 드러나면 일이 크게 꼬입니다.
 </div>
 
 ### 국적상실신고가 아직 안 되어 있다면
@@ -124,54 +124,54 @@ F-4는 거주·취업 범위가 가장 넓은 장기 체류자격입니다. 사�
 ### 기본 필수 서류
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
-    <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">구분</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">서류명</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">형태</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">신청서</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">재외동포 사증발급신청서 / 체류자격변경신청서</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">지정 양식</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">신분</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">미국 여권</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">원본 + 사본</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">국적 증명</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">시민권증서 (Certificate of Naturalization / US Passport)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px"><strong>원본 지참</strong></td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">사진</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">여권용 사진</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">최근 6개월 이내</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">한국 혈연</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">기본증명서(상세), 가족관계증명서(상세), 제적등본</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">본인 또는 부모·조부모 기준</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">범죄경력</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">미국 FBI 범죄경력증명서 (아포스티유)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">발급일 기준 <strong>6개월</strong> 이내</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">수수료</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">사증 발급 수수료 또는 변경 수수료</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">현금/카드</td>
-    </tr>
-  </tbody>
+ <thead style="background:#f0f7ff">
+ <tr>
+ <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">구분</th>
+ <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">서류명</th>
+ <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">형태</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">신청서</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">재외동포 사증발급신청서 / 체류자격변경신청서</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">지정 양식</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">신분</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">미국 여권</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">원본 + 사본</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">국적 증명</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">시민권증서 (Certificate of Naturalization / US Passport)</td>
+ <td style="border:1px solid #e5e7eb;padding:10px"><strong>원본 지참</strong></td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">사진</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">여권용 사진</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">최근 6개월 이내</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">한국 혈연</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">기본증명서(상세), 가족관계증명서(상세), 제적등본</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">본인 또는 부모·조부모 기준</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">범죄경력</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">미국 FBI 범죄경력증명서 (아포스티유)</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">발급일 기준 <strong>6개월</strong> 이내</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">수수료</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">사증 발급 수수료 또는 변경 수수료</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">현금/카드</td>
+ </tr>
+ </tbody>
 </table>
 
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 주의:</strong> 시민권증서는 사본이 아니라 <strong>원본</strong>을 요구합니다. 분실한 상태라면 USCIS에 N-565로 재발급을 받아야 하고, 재발급만 수개월이 걸리기 때문에 일정을 여유 있게 잡아야 합니다.
+ <strong style="color:#92400e">⚠️ 주의:</strong> 시민권증서는 사본이 아니라 <strong>원본</strong>을 요구합니다. 분실한 상태라면 USCIS에 N-565로 재발급을 받아야 하고, 재발급만 수개월이 걸리기 때문에 일정을 여유 있게 잡아야 합니다.
 </div>
 
 ### 무범죄경력증명서의 유효기간
@@ -189,35 +189,35 @@ FBI 범죄경력조회서(Identity History Summary)는 아포스티유 처리 �
 ### 번역·아포스티유 처리
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
-    <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">서류</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">번역</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">아포스티유</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">미국 여권</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">불요(사본 제출)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">불요</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">시민권증서</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">번역문 필요</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">요구되는 경우 있음</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">FBI 범죄경력증명서</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">번역문 필요</td>
-      <td style="border:1px solid #e5e7eb;padding:10px"><strong>필수</strong></td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">출생증명서(2·3세 해당)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">번역문 필요</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">필수</td>
-    </tr>
-  </tbody>
+ <thead style="background:#f0f7ff">
+ <tr>
+ <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">서류</th>
+ <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">번역</th>
+ <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">아포스티유</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">미국 여권</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">불요(사본 제출)</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">불요</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">시민권증서</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">번역문 필요</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">요구되는 경우 있음</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">FBI 범죄경력증명서</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">번역문 필요</td>
+ <td style="border:1px solid #e5e7eb;padding:10px"><strong>필수</strong></td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">출생증명서(2·3세 해당)</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">번역문 필요</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">필수</td>
+ </tr>
+ </tbody>
 </table>
 
 ## 재외공관 신청 vs 국내 체류자격 변경 신청
@@ -227,40 +227,40 @@ F-4는 크게 두 경로로 받습니다. 어느 쪽이 빠를지는 현재 위�
 ### 두 경로 비교
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
-    <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">항목</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">재외공관 신청</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">국내 체류자격 변경</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">신청 장소</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">주미 한국대사관·총영사관</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">한국 관할 출입국·외국인청</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">사전 체류자격</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">불필요</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">무사증(B-1/B-2) 또는 단기사증 상태</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">소요 기간</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">공관별로 수 주</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">접수 후 수 주 (청별 차이)</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">장점</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">입국과 동시에 F-4 신분</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">한국에서 서류 보완 수월</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">단점</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">미국에서 서류 보완 어려움</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">체류기간 내 처리 필요</td>
-    </tr>
-  </tbody>
+ <thead style="background:#f0f7ff">
+ <tr>
+ <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">항목</th>
+ <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">재외공관 신청</th>
+ <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">국내 체류자격 변경</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">신청 장소</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">주미 한국대사관·총영사관</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">한국 관할 출입국·외국인청</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">사전 체류자격</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">불필요</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">무사증(B-1/B-2) 또는 단기사증 상태</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">소요 기간</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">공관별로 수 주</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">접수 후 수 주 (청별 차이)</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">장점</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">입국과 동시에 F-4 신분</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">한국에서 서류 보완 수월</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">단점</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">미국에서 서류 보완 어려움</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">체류기간 내 처리 필요</td>
+ </tr>
+ </tbody>
 </table>
 
 ### 어느 쪽이 실제로 빠른가
@@ -274,12 +274,12 @@ F-4는 크게 두 경로로 받습니다. 어느 쪽이 빠를지는 현재 위�
 반대로 미국에서 공관 신청이 유리한 경우는, 한국 내 임시 주소 확보가 어렵고 시민권 기록·가족 서류가 이미 잘 정리되어 있는 경우입니다.
 
 <div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 실무 팁:</strong> 미국 공관 신청 대기가 길거나 서류 보완이 반복될 것 같으면, 단기 비자로 한국에 들어와 국내에서 체류자격 변경으로 전환하는 쪽이 실제로 더 빠릅니다. 행정사사무소 이룸은 이 경우를 대비해 서울 내 임시주소 제공까지 지원합니다.
+ <strong style="color:#1e40af">💡 실무 팁:</strong> 미국 공관 신청 대기가 길거나 서류 보완이 반복될 것 같으면, 단기 비자로 한국에 들어와 국내에서 체류자격 변경으로 전환하는 쪽이 실제로 더 빠릅니다. 행정사사무소 이룸은 이 경우를 대비해 서울 내 임시주소 제공까지 지원합니다.
 </div>
 
 <figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/26730892/pexels-photo-26730892.jpegA hand holding a Russian passport over a map, suggesting travel preparation." alt="Dimly lit urban alley lined with tall buildings in Seoul, exuding a moody vibe." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
+ <img src="https://images.pexels.com/photos/26730892/pexels-photo-26730892.jpegA hand holding a Russian passport over a map, suggesting travel preparation." alt="Dimly lit urban alley lined with tall buildings in Seoul, exuding a moody vibe." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
+ 
 </figure>
 
 ## 신청 절차 단계별 진행 순서
@@ -289,50 +289,50 @@ F-4는 크게 두 경로로 받습니다. 어느 쪽이 빠를지는 현재 위�
 ### 단계별 흐름
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
-    <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">단계</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">할 일</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">비고</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">1</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">현재 국적상태 확인</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">기본증명서(상세) 발급으로 확인</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">국적상실신고 처리</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">미신고 상태라면 선행</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">3</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">FBI 무범죄경력증명서 발급 + 아포스티유</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">6개월 유효기간 고려</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">4</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">한국 가족관계서류 발급</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">기본·가족관계·제적등본</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">5</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">경로 선택 (공관 신청 / 국내 변경)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">체류 일정에 맞춰 결정</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">6</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">사증 발급 또는 체류자격 변경 접수</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">하이코리아 사전예약</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">7</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">허가 후 외국인등록 및 거소신고</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">거소증 수령</td>
-    </tr>
-  </tbody>
+ <thead style="background:#f0f7ff">
+ <tr>
+ <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">단계</th>
+ <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">할 일</th>
+ <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">비고</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">1</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">현재 국적상태 확인</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">기본증명서(상세) 발급으로 확인</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">2</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">국적상실신고 처리</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">미신고 상태라면 선행</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">3</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">FBI 무범죄경력증명서 발급 + 아포스티유</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">6개월 유효기간 고려</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">4</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">한국 가족관계서류 발급</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">기본·가족관계·제적등본</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">5</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">경로 선택 (공관 신청 / 국내 변경)</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">체류 일정에 맞춰 결정</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">6</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">사증 발급 또는 체류자격 변경 접수</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">하이코리아 사전예약</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">7</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">허가 후 외국인등록 및 거소신고</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">거소증 수령</td>
+ </tr>
+ </tbody>
 </table>
 
 ### 국내 체류자격 변경 기준 세부 흐름
@@ -360,40 +360,40 @@ F-4는 크게 두 경로로 받습니다. 어느 쪽이 빠를지는 현재 위�
 ### 처리 기간 기준
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
-    <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">항목</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">일반 소요</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">비고</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">FBI 범죄경력증명서</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">기관 사정에 따라 다름</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">채널러 이용 시 단축</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">아포스티유</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">기관 사정에 따라 다름</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">주별로 차이</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">국적상실신고</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">기관 사정에 따라 다름</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">가족관계등록부 반영까지 포함</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">F-4 사증 / 체류자격 변경 심사</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">수 주</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">관할·업무량에 따라 변동</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">거소증 수령</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">관할 출입국 사정에 따라 다름</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">발급 후 우편 수령 가능</td>
-    </tr>
-  </tbody>
+ <thead style="background:#f0f7ff">
+ <tr>
+ <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">항목</th>
+ <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">일반 소요</th>
+ <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">비고</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">FBI 범죄경력증명서</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">기관 사정에 따라 다름</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">채널러 이용 시 단축</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">아포스티유</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">기관 사정에 따라 다름</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">주별로 차이</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">국적상실신고</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">기관 사정에 따라 다름</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">가족관계등록부 반영까지 포함</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">F-4 사증 / 체류자격 변경 심사</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">수 주</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">관할·업무량에 따라 변동</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">거소증 수령</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">관할 출입국 사정에 따라 다름</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">발급 후 우편 수령 가능</td>
+ </tr>
+ </tbody>
 </table>
 
 정확한 수수료와 소요 일수는 관할 기관 확인이 필요합니다.
@@ -407,27 +407,27 @@ F-4 허가가 떨어지면 외국인등록증 대신 **국내거소신고증(거
 - 유효기간 내 출국·재입국 자유
 
 <div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 실무 팁:</strong> 거소증 수령 전이라도 <strong>거소허가번호</strong>만 나오면 출국해도 F-4 체류자격은 유지됩니다. 이 때문에 한국 체류 일정이 촉박한 경우, 거소번호 발급 시점을 기준으로 일정을 짜는 쪽이 현실적입니다.
+ <strong style="color:#1e40af">💡 실무 팁:</strong> 거소증 수령 전이라도 <strong>거소허가번호</strong>만 나오면 출국해도 F-4 체류자격은 유지됩니다. 이 때문에 한국 체류 일정이 촉박한 경우, 거소번호 발급 시점을 기준으로 일정을 짜는 쪽이 현실적입니다.
 </div>
 
 ### 체크리스트
 
 <div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 미국 시민권자 F-4 신청 체크리스트</strong>
-  <ul style="margin-top:12px">
-    <li>미국 여권 원본 및 사본</li>
-    <li>시민권증서 원본 (분실 시 N-565 재발급)</li>
-    <li>시민권증서 한국어 번역본</li>
-    <li>FBI 범죄경력증명서 (발급일 6개월 이내) + 아포스티유 + 번역본</li>
-    <li>기본증명서(상세) — 본인 또는 한국 국적 부모 기준</li>
-    <li>가족관계증명서(상세)</li>
-    <li>제적등본 (해당자)</li>
-    <li>국적상실신고 처리 여부 확인</li>
-    <li>여권용 사진 (최근 6개월 이내)</li>
-    <li>한국 내 체류 주소지(국내 변경 시)</li>
-    <li>수수료 납부 준비</li>
-    <li>재외공관 또는 하이코리아 방문 예약</li>
-  </ul>
+ <strong style="color:#166534">✅ 미국 시민권자 F-4 신청 체크리스트</strong>
+ <ul style="margin-top:12px">
+ <li>미국 여권 원본 및 사본</li>
+ <li>시민권증서 원본 (분실 시 N-565 재발급)</li>
+ <li>시민권증서 한국어 번역본</li>
+ <li>FBI 범죄경력증명서 (발급일 6개월 이내) + 아포스티유 + 번역본</li>
+ <li>기본증명서(상세) — 본인 또는 한국 국적 부모 기준</li>
+ <li>가족관계증명서(상세)</li>
+ <li>제적등본 (해당자)</li>
+ <li>국적상실신고 처리 여부 확인</li>
+ <li>여권용 사진 (최근 6개월 이내)</li>
+ <li>한국 내 체류 주소지(국내 변경 시)</li>
+ <li>수수료 납부 준비</li>
+ <li>재외공관 또는 하이코리아 방문 예약</li>
+ </ul>
 </div>
 
 ## 자주 하는 실수와 반려 사례
@@ -459,7 +459,7 @@ F-4 허가가 떨어지면 외국인등록증 대신 **국내거소신고증(거
 FBI 서류에 아포스티유가 없으면 보완 요구가 나옵니다. 미국 내 발급 주(state)에 따라 아포스티유 관할이 달라지는 것도 주의 지점입니다.
 
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 주의:</strong> 범죄·조사 기록이 있는 경우, 단순히 숨기는 방식으로 접근하면 더 크게 꼬입니다. 재외동포법은 일정한 범죄경력자의 F-4를 제한할 수 있으므로, 처음부터 사실 관계에 맞춰 소명 전략을 짜야 합니다.
+ <strong style="color:#92400e">⚠️ 주의:</strong> 범죄·조사 기록이 있는 경우, 단순히 숨기는 방식으로 접근하면 더 크게 꼬입니다. 재외동포법은 일정한 범죄경력자의 F-4를 제한할 수 있으므로, 처음부터 사실 관계에 맞춰 소명 전략을 짜야 합니다.
 </div>
 
 ### 실제 심사에서 갈리는 포인트
@@ -475,7 +475,7 @@ FBI 서류에 아포스티유가 없으면 보완 요구가 나옵니다. 미국
 
 ### Q1. 미국 시민권을 취득했는데 국적상실신고를 아직 안 했습니다. F-4를 바로 신청할 수 있나요?
 
-이론상 가능하지만, 실무에서는 국적상실신고를 먼저 정리하는 쪽을 권합니다. 가족관계등록부에 한국 국민으로 남아 있으면 "현재 외국 국적자"라는 전제가 서류상 확인되지 않아 심사가 지연됩니다. 시민권 취득 시점에 이미 한국 국적은 자동 상실(국적법 제15조)된 상태이므로, 국적상실신고는 늦어질수록 다른 행정 처리까지 꼬이게 됩니다.
+이론상 가능하지만, 실무에서는 국적상실신고를 먼저 정리하는 쪽을 권합니다. 가족관계등록부에 한국 국민으로 남아 있으면 "현재 외국 국적자"라는 전제가 서류상 확인되지 않아 심사가 지연됩니다. 시민권 취득 시점에 이미 한국 국적은 자동 상실된 상태이므로, 국적상실신고는 늦어질수록 다른 행정 처리까지 꼬이게 됩니다.
 
 ### Q2. 시민권증서 원본을 분실했는데 사본으로 F-4 신청이 가능한가요?
 
@@ -495,7 +495,7 @@ FBI 서류에 아포스티유가 없으면 보완 요구가 나옵니다. 미국
 
 ### Q6. 한국계 미국인(미국 시민권자)은 F-4를 어떻게 신청하나요?
 
-F-4 대상은 출생으로 대한민국 국적을 보유했다가 외국 국적을 취득한 사람(F-4-41)과 그 직계비속으로서 외국 국적을 취득한 사람(F-4-42)입니다(재외동포법 제2조제2호, 법무부 체류민원 자격별 안내 매뉴얼 2026.9.). 본인 또는 부모가 대한민국 국민이었음을 보여주는 가족관계기록사항 증명서·제적등본 등과 외국 국적을 취득한 원인·연월일을 증명하는 서류를 준비합니다. 공통 서류로 해외 범죄경력증명서(미국은 FBI 본부 발급이 원칙, 아포스티유 확인, 신청일로부터 6개월 이내 발급분)와 한국어능력 입증서류를 내는데, 과거 대한민국 국적을 보유했던 사람이나 만 60세 이상인 사람은 한국어능력 입증서류가 면제됩니다. 신청은 재외공관 사증 신청이 기본이고, 국내 체류자격 변경은 제출서류가 국내에서 발급되거나 출입국정보시스템으로 확인되는 경우에만 가능합니다. 2018년 5월 1일 이후 국적을 이탈·상실한 남성은 병역을 마치거나 면제처분 등을 받지 않았다면 40세가 되는 해 12월 31일까지 F-4가 제한됩니다(재외동포법 제5조제2항제1호). FBI 서류 준비는 [F-4 FBI 범죄경력증명서와 아포스티유](/blog/f4-fbi-background-check-apostille)에 정리했습니다.
+F-4 대상은 출생으로 대한민국 국적을 보유했다가 외국 국적을 취득한 사람(F-4-41)과 그 직계비속으로서 외국 국적을 취득한 사람(F-4-42)입니다. 본인 또는 부모가 대한민국 국민이었음을 보여주는 가족관계기록사항 증명서·제적등본 등과 외국 국적을 취득한 원인·연월일을 증명하는 서류를 준비합니다. 공통 서류로 해외 범죄경력증명서(미국은 FBI 본부 발급이 원칙, 아포스티유 확인, 신청일로부터 6개월 이내 발급분)와 한국어능력 입증서류를 내는데, 과거 대한민국 국적을 보유했던 사람이나 만 60세 이상인 사람은 한국어능력 입증서류가 면제됩니다. 신청은 재외공관 사증 신청이 기본이고, 국내 체류자격 변경은 제출서류가 국내에서 발급되거나 출입국정보시스템으로 확인되는 경우에만 가능합니다. 2018년 5월 1일 이후 국적을 이탈·상실한 남성은 병역을 마치거나 면제처분 등을 받지 않았다면 40세가 되는 해 12월 31일까지 F-4가 제한됩니다. FBI 서류 준비는 [F-4 FBI 범죄경력증명서와 아포스티유](/blog/f4-fbi-background-check-apostille)에 정리했습니다.
 
 ### Q7. 미국 시민권자인데 F-4 비자를 받으려면 어떤 서류가 필요한가요?
 
@@ -516,38 +516,38 @@ F-4 대상은 출생으로 대한민국 국적을 보유했다가 외국 국적�
 ### 상담 연락처
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
-    <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">구분</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">연락처</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">사무소</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">행정사사무소 이룸 (EROOM Administrative Office)</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">전화</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">02-363-2251</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">이메일</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">help@f4visa.net</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">카카오톡</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">alexkorea</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">주소</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">(04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)</td>
-    </tr>
-    <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">업무시간</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">평일 09:30 – 17:30 (점심 12:00 — 13:00)</td>
-    </tr>
-  </tbody>
+ <thead style="background:#f0f7ff">
+ <tr>
+ <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">구분</th>
+ <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">연락처</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">사무소</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">행정사사무소 이룸 (EROOM Administrative Office)</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">전화</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">02-363-2251</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">이메일</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">help@f4visa.net</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">카카오톡</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">alexkorea</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">주소</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">(04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)</td>
+ </tr>
+ <tr>
+ <td style="border:1px solid #e5e7eb;padding:10px">업무시간</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">평일 09:30 – 17:30 (점심 12:00 — 13:00)</td>
+ </tr>
+ </tbody>
 </table>
 
 시민권 취득 시점, 한국 호적 정리 상태, 현재 체류 상태 세 가지만 미리 알려주시면, 신청 가능 경로와 예상 일정부터 정리해 드립니다.

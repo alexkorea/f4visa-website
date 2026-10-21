@@ -16,19 +16,19 @@ F-4 비자 갱신은 서류 가짓수보다 **발급일자, 본인 신분, 거�
 이 글은 출입국·외국인청 실무에서 자주 막히는 지점, 최신 서류 목록, 처리 순서, 그리고 한국 내 체류 일정 조정 방법까지 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 갱신, 먼저 봐야 할 것은 만료일이 아니다</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 2026년 F-4 비자 갱신 서류 — 실제 제출 기준</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 거소신고증 갱신 절차 — 어디서, 어떻게</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 지금 갱신을 미루면 안 되는 이유</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 한국 내 최소 체류로 갱신하는 방법</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 갱신 후 자주 놓치는 후속 행정</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. FAQ — F-4 비자 갱신 자주 묻는 질문</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 갱신, 먼저 봐야 할 것은 만료일이 아니다</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 2026년 F-4 비자 갱신 서류 — 실제 제출 기준</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 거소신고증 갱신 절차 — 어디서, 어떻게</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 지금 갱신을 미루면 안 되는 이유</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 한국 내 최소 체류로 갱신하는 방법</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 갱신 후 자주 놓치는 후속 행정</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. FAQ — F-4 비자 갱신 자주 묻는 질문</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 비자 갱신, 먼저 봐야 할 것은 만료일이 아니다</h2>
@@ -49,7 +49,7 @@ F-4 비자 갱신은 서류 가짓수보다 **발급일자, 본인 신분, 거�
 
 ### 국적 상태 점검이 먼저
 
-외국 시민권 취득 시 한국 국적은 **즉시 자동 상실**됩니다(국적법 제15조).
+외국 시민권 취득 시 한국 국적은 **즉시 자동 상실**됩니다.
 
 국적상실신고는 행정 정리 절차일 뿐, 신고 전이라도 이미 상실 상태입니다.
 
@@ -162,7 +162,7 @@ F-4 비자 갱신은 서류 가짓수보다 **발급일자, 본인 신분, 거�
 
 ### 주소 변경 신고
 
-거소이전 시 14일 이내 관할 출입국 또는 시·구청 신고가 의무입니다(재외동포법 제6조②).
+거소이전 시 14일 이내 관할 출입국 또는 시·구청 신고가 의무입니다.
 
 미신고 시 과태료가 부과됩니다.
 

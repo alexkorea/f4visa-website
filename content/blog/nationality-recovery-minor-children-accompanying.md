@@ -9,34 +9,34 @@ slug: "nationality-recovery-minor-children-accompanying"
 ---
 # 재외동포 국적회복 미성년 자녀 동반, 부모 신청과 함께 처리하는 실무 절차
 
-부모가 국적회복을 신청할 때 미성년 자녀는 별도의 국적회복이 아닌 **수반취득(국적법 제8조)** 으로 함께 한국 국적을 취득합니다.
+부모가 국적회복을 신청할 때 미성년 자녀는 별도의 국적회복이 아닌 **수반취득**으로 함께 한국 국적을 취득합니다.
 
 대상은 외국 시민권을 취득해 한국 국적을 상실한 부 또는 모가 국적회복을 신청하는 경우, 그 시점에 미혼이고 만 19세 미만인 자녀입니다.
 
 이 글은 신청 자격, 수반취득의 법적 성격, 서류 구성, 가족관계등록부 정리, F-4 거소증과의 연결 흐름까지 실무 기준으로 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 미성년 자녀 동반의 법적 성격은 ‘수반취득’입니다</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 수반취득 신청 자격은 ‘신청 시점’ 기준입니다</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 신청 서류 — 부모와 자녀 분리해 준비</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 신청 경로 — 국내 신청과 재외공관 신청</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 국적회복 후 가족관계등록 — 자녀까지 정리해야 합니다</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. F-4 거소증과의 연결 — 자녀도 동일하게 발급</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 처리 기간과 자주 막히는 지점</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문(FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">9. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-12" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 미성년 자녀 동반의 법적 성격은 ‘수반취득’입니다</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 수반취득 신청 자격은 ‘신청 시점’ 기준입니다</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 신청 서류 — 부모와 자녀 분리해 준비</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 신청 경로 — 국내 신청과 재외공관 신청</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 국적회복 후 가족관계등록 — 자녀까지 정리해야 합니다</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. F-4 거소증과의 연결 — 자녀도 동일하게 발급</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 처리 기간과 자주 막히는 지점</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문(FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">9. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-12" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">미성년 자녀 동반의 법적 성격은 ‘수반취득’입니다</h2>
 
 ### 국적회복과 수반취득의 차이
 
-부모는 국적회복(국적법 제9조), 미성년 자녀는 수반취득(국적법 제8조)으로 절차가 다릅니다.
+부모는 국적회복, 미성년 자녀는 수반취득으로 절차가 다릅니다.
 
 자녀는 단독으로 국적회복을 신청하는 것이 아니라, 부 또는 모의 국적회복 신청서에 수반자로 함께 기재되어 처리됩니다.
 
@@ -46,7 +46,7 @@ slug: "nationality-recovery-minor-children-accompanying"
 
 ### 국적상실 상태부터 정리해야 합니다
 
-> **주의:** 외국 시민권을 취득한 순간 한국 국적은 자동 상실됩니다(국적법 제15조). 국적상실신고는 행정 정리 절차일 뿐이며, 신고 전이라도 이미 상실 상태입니다. 상실 이후 한국 여권 사용은 여권법 위반(부정사용)에 해당합니다.
+> **주의:** 외국 시민권을 취득한 순간 한국 국적은 자동 상실됩니다. 국적상실신고는 행정 정리 절차일 뿐이며, 신고 전이라도 이미 상실 상태입니다. 상실 이후 한국 여권 사용은 여권법 위반(부정사용)에 해당합니다.
 
 부모 본인이 이미 외국 국적을 취득한 상태라면, 국적회복 신청 전에 국적상실 정리가 선행되거나 동시에 처리되는 경우가 보통입니다.
 

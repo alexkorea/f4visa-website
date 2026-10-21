@@ -16,19 +16,19 @@ F-4 자격을 이미 받았거나 받을 예정인 분, 한국 방문 일정을 
 이 방법이 실제로 어떻게 돌아가는지, 무엇을 먼저 준비해야 하는지 실무 기준으로 정리했습니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 해외 거소증 신청, 정말 가능한가</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 원격 대행이 필요한 이유와 대상자</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 해외에서 준비해야 하는 서류</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국적 상실과 거소증의 관계</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 거소증 원격 대행 절차</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 처리 기간과 출입국사무소 선택</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 해외 거소증 신청, 정말 가능한가</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 원격 대행이 필요한 이유와 대상자</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 해외에서 준비해야 하는 서류</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국적 상실과 거소증의 관계</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 거소증 원격 대행 절차</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 처리 기간과 출입국사무소 선택</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">해외 거소증 신청, 정말 가능한가</h2>
@@ -134,7 +134,7 @@ F-4 자격을 이미 받았거나 받을 예정인 분, 한국 방문 일정을 
 
 외국 시민권을 취득하면 한국 국적은 즉시 자동으로 상실됩니다.
 
-이것은 국적법 제15조에 근거합니다.
+이는 국적법에 따른 것입니다.
 
 ### 신고 전이라도 이미 상실 상태
 
@@ -239,11 +239,11 @@ F-4 신청 시 시민권증서 원본이 필요합니다.
 
 **Q. 해외에 사는 동안 한국의 F-4 서류는 누가 대신 처리할 수 있나요?**
 
-행정사는 위임을 받아 행정기관에 내는 서류의 작성, 제출 대행, 신청 대리, 상담을 할 수 있습니다(행정사법 제2조제1항). 서류 번역은 외국어번역행정사의 업무입니다(행정사법 시행령 제3조).
+행정사는 위임을 받아 행정기관에 내는 서류의 작성, 제출 대행, 신청 대리, 상담을 할 수 있습니다. 서류 번역은 외국어번역행정사의 업무입니다.
 
-체류자격 변경·연장, 재입국허가 신청, 외국인등록증 수령, 체류지 변경신고 같은 출입국 신청은 법령이 정한 자격(행정사 등)을 갖추고 교육을 이수해 등록한 대행기관이 대신할 수 있습니다(출입국관리법 제79조의2, 같은 법 시행규칙 제68조의3).
+체류자격 변경·연장, 재입국허가 신청, 외국인등록증 수령, 체류지 변경신고 같은 출입국 신청은 법령이 정한 자격(행정사 등)을 갖추고 교육을 이수해 등록한 대행기관이 대신할 수 있습니다.
 
-국내거소신고(재외동포법 제6조)와 재외공관 사증 신청은 이 대행 목록에 명시되어 있지 않으므로, 본인이 출석해야 하는 단계를 접수 기관에 미리 확인해야 합니다. 맡길 곳을 고르는 기준은 [거소증·F-4 업무를 행정사에게 맡길 때 확인할 점](/blog/geosojeung-agency-checklist)에 정리했습니다.
+국내거소신고와 재외공관 사증 신청은 이 대행 목록에 명시되어 있지 않으므로, 본인이 출석해야 하는 단계를 접수 기관에 미리 확인해야 합니다. 맡길 곳을 고르는 기준은 [거소증·F-4 업무를 행정사에게 맡길 때 확인할 점](/blog/geosojeung-agency-checklist)에 정리했습니다.
 
 **Q. 비용은 얼마인가요?**
 

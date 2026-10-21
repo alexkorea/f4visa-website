@@ -14,20 +14,20 @@ slug: "overseas-korean-dual-nationality-eligibility"
 대상별 요건, 서약 절차, 서류, 그리고 실무에서 가장 많이 막히는 지점까지 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 복수국적 제도의 핵심 원칙</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 65세 이상 영주귀국 동포의 복수국적</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 우수 외국인재 특별귀화</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 해외입양인과 결혼이민자</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 외국국적불행사 서약 — 복수국적의 핵심 조건</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 선천적 복수국적자와 국적이탈</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 복수국적 신청 시 필수 서류</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 복수국적 제도의 핵심 원칙</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 65세 이상 영주귀국 동포의 복수국적</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 우수 외국인재 특별귀화</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 해외입양인과 결혼이민자</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 외국국적불행사 서약 — 복수국적의 핵심 조건</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 선천적 복수국적자와 국적이탈</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 복수국적 신청 시 필수 서류</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">복수국적 제도의 핵심 원칙</h2>
@@ -35,7 +35,7 @@ slug: "overseas-korean-dual-nationality-eligibility"
 ### 원칙은 단일국적, 예외가 복수국적
 
 한국은 원칙적으로 단일국적주의 국가입니다.
-국적법 제15조에 따라 자진해서 외국 국적을 취득하면 그 시점에 한국 국적은 즉시 자동으로 상실됩니다.
+국적법에 따라 자진해서 외국 국적을 취득하면 그 시점에 한국 국적은 즉시 자동으로 상실됩니다.
 국적상실신고는 행정 정리 절차일 뿐, 신고 전이라도 이미 상실 상태입니다.
 실무에서는 이 부분을 오해해서 외국 시민권 취득 후에도 한국 여권을 계속 쓰다가 여권법 위반(부정사용)으로 걸리는 경우가 가장 많습니다.
 
@@ -53,7 +53,7 @@ slug: "overseas-korean-dual-nationality-eligibility"
 ### 가장 많이 활용되는 경로
 
 가장 흔히 활용되는 복수국적 경로는 **65세 이상 외국국적동포의 국적회복**입니다.
-국적법 제10조 제2항 제4호에 따라 만 65세 이후 영주할 목적으로 입국한 외국국적동포가 국적회복허가를 받으면 외국국적불행사 서약을 통해 복수국적이 인정됩니다.
+국적법에 따라 만 65세 이후 영주할 목적으로 입국한 외국국적동포가 국적회복허가를 받으면 외국국적불행사 서약을 통해 복수국적이 인정됩니다.
 나이 기준은 **신청일 기준 만 65세 이상**입니다.
 미국, 캐나다, 중국, 일본, 유럽 동포 모두 동일하게 적용됩니다.
 
@@ -68,7 +68,7 @@ slug: "overseas-korean-dual-nationality-eligibility"
 
 ### 대상이 되는 분야
 
-국적법 제7조에 따른 특별귀화 중 **우수인재** 항목은 과학·경제·문화·체육 등 특정 분야에서 매우 뛰어난 능력을 가진 외국인에게 적용됩니다.
+국적법에 따른 특별귀화 중 **우수인재** 항목은 과학·경제·문화·체육 등 특정 분야에서 매우 뛰어난 능력을 가진 외국인에게 적용됩니다.
 법무부 장관이 인정하는 추천 기관의 추천을 받아야 하며, 통상의 귀화보다 거주기간 요건이 크게 완화됩니다.
 이 경로 역시 외국국적불행사 서약을 통해 복수국적이 인정됩니다.
 

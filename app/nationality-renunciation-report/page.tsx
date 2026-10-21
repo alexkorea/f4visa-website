@@ -246,7 +246,7 @@ export default function NationalityRenunciationReportPage() {
           links={[
             { slug: "nationality-renunciation-korea", label: "국적이탈 신고 — 선천적 복수국적자 절차", note: "이탈 신고 요건과 접수 경로" },
             { slug: "nationality-selection-deadline-procedure", label: "재외동포 국적선택 기한과 절차", note: "국적선택 기한을 놓치지 않는 법" },
-            { slug: "f4-visa-military-service", label: "국적이탈 남성의 병역과 F-4 제한", note: "재외동포법 제5조 병역 관련 부여 제한" },
+            { slug: "f4-visa-military-service", label: "국적이탈 남성의 병역과 F-4 제한", note: "병역 관련 F-4 부여 제한" },
           ]}
         />
 

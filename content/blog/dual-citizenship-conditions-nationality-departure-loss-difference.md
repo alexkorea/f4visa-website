@@ -16,19 +16,19 @@ slug: "dual-citizenship-conditions-nationality-departure-loss-difference"
 복수국적 허용 조건의 실제 적용 범위, 국적이탈과 국적상실의 차이, 그리고 신고를 놓쳤을 때 벌어지는 실무 문제를 한 번에 정리합니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 복수국적 허용 조건, 누구에게 열려 있나</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적이탈과 국적상실, 가장 많이 헷갈리는 차이</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 외국 시민권 취득 후 가장 많이 막히는 실무 지점</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국적상실신고, 언제·어떻게 해야 하나</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 자녀 복수국적, 부모가 가장 많이 묻는 부분</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적 정리 후 F-4 전환, 실무 흐름</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 복수국적 허용 조건, 누구에게 열려 있나</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적이탈과 국적상실, 가장 많이 헷갈리는 차이</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 외국 시민권 취득 후 가장 많이 막히는 실무 지점</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국적상실신고, 언제·어떻게 해야 하나</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 자녀 복수국적, 부모가 가장 많이 묻는 부분</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적 정리 후 F-4 전환, 실무 흐름</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">복수국적 허용 조건, 누구에게 열려 있나</h2>
@@ -79,7 +79,7 @@ slug: "dual-citizenship-conditions-nationality-departure-loss-difference"
 
 ### 국적상실 — 외국 시민권 취득 시 자동으로 한국 국적이 사라지는 것
 
-성인이 자발적으로 외국 시민권을 취득하면, 그 순간 한국 국적은 **국적법 제15조에 따라 즉시 자동 상실**됩니다.
+성인이 자발적으로 외국 시민권을 취득하면, 그 순간 한국 국적은 **국적법에 따라 즉시 자동 상실**됩니다.
 
 신고를 했는지 여부와 관계없습니다.
 

@@ -16,19 +16,19 @@ slug: "f4-visa-work-permitted-industry-restriction-list"
 업종 전체의 허용·제한 기준은 [F-4 비자 취업 가능 업종](/blog/f4-visa-work-industry-scope-guide) 정리 글에서 한 번에 확인할 수 있습니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 취업 허용 범위, 법적 근거부터 확인</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 비자 취업 가능 업종 정리</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 비자로 할 수 없는 일 — 단순노무행위</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 사행행위와 선량한 풍속 관련 제한 업종</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 인구감소지역 특례 — 단순노무도 허용되는 경우</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 위반 시 불이익과 취업 전 실무 체크</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 취업 허용 범위, 법적 근거부터 확인</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 비자 취업 가능 업종 정리</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 비자로 할 수 없는 일 — 단순노무행위</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 사행행위와 선량한 풍속 관련 제한 업종</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 인구감소지역 특례 — 단순노무도 허용되는 경우</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 위반 시 불이익과 취업 전 실무 체크</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 비자 취업 허용 범위, 법적 근거부터 확인</h2>
@@ -38,7 +38,7 @@ slug: "f4-visa-work-permitted-industry-restriction-list"
 
 ### 재외동포법이 정한 원칙
 
-재외동포의 출입국과 법적 지위에 관한 법률 제10조 제5항은 F-4 소지자의 취업과 경제활동을 **사회질서 또는 경제안정을 해치지 않는 범위에서 자유롭게 허용**한다고 규정합니다.
+재외동포의 출입국과 법적 지위에 관한 법률은 F-4 소지자의 취업과 경제활동을 **사회질서 또는 경제안정을 해치지 않는 범위에서 자유롭게 허용**한다고 규정합니다.
 원칙이 "허용"이고 제한이 "예외"라는 점이 다른 취업비자와 가장 크게 갈리는 부분입니다.
 E-7 같은 취업비자는 허가받은 직종만 가능하지만, F-4는 금지된 것만 피하면 됩니다.
 

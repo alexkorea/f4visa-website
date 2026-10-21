@@ -16,21 +16,21 @@ slug: "f4-korean-chinese-requirements-guide"
 이 글은 신청 자격, 필요 서류, 현장에서 자주 막히는 지점, 그리고 신청 전에 반드시 점검할 항목까지 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 조선족 F-4 자격, 먼저 봐야 할 것</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적 증명 — 가장 많이 막히는 부분</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 시민권증서·신분증 — 원본 필수</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 무범죄경력증명서 — 유효기간이 핵심</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 직업·학력·자격증 요건 — 단순노무 제한</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 신청 절차와 처리 기간</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 거소증(외국인등록증) 단계</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 막히는 5가지 실무 포인트</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. FAQ</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-12" style="color:#2563eb;text-decoration:none">12. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 조선족 F-4 자격, 먼저 봐야 할 것</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적 증명 — 가장 많이 막히는 부분</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 시민권증서·신분증 — 원본 필수</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 무범죄경력증명서 — 유효기간이 핵심</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 직업·학력·자격증 요건 — 단순노무 제한</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 신청 절차와 처리 기간</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 거소증(외국인등록증) 단계</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 막히는 5가지 실무 포인트</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. FAQ</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-12" style="color:#2563eb;text-decoration:none">12. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">조선족 F-4 자격, 먼저 봐야 할 것</h2>
@@ -41,7 +41,7 @@ slug: "f4-korean-chinese-requirements-guide"
 
 ### 재외동포법상 자격
 
-재외동포의 출입국과 법적 지위에 관한 법률 제2조에 따라, 대한민국 국적을 보유하였던 자 또는 그 직계비속으로서 외국 국적을 취득한 자가 외국국적동포에 해당합니다.
+재외동포의 출입국과 법적 지위에 관한 법률에 따라, 대한민국 국적을 보유하였던 자 또는 그 직계비속으로서 외국 국적을 취득한 자가 외국국적동포에 해당합니다.
 
 조선족의 경우 보통 조부모 또는 부모 세대가 한국 호적에 등재되어 있던 사실을 입증해야 합니다.
 
@@ -74,7 +74,7 @@ slug: "f4-korean-chinese-requirements-guide"
 
 ### 국적상실 처리 여부
 
-> **주의:** 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다(국적법 제15조).
+> **주의:** 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다.
 > 국적상실신고는 행정 정리 절차일 뿐, 신고 전이라도 이미 상실 상태입니다.
 > 국적상실 후 한국 여권을 계속 사용하면 여권법 위반(부정사용)에 해당합니다.
 

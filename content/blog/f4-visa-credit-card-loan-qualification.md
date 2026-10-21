@@ -14,19 +14,19 @@ F-4 비자만 있다고 해서 한국에서 신용카드와 대출이 자동으�
 거소증 발급부터 신용 이력 구축, 신용카드와 대출 심사 통과 조건까지 실무에서 막히는 지점을 중심으로 정리합니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 보유자의 한국 금융 거래 기본 조건</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 신용카드 발급 실무 — 어디서 막히는지</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 대출 자격 — 실제 심사에서 갈리는 지점</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. F-4 신용 이력 빠르게 쌓는 실무 순서</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 보유자가 자주 막히는 5가지 지점</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 정부·공공 자료로 확인할 수 있는 부분</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 보유자의 한국 금융 거래 기본 조건</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 신용카드 발급 실무 — 어디서 막히는지</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 대출 자격 — 실제 심사에서 갈리는 지점</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. F-4 신용 이력 빠르게 쌓는 실무 순서</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 보유자가 자주 막히는 5가지 지점</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 정부·공공 자료로 확인할 수 있는 부분</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 비자 보유자의 한국 금융 거래 기본 조건</h2>
@@ -37,7 +37,7 @@ F-4 비자 스티커만 있고 거소증(국내거소신고증)이 없으면 카
 은행 전산은 외국인등록번호 또는 국내거소신고번호를 기준으로 본인 식별을 합니다.
 거소증이 없으면 비대면 계좌개설부터 진입이 안 됩니다.
 
-> **실무 팁:** 입국 후 90일 이내 가까운 출입국·외국인청에 국내거소신고를 마쳐야 금융 거래가 정상적으로 열립니다. 근거는 재외동포의 출입국과 법적 지위에 관한 법률 제6조입니다.
+> **실무 팁:** 입국 후 90일 이내 가까운 출입국·외국인청에 국내거소신고를 마쳐야 금융 거래가 정상적으로 열립니다.
 
 ### 체류기간이 남은 기간도 본다
 

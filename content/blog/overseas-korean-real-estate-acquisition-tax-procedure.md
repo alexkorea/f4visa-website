@@ -18,14 +18,14 @@ slug: "overseas-korean-real-estate-acquisition-tax-procedure"
 이 글은 거래 전 신분 정리, 자금 송금, 등기, 취득세·보유세·양도세까지 실무에서 막히는 지점을 중심으로 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 재외동포 부동산 취득, 왜 외국인 절차와 다른가</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 재외동포 부동산 취득 절차 한눈에 보기</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 재외동포 부동산 취득세 구조</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 보유세와 양도세, 재외동포가 놓치기 쉬운 부분</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">5. 등기 이전과 부동산 거래신고</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 재외동포 부동산 취득, 왜 외국인 절차와 다른가</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 재외동포 부동산 취득 절차 한눈에 보기</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 재외동포 부동산 취득세 구조</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 보유세와 양도세, 재외동포가 놓치기 쉬운 부분</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">5. 등기 이전과 부동산 거래신고</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">재외동포 부동산 취득, 왜 외국인 절차와 다른가</h2>
@@ -50,7 +50,7 @@ slug: "overseas-korean-real-estate-acquisition-tax-procedure"
 
 보통은 이 단계에서 잔금일과 거소증 발급일이 안 맞아 위약금 문제가 생깁니다.
 
-> **주의:** 외국 시민권 취득 시 한국 국적은 자동 상실됩니다(국적법 제15조). 국적상실신고 전이라도 이미 상실 상태이므로, 한국 여권으로 부동산 계약을 진행하면 여권법 위반(부정사용) 소지가 있습니다.
+> **주의:** 외국 시민권 취득 시 한국 국적은 자동 상실됩니다. 국적상실신고 전이라도 이미 상실 상태이므로, 한국 여권으로 부동산 계약을 진행하면 여권법 위반(부정사용) 소지가 있습니다.
 
 가장 빠르게 처리되는 출입국사무소를 찾아 거소증부터 확보하는 것이 순서입니다.
 
@@ -84,7 +84,7 @@ slug: "overseas-korean-real-estate-acquisition-tax-procedure"
 
 F-4 거소증 보유자가 주택을 취득할 때 적용되는 취득세율은 내국인과 같은 기준을 따릅니다.
 
-「지방세법」제11조에 따라 주택 가액, 보유 주택 수, 조정대상지역 여부에 따라 세율이 갈립니다.
+「지방세법」에 따라 주택 가액, 보유 주택 수, 조정대상지역 여부에 따라 세율이 갈립니다.
 
 여기서 차이가 납니다.
 
@@ -134,7 +134,7 @@ F-4 거소증 보유자가 주택을 취득할 때 적용되는 취득세율은 
 
 ### 부동산 거래신고는 60일 이내
 
-「부동산 거래신고 등에 관한 법률」제3조에 따라 매매계약 체결일로부터 30일(기존 60일에서 단축) 이내에 관할 시군구청에 거래신고를 해야 합니다.
+「부동산 거래신고 등에 관한 법률」에 따라 매매계약 체결일로부터 30일(기존 60일에서 단축) 이내에 관할 시군구청에 거래신고를 해야 합니다.
 
 신고 시 거소신고번호를 매수자 식별번호로 기재합니다.
 

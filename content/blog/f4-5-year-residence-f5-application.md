@@ -16,19 +16,19 @@ F-4 비자로 한국에 5년 이상 거주했다면 F-5 영주권 신청 자격�
 이 문서는 재외동포(F-4)가 F-5-7호로 전환할 때 실무에서 가장 많이 막히는 부분과 서류 구성, 심사 포인트, 자주 묻는 질문까지 한 번에 정리합니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4에서 F-5로 가는 가장 일반적인 경로</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-5-7호 신청을 위한 5가지 핵심 조건</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 → F-5 전환 시 제출 서류</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 심사에서 가장 많이 걸리는 포인트</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-5 영주권을 받으면 달라지는 것</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. F-5 신청 전 반드시 점검할 체크리스트</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4에서 F-5로 가는 가장 일반적인 경로</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-5-7호 신청을 위한 5가지 핵심 조건</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 → F-5 전환 시 제출 서류</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 심사에서 가장 많이 걸리는 포인트</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-5 영주권을 받으면 달라지는 것</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. F-5 신청 전 반드시 점검할 체크리스트</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4에서 F-5로 가는 가장 일반적인 경로</h2>
@@ -166,7 +166,7 @@ F-4에서 제한되던 단순노무 직종 제한이 F-5에서는 사실상 해�
 
 F-5는 한국 영주권이지 한국 국적이 아닙니다.
 
-외국 시민권 취득 시 한국 국적은 즉시 자동 상실됨(국적법 제15조)이라는 점과 별개로, F-5는 외국 국적을 유지한 채 한국에 정주하는 자격입니다.
+외국 시민권 취득 시 한국 국적은 즉시 자동 상실된다는 점과 별개로, F-5는 외국 국적을 유지한 채 한국에 정주하는 자격입니다.
 
 <h2 id="section-6">F-5 신청 전 반드시 점검할 체크리스트</h2>
 

@@ -18,15 +18,15 @@ slug: "overseas-korean-real-estate-purchase-procedure-tax"
 이 글은 취득 전 신고 절차, 등기 단계, 취득세·보유세·양도세 흐름, 실무에서 자주 막히는 지점을 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 재외동포 부동산 취득의 법적 지위</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 취득 전 반드시 확인해야 할 신고</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 등기 절차와 필요 서류</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 취득 단계 세금</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 보유 단계 세금</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 양도 단계 세금</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 재외동포 부동산 취득의 법적 지위</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 취득 전 반드시 확인해야 할 신고</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 등기 절차와 필요 서류</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 취득 단계 세금</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 보유 단계 세금</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 양도 단계 세금</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">재외동포 부동산 취득의 법적 지위</h2>
@@ -37,7 +37,7 @@ slug: "overseas-korean-real-estate-purchase-procedure-tax"
 
 ### 시민권자와 영주권자의 차이
 
-미국·캐나다·호주 시민권을 취득했다면 국적법 제15조에 따라 한국 국적은 자동 상실됩니다.
+미국·캐나다·호주 시민권을 취득했다면 국적법에 따라 한국 국적은 자동 상실됩니다.
 
 국적상실신고를 하지 않았더라도 법적으로는 이미 외국인입니다.
 

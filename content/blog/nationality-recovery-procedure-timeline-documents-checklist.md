@@ -14,26 +14,26 @@ slug: "nationality-recovery-procedure-timeline-documents-checklist"
 아래에서 신청 자격, 단계별 절차, 서류 목록, 심사에서 실제로 갈리는 지점, 허가 후 해야 할 일까지 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 국적회복 신청 자격 — 누가 신청할 수 있나</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적회복 허가 절차 — 접수부터 허가까지 단계별 흐름</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국적회복 필요서류 총정리</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국적회복 심사 기준 — 허가가 갈리는 지점</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 허가 후 절차 — 여기서 멈추면 국적이 다시 상실됩니다</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적회복과 F-4 비자 비교 — 어느 쪽이 먼저인가</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 국적회복 신청 자격 — 누가 신청할 수 있나</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적회복 허가 절차 — 접수부터 허가까지 단계별 흐름</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국적회복 필요서류 총정리</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국적회복 심사 기준 — 허가가 갈리는 지점</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 허가 후 절차 — 여기서 멈추면 국적이 다시 상실됩니다</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적회복과 F-4 비자 비교 — 어느 쪽이 먼저인가</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">국적회복 신청 자격 — 누가 신청할 수 있나</h2>
 
 ### 과거 한국 국적을 가졌던 사람만 가능
 
-국적회복은 국적법 제9조에 따라 **대한민국 국민이었던 외국인**이 법무부장관의 허가를 받아 국적을 되찾는 절차입니다.
+국적회복은 국적법에 따라 **대한민국 국민이었던 외국인**이 법무부장관의 허가를 받아 국적을 되찾는 절차입니다.
 처음부터 외국인이었던 사람은 귀화 대상이지, 국적회복 대상이 아닙니다.
 먼저 봐야 할 것은 본인의 제적등본 또는 가족관계등록부에 한국 국적자였던 기록이 남아 있는지입니다.
 이 기록이 없거나 정리가 안 되어 있으면 신청 전에 등록부 정정부터 해결해야 합니다.
@@ -41,7 +41,7 @@ slug: "nationality-recovery-procedure-timeline-documents-checklist"
 ### 국적상실 시점을 정확히 알아야 하는 이유
 
 흔히 놓치는 부분은 국적상실 시점입니다.
-외국 시민권을 취득하면 국적법 제15조에 따라 한국 국적은 **그 즉시 자동 상실**됩니다.
+외국 시민권을 취득하면 국적법에 따라 한국 국적은 **그 즉시 자동 상실**됩니다.
 국적상실신고는 행정 정리 절차일 뿐이며, 신고 전이라도 이미 상실 상태입니다.
 
 > **주의:** 국적상실 후 한국 여권을 사용하면 여권법 위반(부정사용)에 해당합니다.
@@ -108,14 +108,14 @@ slug: "nationality-recovery-procedure-timeline-documents-checklist"
 
 ### 품행 요건에서 실제로 보는 것
 
-법무부 출입국·외국인정책본부는 국적법 제9조 제2항에 따라 품행이 단정하지 못한 사람, 국가 안전보장에 위해가 되는 사람 등의 회복을 허가하지 않습니다.
+법무부 출입국·외국인정책본부는 국적법에 따라 품행이 단정하지 못한 사람, 국가 안전보장에 위해가 되는 사람 등의 회복을 허가하지 않습니다.
 실제 심사에서는 거주국과 한국 양쪽의 범죄경력, 출입국 규정 위반 이력, 세금 체납 여부가 확인됩니다.
 경미한 벌금 기록이라도 경위서에서 설명이 부족하면 심사가 길어질 수 있습니다.
 기록이 있다면 숨기는 것보다 경위를 정리해 소명하는 쪽이 낫습니다.
 
 ### 병역과 국적상실 경위
 
-병역을 기피할 목적으로 국적을 상실한 사람은 국적법 제9조 제2항 제3호에 따라 회복이 제한됩니다.
+병역을 기피할 목적으로 국적을 상실한 사람은 국적법에 따라 회복이 제한됩니다.
 병역 의무 연령대에 시민권을 취득한 남성이라면, 취득 시점과 병역 처분 이력의 관계를 접수 전에 검토해야 합니다.
 최근 비슷한 사례에서도 국적상실 경위서의 서술 방식에 따라 심사 흐름이 갈렸습니다.
 본인 사안이 제한 사유에 해당하는지는 기록을 놓고 개별 검토가 있어야 판단할 수 있습니다.
@@ -127,7 +127,7 @@ slug: "nationality-recovery-procedure-timeline-documents-checklist"
 ### 1년 이내 외국국적 처리
 
 허가가 나와도 끝이 아닙니다.
-국적법 제10조에 따라 **허가일부터 1년 이내**에 외국국적을 포기하거나, 요건에 해당하면 외국국적불행사 서약을 해야 합니다.
+국적법에 따라 **허가일부터 1년 이내**에 외국국적을 포기하거나, 요건에 해당하면 외국국적불행사 서약을 해야 합니다.
 이 기한을 넘기면 회복한 한국 국적이 다시 상실됩니다.
 
 > **실무 팁:** 만 65세 이후 영주 목적으로 입국한 재외동포는 외국국적을 포기하지 않고 불행사 서약으로 복수국적 유지가 가능합니다.

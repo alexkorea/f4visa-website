@@ -14,24 +14,24 @@ CIS 지역 고려인의 F-4 비자는 일반 재외동포와 달리 **선조의 
 이 글은 CIS 고려인 F-4 신청의 자격 판정, 선조 증명, 서류 아포스티유, 무범죄조회서 발급, 거소증 처리까지 실무 흐름을 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. CIS 고려인 F-4 자격의 핵심 기준</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 선조 증명 서류 — 가장 많이 막히는 단계</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 아포스티유와 번역 공증 절차</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 한국 국적 이력 확인과 시민권증서</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 거소증 신청과 한국 내 절차</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 발생하는 반려·보완 사유</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문(FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. CIS 고려인 F-4 자격의 핵심 기준</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 선조 증명 서류 — 가장 많이 막히는 단계</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 아포스티유와 번역 공증 절차</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 한국 국적 이력 확인과 시민권증서</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 거소증 신청과 한국 내 절차</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 발생하는 반려·보완 사유</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문(FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">CIS 고려인 F-4 자격의 핵심 기준</h2>
 
-CIS 지역 고려인은 재외동포의 출입국과 법적지위에 관한 법률 제2조에 따라 대한민국 정부 수립 이전 국외로 이주한 자와 그 직계비속에 해당합니다.
+CIS 지역 고려인은 재외동포의 출입국과 법적지위에 관한 법률에 따라 대한민국 정부 수립 이전 국외로 이주한 자와 그 직계비속에 해당합니다.
 문제는 여기서 시작됩니다.
 서류로 한국 혈통을 증명하는 것이 일반 미주·일본 동포보다 훨씬 까다롭습니다.
 
@@ -110,7 +110,7 @@ CIS 고려인 중 일부는 본인 또는 부모 세대가 한때 한국 국적�
 
 ### 국적상실 여부 확인
 
-> **주의:** 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다(국적법 제15조). 국적상실신고는 행정 정리 절차일 뿐, 신고 전이라도 이미 상실 상태입니다. 국적상실 후 한국 여권 사용은 여권법 위반(부정사용)에 해당합니다.
+> **주의:** 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다. 국적상실신고는 행정 정리 절차일 뿐, 신고 전이라도 이미 상실 상태입니다. 국적상실 후 한국 여권 사용은 여권법 위반(부정사용)에 해당합니다.
 
 F-4 신청 시 본인 또는 부모가 한국 국적을 보유한 이력이 있다면 국적상실신고 이행 여부를 먼저 확인해야 합니다.
 이 단계가 정리되지 않으면 F-4 발급이 보류됩니다.

@@ -16,19 +16,19 @@ H-2(방문취업)는 단순노무가 허용되는 대신 취업 업종·체류 �
 이 글은 중국 국적 동포가 두 비자 중 무엇을 택해야 하는지, 자격·취업 범위·체류·전환 실무를 기준으로 정리한 내용입니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4와 H-2의 근본적 차이부터 본다</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. H-2 비자, 실제로 누가 적합한가</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 비자, 중국동포에게 왜 더 유리한가</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. H-2에서 F-4로 전환, 어떻게 가능한가</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 비용·기간 비교 — 무엇이 더 부담스러운가</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적상실 신고와 F-4의 관계</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. FAQ</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4와 H-2의 근본적 차이부터 본다</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. H-2 비자, 실제로 누가 적합한가</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 비자, 중국동포에게 왜 더 유리한가</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. H-2에서 F-4로 전환, 어떻게 가능한가</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 비용·기간 비교 — 무엇이 더 부담스러운가</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적상실 신고와 F-4의 관계</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. FAQ</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4와 H-2의 근본적 차이부터 본다</h2>
@@ -181,7 +181,7 @@ F-4는 본국 서류 준비비·번역공증·신청 서류 발급비가 들어�
 
 <h2 id="section-6">국적상실 신고와 F-4의 관계</h2>
 
-중국 국적을 취득한 시점에 한국 국적은 국적법 제15조에 따라 자동 상실됩니다.
+중국 국적을 취득한 시점에 한국 국적은 국적법에 따라 자동 상실됩니다.
 
 국적상실 신고는 행정 정리 절차일 뿐, 신고 전이라도 이미 상실 상태입니다.
 

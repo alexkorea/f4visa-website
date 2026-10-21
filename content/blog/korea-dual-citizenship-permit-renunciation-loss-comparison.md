@@ -14,25 +14,25 @@ slug: "korea-dual-citizenship-permit-renunciation-loss-comparison"
 아래에서 복수국적 허용 조건, 국적이탈과 국적상실의 차이, 신고 절차와 서류, F-4 비자와의 연결까지 실무 기준으로 확인할 수 있습니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 복수국적 허용 조건 — 국적법이 인정하는 예외 사유</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적이탈 — 아직 한국 국적을 가진 사람이 버리는 절차</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국적상실 — 외국 시민권 취득 순간 자동으로 발생</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국적이탈 vs 국적상실 — 한눈에 비교</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 국적상실신고 서류 — 실무에서 준비할 것</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적상실 정리 후 F-4 비자로 — 재외동포의 다음 단계</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. FAQ — 복수국적 허용 조건 관련 자주 묻는 질문</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 복수국적 허용 조건 — 국적법이 인정하는 예외 사유</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적이탈 — 아직 한국 국적을 가진 사람이 버리는 절차</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국적상실 — 외국 시민권 취득 순간 자동으로 발생</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국적이탈 vs 국적상실 — 한눈에 비교</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 국적상실신고 서류 — 실무에서 준비할 것</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적상실 정리 후 F-4 비자로 — 재외동포의 다음 단계</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. FAQ — 복수국적 허용 조건 관련 자주 묻는 질문</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">복수국적 허용 조건 — 국적법이 인정하는 예외 사유</h2>
 
 핵심은 이것입니다.
-한국은 원칙적으로 단일국적 국가이고, 복수국적은 국적법 제10조 제2항이 정한 예외에 해당할 때만 유지됩니다.
+한국은 원칙적으로 단일국적 국가이고, 복수국적은 국적법이 정한 예외에 해당할 때만 유지됩니다.
 예외에 해당해도 자동으로 인정되는 것이 아니라, 법무부장관 앞으로 **외국국적불행사서약**을 해야 복수국적 상태가 확정됩니다.
 
 ### 만 65세 이후 국적회복 재외동포
@@ -76,7 +76,7 @@ slug: "korea-dual-citizenship-permit-renunciation-loss-comparison"
 <h2 id="section-3">국적상실 — 외국 시민권 취득 순간 자동으로 발생</h2>
 
 여기서 차이가 납니다.
-국적법 제15조에 의해, 자진하여 외국 시민권을 취득하면 **한국 국적은 그 즉시 자동 상실**됩니다.
+국적법에 의해, 자진하여 외국 시민권을 취득하면 **한국 국적은 그 즉시 자동 상실**됩니다.
 본인의 신고 여부와 무관하게, 시민권 선서일에 이미 한국 국적이 없는 상태가 됩니다.
 
 ### 국적상실신고는 행정 정리 절차
@@ -149,7 +149,7 @@ F-4 신청 시 시민권증서 원본과 정리된 가족관계 서류가 그대
 **Q1. 미국 시민권을 땄는데 국적상실신고를 안 하면 한국 국적이 유지되나요?**
 
 아닙니다.
-국적법 제15조에 의해 시민권 취득 즉시 자동 상실되며, 신고는 정리 절차일 뿐입니다.
+국적법에 의해 시민권 취득 즉시 자동 상실되며, 신고는 정리 절차일 뿐입니다.
 
 **Q2. 만 64세에 국적회복을 신청하면 복수국적이 안 되나요?**
 

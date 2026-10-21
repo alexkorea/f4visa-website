@@ -14,25 +14,25 @@ slug: "multiple-nationality-permission-conditions-vs-departure-loss-difference"
 복수국적 허용 조건, 국적이탈과 국적상실의 차이, 실무에서 자주 꼬이는 지점을 한 번에 정리합니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 복수국적 허용 조건 — 좁은 문을 먼저 정확히 이해해야 합니다</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적이탈과 국적상실은 같은 절차가 아닙니다</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 외국 시민권 취득 시 즉시 자동 상실되는 한국 국적</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 복수국적 신청 가능 대상자 비교 — 본인이 어디에 해당하는지 먼저 확인</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 국적상실신고를 미루면 실제로 무엇이 막히는지</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. F-4 비자와 국적상실의 실제 연결고리</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 복수국적 허용 조건 — 좁은 문을 먼저 정확히 이해해야 합니다</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적이탈과 국적상실은 같은 절차가 아닙니다</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 외국 시민권 취득 시 즉시 자동 상실되는 한국 국적</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 복수국적 신청 가능 대상자 비교 — 본인이 어디에 해당하는지 먼저 확인</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 국적상실신고를 미루면 실제로 무엇이 막히는지</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. F-4 비자와 국적상실의 실제 연결고리</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">복수국적 허용 조건 — 좁은 문을 먼저 정확히 이해해야 합니다</h2>
 
 복수국적은 예외 제도입니다.
-국적법 제11조의2는 "법률이 정하는 자에 한하여 외국국적불행사서약을 한 사람"에 대해서만 복수국적자로서의 지위를 인정합니다.
+국적법은 "법률이 정하는 자에 한하여 외국국적불행사서약을 한 사람"에 대해서만 복수국적자로서의 지위를 인정합니다.
 즉, 외국 시민권을 갖고 있으면서 한국 국적을 함께 유지할 수 있는 경우는 처음부터 정해져 있습니다.
 
 ### 실제 허용되는 주요 대상
@@ -48,7 +48,7 @@ slug: "multiple-nationality-permission-conditions-vs-departure-loss-difference"
 ### 흔히 오해하는 부분
 
 성인이 된 후 본인 의사로 외국 시민권을 취득한 경우는 어떤 사정이 있어도 복수국적 대상이 아닙니다.
-미국, 캐나다, 호주, 뉴질랜드 시민권을 취득한 시점에 한국 국적은 국적법 제15조에 따라 자동 상실됩니다.
+미국, 캐나다, 호주, 뉴질랜드 시민권을 취득한 시점에 한국 국적은 국적법에 따라 자동 상실됩니다.
 이 부분은 신고 여부와 무관하게 법률 효과가 먼저 발생합니다.
 
 <h2 id="section-2">국적이탈과 국적상실은 같은 절차가 아닙니다</h2>
@@ -58,7 +58,7 @@ slug: "multiple-nationality-permission-conditions-vs-departure-loss-difference"
 ### 국적이탈 — 본인이 선택해서 한국 국적을 버리는 절차
 
 선천적 복수국적자가 한국 국적을 포기하고 외국 국적 하나만 유지하기로 선택하는 절차입니다.
-국적법 제12조에 따라 만 18세가 되는 해의 3월 31일까지 신고해야 병역 의무를 피하지 않고 깔끔하게 정리됩니다.
+국적법에 따라 만 18세가 되는 해의 3월 31일까지 신고해야 병역 의무를 피하지 않고 깔끔하게 정리됩니다.
 이 기한을 놓치면 병역 문제와 얽혀 절차가 막힙니다.
 
 ### 국적상실 — 외국 시민권 취득으로 자동 발생
@@ -82,7 +82,7 @@ slug: "multiple-nationality-permission-conditions-vs-departure-loss-difference"
 
 ### 신고 전에도 이미 한국인이 아닙니다
 
-국적법 제15조 제1항은 "외국 국적을 취득한 때에 대한민국 국적을 상실한다"고 명시합니다.
+국적법은 "외국 국적을 취득한 때에 대한민국 국적을 상실한다"고 명시합니다.
 "신고한 때"가 아니라 "취득한 때"입니다.
 이 차이가 실제 분쟁에서 자주 갈립니다.
 

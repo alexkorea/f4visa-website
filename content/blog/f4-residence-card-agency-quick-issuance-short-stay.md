@@ -16,19 +16,19 @@ F-4 거소증 대행을 이용하면 거소허가번호가 나온 시점에 출�
 이 글은 최소 체류로 진행하는 순서, 실제로 막히는 지점, 서류 준비, 비용 안내 방식, 자주 나오는 질문까지 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 거소증 대행이 최소 체류로 가능한 이유</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 신청 자격과 국적 상실 확인</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 거소증 신청 서류</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 최소 체류 진행 절차</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 처리 기간과 출입국사무소 선택</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 하는 실수와 놓치는 부분</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 거소증 대행이 최소 체류로 가능한 이유</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 신청 자격과 국적 상실 확인</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 거소증 신청 서류</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 최소 체류 진행 절차</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 처리 기간과 출입국사무소 선택</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 하는 실수와 놓치는 부분</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 거소증 대행이 최소 체류로 가능한 이유</h2>
@@ -65,7 +65,7 @@ F-4는 외국 국적을 가진 재외동포를 대상으로 하므로, 한국 �
 
 ### 외국 시민권 취득 시 한국 국적은 어떻게 되나
 
-외국 시민권을 취득하면 한국 국적은 그 즉시 자동으로 상실됩니다(국적법 제15조).
+외국 시민권을 취득하면 한국 국적은 그 즉시 자동으로 상실됩니다.
 
 국적상실신고는 행정 정리 절차일 뿐이며, 신고 전이라도 이미 상실 상태입니다.
 
@@ -224,7 +224,7 @@ F-4는 외국 국적을 가진 재외동포를 대상으로 하므로, 한국 �
 
 **Q5. 외국 시민권을 얻었는데 한국 여권을 아직 써도 되나요?**
 
-외국 시민권 취득 시 한국 국적은 자동 상실되며(국적법 제15조), 이후 한국 여권 사용은 여권법 위반입니다.
+외국 시민권 취득 시 한국 국적은 자동 상실되며, 이후 한국 여권 사용은 여권법 위반입니다.
 
 외국 여권으로 정리한 뒤 진행해야 합니다.
 

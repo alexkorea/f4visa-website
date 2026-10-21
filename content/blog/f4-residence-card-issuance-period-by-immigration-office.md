@@ -18,19 +18,19 @@ F-4 거소증 발급 기간은 일률적으로 정해져 있지 않고, 관할 �
 관할별 처리 흐름과 지연 원인 비교는 [F-4 거소증 발급 기간 — 출입국사무소별 비교](/blog/f4-residence-card-issuance-period-immigration-office-comparison) 글에서 함께 확인할 수 있습니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 거소증 발급 기간, 평균 얼마나 걸리나</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 출입국사무소별 소요시간 비교</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 거소증 신청 절차와 단계별 소요일</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 거소증 빨리 받는 실무 포인트</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 본인이 직접 신청 vs 행정사 대행, 기간 차이</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 거소허가번호 vs 거소증 실물, 출국 시 무엇이 중요한가</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 거소증 발급 기간, 평균 얼마나 걸리나</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 출입국사무소별 소요시간 비교</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 거소증 신청 절차와 단계별 소요일</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 거소증 빨리 받는 실무 포인트</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 본인이 직접 신청 vs 행정사 대행, 기간 차이</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 거소허가번호 vs 거소증 실물, 출국 시 무엇이 중요한가</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 거소증 발급 기간, 평균 얼마나 걸리나</h2>
@@ -123,7 +123,7 @@ F-4 거소증 발급 기간은 일률적으로 정해져 있지 않고, 관할 �
 
 행정사사무소 이룸에서는 서울 내 임시주소 제공 서비스를 운영하며, 별도 비용은 무료 상담 시 안내드립니다.
 
-> **주의:** 외국 시민권 취득 시 한국 국적은 국적법 제15조에 따라 즉시 자동 상실됩니다. 국적상실신고 전이라도 이미 상실 상태이며, 이 상태에서 한국 여권 사용은 여권법 위반(부정사용)입니다.
+> **주의:** 외국 시민권 취득 시 한국 국적은 국적법에 따라 즉시 자동 상실됩니다. 국적상실신고 전이라도 이미 상실 상태이며, 이 상태에서 한국 여권 사용은 여권법 위반(부정사용)입니다.
 
 ---
 
@@ -190,7 +190,7 @@ A. F-4 신청 시 시민권증서 원본이 필요합니다. 분실 시 본국 �
 A. 한국 내 최소체류기간으로도 처리 가능한 사례가 있습니다. 다만 사무소 선택·예약·서류 준비가 사전에 맞물려야 하므로 입국 전 상담을 권합니다.
 
 **Q7. F-4 비자와 거소증은 법으로 정해진 처리 기간이 있나요?**
-A. 법무부 체류민원·사증민원 자격별 안내 매뉴얼(2026.9.)에는 F-4 사증이나 거소증의 처리 일수가 정해져 있지 않습니다. 이 글의 기간은 실무에서 본 사례이고, 실제 소요 기간은 접수 기관과 서류 보완 여부에 따라 달라집니다. 법령과 매뉴얼에 정해진 기한은 따로 있습니다. 90일 이상 체류하려면 입국일부터 90일 이내에 거소신고를 해야 하고(매뉴얼), 체류기간은 최장 3년까지 부여됩니다(재외동포법 제10조제1항). 일정을 정하기 전에 접수할 출입국·외국인관서에 확인하세요.
+A. 법무부 안내에는 F-4 사증이나 거소증의 처리 일수가 정해져 있지 않습니다. 이 글의 기간은 실무에서 본 사례이고, 실제 소요 기간은 접수 기관과 서류 보완 여부에 따라 달라집니다. 법령과 매뉴얼에 정해진 기한은 따로 있습니다. 90일 이상 체류하려면 입국일부터 90일 이내에 거소신고를 해야 하고, 체류기간은 최장 3년까지 부여됩니다. 일정을 정하기 전에 접수할 출입국·외국인관서에 확인하세요.
 
 <h2 id="section-8">행정사사무소 이룸 F-4 서비스 안내</h2>
 

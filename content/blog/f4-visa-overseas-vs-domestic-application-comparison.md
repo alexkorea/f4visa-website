@@ -12,20 +12,20 @@ slug: "f4-visa-overseas-vs-domestic-application-comparison"
 F-4 비자는 본국(해외) 한국 영사관에서 신청하는 경로와 한국 입국 후 출입국·외국인청에서 신청하는 경로가 모두 열려 있고, 어느 쪽이 빠른지는 본인의 국적·서류 상태·체류 가능 기간에 따라 갈립니다. 재외동포(F-4) 자격이 인정되는 외국 국적 동포 본인 또는 가족이 신청 대상이며, 미국·캐나다·중국 국적자가 가장 흔합니다. 이 글에서는 두 경로의 절차·서류·소요 기간·실무에서 막히는 지점을 정면으로 비교합니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 신청 경로의 큰 그림</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 해외 신청과 국내 신청 한눈에 비교</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 해외(영사관) 신청 — 실무에서 갈리는 지점</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국내(출입국청) 신청 — 빠른 길과 막히는 길</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 두 경로의 서류 비교</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 어떤 경우에 해외, 어떤 경우에 국내가 유리한가</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 비용·기간에 영향을 주는 변수</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 자주 묻는 질문(FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 신청 경로의 큰 그림</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 해외 신청과 국내 신청 한눈에 비교</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 해외(영사관) 신청 — 실무에서 갈리는 지점</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국내(출입국청) 신청 — 빠른 길과 막히는 길</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 두 경로의 서류 비교</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 어떤 경우에 해외, 어떤 경우에 국내가 유리한가</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 비용·기간에 영향을 주는 변수</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 자주 묻는 질문(FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 비자 신청 경로의 큰 그림</h2>
@@ -40,7 +40,7 @@ F-4 비자 발급은 단일한 창구가 없습니다. 본국에서 사증(VISA)
 
 무비자(B-1, B-2) 또는 다른 자격으로 입국한 뒤, 한국 내 출입국·외국인청에서 F-4로 자격을 받는 길입니다. 실무에서는 무비자로 입국 → 거소신고 형태가 많고, 자격 변경 신청이 동시에 진행됩니다. 같은 F-4여도 어느 출입국청에서 접수하느냐에 따라 처리 속도가 갈리는 게 현실입니다.
 
-> **주의:** 외국 시민권 취득 시점에 한국 국적은 자동으로 상실됩니다(국적법 제15조). 국적상실신고는 행정 정리 절차일 뿐, 신고 전이라도 이미 상실 상태이며, 이 시점 이후 한국 여권 사용은 여권법상 부정사용에 해당합니다.
+> **주의:** 외국 시민권 취득 시점에 한국 국적은 자동으로 상실됩니다. 국적상실신고는 행정 정리 절차일 뿐, 신고 전이라도 이미 상실 상태이며, 이 시점 이후 한국 여권 사용은 여권법상 부정사용에 해당합니다.
 
 <h2 id="section-2">해외 신청과 국내 신청 한눈에 비교</h2>
 
@@ -109,8 +109,8 @@ F-4 비자 발급은 단일한 창구가 없습니다. 본국에서 사증(VISA)
 오히려 국내 신청이 서류 흐름은 단순해 보이지만, 한국 내 임시주소 확보가 약하면 그 자리에서 막힙니다. 이 부분이 약하면 서류가 다 갖춰져도 거소신고가 진행되지 않습니다.
 
 <figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/5593307/pexels-photo-5593307.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="East Asian family cooking together, enjoying quality time in a warm, inviting kitchen setting." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
+ <img src="https://images.pexels.com/photos/5593307/pexels-photo-5593307.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="East Asian family cooking together, enjoying quality time in a warm, inviting kitchen setting." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
+ 
 </figure>
 
 <h2 id="section-6">어떤 경우에 해외, 어떤 경우에 국내가 유리한가</h2>
@@ -163,7 +163,7 @@ F-4 비자 발급은 단일한 창구가 없습니다. 본국에서 사증(VISA)
 일률적으로 정해지지 않습니다. 본국 영사관의 처리 속도, 한국 측 서류 도착 시간, 한국 내 출입국청 선택에 따라 갈립니다. 한국 내 처리가 빠른 사례가 많지만, 본인 일정과 서류 상태에 따라 결과가 달라집니다.
 
 **Q2. 무비자로 입국한 뒤 한국에서 F-4로 바꿀 수 있습니까?**
-조건부로만 가능합니다. 법무부 체류민원 자격별 안내 매뉴얼(2026.9.) 재외동포 편은 "대상별 제출서류가 국내에서 발급되거나 출입국정보시스템으로 확인이 가능한 경우에 한하여" 국내에서 F-4로 자격을 변경할 수 있다고 정합니다. 같은 매뉴얼의 사증면제(B-1)·관광통과(B-2) 항목은 이 자격으로 들어온 사람에게 원칙적으로 체류자격 변경을 허가하지 않는다고 적고 있습니다. 그래서 무비자로 입국한 뒤 국내 변경이 받아들여지는지는 입국 자격과 서류 상태에 따라 달라지므로 접수 전에 관할 출입국·외국인관서에 확인해야 합니다. 확인이 어렵다면 재외공관에서 F-4 사증을 받아 입국하는 경로가 안전합니다. 1차 기준은 하이코리아와 출입국·외국인정책본부 안내입니다.
+조건부로만 가능합니다. 법무부는 "대상별 제출서류가 국내에서 발급되거나 출입국정보시스템으로 확인이 가능한 경우에 한하여" 국내에서 F-4로 자격을 변경할 수 있다고 안내합니다. 같은 매뉴얼의 사증면제(B-1)·관광통과(B-2) 항목은 이 자격으로 들어온 사람에게 원칙적으로 체류자격 변경을 허가하지 않는다고 적고 있습니다. 그래서 무비자로 입국한 뒤 국내 변경이 받아들여지는지는 입국 자격과 서류 상태에 따라 달라지므로 접수 전에 관할 출입국·외국인관서에 확인해야 합니다. 확인이 어렵다면 재외공관에서 F-4 사증을 받아 입국하는 경로가 안전합니다. 1차 기준은 하이코리아와 출입국·외국인정책본부 안내입니다.
 
 **Q3. 시민권증서 원본을 가져오지 않으면 어떻게 됩니까?**
 F-4 신청에서 시민권증서 원본은 빠질 수 없는 서류입니다. 사본만으로는 접수가 진행되지 않습니다. 본국에서 출국할 때 반드시 원본을 지참해야 합니다.
@@ -175,7 +175,7 @@ F-4 신청에서 시민권증서 원본은 빠질 수 없는 서류입니다. �
 임시주소 확보 없이 거소신고가 진행되지 않습니다. 행정사사무소 이룸은 서울 내 임시주소 제공도 안내해 드리며(별도 비용 안내), 본인 상황에 맞는 적용 여부는 상담을 통해 확인이 가능합니다.
 
 **Q6. 외국 시민권을 받기 전에는 F-4 신청이 가능합니까?**
-F-4는 외국 국적을 보유한 동포가 대상입니다. 외국 시민권 취득 시점에 한국 국적은 자동 상실되며(국적법 제15조), 그 이후 F-4 자격 검토가 가능합니다.
+F-4는 외국 국적을 보유한 동포가 대상입니다. 외국 시민권 취득 시점에 한국 국적은 자동 상실되며, 그 이후 F-4 자격 검토가 가능합니다.
 
 <h2 id="section-10">전문가 상담이 필요하신가요?</h2>
 

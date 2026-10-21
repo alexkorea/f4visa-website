@@ -14,20 +14,20 @@ F-4 재외동포 비자를 가진 분의 외국인 배우자는 F-3 동반비자
 이 가이드에서는 F-3 동반비자의 신청 자격, 제출 서류, 절차, 본국 발급과 국내 변경의 차이, 그리고 실무에서 자주 막히는 부분까지 모두 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-3 동반비자란 무엇인가</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-3 신청 자격과 핵심 요건</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-3 신청 절차 — 본국 발급과 국내 변경</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 제출 서류 한눈에 보기</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 자주 막히는 실무 포인트</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. F-3 체류 중 유의사항</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 비용과 처리 일정</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문(FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-3 동반비자란 무엇인가</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-3 신청 자격과 핵심 요건</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-3 신청 절차 — 본국 발급과 국내 변경</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 제출 서류 한눈에 보기</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 자주 막히는 실무 포인트</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. F-3 체류 중 유의사항</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 비용과 처리 일정</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문(FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-3 동반비자란 무엇인가</h2>
@@ -62,7 +62,7 @@ F-3는 단순히 결혼했다는 사실만으로 발급되지 않습니다.
 초청자인 F-4 소지자는 거소신고가 완료되어 있어야 하고, 체류기간이 유효해야 합니다.
 거소증이 없는 상태에서 배우자를 초청하면 실무에서는 보통 이 단계에서 걸립니다.
 
-> **주의:** F-4 초청자가 외국 시민권자라면 시민권증서 원본이 필수 서류로 함께 검토됩니다. 국적상실신고가 아직이라면 행정 정리를 먼저 정돈하는 것이 안전합니다(국적법 제15조에 따라 외국 시민권 취득 시점에 한국 국적은 이미 상실 상태).
+> **주의:** F-4 초청자가 외국 시민권자라면 시민권증서 원본이 필수 서류로 함께 검토됩니다. 국적상실신고가 아직이라면 행정 정리를 먼저 정돈하는 것이 안전합니다(외국 시민권 취득 시점에 한국 국적은 이미 상실 상태).
 
 ### 생계 능력 입증
 
@@ -158,7 +158,7 @@ F-3는 받은 후가 더 중요합니다.
 ### 외국인등록과 주소 신고
 
 입국 후 90일 이내에 외국인등록을 마쳐야 합니다.
-주소가 바뀌면 전입한 날부터 15일 이내에 변경 신고가 필요합니다(출입국관리법 제36조①).
+주소가 바뀌면 전입한 날부터 15일 이내에 변경 신고가 필요합니다.
 
 ### 취업 활동의 제한
 

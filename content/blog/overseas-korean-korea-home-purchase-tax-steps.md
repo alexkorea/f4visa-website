@@ -16,15 +16,15 @@ slug: "overseas-korean-korea-home-purchase-tax-steps"
 아래에서 취득 절차 단계, 자금 반입 방법, 취득세·보유세·양도세 구조, 그리고 F-4 거소증이 갈리는 지점까지 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 재외동포 부동산 취득, 법적으로 가능한 범위부터</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 재외동포 부동산 취득 절차 5단계</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 취득 자금 반입과 자금조달 증빙</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 재외동포 부동산 세금 — 살 때, 보유할 때, 팔 때</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 거소증이 부동산 취득에서 갈리는 지점</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 묻는 질문 (FAQ)</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 재외동포 부동산 취득, 법적으로 가능한 범위부터</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 재외동포 부동산 취득 절차 5단계</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 취득 자금 반입과 자금조달 증빙</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 재외동포 부동산 세금 — 살 때, 보유할 때, 팔 때</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 거소증이 부동산 취득에서 갈리는 지점</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 묻는 질문 (FAQ)</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">재외동포 부동산 취득, 법적으로 가능한 범위부터</h2>
@@ -35,7 +35,7 @@ slug: "overseas-korean-korea-home-purchase-tax-steps"
 
 ### 외국국적동포와 재외국민의 차이
 
-외국 시민권을 취득한 순간 한국 국적은 국적법 제15조에 의해 즉시 자동 상실됩니다.
+외국 시민권을 취득한 순간 한국 국적은 국적법에 의해 즉시 자동 상실됩니다.
 국적상실신고는 행정 정리 절차일 뿐이고, 신고 전이라도 법적으로는 이미 외국인입니다.
 이 상태에서 부동산을 취득하면 **외국인 자격으로 취득**하는 것이므로 외국인 취득 신고 대상이 됩니다.
 반면 영주권자(재외국민)는 여전히 한국 국민이므로 외국인 신고 의무가 없고, 등기용등록번호 발급 기관이 다릅니다.
@@ -43,8 +43,8 @@ slug: "overseas-korean-korea-home-purchase-tax-steps"
 
 ### 근거 법령과 신고 의무
 
-외국국적동포의 부동산 취득은 부동산 거래신고 등에 관한 법률 제8조(외국인등의 부동산 취득·보유 신고)가 적용됩니다.
-매매 계약이면 계약일부터 30일 이내 부동산 거래신고로 처리되고, 상속·경매 등 계약 외 원인이면 취득일부터 6개월 이내에 별도 신고해야 합니다(부동산 거래신고 등에 관한 법률 제3조①·제8조②).
+외국국적동포의 부동산 취득은 부동산 거래신고 등에 관한 법률의 외국인등 부동산 취득·보유 신고 규정이 적용됩니다.
+매매 계약이면 계약일부터 30일 이내 부동산 거래신고로 처리되고, 상속·경매 등 계약 외 원인이면 취득일부터 6개월 이내에 별도 신고해야 합니다.
 군사시설 보호구역 등 일부 구역은 취득 전 허가 대상이므로, 물건지가 해당되는지 관할 기관 확인이 필요합니다.
 
 <h2 id="section-2">재외동포 부동산 취득 절차 5단계</h2>

@@ -16,20 +16,20 @@ slug: "overseas-resident-registration-application-benefits"
 이 글에서는 신청 자격, 필요 서류, 신청 절차, 일반 주민등록과의 차이, 그리고 실제로 받을 수 있는 혜택까지 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 재외국민 주민등록 제도의 본질</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 신청 자격과 대상자 구분</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 필요 서류와 사전 준비</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 신청 절차 단계별 정리</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 재외국민 주민등록의 실제 혜택</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 발생하는 문제와 해결</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 신청 전 체크리스트</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 재외국민 주민등록 제도의 본질</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 신청 자격과 대상자 구분</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 필요 서류와 사전 준비</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 신청 절차 단계별 정리</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 재외국민 주민등록의 실제 혜택</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 발생하는 문제와 해결</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 신청 전 체크리스트</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">재외국민 주민등록 제도의 본질</h2>
@@ -50,7 +50,7 @@ slug: "overseas-resident-registration-application-benefits"
 
 해외 영주권자가 한국에 들어와 경제활동, 부동산 거래, 의료 이용을 할 때 신분 확인이 막히는 문제가 반복됐습니다.
 
-주민등록법 제6조에 따라 재외국민도 국내 거주 신고 시 주민등록 대상에 포함됩니다.
+주민등록법에 따라 재외국민도 국내 거주 신고 시 주민등록 대상에 포함됩니다.
 
 실제 현장에서는 이 제도 덕분에 영주권 포기 없이도 한국 내 행정업무가 가능해졌습니다.
 
@@ -66,7 +66,7 @@ slug: "overseas-resident-registration-application-benefits"
 
 핵심은 **한국 국적 보유 여부**입니다.
 
-외국 시민권을 취득한 순간 국적법 제15조에 따라 한국 국적은 자동 상실되므로 재외국민 주민등록 대상이 아닙니다.
+외국 시민권을 취득한 순간 국적법에 따라 한국 국적은 자동 상실되므로 재외국민 주민등록 대상이 아닙니다.
 
 이 경우에는 F-4 재외동포 비자와 거소증 발급으로 가는 길이 맞습니다.
 

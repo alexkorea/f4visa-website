@@ -16,19 +16,19 @@ slug: "nationality-restoration-permit-procedure-required-documents"
 신청 자격부터 필요서류, 심사 흐름, 허가 후 F-4 전환까지 실제 진행되는 순서대로 짚습니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 국적회복이 무엇이고 누가 신청하나 — 국적회복 대상자</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적회복 신청 자격과 심사 기준 — 국적회복 요건</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국적회복 필요서류 총정리 — 국적회복 필요서류</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국적회복 신청 절차와 처리 흐름 — 국적회복 처리기간</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 국적회복 후 F-4 비자 전환 — 국적회복 후 거소증</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적회복 신청 시 자주 막히는 부분 — 국적회복 주의사항</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 국적회복이 무엇이고 누가 신청하나 — 국적회복 대상자</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적회복 신청 자격과 심사 기준 — 국적회복 요건</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국적회복 필요서류 총정리 — 국적회복 필요서류</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국적회복 신청 절차와 처리 흐름 — 국적회복 처리기간</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 국적회복 후 F-4 비자 전환 — 국적회복 후 거소증</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적회복 신청 시 자주 막히는 부분 — 국적회복 주의사항</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">국적회복이 무엇이고 누가 신청하나 — 국적회복 대상자</h2>
@@ -37,7 +37,7 @@ slug: "nationality-restoration-permit-procedure-required-documents"
 
 먼저 봐야 할 것은 국적상실과 국적회복이 완전히 다른 단계라는 점입니다.
 
-외국 시민권을 취득하는 순간 한국 국적은 즉시 자동으로 상실됩니다(국적법 제15조).
+외국 시민권을 취득하는 순간 한국 국적은 즉시 자동으로 상실됩니다.
 
 국적상실신고는 이미 벌어진 상실 상태를 가족관계등록부에 정리하는 행정 절차일 뿐입니다.
 

@@ -16,18 +16,18 @@ F-4 거소증은 **거소허가번호만 발급되면 카드 수령 전에 출�
 신청 전 준비 서류, 출입국사무소별 처리 속도 차이, 임시주소 활용, 카드 수령 대행까지 실무 흐름 전체를 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 거소증 신청대행이 필요한 이유</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 거소증 신청 전 준비해야 할 서류</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 한국 최소 체류로 거소증 받는 흐름</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 출입국사무소별 처리 속도 차이</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 대행 진행 시 자주 받는 질문</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">6. FAQ</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">8. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 거소증 신청대행이 필요한 이유</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 거소증 신청 전 준비해야 할 서류</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 한국 최소 체류로 거소증 받는 흐름</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 출입국사무소별 처리 속도 차이</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 대행 진행 시 자주 받는 질문</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">6. FAQ</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">8. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 거소증 신청대행이 필요한 이유</h2>
@@ -48,7 +48,7 @@ F-4 거소증은 **거소허가번호만 발급되면 카드 수령 전에 출�
 
 이 부분이 약하면 한 번의 방문으로 끝나지 않고 재방문이 발생합니다.
 
-> **주의:** 외국 시민권을 취득한 시점에 한국 국적은 이미 자동 상실된 상태입니다(국적법 제15조). 국적상실신고는 행정 정리 절차일 뿐이며, 신고 전이라도 한국 여권을 사용하면 여권법 위반(부정사용)에 해당합니다.
+> **주의:** 외국 시민권을 취득한 시점에 한국 국적은 이미 자동 상실된 상태입니다. 국적상실신고는 행정 정리 절차일 뿐이며, 신고 전이라도 한국 여권을 사용하면 여권법 위반(부정사용)에 해당합니다.
 
 <h2 id="section-2">거소증 신청 전 준비해야 할 서류</h2>
 

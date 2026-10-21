@@ -11,20 +11,20 @@ slug: "dongpo-property-purchase-tax-process-guide"
 ---
 # 재외동포 부동산 취득세 — 세율·과세표준·계산법
 
-외국 국적 재외동포도 한국 부동산을 취득할 수 있고, 국내거소신고를 마친 동포는 재외동포법 제11조에 따라 부동산 거래에서 대한민국 국민과 동등한 대우를 받습니다.
+외국 국적 재외동포도 한국 부동산을 취득할 수 있고, 국내거소신고를 마친 동포는 재외동포법에 따라 부동산 거래에서 대한민국 국민과 동등한 대우를 받습니다.
 대상은 F-4 비자와 국내거소신고증(거소증)을 가진 외국국적동포, 그리고 거소증 없이 해외에서 취득을 준비하는 동포입니다.
 아래에서 신분 확인, 취득 신고 절차, 해외자금 반입, 단계별 세금, 서류 실무 문제를 순서대로 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 재외동포 부동산 취득, 신분 정리가 먼저입니다</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 부동산 취득 신고 절차, 단계별 흐름</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 해외자금 반입, 서류보다 자금 흐름 설명이 먼저입니다</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 취득세부터 양도소득세까지, 단계별 세금 구조</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 실무에서 자주 막히는 서류 문제</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 묻는 질문 (FAQ)</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 재외동포 부동산 취득, 신분 정리가 먼저입니다</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 부동산 취득 신고 절차, 단계별 흐름</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 해외자금 반입, 서류보다 자금 흐름 설명이 먼저입니다</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 취득세부터 양도소득세까지, 단계별 세금 구조</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 실무에서 자주 막히는 서류 문제</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 묻는 질문 (FAQ)</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">재외동포 부동산 취득, 신분 정리가 먼저입니다</h2>
@@ -33,7 +33,7 @@ slug: "dongpo-property-purchase-tax-process-guide"
 
 ### 외국 시민권자는 이미 외국인 신분입니다
 
-외국 시민권을 취득한 순간 한국 국적은 국적법 제15조에 따라 즉시 자동 상실됩니다.
+외국 시민권을 취득한 순간 한국 국적은 국적법에 따라 즉시 자동 상실됩니다.
 국적상실신고는 행정 정리 절차일 뿐, 신고 전이라도 이미 상실 상태입니다.
 바로 이 부분에서 많이 꼬입니다.
 시민권 취득 후에도 살아 있는 주민등록번호로 내국인처럼 계약하면, 등기와 세금 처리 단계에서 신분 불일치가 드러납니다.
@@ -57,7 +57,7 @@ slug: "dongpo-property-purchase-tax-process-guide"
 ### 계약 전에 봐야 할 것
 
 먼저 봐야 할 것은 해당 토지가 허가 대상 구역인지 여부입니다.
-군사기지·군사시설 보호구역 등 일부 구역의 토지는 같은 법 제9조에 따라 계약 전 사전 허가를 받아야 합니다.
+군사기지·군사시설 보호구역 등 일부 구역의 토지는 같은 법에 따라 계약 전 사전 허가를 받아야 합니다.
 허가 없이 맺은 계약은 효력이 없으므로, 아파트가 아닌 토지·단독주택이라면 이 확인이 먼저입니다.
 
 ### 계약 후 신고와 기한

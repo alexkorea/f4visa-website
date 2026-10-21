@@ -14,28 +14,28 @@ F-4 비자로 국내에 거소를 둔 재외동포, 그리고 주소·신상 변
 이 글은 위반 유형별 처벌 기준, 실무에서 자주 걸리는 지점, 적발 시 대응 순서를 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 재외동포 거주 신고 의무의 법적 근거</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 위반 유형별 처벌 기준</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국적 변동과 거주 신고가 얽힐 때</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 적발 후 절차와 대응 순서</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 자주 놓치는 위반 케이스</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 위반을 피하려면 먼저 점검할 것</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 재외동포 거주 신고 의무의 법적 근거</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 위반 유형별 처벌 기준</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국적 변동과 거주 신고가 얽힐 때</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 적발 후 절차와 대응 순서</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 자주 놓치는 위반 케이스</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 위반을 피하려면 먼저 점검할 것</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">재외동포 거주 신고 의무의 법적 근거</h2>
 
 ### 어떤 법이 적용되는가
 
-재외동포 국내 거소 신고는 재외동포법 제6조와 출입국관리법 관련 조항이 동시에 적용됩니다.
+재외동포 국내 거소 신고는 재외동포법과 출입국관리법 관련 조항이 동시에 적용됩니다.
 F-4 자격으로 90일 이상 체류할 경우 거소 신고가 의무이며, 신고하지 않은 상태로 국내에 머무는 것 자체가 위반입니다.
-재외동포법 제17조는 위반 시 과태료 부과 근거가 됩니다.
+재외동포법을 위반하면 과태료가 부과됩니다.
 
 ### 신고 의무는 한 번이 아니다
 
@@ -49,13 +49,13 @@ F-4 자격으로 90일 이상 체류할 경우 거소 신고가 의무이며, �
 
 ### 거소 신고 자체를 안 한 경우
 
-90일 초과 체류 상태에서 거소 신고를 하지 않으면 재외동포법 제17조에 따라 과태료가 부과됩니다.
+90일 초과 체류 상태에서 거소 신고를 하지 않으면 재외동포법에 따라 과태료가 부과됩니다.
 적발 경위와 체류 기간에 따라 금액이 갈립니다.
 단순 지연인지, 의도적 미신고인지에 따라 처분이 달라집니다.
 
 ### 변경 사항 미신고
 
-거소지 이전 후 신고 기한(거소신고자 14일·재외동포법 제6조②, 외국인등록자 15일·출입국관리법 제36조①)을 어기는 사례가 가장 많습니다.
+거소지 이전 후 신고 기한(거소신고자 14일, 외국인등록자 15일)을 어기는 사례가 가장 많습니다.
 여권 번호가 바뀐 뒤에도 그대로 둔 경우, 결혼·이혼 등 신분 변동을 보고하지 않은 경우도 해당됩니다.
 실제 심사에서는 갱신·재발급 단계에서 드러나며, 그때 한꺼번에 누적 처분을 받게 됩니다.
 
@@ -67,8 +67,8 @@ F-4 자격으로 90일 이상 체류할 경우 거소 신고가 의무이며, �
 
 | 위반 유형 | 적용 법령 | 처분 강도 | 비고 |
 |---|---|---|---|
-| 거소 신고 미이행 | 재외동포법 제17조 | 과태료 | 체류 기간에 따라 가중 |
-| 변경사항 미신고 | 재외동포법 제17조① | 과태료 | 거소 이전 후 14일 이내 신고 의무(재외동포법 제6조②) |
+| 거소 신고 미이행 | 재외동포법 | 과태료 | 체류 기간에 따라 가중 |
+| 변경사항 미신고 | 재외동포법 | 과태료 | 거소 이전 후 14일 이내 신고 의무 |
 | 허위 주소 신고 | 출입국관리법 병행 | 자격 정지·말소 | 형사 책임 가능 |
 | 거소증 부정 사용 | 출입국관리법 | 강제퇴거 가능 | 재입국 제한 동반 |
 
@@ -78,7 +78,7 @@ F-4 자격으로 90일 이상 체류할 경우 거소 신고가 의무이며, �
 
 ### 외국 국적 취득 사실을 숨긴 경우
 
-외국 시민권을 취득하면 국적법 제15조에 따라 한국 국적은 즉시 자동 상실됩니다.
+외국 시민권을 취득하면 국적법에 따라 한국 국적은 즉시 자동 상실됩니다.
 국적상실신고는 행정 정리 절차일 뿐, 신고 전이라도 이미 상실 상태입니다.
 이 상태에서 한국 여권을 사용하거나 한국인 신분으로 거소 신고를 유지하면 여권법 위반(부정사용)이 됩니다.
 

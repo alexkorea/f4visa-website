@@ -12,27 +12,27 @@ slug: "f4-eligibility-overseas-korean-scope"
 F-4 비자는 외국 국적을 취득한 한국계 동포에게 주어지는 재외동포 체류자격으로, 본인이 과거 한국 국적자였거나 직계존속(부모·조부모)이 한국 국적자였던 사실이 자격의 뿌리입니다. 미국·캐나다·중국·일본 등에서 시민권을 취득한 본인, 그리고 한국계 부모를 둔 2세·3세 자녀가 주된 대상이 됩니다. 자격의 법적 근거, 재외동포 범위, 실무에서 가장 많이 막히는 서류 요건, 신청 가능·불가 사례까지 한 번에 짚어드립니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자의 법적 근거와 대상자</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 재외동포 범위 — 어디까지 인정되는가</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국적 상실과 F-4 자격의 관계</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 신청 자격을 가르는 핵심 서류</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 신청이 막히는 흔한 사례</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 신청 경로와 절차 개요</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문(FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">9. 상담 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">10. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-12" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자의 법적 근거와 대상자</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 재외동포 범위 — 어디까지 인정되는가</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국적 상실과 F-4 자격의 관계</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 신청 자격을 가르는 핵심 서류</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 신청이 막히는 흔한 사례</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 신청 경로와 절차 개요</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문(FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">9. 상담 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">10. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-12" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 비자의 법적 근거와 대상자</h2>
 
 ### 재외동포법이 정의하는 재외동포
 
-F-4는 「재외동포의 출입국과 법적 지위에 관한 법률」(재외동포법)에 따른 체류자격입니다. 같은 법 제2조는 재외동포를 두 부류로 나눕니다. 첫째, 대한민국 국민으로서 외국의 영주권을 취득했거나 영주할 목적으로 외국에 거주 중인 자(재외국민). 둘째, 대한민국의 국적을 보유했었거나 그 직계비속으로서 외국 국적을 취득한 자(외국국적동포). F-4는 이 중 외국국적동포에게 부여되는 비자입니다.
+F-4는 「재외동포의 출입국과 법적 지위에 관한 법률」(재외동포법)에 따른 체류자격입니다. 같은 법은 재외동포를 두 부류로 나눕니다. 첫째, 대한민국 국민으로서 외국의 영주권을 취득했거나 영주할 목적으로 외국에 거주 중인 자(재외국민). 둘째, 대한민국의 국적을 보유했었거나 그 직계비속으로서 외국 국적을 취득한 자(외국국적동포). F-4는 이 중 외국국적동포에게 부여되는 비자입니다.
 
 ### 다른 한국계 비자와의 차이
 
@@ -61,7 +61,7 @@ H-2(방문취업)는 주로 중국·CIS 동포 중 단순노무가 가능한 비
 
 ### 외국 시민권 취득 = 한국 국적 자동 상실
 
-국적법 제15조는 대한민국 국민이 자진하여 외국 국적을 취득한 때에는 그 외국 국적을 취득한 때에 대한민국 국적을 상실한다고 정합니다. 즉 미국 시민권 선서식을 마친 그 시점에 한국 국적은 이미 사라진 상태입니다. F-4가 왜 필요한지는 바로 이 지점에서 출발합니다.
+국적법은 대한민국 국민이 자진하여 외국 국적을 취득한 때에는 그 외국 국적을 취득한 때에 대한민국 국적을 상실한다고 정합니다. 즉 미국 시민권 선서식을 마친 그 시점에 한국 국적은 이미 사라진 상태입니다. F-4가 왜 필요한지는 바로 이 지점에서 출발합니다.
 
 ### 국적상실신고는 행정 정리 절차
 
@@ -106,8 +106,8 @@ F-4 신청 시 시민권증서(Certificate of Naturalization, Citizenship Certif
 F-4는 단순노무 직종을 수행할 수 없습니다. 신청 단계에서 직업·활동 계획이 단순노무로 비치면 H-2 등 다른 자격이 더 적합한지 검토받게 됩니다.
 
 <figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/36153261/pexels-photo-36153261.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Rustic traditional Korean hanok with thatched roof in Andong-si, South Korea." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
+ <img src="https://images.pexels.com/photos/36153261/pexels-photo-36153261.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Rustic traditional Korean hanok with thatched roof in Andong-si, South Korea." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
+ 
 </figure>
 
 <h2 id="section-6">신청 경로와 절차 개요</h2>

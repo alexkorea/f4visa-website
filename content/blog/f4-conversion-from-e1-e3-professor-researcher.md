@@ -14,19 +14,19 @@ E-1(교수)·E-3(연구)으로 한국에 체류 중인 한국계 외국인은 �
 이 글은 자격 판단, 서류 흐름, 실제 심사에서 갈리는 지점, 전환 후 활동 범위까지 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. E-1·E-3에서 F-4로 전환이 필요한 이유</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 전환 대상자 판단 기준</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. E-1·E-3 보유자가 F-4로 전환할 때 흐름</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 실제 심사에서 갈리는 지점</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 전환 후 교수·연구원 활동 범위</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 처리 기간과 관할 선택</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. E-1·E-3에서 F-4로 전환이 필요한 이유</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 전환 대상자 판단 기준</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. E-1·E-3 보유자가 F-4로 전환할 때 흐름</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 실제 심사에서 갈리는 지점</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 전환 후 교수·연구원 활동 범위</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 처리 기간과 관할 선택</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">E-1·E-3에서 F-4로 전환이 필요한 이유</h2>
@@ -40,7 +40,7 @@ F-4는 재외동포에게 부여되는 거주 자격이라 소속 변경, 강의
 
 ### 국적법상 자동 상실 문제
 
-외국 시민권을 취득한 시점에 한국 국적은 자동으로 상실됩니다(국적법 제15조).
+외국 시민권을 취득한 시점에 한국 국적은 자동으로 상실됩니다.
 국적상실신고는 행정 정리 절차일 뿐, 신고 전이라도 이미 상실 상태입니다.
 한국 여권을 그대로 사용하면 여권법상 부정사용에 해당할 수 있습니다.
 E-1·E-3 자격으로 한국 여권을 들고 입국·체류해 온 분이라면 이 부분이 가장 먼저 정리되어야 합니다.

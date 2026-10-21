@@ -14,32 +14,32 @@ F-4 비자는 외국 국적의 재외동포에게 부여되는 체류자격이�
 주민등록 대신 부여되는 **국내거소신고번호**가 어떤 역할을 하고, 어디까지 주민등록번호를 대체하며, 실무에서 막히는 지점이 어디인지 정리합니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 거소증 소지자가 주민등록을 할 수 없는 법적 근거</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국내거소신고번호가 주민등록번호를 대체하는 범위</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 주민등록 대신 받아야 하는 행정 처리</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 실무에서 자주 막히는 상황</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 거소증과 주민등록증의 효력 차이</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. F-4에서 F-5(영주)로 전환 시 변화</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문(FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 거소증 소지자가 주민등록을 할 수 없는 법적 근거</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국내거소신고번호가 주민등록번호를 대체하는 범위</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 주민등록 대신 받아야 하는 행정 처리</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 실무에서 자주 막히는 상황</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 거소증과 주민등록증의 효력 차이</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. F-4에서 F-5(영주)로 전환 시 변화</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문(FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 거소증 소지자가 주민등록을 할 수 없는 법적 근거</h2>
 
 ### 주민등록법상 대상자는 한국 국민
 
-주민등록법 제6조는 "30일 이상 거주할 목적으로 그 관할 구역에 주소나 거소를 가진 사람"을 대상으로 하지만, 실제로는 **대한민국 국적자**에 한해 적용됩니다.
+주민등록법은 "30일 이상 거주할 목적으로 그 관할 구역에 주소나 거소를 가진 사람"을 대상으로 하지만, 실제로는 **대한민국 국적자**에 한해 적용됩니다.
 F-4 비자 소지자는 외국 시민권을 가진 재외동포이므로 주민등록법의 적용 대상이 아닙니다.
-국적법 제15조에 따라 외국 시민권 취득 시점에 한국 국적은 즉시 자동 상실되며, 이 순간부터 주민등록 자격도 사라집니다.
+국적법에 따라 외국 시민권 취득 시점에 한국 국적은 즉시 자동 상실되며, 이 순간부터 주민등록 자격도 사라집니다.
 
 ### 재외동포법이 적용되는 별도 체계
 
-F-4 소지자는 주민등록법 대신 **재외동포의 출입국과 법적 지위에 관한 법률**(재외동포법) 제6조에 따른 국내거소신고 제도를 따릅니다.
+F-4 소지자는 주민등록법 대신 **재외동포의 출입국과 법적 지위에 관한 법률**(재외동포법)에 따른 국내거소신고 제도를 따릅니다.
 즉, 한국 국민은 주민등록, F-4 외국 국적 동포는 국내거소신고로 행정 체계 자체가 갈라집니다.
 
 > **주의:** 국적상실신고를 아직 안 했다고 해서 주민등록이 유지되는 것은 아닙니다.
@@ -79,7 +79,7 @@ F-4 비자로 입국한 뒤 **90일 이내에 거주지 관할 출입국·외국
 
 ### 거소이전신고는 14일 이내
 
-주소 변경 시 한국 국민은 전입신고를 하지만, F-4 소지자는 **거소이전신고**를 14일 이내에 해야 합니다(재외동포법 제6조②).
+주소 변경 시 한국 국민은 전입신고를 하지만, F-4 소지자는 **거소이전신고**를 14일 이내에 해야 합니다.
 이 부분이 약하면 과태료가 부과될 수 있습니다.
 신고 장소는 새 거주지 관할 출입국·외국인청 또는 시·군·구청입니다.
 

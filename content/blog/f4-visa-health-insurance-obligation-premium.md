@@ -14,19 +14,19 @@ F-4 비자로 한국에 6개월 이상 체류하면 국민건강보험 지역가
 이 글은 가입 의무 발생 시점, 보험료 산정 방식, 직장·지역가입자 구분, 체납 시 불이익까지 F-4 실무에서 실제 막히는 부분을 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 건강보험 가입 의무는 언제 발생하나</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 직장가입자와 지역가입자 차이</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 지역가입자 보험료는 어떻게 산정되나</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. F-4 보험료 체납 시 어떤 불이익이 있나</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 출국·재입국과 보험 자격</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. F-4 건강보험 가입 절차와 필요 서류</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 건강보험 가입 의무는 언제 발생하나</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 직장가입자와 지역가입자 차이</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 지역가입자 보험료는 어떻게 산정되나</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. F-4 보험료 체납 시 어떤 불이익이 있나</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 출국·재입국과 보험 자격</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. F-4 건강보험 가입 절차와 필요 서류</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 비자 건강보험 가입 의무는 언제 발생하나</h2>
@@ -34,7 +34,7 @@ F-4 비자로 한국에 6개월 이상 체류하면 국민건강보험 지역가
 ### 6개월 체류 요건이 핵심입니다
 
 F-4 소지자는 국내 입국 후 6개월이 경과한 시점부터 지역가입자로 당연가입됩니다.
-이는 「국민건강보험법」 제109조에 근거한 규정으로, 본인이 신청하지 않아도 국민건강보험공단이 자동으로 자격을 부여합니다.
+이는 「국민건강보험법」에 근거한 규정으로, 본인이 신청하지 않아도 국민건강보험공단이 자동으로 자격을 부여합니다.
 6개월 산정은 외국인등록(거소신고) 일자가 아니라 실제 입국일 기준입니다.
 
 먼저 봐야 할 것은 출국 기록입니다.

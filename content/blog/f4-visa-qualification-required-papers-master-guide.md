@@ -16,19 +16,19 @@ F-4 비자 신청 자격은 본인 또는 부모, 조부모 중 한 명이 대�
 여기서는 F-4 신청 자격 대상 범위, 실제 필요서류, 국적상실 처리, 신청 절차, 자주 막히는 실무 포인트까지 순서대로 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 신청 자격, 먼저 봐야 할 기준</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 신청 자격 대상자 범위</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 비자 필요서류 완벽 정리</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국적상실 처리 — 가장 많이 꼬이는 부분</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 신청 절차와 처리 흐름</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 신청 전 자주 막히는 실무 포인트</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 신청 자격, 먼저 봐야 할 기준</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 신청 자격 대상자 범위</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 비자 필요서류 완벽 정리</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국적상실 처리 — 가장 많이 꼬이는 부분</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 신청 절차와 처리 흐름</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 신청 전 자주 막히는 실무 포인트</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 비자 신청 자격, 먼저 봐야 할 기준</h2>
@@ -55,7 +55,7 @@ F-4는 과거 대한민국 국적을 보유했던 사람과 그 직계비속이 
 
 세부 제한 사유는 개인 이력마다 갈리므로, 본인 상황에 맞는 적용 여부는 관할 기관 확인이 필요합니다.
 
-> **주의:** 외국 시민권을 취득하면 한국 국적은 즉시 자동으로 상실됩니다 (국적법 제15조). 국적상실신고를 하지 않았더라도 이미 상실 상태이며, 이 상태에서 한국 여권을 사용하면 여권법상 부정사용에 해당합니다.
+> **주의:** 외국 시민권을 취득하면 한국 국적은 즉시 자동으로 상실됩니다. 국적상실신고를 하지 않았더라도 이미 상실 상태이며, 이 상태에서 한국 여권을 사용하면 여권법상 부정사용에 해당합니다.
 
 <h2 id="section-2">F-4 신청 자격 대상자 범위</h2>
 
@@ -116,7 +116,7 @@ F-4는 과거 대한민국 국적을 보유했던 사람과 그 직계비속이 
 
 ### 이미 상실 상태라는 점
 
-국적법 제15조에 따라 외국 국적을 취득한 순간 한국 국적은 자동으로 상실됩니다.
+국적법에 따라 외국 국적을 취득한 순간 한국 국적은 자동으로 상실됩니다.
 
 국적상실신고는 이미 벌어진 상실을 행정적으로 정리하는 절차일 뿐입니다.
 

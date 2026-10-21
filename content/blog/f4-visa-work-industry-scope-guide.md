@@ -16,20 +16,20 @@ F-4 재외동포 비자로 일할 수 있는 업종과, 법무부 고시로 제�
 아래에서 취업 가능 범위의 법적 근거, 법무부 고시로 제한되는 직종, 실무에서 자주 걸리는 사례와 취업 전 확인 방법을 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#f4-work-scope" style="color:#2563eb;text-decoration:none">F-4 비자로 취업할 수 있는 업종과 없는 업종은?</a></li>
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 취업 범위의 법적 근거</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 비자 취업 가능 업종</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 제한 업종 ① 단순노무 직종</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 제한 업종 ② 사행행위·풍속 관련 업종</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 실무에서 자주 걸리는 사례와 위반 시 불이익</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 취업 전 확인 절차와 준비 서류</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 무료 상담 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#f4-work-scope" style="color:#2563eb;text-decoration:none">F-4 비자로 취업할 수 있는 업종과 없는 업종은?</a></li>
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 취업 범위의 법적 근거</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 비자 취업 가능 업종</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 제한 업종 ① 단순노무 직종</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 제한 업종 ② 사행행위·풍속 관련 업종</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 실무에서 자주 걸리는 사례와 위반 시 불이익</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 취업 전 확인 절차와 준비 서류</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 무료 상담 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="f4-work-scope">F-4 비자로 취업할 수 있는 업종과 없는 업종은 무엇인가요?</h2>
@@ -38,11 +38,11 @@ F-4 재외동포 비자로 일할 수 있는 업종과, 법무부 고시로 제�
 현행 「재외동포(F-4) 자격의 취업활동 제한범위 고시」가 막는 것은 ① 단순노무 29개 직업, ② 사행행위 영업장소·유흥종사자·선량한 풍속에 반하는 풍속영업 취업, ③ 공공의 이익이나 국내 취업질서 유지를 위한 8개 직업, 세 갈래입니다.
 다만 허용되는 일이라도 국내 법령이 일정한 자격을 요구하면 그 자격을 갖춰야 합니다.
 
-### 근거 — 출입국관리법 시행령 제23조제3항과 고시
+### 근거 — 출입국관리법 시행령과 고시
 
-- 출입국관리법 시행령 제23조제3항: 재외동포(F-4) 체류자격자는 1. 단순노무행위를 하는 경우, 2. 선량한 풍속이나 그 밖의 사회질서에 반하는 행위를 하는 경우, 3. 그 밖에 공공의 이익이나 국내 취업질서 등을 유지하기 위하여 그 취업을 제한할 필요가 있다고 인정되는 경우를 제외하고는 체류자격 구분에 따른 활동의 제한을 받지 않습니다.
-- 출입국관리법 시행규칙 제27조의2: 단순노무행위와 풍속 관련 행위의 뜻을 정하고, 구체적 범위는 법무부장관이 지정해 고시합니다.
-- 법무부 체류관리 매뉴얼(2026. 9. 1.판) 재외동포(F-4) 편: "상기 경우를 제외하고는 취업 활동의 제한을 받지 않습니다. ※ 다만, 허용되는 취업활동이라도 국내법령에 의하여 일정한 자격을 요하는 때에는 그 자격을 갖추어야 함"
+- 출입국관리법 시행령: 재외동포(F-4) 체류자격자는 1. 단순노무행위를 하는 경우, 2. 선량한 풍속이나 그 밖의 사회질서에 반하는 행위를 하는 경우, 3. 그 밖에 공공의 이익이나 국내 취업질서 등을 유지하기 위하여 그 취업을 제한할 필요가 있다고 인정되는 경우를 제외하고는 체류자격 구분에 따른 활동의 제한을 받지 않습니다.
+- 출입국관리법 시행규칙: 단순노무행위와 풍속 관련 행위의 뜻을 정하고, 구체적 범위는 법무부장관이 지정해 고시합니다.
+- 법무부 재외동포(F-4) 안내: "상기 경우를 제외하고는 취업 활동의 제한을 받지 않습니다. ※ 다만, 허용되는 취업활동이라도 국내법령에 의하여 일정한 자격을 요하는 때에는 그 자격을 갖추어야 함"
 
 ### 현행 고시의 제한 직업 목록
 
@@ -67,10 +67,10 @@ F-4 재외동포 비자로 일할 수 있는 업종과, 법무부 고시로 제�
 
 <h2 id="section-1">F-4 비자 취업 범위의 법적 근거</h2>
 
-### 재외동포법 제10조 제5항이 기준입니다
+### 재외동포법이 기준입니다
 
-재외동포의 출입국과 법적 지위에 관한 법률 제10조 제5항은 F-4 소지자의 취업이나 그 밖의 경제활동을 사회질서 또는 경제안정을 해치지 않는 범위에서 자유롭게 허용합니다.
-예외는 출입국관리법 시행령 제23조제3항이 정한 **단순노무행위**, **선량한 풍속이나 그 밖의 사회질서에 반하는 행위**, **공공의 이익이나 국내 취업질서 유지를 위해 제한이 필요한 경우** 세 가지입니다.
+재외동포의 출입국과 법적 지위에 관한 법률은 F-4 소지자의 취업이나 그 밖의 경제활동을 사회질서 또는 경제안정을 해치지 않는 범위에서 자유롭게 허용합니다.
+예외는 출입국관리법 시행령이 정한 **단순노무행위**, **선량한 풍속이나 그 밖의 사회질서에 반하는 행위**, **공공의 이익이나 국내 취업질서 유지를 위해 제한이 필요한 경우** 세 가지입니다.
 구체적인 직업은 법무부 고시 「재외동포(F-4) 자격의 취업활동 제한범위 고시」로 정해집니다.
 핵심은 이것입니다.
 "할 수 있는 업종 목록"이 아니라 "할 수 없는 업종 목록"으로 규정되어 있어, 제한 직종만 피하면 취업이 자유롭습니다.
@@ -199,7 +199,7 @@ F-4로 취업하려면 먼저 국내거소신고(거소증 발급)를 마쳐야 
 
 **Q1. F-4 비자로 일할 수 있는 업종은?**
 
-원칙적으로 자유 취업이 허용되지만, 단순노무행위와 사행행위 등 선량한 풍속이나 그 밖의 사회질서에 반하는 업종은 제한됩니다(출입국관리법 시행령 제23조제3항, 법무부 고시 「재외동포(F-4) 자격의 취업활동 제한범위」).
+원칙적으로 자유 취업이 허용되지만, 단순노무행위와 사행행위 등 선량한 풍속이나 그 밖의 사회질서에 반하는 업종은 제한됩니다(출입국관리법 시행령, 법무부 고시 「재외동포(F-4) 자격의 취업활동 제한범위」).
 
 **Q2. F-4 비자로 편의점 아르바이트가 가능한가요?**
 

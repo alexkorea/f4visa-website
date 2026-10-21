@@ -16,23 +16,23 @@ F-4 비자 신청 자격의 핵심은 "한국 혈통을 증명하는 서류"와 
 이 글은 신청 자격 판단 기준, 핵심 서류 구성, 실제 심사에서 자주 꼬이는 지점, 그리고 신청 채널별 절차 차이까지 실무 관점으로 정리한 자료입니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 신청 자격의 법적 기준</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적 상실 시점에 대한 오해</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 비자 필요서류 핵심 구성</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 한국 발급 서류 실무 가이드</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 신청 채널과 처리 기간 차이</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 신청 자격의 법적 기준</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적 상실 시점에 대한 오해</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 비자 필요서류 핵심 구성</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 한국 발급 서류 실무 가이드</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 신청 채널과 처리 기간 차이</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 비자 신청 자격의 법적 기준</h2>
 
-F-4 사증은 재외동포의 출입국과 법적 지위에 관한 법률 제2조에 따른 외국국적동포에게 발급됩니다.
+F-4 사증은 재외동포의 출입국과 법적 지위에 관한 법률에 따른 외국국적동포에게 발급됩니다.
 
 핵심은 단순한 "한국계 외국인"이 아니라 법령이 정한 동포 정의에 부합해야 한다는 점입니다.
 
@@ -58,7 +58,7 @@ F-4 사증은 재외동포의 출입국과 법적 지위에 관한 법률 제2�
 
 이 부분은 신청자 본인보다 부모 세대에서 자주 어긋납니다.
 
-> **주의:** 국적법 제15조에 따라 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다. 국적상실신고는 이미 발생한 상실을 행정적으로 정리하는 절차일 뿐, 신고 전이라도 법적으로는 이미 상실 상태입니다.
+> **주의:** 국적법에 따라 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다. 국적상실신고는 이미 발생한 상실을 행정적으로 정리하는 절차일 뿐, 신고 전이라도 법적으로는 이미 상실 상태입니다.
 
 ### 국적상실 신고 전 한국 여권 사용
 
@@ -180,7 +180,7 @@ F-4는 본국 신청과 한국 내 신청 두 가지 경로가 있습니다.
 
 **Q1. 부모님이 한국 국적을 포기한 적이 없는데도 F-4 신청이 가능한가요?**
 
-부모가 외국 시민권을 취득했다면 국적법 제15조에 따라 신고 여부와 무관하게 이미 한국 국적이 상실된 상태입니다.
+부모가 외국 시민권을 취득했다면 국적법에 따라 신고 여부와 무관하게 이미 한국 국적이 상실된 상태입니다.
 
 다만 가족관계등록부 정리는 별도 절차가 필요하며, 자녀의 F-4 신청 전 선행되어야 하는 경우가 보통입니다.
 

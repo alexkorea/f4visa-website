@@ -16,19 +16,19 @@ slug: "dual-nationality-conditions-departure-vs-loss-explained"
 복수국적이 되는 조건, 국적이탈과 국적상실이 갈리는 지점, 신고를 놓쳤을 때 벌어지는 문제까지 실무 기준으로 짚어드립니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 복수국적 허용 조건은 누구에게 열려 있나</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적이탈과 국적상실, 어디서 갈리나</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 외국 시민권 취득 = 한국 국적 자동 상실</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국적상실신고, 안 하면 어떻게 되나</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 복수국적자가 실무에서 놓치는 포인트</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적 정리부터 F-4 전환까지 절차</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 복수국적 허용 조건은 누구에게 열려 있나</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적이탈과 국적상실, 어디서 갈리나</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 외국 시민권 취득 = 한국 국적 자동 상실</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국적상실신고, 안 하면 어떻게 되나</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 복수국적자가 실무에서 놓치는 포인트</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적 정리부터 F-4 전환까지 절차</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">복수국적 허용 조건은 누구에게 열려 있나</h2>
@@ -95,7 +95,7 @@ slug: "dual-nationality-conditions-departure-vs-loss-explained"
 
 실무에서 가장 많이 오해하는 부분이 바로 이 지점입니다.
 
-국적법 제15조에 따라, 대한민국 국민이 스스로 외국 국적을 취득하면 그때 한국 국적은 즉시 자동으로 상실됩니다.
+국적법에 따라, 대한민국 국민이 스스로 외국 국적을 취득하면 그때 한국 국적은 즉시 자동으로 상실됩니다.
 
 > **주의:** 국적상실신고는 행정 정리 절차일 뿐입니다.
 

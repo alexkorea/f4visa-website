@@ -16,19 +16,19 @@ slug: "nationality-loss-report-3day-fast-completion"
 아래에서 신고 시점, 필요서류, 접수 경로, 자주 막히는 실무 포인트, F-4 거소증 연계까지 한 번에 정리합니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 국적상실은 신고 시점이 아니라 시민권 취득일에 발생</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적상실 신고 필요서류 — 3일 처리의 핵심</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 접수 경로 — 해외 영사관 vs 한국 내 신고</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 자주 막히는 실무 포인트 — 국적상실 신고 절차의 함정</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적상실 신고 후 — F-4 거소증으로 자연스럽게 연결</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 국적상실은 신고 시점이 아니라 시민권 취득일에 발생</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적상실 신고 필요서류 — 3일 처리의 핵심</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 접수 경로 — 해외 영사관 vs 한국 내 신고</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 자주 막히는 실무 포인트 — 국적상실 신고 절차의 함정</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적상실 신고 후 — F-4 거소증으로 자연스럽게 연결</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">국적상실은 신고 시점이 아니라 시민권 취득일에 발생</h2>
@@ -37,9 +37,9 @@ slug: "nationality-loss-report-3day-fast-completion"
 
 오히려 국적법은 그 반대로 규정합니다.
 
-### 국적법 제15조 — 자동 상실 원칙
+### 국적법 — 자동 상실 원칙
 
-국적법 제15조에 따르면 대한민국 국민이 자진하여 외국 국적을 취득한 경우 그 외국 국적을 취득한 때에 대한민국 국적을 상실합니다.
+국적법에 따르면 대한민국 국민이 자진하여 외국 국적을 취득한 경우 그 외국 국적을 취득한 때에 대한민국 국적을 상실합니다.
 
 핵심은 이것입니다.
 

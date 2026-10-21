@@ -3,7 +3,7 @@ title: "F-4 비자 소지자 국내거소신고 절차 완벽 가이드"
 visa: F-4
 date: "2026-05-07"
 category: "거소증"
-excerpt: "F-4로 입국해 90일을 넘겨 체류하는 재외동포가 입국일부터 90일 이내 처리하는 국내거소신고(출입국관리법 제31조①·재외동포법 제10조④) 절차와 실무 핵심을 정리합니다. 거소신고 대상자 확인·준비 서류·신고 방법·신고 후 변동 사항 처리까지 한 번에 확인하세요."
+excerpt: "F-4로 입국해 90일을 넘겨 체류하는 재외동포가 입국일부터 90일 이내 처리하는 국내거소신고 절차와 실무 핵심을 정리합니다. 거소신고 대상자 확인·준비 서류·신고 방법·신고 후 변동 사항 처리까지 한 번에 확인하세요."
 image: "/og/f4-domestic-residence-filing-steps.png"
 slug: "f4-domestic-residence-filing-steps"
 ---
@@ -16,20 +16,20 @@ F-4 비자로 입국한 재외동포는 입국일로부터 **90일 이내**에 �
 이 가이드는 신고 대상, 준비 서류, 방문 절차, 거소증 수령, 자주 막히는 지점까지 실무 흐름을 따라 정리했습니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 국내거소신고가 무엇인지부터 정리</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 거소신고 대상자 확인</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 준비 서류 — 보통 이 단계에서 걸립니다</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 신고 방법 — 방문 신청이 원칙</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 거소증 수령과 출국 가능 시점</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 신고 후 변동 사항 처리</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 막히는 실무 포인트</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. FAQ</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 국내거소신고가 무엇인지부터 정리</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 거소신고 대상자 확인</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 준비 서류 — 보통 이 단계에서 걸립니다</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 신고 방법 — 방문 신청이 원칙</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 거소증 수령과 출국 가능 시점</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 신고 후 변동 사항 처리</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 막히는 실무 포인트</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. FAQ</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">국내거소신고가 무엇인지부터 정리</h2>
@@ -38,7 +38,7 @@ F-4 비자로 입국한 재외동포는 입국일로부터 **90일 이내**에 �
 
 F-4 비자 소지자는 외국인등록 대상이 아닙니다.
 
-대신 「재외동포의 출입국과 법적 지위에 관한 법률」 제6조에 따라 국내거소신고를 합니다.
+대신 「재외동포의 출입국과 법적 지위에 관한 법률」에 따라 국내거소신고를 합니다.
 
 겉으로는 비슷해 보여도, 신고 근거 법령과 발급되는 증서가 다릅니다.
 
@@ -50,7 +50,7 @@ F-4 비자 소지자는 외국인등록 대상이 아닙니다.
 
 실무에서는 거소신고번호가 없으면 막히는 절차가 많습니다.
 
-> **주의:** 시민권 취득자는 「국적법」 제15조에 따라 외국 국적 취득과 동시에 한국 국적이 자동 상실됩니다. 국적상실신고를 하지 않은 상태라도 이미 한국인이 아니므로, 한국 여권 사용은 여권법 위반(부정사용)에 해당합니다.
+> **주의:** 시민권 취득자는 「국적법」에 따라 외국 국적 취득과 동시에 한국 국적이 자동 상실됩니다. 국적상실신고를 하지 않은 상태라도 이미 한국인이 아니므로, 한국 여권 사용은 여권법 위반(부정사용)에 해당합니다.
 
 <h2 id="section-2">거소신고 대상자 확인</h2>
 
@@ -159,15 +159,15 @@ F-4 비자를 소지하고 90일 이상 한국에 체류할 계획이 있는 재
 | 본국 발송 | 신청 후 출국 가능 | 거소허가번호 발급 후 |
 
 <figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/31925324/pexels-photo-31925324.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A bustling street in Seoul with people shopping and walking, showcasing urban lifestyle." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
+ <img src="https://images.pexels.com/photos/31925324/pexels-photo-31925324.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A bustling street in Seoul with people shopping and walking, showcasing urban lifestyle." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
+ 
 </figure>
 
 <h2 id="section-6">신고 후 변동 사항 처리</h2>
 
 ### 거주지 변경 신고
 
-거소지를 옮기면 **14일 이내** 신고가 필요합니다(재외동포법 제6조②).
+거소지를 옮기면 **14일 이내** 신고가 필요합니다.
 
 이 기한을 놓치면 과태료 대상이 됩니다.
 
@@ -244,7 +244,7 @@ F-4 체류기간은 통상 부여 기간 만료 전에 연장 신청을 해야 �
 
 **Q4. 미국 시민권을 취득했는데 한국 여권이 아직 살아 있습니다. 그대로 사용해도 되나요?**
 사용할 수 없습니다.
-시민권 취득과 동시에 한국 국적은 자동 상실되므로(국적법 제15조), 한국 여권 사용은 여권법 위반에 해당합니다.
+시민권 취득과 동시에 한국 국적은 자동 상실되므로, 한국 여권 사용은 여권법 위반에 해당합니다.
 
 **Q5. 무범죄조회서를 미리 받아 놓았는데 처리가 늦어지고 있습니다. 다시 받아야 하나요?**
 발급일로부터 6개월이 지났다면 다시 받아야 합니다.

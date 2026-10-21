@@ -14,18 +14,18 @@ F-4 거소증 발급 기간은 일률적으로 정해져 있지 않고, 접수�
 아래에서 사무소별 소요시간 차이, 발급이 늦어지는 원인, 체류 기간을 줄이는 실무 전략을 순서대로 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 거소증 발급 기간, 평균 얼마나 걸리나</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 출입국사무소별 소요시간 비교</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 발급 기간이 길어지는 이유</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 발급 기간을 줄이는 실무 전략</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 신청 절차와 준비 서류</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. FAQ — F-4 거소증 발급 기간 자주 묻는 질문</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 무료 상담 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 거소증 발급 기간, 평균 얼마나 걸리나</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 출입국사무소별 소요시간 비교</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 발급 기간이 길어지는 이유</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 발급 기간을 줄이는 실무 전략</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 신청 절차와 준비 서류</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. FAQ — F-4 거소증 발급 기간 자주 묻는 질문</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 무료 상담 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 거소증 발급 기간, 평균 얼마나 걸리나</h2>
@@ -78,7 +78,7 @@ F-4 거소증(국내거소신고증) 발급은 접수 → 심사 → 거소허�
 실제 심사에서 지연되는 사유는 몇 가지로 좁혀집니다.
 
 - **서류 미비**: 시민권증서 원본 누락, 무범죄조회서 유효기간(발급일로부터 6개월) 경과가 가장 흔합니다.
-- **국적 정리 미완료**: 외국 시민권 취득 시 한국 국적은 국적법 제15조에 따라 즉시 자동 상실되는데, 국적상실신고가 정리되지 않아 기록 확인에 시간이 걸리는 경우가 있습니다.
+- **국적 정리 미완료**: 외국 시민권 취득 시 한국 국적은 국적법에 따라 즉시 자동 상실되는데, 국적상실신고가 정리되지 않아 기록 확인에 시간이 걸리는 경우가 있습니다.
 - **성수기 물량 집중**: 방학·명절 전후로 신청이 몰리면 같은 사무소라도 소요시간이 늘어납니다.
 - **보완 요구**: 심사관이 추가 서류를 요구하면 그 시점부터 다시 대기가 시작됩니다.
 
@@ -159,7 +159,7 @@ F-4 거소증(국내거소신고증) 발급은 접수 → 심사 → 거소허�
 
 **Q5. 국적상실신고를 아직 안 했는데 거소증 신청이 가능한가요?**
 
-외국 시민권 취득 시 한국 국적은 국적법 제15조에 따라 이미 자동 상실된 상태입니다.
+외국 시민권 취득 시 한국 국적은 국적법에 따라 이미 자동 상실된 상태입니다.
 신고는 행정 정리 절차일 뿐이지만, 정리가 안 되어 있으면 심사에서 확인 절차가 추가되어 발급 기간이 늘어날 수 있습니다.
 
 **Q6. 발급 비용은 얼마인가요?**

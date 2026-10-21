@@ -14,24 +14,24 @@ F-4 비자로 입국한 재외동포가 **90일을 초과하여 체류하려면 
 신고 기한, 제출 서류, 출입국사무소 선택 요령, 거소증 수령 이후 주의사항까지 실무 기준으로 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 국내거소신고란 무엇인가</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 신고 대상자와 신청 조건</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국내거소신고 필요 서류</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 신청 절차 단계별 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 거소증 수령 후 놓치기 쉬운 의무사항</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 놓치는 주의사항</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 국내거소신고란 무엇인가</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 신고 대상자와 신청 조건</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국내거소신고 필요 서류</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 신청 절차 단계별 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 거소증 수령 후 놓치기 쉬운 의무사항</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 놓치는 주의사항</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">국내거소신고란 무엇인가</h2>
 
-재외동포의 출입국과 법적 지위에 관한 법률(재외동포법) 제6조에 따라, 외국 국적 재외동포가 국내에서 91일 이상 체류하려면 체류지 관할 출입국·외국인사무소에 국내거소신고를 해야 합니다.
+재외동포의 출입국과 법적 지위에 관한 법률(재외동포법)에 따라, 외국 국적 재외동포가 국내에서 91일 이상 체류하려면 체류지 관할 출입국·외국인사무소에 국내거소신고를 해야 합니다.
 신고를 마치면 **국내거소신고증(거소증)**이 발급되며, 13자리 거소허가번호가 부여됩니다.
 거소증은 금융기관 이용, 부동산 거래, 건강보험 지역가입자 등록 시 신분증으로 사용됩니다.
 거소허가번호 발급 이전에는 계좌 개설이나 부동산 등기가 실질적으로 막힙니다.
@@ -54,7 +54,7 @@ F-4 비자 자체가 **대한민국 국적을 보유했다가 외국 국적을 �
 
 입국일로부터 **90일 이내**에 신고해야 합니다.
 기한을 넘기면 출입국관리법에 따른 과태료 부과 대상이 됩니다.
-단기 방문(90일 이내 출국 예정)이라면 거소신고 없이도 체류는 가능하지만(출입국관리법 제31조①), 이 경우 은행 업무나 통신 가입 등 일상적인 행정 처리가 실질적으로 어렵습니다.
+단기 방문(90일 이내 출국 예정)이라면 거소신고 없이도 체류는 가능하지만, 이 경우 은행 업무나 통신 가입 등 일상적인 행정 처리가 실질적으로 어렵습니다.
 
 > **주의:** 과거에 거소증을 발급받은 이력이 있다면 재입국 후 재신고 여부와 절차가 달라집니다.
 > 본인 이력에 따라 처리 방식이 갈리므로, 입국 전에 관할 출입국·외국인청에 확인하거나 전문가 검토를 먼저 받는 것이 실무에서 더 안전합니다.
@@ -118,15 +118,15 @@ F-4 비자 자체가 **대한민국 국적을 보유했다가 외국 국적을 �
 > 어느 기관이 현재 신속히 처리되는지는 관할 기관 직접 확인 또는 상담을 통해 파악할 수 있습니다.
 
 <figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/7681071/pexels-photo-7681071.jpegA close-up shot of Filipino passports at the airport, indicating travel and identity." alt="Close-up of woman&#x27;s hands signing a legal document with elegant nail art using a pen." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
+ <img src="https://images.pexels.com/photos/7681071/pexels-photo-7681071.jpegA close-up shot of Filipino passports at the airport, indicating travel and identity." alt="Close-up of woman&#x27;s hands signing a legal document with elegant nail art using a pen." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
+ 
 </figure>
 
 <h2 id="section-5">거소증 수령 후 놓치기 쉬운 의무사항</h2>
 
 ### 주소변경 신고
 
-거소증을 받은 이후 체류지가 변경되면 **14일 이내에 주소변경 신고**를 해야 합니다(재외동포법 제6조②).
+거소증을 받은 이후 체류지가 변경되면 **14일 이내에 주소변경 신고**를 해야 합니다.
 이사나 숙소 변경 시마다 신고 의무가 발생하며, 위반 시 과태료 부과 대상이 됩니다.
 현장에서 많이 빠지는 부분이 바로 이 주소변경 신고입니다.
 
@@ -146,7 +146,7 @@ F-4 비자는 보통 3년 단위로 갱신되며, 비자 갱신 시 거소증도
 
 ### 한국 국적 자동 상실
 
-외국 시민권을 취득하면 한국 국적은 **즉시 자동으로 상실**됩니다 (국적법 제15조).
+외국 시민권을 취득하면 한국 국적은 **즉시 자동으로 상실**됩니다.
 국적상실신고는 이미 상실된 상태를 행정적으로 정리하는 절차일 뿐이며, 신고 전이라도 한국 국적은 없는 상태입니다.
 국적상실 후에도 한국 여권을 사용하면 **여권법 위반(부정사용)**에 해당하므로, 반드시 외국 여권으로만 입출국해야 합니다.
 

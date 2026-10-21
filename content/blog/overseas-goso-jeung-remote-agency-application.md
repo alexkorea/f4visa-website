@@ -14,19 +14,19 @@ slug: "overseas-goso-jeung-remote-agency-application"
 아래에서는 해외 거소증 신청의 실제 절차, 필요한 서류, 원격 대행이 어디까지 되는지, 그리고 실무에서 자주 막히는 지점을 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 해외 거소증 신청, 본인 입국 없이 어디까지 되나</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 해외 거소증 신청 자격 — 국적 문제부터 확인</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 해외 거소증 신청 서류 — 본국 발급과 한국 발급으로 나뉜다</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 해외 거소증 원격 대행 절차 — 실제 진행 순서</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 해외 거소증 신청에서 실제로 막히는 지점</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 해외 거소증 신청, 본인 입국 없이 어디까지 되나</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 해외 거소증 신청 자격 — 국적 문제부터 확인</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 해외 거소증 신청 서류 — 본국 발급과 한국 발급으로 나뉜다</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 해외 거소증 원격 대행 절차 — 실제 진행 순서</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 해외 거소증 신청에서 실제로 막히는 지점</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">해외 거소증 신청, 본인 입국 없이 어디까지 되나</h2>
@@ -56,7 +56,7 @@ slug: "overseas-goso-jeung-remote-agency-application"
 
 ### 외국 시민권 취득자의 국적 상실
 
-외국 시민권을 취득하면 한국 국적은 그 즉시 자동으로 상실됩니다(국적법 제15조).
+외국 시민권을 취득하면 한국 국적은 그 즉시 자동으로 상실됩니다.
 국적상실신고는 행정 정리 절차일 뿐이고, 신고 전이라도 이미 상실 상태입니다.
 바로 이 부분에서 오해가 생깁니다.
 

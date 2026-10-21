@@ -14,25 +14,25 @@ slug: "nationality-loss-report-required-documents-guide"
 아래에서 신고 절차 전체 흐름, 필요서류, 실무에서 흔히 막히는 지점, F-4 비자와 같이 진행하는 방법까지 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 국적상실 신고, 신고해야 상실되는 것이 아닙니다</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적상실 신고 절차 — 접수부터 등록부 정리까지</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국적상실 신고 필요서류 — 여기서 대부분 걸립니다</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국내 접수와 재외공관 접수, 어느 쪽이 빠른가</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 비자와 같이 진행하면 한 번에 끝납니다</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 흔히 놓치는 실수 정리</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 국적상실 신고, 신고해야 상실되는 것이 아닙니다</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적상실 신고 절차 — 접수부터 등록부 정리까지</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국적상실 신고 필요서류 — 여기서 대부분 걸립니다</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국내 접수와 재외공관 접수, 어느 쪽이 빠른가</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 비자와 같이 진행하면 한 번에 끝납니다</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 흔히 놓치는 실수 정리</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">국적상실 신고, 신고해야 상실되는 것이 아닙니다</h2>
 
 많이 놓치는 부분은 바로 이 지점입니다.
-국적법 제15조에 따라 외국 시민권을 자진 취득하면 한국 국적은 그 취득 시점에 **즉시 자동 상실**됩니다.
+국적법에 따라 외국 시민권을 자진 취득하면 한국 국적은 그 취득 시점에 **즉시 자동 상실**됩니다.
 국적상실 신고는 상실 여부를 심사받는 절차가 아니라, 이미 상실된 사실을 가족관계등록부에 반영하는 **행정 정리 절차**입니다.
 
 ### 신고 전 한국 여권 사용이 진짜 문제입니다
@@ -162,7 +162,7 @@ slug: "nationality-loss-report-required-documents-guide"
 **Q1. 국적상실 신고를 안 하면 한국 국적이 유지되나요?**
 
 아닙니다.
-외국 시민권을 자진 취득한 순간 국적법 제15조에 따라 이미 자동 상실된 상태입니다.
+외국 시민권을 자진 취득한 순간 국적법에 따라 이미 자동 상실된 상태입니다.
 신고는 이 사실을 등록부에 반영하는 정리 절차일 뿐입니다.
 
 **Q2. 국적상실 신고에 기한이나 벌금이 있나요?**

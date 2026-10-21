@@ -16,18 +16,18 @@ slug: "f4-residence-card-issuance-timeline-office-differences"
 관할별 처리 흐름과 지연 원인 비교는 [F-4 거소증 발급 기간 — 출입국사무소별 비교](/blog/f4-residence-card-issuance-period-immigration-office-comparison) 글에서 함께 확인할 수 있습니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 거소증 발급 기간이 사무소마다 갈리는 이유</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 출입국사무소별 소요시간 비교</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 발급 기간을 좌우하는 세 가지 변수</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 한국 체류를 최소로 줄이는 실무 순서</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 신청 전에 갖춰야 할 서류 점검표</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 상담 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 거소증 발급 기간이 사무소마다 갈리는 이유</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 출입국사무소별 소요시간 비교</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 발급 기간을 좌우하는 세 가지 변수</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 한국 체류를 최소로 줄이는 실무 순서</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 신청 전에 갖춰야 할 서류 점검표</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 상담 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 거소증 발급 기간이 사무소마다 갈리는 이유</h2>
@@ -91,7 +91,7 @@ slug: "f4-residence-card-issuance-timeline-office-differences"
 보완 통지를 받으면 재접수 대기가 붙어 전체 기간이 두 배로 늘어나는 사례가 흔합니다.
 특히 무범죄조회서는 해외에서 재발급받는 데만 몇 주가 걸리므로, 유효기간 계산을 놓치면 일정 전체가 꼬입니다.
 
-> **주의:** 외국 시민권을 취득한 경우 한국 국적은 취득 시점에 이미 자동 상실된 상태입니다(국적법 제15조).
+> **주의:** 외국 시민권을 취득한 경우 한국 국적은 취득 시점에 이미 자동 상실된 상태입니다.
 > 국적상실신고는 행정 정리 절차일 뿐이며, 신고 전이라도 한국 여권을 사용하면 여권법 위반(부정사용)에 해당합니다.
 > 거소신고 전에 국적 정리 상태부터 점검해야 뒤에서 꼬이지 않습니다.
 
@@ -146,7 +146,7 @@ slug: "f4-residence-card-issuance-timeline-office-differences"
 | 제적등본 | 해당자 | 동포 입증에 흔히 쓰임 |
 | 여권·사진·신청서 | 규격 준수 | 사진 규격 불일치로 반려되는 사례 있음 |
 
-국내거소신고의 법적 근거는 재외동포의 출입국과 법적 지위에 관한 법률 제6조입니다.
+국내거소신고는 재외동포의 출입국과 법적 지위에 관한 법률에 따른 절차입니다.
 세부 제출 서류는 신청인의 국적 취득 경로와 국적 정리 상태에 따라 달라질 수 있어, 본인 사안 기준의 목록은 상담 시 확정해 드립니다.
 
 <h2 id="section-6">자주 묻는 질문 (FAQ)</h2>
@@ -179,7 +179,7 @@ slug: "f4-residence-card-issuance-timeline-office-differences"
 
 **Q6. 시민권 취득 후 아직 국적상실신고를 안 했는데 거소신고가 되나요?**
 
-한국 국적은 외국 시민권 취득 시점에 이미 자동 상실된 상태입니다(국적법 제15조).
+한국 국적은 외국 시민권 취득 시점에 이미 자동 상실된 상태입니다.
 다만 국적상실 정리와 거소신고의 선후 처리는 사안에 따라 달라질 수 있어 요건 검토가 먼저입니다.
 
 <h2 id="section-7">행정사사무소 이룸 F-4 서비스 안내</h2>

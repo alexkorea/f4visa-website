@@ -14,26 +14,26 @@ slug: "f4-geosojeung-daehaeng-minimum-stay"
 아래에서 본인 방문이 반드시 요구되는 단계와 대행 가능한 단계, 입국 전 서류 준비, 최소 체류 일정 설계를 순서대로 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 거소증 대행의 범위 — 전부 대신할 수 있는 것은 아닙니다</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 최소 체류 일정 — 입국 전에 이미 갈립니다</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 거소증 준비 서류 — 시민권자는 국적 문제를 먼저 봐야 합니다</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 체류지(주소) 문제 — 실제로 많이 막히는 부분</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 출입국사무소 선택 — 발급 속도가 여기서 갈립니다</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 거소증 수령대행과 해외 발송 — 출국 후 절차</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 상담 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 거소증 대행의 범위 — 전부 대신할 수 있는 것은 아닙니다</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 최소 체류 일정 — 입국 전에 이미 갈립니다</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 거소증 준비 서류 — 시민권자는 국적 문제를 먼저 봐야 합니다</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 체류지(주소) 문제 — 실제로 많이 막히는 부분</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 출입국사무소 선택 — 발급 속도가 여기서 갈립니다</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 거소증 수령대행과 해외 발송 — 출국 후 절차</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 상담 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 거소증 대행의 범위 — 전부 대신할 수 있는 것은 아닙니다</h2>
 
 ### 국내거소신고란 무엇인가
 
-거소증(국내거소신고증)은 재외동포의 출입국과 법적 지위에 관한 법률 제6조에 근거한 국내거소신고를 마친 재외동포에게 발급되는 신분증입니다.
+거소증(국내거소신고증)은 재외동포의 출입국과 법적 지위에 관한 법률에 근거한 국내거소신고를 마친 재외동포에게 발급되는 신분증입니다.
 거소증이 있어야 은행 계좌 개설, 건강보험 가입, 부동산 등기 등 국내 생활의 대부분이 풀립니다.
 겉으로는 간단해 보여도, 실무에서는 "어디까지 대행이 되는가"를 잘못 알고 일정을 짰다가 꼬이는 경우가 흔합니다.
 
@@ -88,7 +88,7 @@ slug: "f4-geosojeung-daehaeng-minimum-stay"
 ### 국적상실은 신고 전에 이미 발생한 상태입니다
 
 서류보다 더 중요한 것은 국적 상태의 정리입니다.
-국적법 제15조에 따라 외국 시민권을 취득하면 한국 국적은 그 시점에 **자동으로 상실**됩니다.
+국적법에 따라 외국 시민권을 취득하면 한국 국적은 그 시점에 **자동으로 상실**됩니다.
 국적상실신고는 이미 발생한 상실을 행정적으로 정리하는 절차일 뿐, 신고 전이라도 법적으로는 이미 상실 상태입니다.
 
 > **주의:** 국적상실 후 한국 여권을 계속 사용하면 여권법 위반(부정사용)에 해당합니다.

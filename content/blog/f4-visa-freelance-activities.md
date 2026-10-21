@@ -14,19 +14,19 @@ F-4 비자 소지자는 단순노무 분야를 제외하면 대부분의 프리�
 이 글은 허용 업종, 제한 업종, 세금 처리, 사업자등록 시점, 실무에서 자주 막히는 지점을 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 프리랜서 활동 가능 범위의 기본 원칙</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 사업자등록 없이 가능한 프리랜서 활동</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 업종별 가능 범위와 실무에서 갈리는 지점</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 세금 신고와 4대보험 처리</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 자격외활동 위반 시 처분과 대응</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 실무에서 자주 받는 질문 정리</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 프리랜서 활동 가능 범위의 기본 원칙</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 사업자등록 없이 가능한 프리랜서 활동</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 업종별 가능 범위와 실무에서 갈리는 지점</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 세금 신고와 4대보험 처리</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 자격외활동 위반 시 처분과 대응</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 실무에서 자주 받는 질문 정리</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 비자 프리랜서 활동 가능 범위의 기본 원칙</h2>
@@ -36,7 +36,7 @@ F-4 비자는 취업 비자가 아니라 거주 비자에 가까운 성격을 �
 
 별도의 취업허가 없이도 경제활동이 가능합니다.
 
-다만 출입국관리법 시행령 제23조와 법무부 고시에 따라 단순노무 활동은 제한됩니다.
+다만 출입국관리법 시행령과 법무부 고시에 따라 단순노무 활동은 제한됩니다.
 
 ### 허용되는 활동의 큰 틀
 
@@ -163,7 +163,7 @@ F-4 비자는 취업 비자가 아니라 거주 비자에 가까운 성격을 �
 
 ### 위반 시 처분 수준
 
-자격외활동 위반은 출입국관리법 제20조 위반으로 처분됩니다.
+자격외활동 위반은 출입국관리법 위반으로 처분됩니다.
 
 처분 수위는 활동 기간, 횟수, 소득 규모에 따라 갈립니다.
 

@@ -16,19 +16,19 @@ F-4 비자 갱신은 만료 4개월 전부터 신청 가능하며, 핵심은 **�
 이 글은 2026년 기준 갱신 서류, 출입국 심사 흐름, 실무에서 자주 막히는 지점, 그리고 빠르게 처리되는 출입국사무소 선택 기준까지 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 갱신 대상과 시점 — 2026년 기준 핵심</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 비자 갱신 서류 2026 — 기본 제출 목록</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 비자 갱신 절차 — 출입국 심사 흐름</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 실무에서 자주 막히는 지점 — 갱신 반려 패턴</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 해외 체류 중 F-4 갱신 — 본국 발급과 재입국</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. F-4 갱신과 향후 F-5 영주권 연결 — 2026년 시점</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. F-4 비자 갱신 FAQ</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 갱신 대상과 시점 — 2026년 기준 핵심</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 비자 갱신 서류 2026 — 기본 제출 목록</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 비자 갱신 절차 — 출입국 심사 흐름</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 실무에서 자주 막히는 지점 — 갱신 반려 패턴</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 해외 체류 중 F-4 갱신 — 본국 발급과 재입국</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. F-4 갱신과 향후 F-5 영주권 연결 — 2026년 시점</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. F-4 비자 갱신 FAQ</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 비자 갱신 대상과 시점 — 2026년 기준 핵심</h2>
@@ -45,7 +45,7 @@ F-4 거소신고증의 유효기간은 보통 발급일로부터 최대 3년이�
 
 재외동포법상 F-4 대상은 외국 국적을 취득한 한국계, 혹은 그 직계비속입니다.
 
-> **주의:** 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다(국적법 제15조).
+> **주의:** 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다.
 > 국적상실신고는 행정 정리 절차일 뿐이며, 신고 전이라도 이미 상실 상태입니다.
 > 국적상실 후 한국 여권 사용은 여권법상 부정사용에 해당합니다.
 

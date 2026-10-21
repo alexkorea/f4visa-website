@@ -16,24 +16,24 @@ F-4 재외동포 비자를 가진 자녀가 부모를 한국에 초청할 때 �
 이 가이드에서는 F-1-5 자격 요건, 필요 서류, 신청 절차, 실무에서 자주 막히는 부분, 그리고 체류기간 연장과 활동 범위까지 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-1-5 비자란 무엇인가</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-1-5 신청 자격과 초청인 요건</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-1-5 비자 신청에 필요한 서류</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. F-1-5 신청 절차와 처리 기간</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-1-5 비자 체류기간 연장과 활동 범위</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 막히는 부분 — 실제 심사 포인트</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-1-5 비자란 무엇인가</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-1-5 신청 자격과 초청인 요건</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-1-5 비자 신청에 필요한 서류</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. F-1-5 신청 절차와 처리 기간</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-1-5 비자 체류기간 연장과 활동 범위</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 막히는 부분 — 실제 심사 포인트</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-1-5 비자란 무엇인가</h2>
 
-F-1-5는 출입국관리법 시행령 별표 1의2에 따른 **방문동거(F-1) 자격 중 5호 세부코드**입니다.
+F-1-5는 출입국관리법 시행령에 따른 **방문동거(F-1) 자격 중 5호 세부코드**입니다.
 
 F-4 동포가 한국에서 안정적으로 생활하면서 본국의 부모를 모셔오고자 할 때 사용하는 비자가 바로 이 자격입니다.
 
@@ -223,7 +223,7 @@ F-4 자녀가 부모를 모셔올 때는 F-1-5가 맞는 경로입니다.
 
 **Q2. 부모가 과거 한국 국적이었는데도 F-1-5로 신청해야 하나요?**
 
-부모님이 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다(국적법 제15조).
+부모님이 외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다.
 
 이 경우 부모님 본인이 **F-4를 직접 신청**하는 편이 빠르고 유리한 경우가 보통입니다.
 

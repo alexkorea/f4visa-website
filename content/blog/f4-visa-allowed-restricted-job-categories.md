@@ -16,26 +16,26 @@ slug: "f4-visa-allowed-restricted-job-categories"
 업종 전체의 허용·제한 기준은 [F-4 비자 취업 가능 업종](/blog/f4-visa-work-industry-scope-guide) 정리 글에서 한 번에 확인할 수 있습니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 취업 범위, 원칙은 '제한 업종만 피하면 자유'</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 제한되는 세 가지 유형 — 여기서 걸리면 체류에 문제가 생깁니다</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 단순노무 판단 기준 — 실제로 많이 걸리는 직종</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 인구감소지역 예외 — 같은 직종도 지역에 따라 갈립니다</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 위반하면 어떻게 되나 — 체류 연장에서 드러납니다</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. H-2 방문취업 비자와 비교하면 차이가 분명합니다</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. FAQ — F-4 취업 업종 관련 자주 묻는 질문</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 무료 상담 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 취업 범위, 원칙은 '제한 업종만 피하면 자유'</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 제한되는 세 가지 유형 — 여기서 걸리면 체류에 문제가 생깁니다</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 단순노무 판단 기준 — 실제로 많이 걸리는 직종</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 인구감소지역 예외 — 같은 직종도 지역에 따라 갈립니다</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 위반하면 어떻게 되나 — 체류 연장에서 드러납니다</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. H-2 방문취업 비자와 비교하면 차이가 분명합니다</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. FAQ — F-4 취업 업종 관련 자주 묻는 질문</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 무료 상담 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 비자 취업 범위, 원칙은 '제한 업종만 피하면 자유'</h2>
 
 ### 법적 근거부터 확인
 
-F-4 체류자격의 취업 활동은 재외동포의 출입국과 법적 지위에 관한 법률 제10조와 출입국관리법 시행령 제23조 제3항이 기본 틀입니다.
+F-4 체류자격의 취업 활동은 재외동포의 출입국과 법적 지위에 관한 법률과 출입국관리법 시행령이 기본 틀입니다.
 E-7 같은 취업비자가 '허용된 직종만 가능'한 포지티브 방식이라면, F-4는 '금지된 것만 빼고 전부 가능'한 네거티브 방식입니다.
 바로 이 구조 때문에 F-4는 국내 동포 비자 중 취업 자유도가 가장 높습니다.
 
@@ -52,7 +52,7 @@ F-4 소지자는 취업을 위한 별도 허가나 고용주의 고용허가서�
 
 ### 유형별 정리
 
-출입국관리법 시행령 제23조 제3항이 정한 제한 유형은 세 가지입니다.
+출입국관리법 시행령이 정한 제한 유형은 세 가지입니다.
 
 | 제한 유형 | 내용 | 예시 |
 |---|---|---|
@@ -185,8 +185,8 @@ H-2에서 F-4로 자격 변경을 노리는 분들이 많은데, 이때도 변�
 
 **Q7. F-4 비자로 한국에서 일할 수 있나요?**
 
-일할 수 있습니다. 재외동포법 제10조제5항은 F-4 소지자의 취업과 그 밖의 경제활동을 사회질서나 경제안정을 해치지 않는 범위에서 자유롭게 허용합니다.
-법무부 체류민원 매뉴얼(2026.9.)은 단순노무행위, 사행행위 등 선량한 풍속이나 사회질서에 반하는 행위, 공공의 이익이나 국내 취업질서 유지를 위해 제한이 필요한 경우를 빼면 취업활동에 제한을 받지 않는다고 정합니다. 국내 법령상 자격이 필요한 직업은 그 자격을 갖춰야 합니다.
+일할 수 있습니다. 재외동포법은 F-4 소지자의 취업과 그 밖의 경제활동을 사회질서나 경제안정을 해치지 않는 범위에서 자유롭게 허용합니다.
+법무부는 단순노무행위, 사행행위 등 선량한 풍속이나 사회질서에 반하는 행위, 공공의 이익이나 국내 취업질서 유지를 위해 제한이 필요한 경우를 빼면 취업활동에 제한을 받지 않는다고 안내합니다. 국내 법령상 자격이 필요한 직업은 그 자격을 갖춰야 합니다.
 「재외동포(F-4) 자격의 취업활동 제한범위 고시」는 인구감소지역 중 지역특화형 비자 사업 대상 시·군·구에 거소를 둔 F-4 소지자 등에게 단순노무 제한과 공익상 제한을 적용하지 않는 예외를 두되, 풍속 관련 제한은 그대로 둡니다.
 
 <h2 id="section-8">행정사사무소 이룸 F-4 서비스 안내</h2>

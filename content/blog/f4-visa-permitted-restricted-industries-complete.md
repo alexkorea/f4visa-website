@@ -18,20 +18,20 @@ F-4 비자는 전문직·관리직·사무직 등 광범위한 직종에서 자�
 업종 전체의 허용·제한 기준은 [F-4 비자 취업 가능 업종](/blog/f4-visa-work-industry-scope-guide) 정리 글에서 한 번에 확인할 수 있습니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 취업 가능 업종의 기본 원칙</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 비자 제한 업종 - 단순노무의 실제 범위</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4로 가능한 대표 직종</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. F-4 취업 시 실무에서 자주 막히는 부분</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 비자 취업 제한 위반 시 불이익</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 직종별 합법성 빠른 비교표</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 거소증 갱신·F-5 전환과의 연결</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 취업 가능 업종의 기본 원칙</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 비자 제한 업종 - 단순노무의 실제 범위</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4로 가능한 대표 직종</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. F-4 취업 시 실무에서 자주 막히는 부분</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 비자 취업 제한 위반 시 불이익</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 직종별 합법성 빠른 비교표</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 거소증 갱신·F-5 전환과의 연결</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 비자 취업 가능 업종의 기본 원칙</h2>
@@ -42,7 +42,7 @@ F-4는 취업 활동에 별도 허가가 필요 없는 거주 자격에 가깝�
 
 법무부가 고시한 단순노무 등 제한 업종에 해당하지 않으면, 별도 신고 없이 합법적으로 일할 수 있습니다.
 
-근거는 「재외동포의 출입국과 법적 지위에 관한 법률」 제10조 및 동법 시행령, 그리고 법무부 고시 제2023-297호입니다.
+이 기준은 「재외동포의 출입국과 법적 지위에 관한 법률」과 동법 시행령, 법무부 고시에 따릅니다.
 
 ### 사업자등록도 자유
 
@@ -174,7 +174,7 @@ F-4 보유자는 본인 명의로 사업자등록이 가능합니다.
 
 ### 고용주도 처분 대상
 
-고용주(사용자)도 「출입국관리법」 제18조 위반으로 처벌됩니다.
+고용주(사용자)도 「출입국관리법」 위반으로 처벌됩니다.
 
 F-4를 단순노무에 고용한 사업주에게도 범칙금이 부과되므로, 채용 단계에서 고용주가 거절하는 경우가 많습니다.
 

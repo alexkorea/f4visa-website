@@ -14,19 +14,19 @@ F-4 비자(국내 거소신고증)가 만료된 상태에서 다시 한국에 �
 아래에서는 사증 재발급 준비 서류, 입국 후 거소증 신청 순서, 실무에서 가장 많이 막히는 지점, 최근 변경 사항까지 실제 처리 흐름대로 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 만료의 정확한 의미부터 확인</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 재입국 전 본국에서 준비해야 할 서류</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 입국 후 거소증 재신청 절차</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 체류지(주소)가 없을 때 실무 대응</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 만료 기간이 오래된 경우 - 자진 말소와 재신고</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 재입국 시점에 흔히 발생하는 문제</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 만료의 정확한 의미부터 확인</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 재입국 전 본국에서 준비해야 할 서류</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 입국 후 거소증 재신청 절차</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 체류지(주소)가 없을 때 실무 대응</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 만료 기간이 오래된 경우 - 자진 말소와 재신고</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 재입국 시점에 흔히 발생하는 문제</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 비자 만료의 정확한 의미부터 확인</h2>
@@ -46,7 +46,7 @@ F-4 비자(국내 거소신고증)가 만료된 상태에서 다시 한국에 �
 사증은 입국용 도구이므로 만료되면 다시 한국에 들어올 수 없고, 본국에서 F-4 사증을 새로 받아야 합니다.
 실무에서는 거소증과 사증의 만료를 같은 것으로 오해해 출국 시점부터 일이 꼬이는 경우가 흔합니다.
 
-> **주의:** 외국 시민권을 취득한 시점부터 한국 국적은 자동으로 상실됩니다(국적법 제15조).
+> **주의:** 외국 시민권을 취득한 시점부터 한국 국적은 자동으로 상실됩니다.
 > 국적상실신고를 하지 않았더라도 이미 상실 상태이며, 이 상태에서 한국 여권으로 출입국하면 여권법 위반(부정사용)에 해당합니다.
 
 <h2 id="section-2">재입국 전 본국에서 준비해야 할 서류</h2>

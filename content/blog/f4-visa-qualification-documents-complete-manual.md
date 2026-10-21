@@ -16,26 +16,26 @@ F-4 비자 신청 자격의 출발점은 서류 개수가 아니라 **한국 국
 아래에서 자격 판정 기준, 국적상실 처리 순서, 필요서류 전체 목록, 신청 경로별 차이, 실제 심사에서 걸리는 지점까지 순서대로 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 신청 자격 — 먼저 봐야 할 것은 혈통이 아니라 기록입니다</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적상실 — 신청 전에 가장 많이 막히는 단계</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 비자 필요서류 — 원본과 사본이 갈리는 지점</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 재외공관 신청과 국내 거소증 신청, 어디가 빠른가</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 취득 후 활동 범위 — 취업이 무제한은 아닙니다</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 신청 전 체크리스트</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 상담 및 문의</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 신청 자격 — 먼저 봐야 할 것은 혈통이 아니라 기록입니다</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적상실 — 신청 전에 가장 많이 막히는 단계</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 비자 필요서류 — 원본과 사본이 갈리는 지점</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 재외공관 신청과 국내 거소증 신청, 어디가 빠른가</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 취득 후 활동 범위 — 취업이 무제한은 아닙니다</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 신청 전 체크리스트</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 상담 및 문의</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 비자 신청 자격 — 먼저 봐야 할 것은 혈통이 아니라 기록입니다</h2>
 
 ### 법에서 정한 재외동포의 범위
 
-F-4 체류자격은 「재외동포의 출입국과 법적 지위에 관한 법률」 제2조에서 정의한 재외동포에게 부여됩니다.
+F-4 체류자격은 「재외동포의 출입국과 법적 지위에 관한 법률」에서 정의한 재외동포에게 부여됩니다.
 
 대한민국 국민이었던 자로서 외국 국적을 취득한 사람, 그리고 그 직계비속으로서 외국 국적을 취득한 사람이 여기에 들어갑니다.
 
@@ -63,7 +63,7 @@ F-4 체류자격은 「재외동포의 출입국과 법적 지위에 관한 법�
 
 ### 외국 시민권을 받은 순간 이미 상실입니다
 
-「국적법」 제15조에 따라 **자진하여 외국 국적을 취득한 사람은 그 외국 국적을 취득한 때에 대한민국 국적을 자동으로 상실**합니다.
+「국적법」에 따라 **자진하여 외국 국적을 취득한 사람은 그 외국 국적을 취득한 때에 대한민국 국적을 자동으로 상실**합니다.
 
 국적상실신고는 이미 벌어진 상태를 행정적으로 정리하는 절차일 뿐입니다.
 

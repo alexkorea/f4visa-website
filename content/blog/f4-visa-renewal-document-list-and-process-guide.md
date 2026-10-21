@@ -14,25 +14,25 @@ F-4 비자 갱신은 체류기간 만료 전 4개월 이내에 관할 출입국�
 아래에서 2026년 기준 서류 목록, 신청 시기와 절차, 실제 심사에서 자주 막히는 지점, 해외 체류자의 처리 방법까지 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 갱신의 정확한 의미 — 체류기간 연장허가</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 비자 갱신 서류 2026년 기준 목록</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 갱신 절차 — 예약부터 허가까지</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 실제 심사에서 자주 막히는 지점</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 해외 체류 중 만료가 다가오는 경우</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. FAQ — F-4 비자 갱신에서 자주 묻는 질문</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 갱신의 정확한 의미 — 체류기간 연장허가</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 비자 갱신 서류 2026년 기준 목록</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 갱신 절차 — 예약부터 허가까지</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 실제 심사에서 자주 막히는 지점</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 해외 체류 중 만료가 다가오는 경우</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. FAQ — F-4 비자 갱신에서 자주 묻는 질문</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">F-4 비자 갱신의 정확한 의미 — 체류기간 연장허가</h2>
 
 ### 비자 갱신과 거소신고증 재발급은 다른 절차입니다
 
-흔히 "비자 갱신"이라고 부르지만, 법적으로는 출입국관리법 제25조에 따른 **체류기간 연장허가**입니다.
+흔히 "비자 갱신"이라고 부르지만, 법적으로는 출입국관리법에 따른 **체류기간 연장허가**입니다.
 국내거소신고증(거소증) 카드 자체를 새로 받는 재발급과는 별개의 절차입니다.
 연장허가를 받으면 거소신고증 뒷면 또는 시스템상에 새 체류기간이 기재되고, 카드가 유효한 상태로 이어집니다.
 많이 놓치는 부분은 바로 이 구분입니다.
@@ -40,7 +40,7 @@ F-4 비자 갱신은 체류기간 만료 전 4개월 이내에 관할 출입국�
 
 ### 연장 신청 가능 시기
 
-「재외동포의 출입국과 법적 지위에 관한 법률」 제10조에 따라 F-4 체류기간의 상한은 3년이며, 연장이 가능합니다.
+「재외동포의 출입국과 법적 지위에 관한 법률」에 따라 F-4 체류기간의 상한은 3년이며, 연장이 가능합니다.
 연장 신청은 **체류기간 만료 4개월 전부터** 할 수 있습니다.
 보통은 이 단계에서 걸립니다.
 만료일이 지나고 신청하면 범칙금 대상이 되고, 이후 심사에도 불리하게 작용할 수 있습니다.
@@ -106,7 +106,7 @@ F-4 비자 갱신은 체류기간 만료 전 4개월 이내에 관할 출입국�
 ### 체류지 불일치
 
 가장 흔한 보완 사유는 신고된 거소와 실제 체류지가 다른 경우입니다.
-이사 후 14일 이내 체류지 변경신고(재외동포법 제6조②)를 하지 않았다면, 연장 심사 단계에서 그대로 드러납니다.
+이사 후 14일 이내 체류지 변경신고를 하지 않았다면, 연장 심사 단계에서 그대로 드러납니다.
 과태료 문제와 연장 심사가 한꺼번에 꼬일 수 있는 부분이라, 신청 전에 먼저 정리해야 합니다.
 
 ### 단순노무 종사 이력
@@ -119,7 +119,7 @@ F-4는 재외동포법상 단순노무행위 종사가 제한됩니다.
 
 ### 국적 관련 정리가 안 된 경우
 
-외국 시민권을 취득하면 국적법 제15조에 따라 한국 국적은 그 시점에 자동 상실됩니다.
+외국 시민권을 취득하면 국적법에 따라 한국 국적은 그 시점에 자동 상실됩니다.
 국적상실신고는 행정 정리 절차일 뿐이고, 신고 전이라도 이미 상실된 상태입니다.
 문제는 여기서 시작됩니다.
 국적상실 후 한국 여권을 사용한 이력이 있으면 여권법 위반(부정사용)에 해당하고, 연장 심사에서 별도 쟁점이 됩니다.

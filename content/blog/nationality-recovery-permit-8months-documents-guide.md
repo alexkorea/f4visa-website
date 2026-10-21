@@ -16,20 +16,20 @@ slug: "nationality-recovery-permit-8months-documents-guide"
 이 글은 신청 자격부터 서류, 처리 기간, 거부 사유, 허가 후 절차까지 실무 흐름을 한 번에 정리합니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 국적회복이란 무엇이고 누가 신청하나</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적회복 처리 기간 — 왜 오래 걸리는가</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국적회복 신청 자격과 결격 사유</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국적회복 필요서류 총정리</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 국적회복 신청 절차 단계별 흐름</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적회복 허가 이후 절차</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 거부·반려가 발생하는 실제 사유</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 국적회복이란 무엇이고 누가 신청하나</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적회복 처리 기간 — 왜 오래 걸리는가</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국적회복 신청 자격과 결격 사유</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국적회복 필요서류 총정리</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 국적회복 신청 절차 단계별 흐름</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적회복 허가 이후 절차</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 거부·반려가 발생하는 실제 사유</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">국적회복이란 무엇이고 누가 신청하나</h2>
@@ -38,7 +38,7 @@ slug: "nationality-recovery-permit-8months-documents-guide"
 
 국적회복은 과거에 한국 국적을 보유했던 사람이 다시 한국 국적을 받기 위해 법무부 장관에게 신청하는 절차입니다.
 
-근거 법령은 국적법 제9조이며, 귀화와는 출발점이 다릅니다.
+국적법에 따른 절차이며, 귀화와는 출발점이 다릅니다.
 
 귀화는 한 번도 한국인이 아니었던 외국인이 신청하는 절차이고, 국적회복은 "원래 한국인이었던 사람"이 신청합니다.
 
@@ -53,7 +53,7 @@ slug: "nationality-recovery-permit-8months-documents-guide"
 - 부모를 따라 미성년 시기에 외국 국적을 취득해 한국 국적을 잃은 분
 - 위 대상자의 미성년 자녀 (수반 신청)
 
-> **주의:** 외국 시민권 취득 시점에 한국 국적은 즉시 자동 상실됩니다(국적법 제15조). 국적상실신고는 행정 정리 절차일 뿐이며, 신고 전이라도 이미 상실 상태입니다. 상실 후 한국 여권을 사용하면 여권법상 부정사용에 해당할 수 있습니다.
+> **주의:** 외국 시민권 취득 시점에 한국 국적은 즉시 자동 상실됩니다. 국적상실신고는 행정 정리 절차일 뿐이며, 신고 전이라도 이미 상실 상태입니다. 상실 후 한국 여권을 사용하면 여권법상 부정사용에 해당할 수 있습니다.
 
 <h2 id="section-2">국적회복 처리 기간 — 왜 오래 걸리는가</h2>
 
@@ -86,7 +86,7 @@ slug: "nationality-recovery-permit-8months-documents-guide"
 
 ### 결격 사유
 
-국적법 제9조 제2항에 따라 다음에 해당하면 허가가 제한될 수 있습니다.
+국적법에 따라 다음에 해당하면 허가가 제한될 수 있습니다.
 
 - 국가나 사회에 위해를 끼친 사실이 있는 자
 - 품행이 단정하지 못한 자

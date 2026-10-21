@@ -14,26 +14,26 @@ slug: "dual-citizenship-permission-criteria-renunciation-vs-loss"
 아래에서 허용 조건별 요건, 국적이탈과 국적상실의 법적 차이, 신고 절차와 서류, 국적상실 후 F-4 비자로 한국에 체류하는 방법까지 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 복수국적 허용 조건, 먼저 봐야 할 것은 본인의 취득 경위입니다</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 외국국적불행사서약, 서류보다 더 중요한 것은 기한입니다</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국적이탈 vs 국적상실, 바로 이 부분에서 갈립니다</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국적상실신고 절차와 서류, 흔히 놓치는 부분</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 국적상실 후 F-4 비자, 순서가 꼬이면 오히려 늦어집니다</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적회복과의 관계 — 다시 한국 국적을 원한다면</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 무료 상담 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 복수국적 허용 조건, 먼저 봐야 할 것은 본인의 취득 경위입니다</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 외국국적불행사서약, 서류보다 더 중요한 것은 기한입니다</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국적이탈 vs 국적상실, 바로 이 부분에서 갈립니다</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국적상실신고 절차와 서류, 흔히 놓치는 부분</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 국적상실 후 F-4 비자, 순서가 꼬이면 오히려 늦어집니다</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적회복과의 관계 — 다시 한국 국적을 원한다면</a></li>
+ <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 무료 상담 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">복수국적 허용 조건, 먼저 봐야 할 것은 본인의 취득 경위입니다</h2>
 
 핵심은 이것입니다.
 한국 국적법은 "후천적으로 외국 국적을 자진 취득한 사람"에게는 복수국적을 허용하지 않습니다.
-국적법 제15조 제1항은 자진하여 외국 국적을 취득한 국민은 그 외국 국적을 취득한 때에 대한민국 국적을 상실한다고 규정합니다.
+국적법은 자진하여 외국 국적을 취득한 국민은 그 외국 국적을 취득한 때에 대한민국 국적을 상실한다고 규정합니다.
 복수국적이 가능한지는 결국 "어떤 경위로 두 국적을 갖게 되었는가"에서 갈립니다.
 
 ### 선천적 복수국적자
@@ -45,7 +45,7 @@ slug: "dual-citizenship-permission-criteria-renunciation-vs-loss"
 ### 만 65세 이후 국적회복자
 
 과거에 한국 국적을 상실한 재외동포가 만 65세 이후 한국에 입국하여 국적회복허가를 받는 경우, 외국 국적을 포기하지 않고 서약만으로 복수국적을 유지할 수 있습니다.
-국적법 제10조 제2항에 근거한 대표적인 허용 유형입니다.
+국적법에 근거한 대표적인 허용 유형입니다.
 실무에서는 "입국 후 신청"이라는 순서 요건을 놓쳐서 걸리는 경우가 흔합니다.
 
 ### 우수인재·혼인귀화자 등
@@ -155,7 +155,7 @@ slug: "dual-citizenship-permission-criteria-renunciation-vs-loss"
 ### Q1. 미국 시민권을 땄는데 국적상실신고를 안 하면 한국 국적이 유지되나요?
 
 아닙니다.
-국적법 제15조에 따라 시민권 취득 시점에 이미 자동으로 상실된 상태입니다.
+국적법에 따라 시민권 취득 시점에 이미 자동으로 상실된 상태입니다.
 신고는 가족관계등록부를 정리하는 절차일 뿐이며, 미룰수록 이후 F-4 신청만 늦어집니다.
 
 ### Q2. 선천적 복수국적자 아들이 있는데 언제까지 국적이탈을 해야 하나요?

@@ -18,15 +18,15 @@ slug: "overseas-korean-property-acquisition-process-tax-guide"
 이 문서에서는 취득 전 준비, 신고 절차, 세금 구조, 자금 송금, 자주 막히는 실무 지점을 다룹니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 재외동포 부동산 취득, 가장 먼저 확인해야 할 것</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 부동산 취득 절차 — 단계별 흐름</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 부동산 취득 시 세금 — 어떤 것이 부과되는가</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 본문 중간 안내</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 재외동포가 자주 막히는 실무 지점</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 거소증과 부동산 — 연결되는 실무 포인트</a></li>
-  </ul>
+ <h3 style="color:#1e40af;margin-top:0">목차</h3>
+ <ul style="list-style:none;padding-left:0">
+ <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 재외동포 부동산 취득, 가장 먼저 확인해야 할 것</a></li>
+ <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 부동산 취득 절차 — 단계별 흐름</a></li>
+ <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 부동산 취득 시 세금 — 어떤 것이 부과되는가</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 본문 중간 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 재외동포가 자주 막히는 실무 지점</a></li>
+ <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 거소증과 부동산 — 연결되는 실무 포인트</a></li>
+ </ul>
 </nav>
 
 <h2 id="section-1">재외동포 부동산 취득, 가장 먼저 확인해야 할 것</h2>
@@ -37,7 +37,7 @@ slug: "overseas-korean-property-acquisition-process-tax-guide"
 
 한국 국적을 유지한 재외국민인지, 외국 시민권을 취득한 외국 국적 동포인지에 따라 적용 법령이 달라집니다.
 
-외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다(국적법 제15조).
+외국 시민권 취득 시 한국 국적은 즉시 자동 상실됩니다.
 
 국적상실신고 전이라도 이미 외국인 신분이며, 부동산 취득 시 외국인 절차를 따라야 합니다.
 

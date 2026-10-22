@@ -1,14 +1,20 @@
 import type { Metadata } from "next"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
+import { withOgDefaults } from "@/lib/og"
 
-export const metadata: Metadata = {
+export const metadata: Metadata = withOgDefaults({
   title: "개인정보처리방침",
   description: "행정사사무소 이룸의 개인정보처리방침입니다.",
   alternates: {
     canonical: "https://www.f4visa.net/privacy",
   },
-}
+  twitter: {
+    card: "summary_large_image" as const,
+    title: "개인정보처리방침 | 행정사사무소 이룸",
+    description: "행정사사무소 이룸의 개인정보처리방침입니다.",
+  },
+})
 
 export default function PrivacyPage() {
   return (

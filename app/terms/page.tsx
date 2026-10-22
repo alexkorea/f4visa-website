@@ -1,14 +1,20 @@
 import type { Metadata } from "next"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
+import { withOgDefaults } from "@/lib/og"
 
-export const metadata: Metadata = {
+export const metadata: Metadata = withOgDefaults({
   title: "이용약관",
   description: "행정사사무소 이룸의 이용약관입니다.",
   alternates: {
     canonical: "https://www.f4visa.net/terms",
   },
-}
+  twitter: {
+    card: "summary_large_image" as const,
+    title: "이용약관 | 행정사사무소 이룸",
+    description: "행정사사무소 이룸의 이용약관입니다.",
+  },
+})
 
 export default function TermsPage() {
   return (

@@ -3248,6 +3248,22 @@
    "slug": "f5-income-assets-recognition-relaxation-gni-70-80-percent",
    "generated_at": "2026-10-21T10:01:18.260Z",
    "version": "1.4"
+  },
+  "f5-income-proof-when-certificate-unavailable-exception-documents": {
+   "hash": "6851681b7b528fc413999298c123a33a6ca3e59e5fd15183ef4b7c2cc855b16c",
+   "source": "pexels",
+   "seed": 2914326070,
+   "theme": "residence",
+   "prompt_subject": "apartment building entrance",
+   "map_version": null,
+   "pexels_id": 33234792,
+   "pexels_author": "Vinny Anugraha",
+   "category": "영주권",
+   "visa": "F-5",
+   "lang": "ko",
+   "slug": "f5-income-proof-when-certificate-unavailable-exception-documents",
+   "generated_at": "2026-10-22T10:01:15.506Z",
+   "version": "1.4"
   }
  }
 }

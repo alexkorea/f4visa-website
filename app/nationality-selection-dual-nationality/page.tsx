@@ -10,8 +10,9 @@ import { ServiceJsonLd } from "@/components/structured-data"
 import { RelatedBlogLinks } from "@/components/related-blog-links"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { AlertTriangle, ShieldCheck, Gavel, Clock } from "lucide-react"
+import { withOgDefaults } from "@/lib/og"
 
-export const metadata: Metadata = {
+export const metadata: Metadata = withOgDefaults({
   title:
     "국적선택과 이중국적 / 복수국적자 종합가이드",
   description:
@@ -34,7 +35,7 @@ export const metadata: Metadata = {
     description:
       "복수국적자의 법적 처우, 직무상 제한, 국적선택 기한, 불행사서약 위반 시 국적선택 명령 안내.",
   },
-}
+})
 
 const faqs: FaqItem[] = [
   {

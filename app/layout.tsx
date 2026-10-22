@@ -3,6 +3,7 @@ import Script from 'next/script'
 import './globals.css'
 import { DeferredCtaBar } from '@/components/deferred-cta-bar'
 import { SITE } from '@/lib/site'
+import { DEFAULT_OG_IMAGE } from '@/lib/og'
 
 const TITLE_DEFAULT = `F-4 비자 · 거소증 · 국적상실 · 국적회복 · 영주권 | ${SITE.name}`
 const DESCRIPTION =
@@ -31,13 +32,13 @@ export const metadata: Metadata = {
     siteName: SITE.name,
     type: 'website',
     locale: 'ko_KR',
-    images: [{ url: `${SITE.url}/og-image.png`, width: 1200, height: 630, alt: `${SITE.name} — F-4 비자·거소증 전문` }],
+    images: [DEFAULT_OG_IMAGE],
   },
   twitter: {
     card: 'summary_large_image',
     title: TITLE_DEFAULT,
     description: DESCRIPTION,
-    images: [`${SITE.url}/og-image.png`],
+    images: [DEFAULT_OG_IMAGE.url],
   },
   icons: {
     icon: [

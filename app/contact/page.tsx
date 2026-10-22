@@ -6,8 +6,9 @@ import { ContactForm } from "./contact-form"
 import { SITE } from "@/lib/site"
 import { Phone, Smartphone, Mail, MapPin } from "lucide-react"
 import { qrHref } from "@/lib/qr-links"
+import { withOgDefaults } from "@/lib/og"
 
-export const metadata = {
+export const metadata = withOgDefaults({
   title: "상담 문의 — F-4 비자·거소증·국적 업무",
   description: "F-4 재외동포 비자, 거소증 발급, 국적상실·국적회복, F-5 영주권 상담을 접수합니다. 해외 거주자도 이메일·카카오톡·위챗·LINE·WhatsApp으로 상담할 수 있으며 초기 상담은 무료입니다.",
   alternates: { canonical: `${SITE.url}/contact` },
@@ -18,7 +19,7 @@ export const metadata = {
     siteName: SITE.name,
     type: "website",
   },
-}
+})
 
 const contactInfo = [
   { icon: Phone, label: "전화", value: SITE.phoneOffice, href: SITE.phoneOfficeHref },

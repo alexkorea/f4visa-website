@@ -10,8 +10,9 @@ import { ServiceJsonLd } from "@/components/structured-data"
 import { RelatedBlogLinks } from "@/components/related-blog-links"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { CheckCircle2 } from "lucide-react"
+import { withOgDefaults } from "@/lib/og"
 
-export const metadata: Metadata = {
+export const metadata: Metadata = withOgDefaults({
   title: "재외동포 영주권(F-5) — 자격·절차·필요서류",
   description:
     "F-4 비자에서 F-5 영주권으로 전환할 때의 체류 요건, 생계유지 능력, 기본소양 요건과 필요 서류, 신청 절차를 비교표로 정리했습니다. 신청 시점 판단을 행정사가 검토해 드립니다.",
@@ -30,7 +31,7 @@ export const metadata: Metadata = {
     description:
       "F-4 비자에서 F-5 영주권으로 전환할 때의 체류 요건, 생계유지 능력, 기본소양 요건과 필요 서류, 신청 절차를 비교표로 정리했습니다. 신청 시점 판단을 행정사가 검토해 드립니다.",
   },
-}
+})
 
 const faqs: FaqItem[] = [
   {

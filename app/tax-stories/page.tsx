@@ -8,10 +8,11 @@ import { PageHero } from "@/components/page-hero"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { getAllPosts } from "@/lib/blog"
 import { Calendar, Tag } from "lucide-react"
+import { withOgDefaults } from "@/lib/og"
 
 export const revalidate = 60
 
-export const metadata: Metadata = {
+export const metadata: Metadata = withOgDefaults({
   title: "세금 이야기 — 재외동포·F-4 비자 세금 가이드",
   description: "재외동포와 F-4 비자 소지자의 부동산 취득세, 등기, 종합소득세 신고 등 세금 실무를 협력 세무사(박동국 세무사·택스가이드 세무회계사무소)와 함께 정리한 가이드 모음입니다.",
   alternates: { canonical: `${SITE.url}/tax-stories` },
@@ -27,7 +28,7 @@ export const metadata: Metadata = {
     title: "세금 이야기 — 재외동포·F-4 비자 세금 가이드 | 행정사사무소 이룸",
     description: "재외동포와 F-4 비자 소지자의 부동산 취득세, 등기, 종합소득세 신고 등 세금 실무를 협력 세무사(박동국 세무사·택스가이드 세무회계사무소)와 함께 정리한 가이드 모음입니다.",
   },
-}
+})
 
 export default async function TaxStoriesPage() {
   const TAX_SLUGS = new Set([

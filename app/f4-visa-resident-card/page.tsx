@@ -10,8 +10,9 @@ import { RelatedBlogLinks } from "@/components/related-blog-links"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { Button } from "@/components/ui/button"
 import { CheckCircle, FileText, ClipboardList, UserCheck } from "lucide-react"
+import { withOgDefaults } from "@/lib/og"
 
-export const metadata = {
+export const metadata = withOgDefaults({
   title: "F-4 비자와 거소증 — 발급 대상·효과·신청 절차",
   description:
     "재외동포 체류자격(F-4)과 국내거소신고증(거소증)의 발급 대상과 효과, 신청 절차를 정리했습니다. 체류기간, 병역 관련 제한, 사업자등록·부동산 취득 가능 여부까지 행정사가 안내합니다.",
@@ -28,7 +29,7 @@ export const metadata = {
     title: "F-4 비자와 거소증 — 발급 대상·효과·신청 절차 | 행정사사무소 이룸",
     description: "재외동포 체류자격(F-4)과 국내거소신고증(거소증)의 발급 대상과 효과, 신청 절차를 정리했습니다. 체류기간, 병역 관련 제한, 사업자등록·부동산 취득 가능 여부까지 행정사가 안내합니다.",
   },
-}
+})
 
 const steps = [
   {

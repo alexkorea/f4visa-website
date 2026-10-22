@@ -11,8 +11,9 @@ import { TeamSection } from "@/components/sections/team"
 import { WhyUsSection } from "@/components/sections/why-us"
 import { Button } from "@/components/ui/button"
 import { Shield, Award, Users, Clock } from "lucide-react"
+import { withOgDefaults } from "@/lib/og"
 
-export const metadata = {
+export const metadata = withOgDefaults({
   title: "사무소 소개 — 재외동포 행정 전문 행정사사무소 이룸",
   description:
     "행정사사무소 이룸은 F-4 재외동포 비자와 거소증, 국적상실·국적이탈·국적회복, F-5 영주권 업무를 지원하는 행정사사무소입니다. 처리하는 업무와 처리하지 않는 업무, 상담 언어, 사무소 정보를 안내합니다.",
@@ -29,7 +30,7 @@ export const metadata = {
     title: "사무소 소개 — 재외동포 행정 전문 행정사사무소 이룸 | 행정사사무소 이룸",
     description: "행정사사무소 이룸은 F-4 재외동포 비자와 거소증, 국적상실·국적이탈·국적회복, F-5 영주권 업무를 지원하는 행정사사무소입니다. 처리하는 업무와 처리하지 않는 업무, 상담 언어, 사무소 정보를 안내합니다.",
   },
-}
+})
 
 const officeFacts = [
   { icon: Shield, label: "업무 범위", value: "재외동포 행정" },

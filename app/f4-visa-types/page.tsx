@@ -9,6 +9,7 @@ import { RelatedBlogLinks } from "@/components/related-blog-links"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
+import { withOgDefaults } from "@/lib/og"
 
 // BEYE-1007-FIX #10(맥7, 보스눈 QA 10-07): 현행 코드(F-4-41·F-4-42) 표가 먼저, 통합 이전 세부코드는 '예전 코드' 접기.
 // 현행 표·공통서류·통합일·F-4-R 문구는 법무부 체류민원 자격별 안내 매뉴얼 2026.9.(260918판) 원문 그대로다.
@@ -17,7 +18,7 @@ const PAGE_TITLE = "F-4 비자 종류 — 현행 세부코드와 대상별 제�
 const PAGE_DESC =
   "재외동포(F-4) 사증발급 세부대상은 현행 F-4-41(출생으로 한국 국적을 가졌던 사람)과 F-4-42(그 직계비속) 두 가지입니다. 대상별 추가 서류, 공통 제출서류, 예전 세부코드와의 관계를 정리했습니다."
 
-export const metadata = {
+export const metadata = withOgDefaults({
   title: PAGE_TITLE,
   description: PAGE_DESC,
   alternates: { canonical: `${SITE.url}/f4-visa-types` },
@@ -33,7 +34,7 @@ export const metadata = {
     title: `${PAGE_TITLE} | 행정사사무소 이룸`,
     description: PAGE_DESC,
   },
-}
+})
 
 // 현행 — 매뉴얼 260918판 '재외동포 사증발급 세부대상 및 추가 신청서류' 표
 const currentRows = [

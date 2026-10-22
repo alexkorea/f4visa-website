@@ -10,8 +10,9 @@ import { ServiceJsonLd } from "@/components/structured-data"
 import { RelatedBlogLinks } from "@/components/related-blog-links"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { FileText, Building2, ClipboardCheck, CheckCircle2 } from "lucide-react"
+import { withOgDefaults } from "@/lib/og"
 
-export const metadata: Metadata = {
+export const metadata: Metadata = withOgDefaults({
   title: "국적상실 신고 — 절차·준비서류 총정리",
   description:
     "외국 국적 취득으로 대한민국 국적을 상실한 경우의 신고 절차와 준비 서류, 신고를 미룰 때 생기는 문제를 정리했습니다. 재외공관·국내 접수 방법을 행정사가 안내합니다.",
@@ -28,7 +29,7 @@ export const metadata: Metadata = {
     title: "국적상실 신고 — 절차·준비서류 총정리 | 행정사사무소 이룸",
     description: "외국 국적 취득으로 대한민국 국적을 상실한 경우의 신고 절차와 준비 서류, 신고를 미룰 때 생기는 문제를 정리했습니다. 재외공관·국내 접수 방법을 행정사가 안내합니다.",
   },
-}
+})
 
 const faqs: FaqItem[] = [
   {

@@ -17,8 +17,9 @@ import {
   AlertTriangle,
   ArrowRightLeft,
 } from "lucide-react"
+import { withOgDefaults } from "@/lib/og"
 
-export const metadata: Metadata = {
+export const metadata: Metadata = withOgDefaults({
   title: "국적이탈 신고 — 절차·기한·필수 서류",
   description:
     "복수국적자의 국적이탈 신고 기한과 절차, 재외공관 제출 서류를 정리했습니다. 병역 관련 기한을 놓쳤을 때의 제한과 확인해야 할 사항을 행정사가 안내합니다.",
@@ -37,7 +38,7 @@ export const metadata: Metadata = {
     title: "국적이탈 신고 — 절차·기한·필수 서류 | 행정사사무소 이룸",
     description: "복수국적자의 국적이탈 신고 기한과 절차, 재외공관 제출 서류를 정리했습니다. 병역 관련 기한을 놓쳤을 때의 제한과 확인해야 할 사항을 행정사가 안내합니다.",
   },
-}
+})
 
 const faqs: FaqItem[] = [
   {

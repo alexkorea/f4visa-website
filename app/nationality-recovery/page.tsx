@@ -10,8 +10,9 @@ import { ServiceJsonLd } from "@/components/structured-data"
 import { RelatedBlogLinks } from "@/components/related-blog-links"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { FileText, Building2, Scale, Award, ShieldCheck } from "lucide-react"
+import { withOgDefaults } from "@/lib/og"
 
-export const metadata: Metadata = {
+export const metadata: Metadata = withOgDefaults({
   title: "국적회복 — 신청 자격·절차·65세 이상 특례",
   description:
     "과거 대한민국 국민이었던 분의 국적회복 허가 신청 자격과 절차, 필요 서류, 65세 이상 복수국적 허용 특례를 정리했습니다. 심사 기간과 준비 순서를 행정사가 안내합니다.",
@@ -28,7 +29,7 @@ export const metadata: Metadata = {
     title: "국적회복 — 신청 자격·절차·65세 이상 특례 | 행정사사무소 이룸",
     description: "과거 대한민국 국민이었던 분의 국적회복 허가 신청 자격과 절차, 필요 서류, 65세 이상 복수국적 허용 특례를 정리했습니다. 심사 기간과 준비 순서를 행정사가 안내합니다.",
   },
-}
+})
 
 const faqs: FaqItem[] = [
   {

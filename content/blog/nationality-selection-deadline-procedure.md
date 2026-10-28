@@ -130,7 +130,7 @@ slug: "nationality-selection-deadline-procedure"
 
 **전화 02-363-2251 / 카카오톡: alexkorea**
 
-정확한 비용과 절차는 무료 상담을 통해 안내드립니다.
+정확한 비용과 절차는 상담을 통해 안내드립니다.
 
 ![Close-up of hands exchanging documents with pens outdoors. Business agreement concept.](https://images.pexels.com/photos/1325746/pexels-photo-1325746.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
@@ -247,7 +247,7 @@ slug: "nationality-selection-deadline-procedure"
 4. 각종 서류 발급대행 (기본증명서, 가족관계증명서, 제적등본 등)
 5. 숙박관련 숙박제공자와의 연락
 
-정확한 비용은 사례별로 상이하므로 무료 상담 시 안내드립니다.
+정확한 비용은 사례별로 상이하므로 상담 시 안내드립니다.
 
 <h2 id="section-9">전문가 상담이 필요하신가요?</h2>
 

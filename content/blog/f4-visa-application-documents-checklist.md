@@ -195,7 +195,7 @@ A. 서류 미비 시 보완 요청을 받거나 반려될 수 있습니다. 사�
 </div>
 
 <div style="background:#1e40af;color:white;padding:24px;border-radius:8px;margin:30px 0;text-align:center">
-<strong style="display:block;font-size:18px;margin-bottom:8px">행정사사무소 이룸 무료 상담</strong>
+<strong style="display:block;font-size:18px;margin-bottom:8px">행정사사무소 이룸 상담</strong>
 <p style="margin:8px 0;opacity:0.9">F-4 비자 서류 준비부터 신청까지 전문가가 도와드립니다</p>
 <p style="margin:8px 0;font-size:14px;opacity:0.8">월~금 09:30~17:30 (KST) | 토·공휴일 휴무</p>
 <a href="/contact" style="display:inline-block;margin-top:12px;padding:12px 28px;background:#A33344;color:white;border-radius:6px;text-decoration:none;font-weight:bold">상담 신청하기</a>

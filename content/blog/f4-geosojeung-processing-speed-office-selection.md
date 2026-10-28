@@ -23,7 +23,7 @@ F-4 거소증 발급 기간은 일률적으로 정해져 있지 않고, 접수�
  <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 신청 절차와 준비 서류</a></li>
  <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. FAQ — F-4 거소증 발급 기간 자주 묻는 질문</a></li>
  <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
- <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 무료 상담 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 상담 안내</a></li>
  <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
  </ul>
 </nav>
@@ -131,7 +131,7 @@ F-4 거소증(국내거소신고증) 발급은 접수 → 심사 → 거소허�
 - 기본증명서·가족관계증명서·제적등본 등 한국 서류는 해외에서 직접 떼기 어려운 경우가 많아, 발급대행으로 준비하는 편이 빠릅니다.
 
 > **실무 팁:** 서류 요건은 국적 취득 시기·국적상실신고 여부에 따라 달라집니다.
-> 본인 케이스에 맞는 정확한 서류 목록은 무료 상담에서 확인하세요.
+> 본인 케이스에 맞는 정확한 서류 목록은 상담에서 확인하세요.
 
 <h2 id="section-6">FAQ — F-4 거소증 발급 기간 자주 묻는 질문</h2>
 
@@ -165,7 +165,7 @@ F-4 거소증(국내거소신고증) 발급은 접수 → 심사 → 거소허�
 **Q6. 발급 비용은 얼마인가요?**
 
 정부 고시 수수료 + 행정 처리비로 구성됩니다.
-비용은 사례별로 상이하므로 무료 상담 시 정확히 안내드립니다.
+비용은 사례별로 상이하므로 상담 시 정확히 안내드립니다.
 
 <h2 id="section-7">행정사사무소 이룸 F-4 서비스 안내</h2>
 
@@ -178,12 +178,12 @@ F-4 거소증(국내거소신고증) 발급은 접수 → 심사 → 거소허�
 4. 각종 서류 발급대행 (기본증명서, 가족관계증명서, 제적등본 등)
 5. 숙박관련 숙박제공자와의 연락
 
-정확한 비용은 사례별로 상이하므로 무료 상담 시 안내드립니다.
+정확한 비용은 사례별로 상이하므로 상담 시 안내드립니다.
 
-<h2 id="section-8">무료 상담 안내</h2>
+<h2 id="section-8">상담 안내</h2>
 
 F-4 거소증 발급 기간은 사무소 선택에서 갈립니다.
-본인 일정에 맞는 가장 빠른 접수 경로를 무료 상담으로 확인하세요.
+본인 일정에 맞는 가장 빠른 접수 경로를 상담으로 확인하세요.
 
 - **사무소명**: 행정사사무소 이룸 (EROOM Administrative Office)
 - **전화**: 02-363-2251

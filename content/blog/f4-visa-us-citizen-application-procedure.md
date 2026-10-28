@@ -58,7 +58,7 @@ slug: "f4-visa-us-citizen-application-procedure"
 
 신고가 누락된 상태에서 가족관계증명서를 떼면 여전히 한국인으로 표시되어 F-4 심사에서 꼬일 수 있습니다.
 
-> **주의:** 국적상실신고 자체는 의무이지만 처리 기간이 관할 영사관·구청별로 다릅니다. 본인 사례 기준 가장 빠른 경로는 무료 상담 시 안내드립니다.
+> **주의:** 국적상실신고 자체는 의무이지만 처리 기간이 관할 영사관·구청별로 다릅니다. 본인 사례 기준 가장 빠른 경로는 상담 시 안내드립니다.
 
 <h2 id="section-2">F-4 비자 미국 시민권자 신청 절차의 전체 흐름</h2>
 
@@ -143,7 +143,7 @@ F-4 비자 정보는 하이코리아 비자/체류 메뉴에서 최신 안내를
 
 <h2 id="section-5">지금 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea</h2>
 
-본인 사례에 맞는 정확한 신청 경로와 가장 빠른 출입국사무소는 사례별로 달라 무료 상담 시 안내드립니다.
+본인 사례에 맞는 정확한 신청 경로와 가장 빠른 출입국사무소는 사례별로 달라 상담 시 안내드립니다.
 
 <figure style="margin:32px auto;text-align:center">
   <img src="https://images.pexels.com/photos/35396690/pexels-photo-35396690.jpegSunlit traditional Korean Hanok house amidst autumn trees, showcasing Asian architectural beauty." alt="Evening view of a bustling street in Seoul&#x27;s cultural district with shops and mountain backdrop." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
@@ -193,7 +193,7 @@ F-4는 단순한 비자가 아니라 거의 모든 경제활동을 열어주는 
 4. 각종 서류 발급대행 (기본증명서, 가족관계증명서, 제적등본 등)
 5. 숙박관련 숙박제공자와의 연락
 
-정확한 비용은 사례별로 상이하므로 무료 상담 시 안내드립니다.
+정확한 비용은 사례별로 상이하므로 상담 시 안내드립니다.
 
 <h2 id="section-9">자주 묻는 질문 (FAQ)</h2>
 
@@ -201,7 +201,7 @@ F-4는 단순한 비자가 아니라 거의 모든 경제활동을 열어주는 
 
 가능성은 있지만 사전 검토가 먼저입니다.
 
-여권법 위반 소지가 있는 입출국 기록이 있는 경우 신청 전 정리 절차가 우선이며, 본인 사례 검토는 무료 상담 시 안내드립니다.
+여권법 위반 소지가 있는 입출국 기록이 있는 경우 신청 전 정리 절차가 우선이며, 본인 사례 검토는 상담 시 안내드립니다.
 
 **Q2. FBI 무범죄조회서를 미국에서 발급받았는데 한국 도착이 늦어 5개월이 지났습니다. 새로 받아야 하나요?**
 

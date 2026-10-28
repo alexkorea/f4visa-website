@@ -20,7 +20,7 @@ slug: "nationality-recovery-application"
     <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적회복 허가 신청 자격과 결격사유</a></li>
     <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 제출 서류와 사전 준비</a></li>
     <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 국적회복 신청 접수 방법과 진행 흐름</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 행정사사무소 이룸 무료 상담</a></li>
+    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 행정사사무소 이룸 상담</a></li>
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 허가 이후 절차와 외국국적 처리</a></li>
     <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 국적회복과 F-4 비자의 관계</a></li>
     <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
@@ -123,7 +123,7 @@ slug: "nationality-recovery-application"
 한국 거주 이력, 외국 국적 취득 동기, 가족 관계, 회복 사유에 대한 진술이 서류와 어긋나면 보완 요구가 반복됩니다.
 실제 심사에서는 서류보다 면담 진술에서 사유 설명이 부족하면 심사가 길어집니다.
 
-<h2 id="section-5">행정사사무소 이룸 무료 상담</h2>
+<h2 id="section-5">행정사사무소 이룸 상담</h2>
 
 처리 기간을 단축할 수 있는 출입국사무소 선택, 서류 발급 시점 조정, 면담 사유서 작성까지 사례별로 차이가 큽니다.
 
@@ -188,7 +188,7 @@ F-4 비자 신청 시에도 외국 시민권증서 원본이 요구됩니다.
 4. 각종 서류 발급대행 (기본증명서, 가족관계증명서, 제적등본 등)
 5. 숙박관련 숙박제공자와의 연락
 
-정확한 비용은 사례별로 상이하므로 무료 상담 시 안내드립니다.
+정확한 비용은 사례별로 상이하므로 상담 시 안내드립니다.
 
 <h2 id="section-9">자주 묻는 질문 (FAQ)</h2>
 
@@ -233,7 +233,7 @@ A. 신청 사무소, 신원조회 진행 속도, 본인의 서류 완비 여부�
 - 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - 상담시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)
 
-비용은 사례별로 상이하므로 무료 상담 시 정확히 안내드립니다.
+비용은 사례별로 상이하므로 상담 시 정확히 안내드립니다.
 
 ---
 

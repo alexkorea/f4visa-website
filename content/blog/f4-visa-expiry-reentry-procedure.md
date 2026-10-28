@@ -117,7 +117,7 @@ F-4 사증 재발급은 본국 관할 대한민국 재외공관에서 진행합�
 
 한국에 연고가 전혀 없는 분은 별도의 임시 주소 제공 서비스를 이용해야 합니다.
 이 경우 숙박제공자 동의서, 임대차계약서 등 모든 서류를 한꺼번에 맞춰드릴 수 있습니다.
-정확한 비용은 사례별로 상이하므로 무료 상담 시 안내드립니다.
+정확한 비용은 사례별로 상이하므로 상담 시 안내드립니다.
 
 ![Spacious interior view of Seoul Incheon Airport showcasing escalators and tourist center.](https://images.pexels.com/photos/31649603/pexels-photo-31649603.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
@@ -171,7 +171,7 @@ F-4 사증 신청 전 국적상실신고를 먼저 처리해두는 편이 깔끔
 4. 각종 서류 발급대행 (기본증명서, 가족관계증명서, 제적등본 등)
 5. 숙박관련 숙박제공자와의 연락
 
-정확한 비용은 사례별로 상이하므로 무료 상담 시 안내드립니다.
+정확한 비용은 사례별로 상이하므로 상담 시 안내드립니다.
 
 <h2 id="section-8">자주 묻는 질문 (FAQ)</h2>
 

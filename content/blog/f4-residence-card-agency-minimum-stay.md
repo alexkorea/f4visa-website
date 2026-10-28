@@ -126,7 +126,7 @@ F-4 거소증 신청은 원칙적으로 본인 출석 신청입니다.
 
 전화 02-363-2251 / 카카오톡 alexkorea
 
-정확한 비용과 처리 일정은 상황에 따라 달라지므로 무료 상담 시 안내드립니다.
+정확한 비용과 처리 일정은 상황에 따라 달라지므로 상담 시 안내드립니다.
 
 ![Neatly arranged blue office binders labeled with dates and names for organized storage.](https://images.pexels.com/photos/34293528/pexels-photo-34293528.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
@@ -187,7 +187,7 @@ F-4 거소증 신청은 원칙적으로 본인 출석 신청입니다.
 4. 각종 서류 발급대행 (기본증명서, 가족관계증명서, 제적등본 등)
 5. 숙박관련 숙박제공자와의 연락
 
-정확한 비용은 사례별로 상이하므로 무료 상담 시 안내드립니다.
+정확한 비용은 사례별로 상이하므로 상담 시 안내드립니다.
 
 <h2 id="section-8">자주 묻는 질문 (FAQ)</h2>
 

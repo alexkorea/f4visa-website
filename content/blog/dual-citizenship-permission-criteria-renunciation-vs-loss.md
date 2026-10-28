@@ -24,7 +24,7 @@ slug: "dual-citizenship-permission-criteria-renunciation-vs-loss"
  <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적회복과의 관계 — 다시 한국 국적을 원한다면</a></li>
  <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
  <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
- <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 무료 상담 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 상담 안내</a></li>
  <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
  </ul>
 </nav>
@@ -180,7 +180,7 @@ slug: "dual-citizenship-permission-criteria-renunciation-vs-loss"
 
 등록부 정리가 끝나기 전에는 F-4 심사가 매끄럽게 진행되기 어렵습니다.
 실무에서는 두 절차의 서류를 한 번에 준비해 두고 순서대로 접수하는 방식이 전체 기간을 가장 줄입니다.
-사안별 병행 가능 여부는 무료 상담 시 확인해 드립니다.
+사안별 병행 가능 여부는 상담 시 확인해 드립니다.
 
 ### Q6. 무범죄조회서는 언제 발급받아야 하나요?
 
@@ -198,12 +198,12 @@ slug: "dual-citizenship-permission-criteria-renunciation-vs-loss"
 4. 각종 서류 발급대행 (기본증명서, 가족관계증명서, 제적등본 등)
 5. 숙박관련 숙박제공자와의 연락
 
-정확한 비용은 사례별로 상이하므로 무료 상담 시 안내드립니다.
+정확한 비용은 사례별로 상이하므로 상담 시 안내드립니다.
 
-<h2 id="section-9">무료 상담 안내</h2>
+<h2 id="section-9">상담 안내</h2>
 
 복수국적 허용 여부, 국적이탈 기한, 국적상실신고와 F-4 신청까지 — 본인 사안에 맞는 정확한 판단은 서류를 보고 나서야 갈립니다.
-비용은 사례별로 상이하므로 무료 상담 시 정확히 안내드립니다.
+비용은 사례별로 상이하므로 상담 시 정확히 안내드립니다.
 
 **행정사사무소 이룸 (EROOM Administrative Office)**
 

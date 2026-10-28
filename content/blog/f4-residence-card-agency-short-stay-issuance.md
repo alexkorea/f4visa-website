@@ -24,7 +24,7 @@ slug: "f4-residence-card-agency-short-stay-issuance"
  <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 꼬이는 지점 — 실무에서 반복되는 세 가지</a></li>
  <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
  <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
- <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 무료 상담 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 상담 안내</a></li>
  <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
  </ul>
 </nav>
@@ -167,7 +167,7 @@ slug: "f4-residence-card-agency-short-stay-issuance"
 
 **Q6. 비용은 얼마인가요?**
 
-비용은 사례별로 상이하므로 무료 상담 시 정확히 안내드립니다.
+비용은 사례별로 상이하므로 상담 시 정확히 안내드립니다.
 정부 관납 비용은 정부 고시 수수료 + 행정 처리비로 구성됩니다.
 
 <h2 id="section-8">행정사사무소 이룸 F-4 서비스 안내</h2>
@@ -181,9 +181,9 @@ slug: "f4-residence-card-agency-short-stay-issuance"
 4. 각종 서류 발급대행 (기본증명서, 가족관계증명서, 제적등본 등)
 5. 숙박관련 숙박제공자와의 연락
 
-정확한 비용은 사례별로 상이하므로 무료 상담 시 안내드립니다.
+정확한 비용은 사례별로 상이하므로 상담 시 안내드립니다.
 
-<h2 id="section-9">무료 상담 안내</h2>
+<h2 id="section-9">상담 안내</h2>
 
 일정이 짧을수록 사전 설계가 발급 속도를 좌우합니다.
 입국 전에 서류·예약·사무소 선택까지 끝내두면, 한국 체류는 접수 방문 중심으로 줄어듭니다.

@@ -26,7 +26,7 @@ slug: "f4-visa-allowed-restricted-job-categories"
  <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. H-2 방문취업 비자와 비교하면 차이가 분명합니다</a></li>
  <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. FAQ — F-4 취업 업종 관련 자주 묻는 질문</a></li>
  <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
- <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 무료 상담 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 상담 안내</a></li>
  <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
  </ul>
 </nav>
@@ -200,12 +200,12 @@ H-2에서 F-4로 자격 변경을 노리는 분들이 많은데, 이때도 변�
 4. 각종 서류 발급대행 (기본증명서, 가족관계증명서, 제적등본 등)
 5. 숙박관련 숙박제공자와의 연락
 
-정확한 비용은 사례별로 상이하므로 무료 상담 시 안내드립니다.
+정확한 비용은 사례별로 상이하므로 상담 시 안내드립니다.
 
-<h2 id="section-9">무료 상담 안내</h2>
+<h2 id="section-9">상담 안내</h2>
 
 취업 업종 판단은 고시 개정에 따라 계속 달라지고, 경계선 직종은 계약서 문구 하나로 결과가 갈립니다.
-본인 직종이 제한에 해당하는지, 거소증 발급을 얼마나 앞당길 수 있는지 무료 상담으로 확인하세요.
+본인 직종이 제한에 해당하는지, 거소증 발급을 얼마나 앞당길 수 있는지 상담으로 확인하세요.
 우리 행정사사무소 이룸은 최대한 빨리 허가받게 하기 위해서 지속적으로 노력하고 있습니다.
 
 **행정사사무소 이룸 (EROOM Administrative Office)**
@@ -216,7 +216,7 @@ H-2에서 F-4로 자격 변경을 노리는 분들이 많은데, 이때도 변�
 - 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - 상담 시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)
 
-비용은 사례별로 상이하므로 무료 상담 시 정확히 안내드립니다.
+비용은 사례별로 상이하므로 상담 시 정확히 안내드립니다.
 
 ---
 

@@ -23,7 +23,7 @@ F-4 비자 신청에서 가장 먼저 준비해야 할 서류는 시민권증서
  <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 실무에서 가장 많이 놓치는 부분</a></li>
  <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
  <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 자주 묻는 질문(FAQ)</a></li>
- <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">10. 무료 상담 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">10. 상담 안내</a></li>
  <li style="margin:8px 0"><a href="#section-12" style="color:#2563eb;text-decoration:none">11. 행정사사무소 이룸 F-4 서비스 안내</a></li>
  <li style="margin:8px 0"><a href="#section-13" style="color:#2563eb;text-decoration:none">12. 전문가 상담이 필요하신가요?</a></li>
  </ul>
@@ -134,7 +134,7 @@ F-4 신청 시 가장 먼저 봐야 할 것은 **시민권증서 원본**입니�
 4. 각종 서류 발급대행 (기본증명서, 가족관계증명서, 제적등본 등)
 5. 숙박관련 숙박제공자와의 연락
 
-정확한 비용은 사례별로 상이하므로 무료 상담 시 안내드립니다.
+정확한 비용은 사례별로 상이하므로 상담 시 안내드립니다.
 
 <h2 id="section-9">자주 묻는 질문(FAQ)</h2>
 
@@ -156,7 +156,7 @@ F-4 신청 시 가장 먼저 봐야 할 것은 **시민권증서 원본**입니�
 **Q6. 서류는 다 영문인데 번역이 필요한가요?**
 관할에 따라 공증 번역본을 요구하기도 합니다. 시민권증서·무범죄조회서는 영문 원본 + 아포스티유로 통과되는 경우가 많지만, 출생증명서 등 부속 서류는 번역이 붙는 사례가 있습니다.
 
-<h2 id="section-11">무료 상담 안내</h2>
+<h2 id="section-11">상담 안내</h2>
 
 서류 한 장이 빠지면 일정이 한 달씩 밀립니다. 본인 사례에 맞는 서류 목록과 발급 순서를 먼저 확인하세요.
 
@@ -182,7 +182,7 @@ F-4 신청 시 가장 먼저 봐야 할 것은 **시민권증서 원본**입니�
 4. 각종 서류 발급대행 (기본증명서, 가족관계증명서, 제적등본 등)
 5. 숙박관련 숙박제공자와의 연락
 
-비용은 사례별로 상이하므로 무료 상담 시 정확히 안내드립니다.
+비용은 사례별로 상이하므로 상담 시 정확히 안내드립니다.
 
 ---
 

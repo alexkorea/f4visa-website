@@ -24,7 +24,7 @@ slug: "us-citizenship-korea-nationality-auto-loss"
     <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자녀의 복수국적 vs 부모의 단일국적</a></li>
     <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주하는 실수 모음</a></li>
     <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. FAQ 자주 묻는 질문</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 무료 상담 안내</a></li>
+    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 상담 안내</a></li>
   </ul>
 </nav>
 
@@ -297,7 +297,7 @@ F-4 신청 시점 기준 6개월이 지나면 다시 받아야 합니다. 미국
 
 부동산을 잃지는 않습니다. 다만 등기 명의인이 외국인으로 변경되는 절차를 거쳐야 하며, 외국인 부동산 취득·보유에 관한 신고 의무가 추가로 발생합니다. 임대 수익이나 매도 시 세금 처리 방식도 달라지므로 사전에 정리해 두는 것이 깔끔합니다.
 
-## <span id="section-9"></span>9. 무료 상담 안내
+## <span id="section-9"></span>9. 상담 안내
 
 미국 시민권 취득 후 국적상실 신고와 F-4 비자 신청은 한 흐름으로 묶어 진행하는 것이 시간과 비용 모두 줄이는 방법입니다. 행정사사무소 이룸은 미국에서 시민권을 받으신 분들의 한국 측 서류 발급, 국적상실 신고, F-4 거소증 신청까지 한 번에 처리합니다.
 

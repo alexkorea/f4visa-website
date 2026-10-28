@@ -78,6 +78,9 @@ const CFG = SITES[SITE]
 
 // BOSSEYE-FIX-1014 #13(맥6 10-13: 15묶음 43편 같은 주제) — slug 만 다르고 제목이 같은 주제인 원고는 발행하지 않는다.
 // scripts/blog-dup-gate.mjs 가 있는 레포에서만 켠다(f4visa). 사람이 보고 따로 낼 글이면 meta.json dupAllow 에 사유를 적는다.
+// NOFREE(WQA1028-FIX-2 10-28, f6 F6-NOFREE 와 같은 원칙): scripts/nofree-gate.mjs 가 있는 레포에서만 켠다(f4visa·f6visa). 걸리면 rc=3 미발행.
+const NOFREE_GATE = path.join(REPO, 'scripts', 'nofree-gate.mjs')
+const NOFREE_RE = fs.existsSync(NOFREE_GATE) ? (await import(pathToFileURL(NOFREE_GATE).href)).NOFREE_RE : null
 const DUP_GATE = path.join(REPO, 'scripts', 'blog-dup-gate.mjs')
 const dupGate = fs.existsSync(DUP_GATE) ? await import(pathToFileURL(DUP_GATE).href) : null
 async function dupHits(e) {
@@ -170,6 +173,7 @@ function checkEntry(e) {
     if (loc !== 'ko' && /[가-힣]/.test(`${fm.title}${fm.description}`)) fails.push(`[${loc}] title/description 에 한글`)
     if (!/^#\s+\S/m.test(body)) warns.push(`[${loc}] 본문 H1 없음`)
     for (const m of raw.matchAll(C6_RE)) fails.push(`[${loc}] C6 금지어 "${m[0]}" …${raw.slice(Math.max(0, m.index - 12), m.index + 16).replace(/\n/g, ' ')}…`)
+    if (NOFREE_RE) for (const m of raw.matchAll(NOFREE_RE)) fails.push(`[${loc}] 무료 표현 금지(NOFREE) "${m[0]}" …${raw.slice(Math.max(0, m.index - 12), m.index + 16).replace(/\n/g, ' ')}…`)
     if (OUR_PRICE_RE.test(raw)) fails.push(`[${loc}] 자사 요금 표기: ${OUR_PRICE_RE.exec(raw)[0]}`)
     if (HYPE_RE.test(raw)) fails.push(`[${loc}] 과장·보장 표현: ${HYPE_RE.exec(raw)[0]}`)
     for (const ph of new Set(raw.match(PHONE_RE) || [])) if (ph !== CFG.phone) fails.push(`[${loc}] 등록 외 전화번호 ${ph} (정답 ${CFG.phone})`)

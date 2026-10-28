@@ -133,7 +133,7 @@ F-4 비자로 국내거소신고를 마친 재외동포는 외국인이지만, *
 
 정확한 세율 적용 여부는 매매 시점 기준으로 달라질 수 있어 관할 시·군·구청 세무과 확인이 필요합니다.
 
-비용은 사례별로 상이하므로 무료 상담 시 정확히 안내드립니다.
+비용은 사례별로 상이하므로 상담 시 정확히 안내드립니다.
 
 ### 다주택자 판정의 함정
 
@@ -154,7 +154,7 @@ F-4 비자로 국내거소신고를 마친 재외동포는 외국인이지만, *
 4. 각종 서류 발급대행 (기본증명서, 가족관계증명서, 제적등본 등)
 5. 숙박관련 숙박제공자와의 연락
 
-정확한 비용은 사례별로 상이하므로 무료 상담 시 안내드립니다.
+정확한 비용은 사례별로 상이하므로 상담 시 안내드립니다.
 
 ![Hands gesturing during a real estate document review on a modern office desk with a calculator.](https://images.pexels.com/photos/8292842/pexels-photo-8292842.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 

@@ -352,7 +352,7 @@ slug: "overseas-korean-nationality-recovery-procedure"
 재외동포 국적회복은 복잡한 서류 준비와 법적 요건 검토가 필요한 절차입니다. 행정사사무소 이룸은 재외동포 법률 업무 전문가로서 국적회복 신청의 전 과정을 체계적으로 지원합니다.
 
 **행정사사무소 이룸이 도와드리는 서비스:**
-- 개인별 국적회복 가능 여부 무료 사전 진단
+- 개인별 국적회복 가능 여부 사전 진단
 - 필요서류 목록 작성 및 발급 대행
 - 외국 서류 영사 확인 및 번역 공증 지원
 - 병역 의무자 병무청 사전 허가 절차 대행
@@ -368,7 +368,7 @@ slug: "overseas-korean-nationality-recovery-procedure"
 <div style="background:#1e40af;color:white;padding:20px;border-radius:8px;margin:30px 0;text-align:center">
 <h3 style="color:white;margin-top:0">상담 신청
 <p style="margin:10px 0">재외동포 국적회복, 복잡하게 느껴지시나요?<br>행정사사무소 이룸의 전문가가 명쾌하게 답변드립니다.</p>
-<a href="[상담신청링크]" style="display:inline-block;background:white;color:#1e40af;padding:12px 30px;border-radius:5px;text-decoration:none;font-weight:bold;margin-top:10px">지금 무료 상담 받기 →</a>
+<a href="[상담신청링크]" style="display:inline-block;background:white;color:#1e40af;padding:12px 30px;border-radius:5px;text-decoration:none;font-weight:bold;margin-top:10px">지금 상담 받기 →</a>
 </div>
 
 *본 게시글의 정보는 작성 시점 기준이며, 국적법 및 관련 규정은 변경될 수 있습니다. 실제 신청 전 반드시 관할 출입국·외국인청 또는 재외공관에 최신 정보를 확인하시기 바랍니다.*

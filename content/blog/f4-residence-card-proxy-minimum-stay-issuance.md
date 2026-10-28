@@ -23,7 +23,7 @@ slug: "f4-residence-card-proxy-minimum-stay-issuance"
  <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 직접 신청과 대행의 실제 차이</a></li>
  <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. FAQ</a></li>
  <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
- <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 무료 상담 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 상담 안내</a></li>
  <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
  </ul>
 </nav>
@@ -170,7 +170,7 @@ slug: "f4-residence-card-proxy-minimum-stay-issuance"
 
 **Q6. 비용은 얼마인가요?**
 
-비용은 사례별로 상이하므로 무료 상담 시 정확히 안내드립니다.
+비용은 사례별로 상이하므로 상담 시 정확히 안내드립니다.
 정부 관납 비용은 정부 고시 수수료 + 행정 처리비로 구성됩니다.
 
 <h2 id="section-7">행정사사무소 이룸 F-4 서비스 안내</h2>
@@ -184,9 +184,9 @@ slug: "f4-residence-card-proxy-minimum-stay-issuance"
 4. 각종 서류 발급대행 (기본증명서, 가족관계증명서, 제적등본 등)
 5. 숙박관련 숙박제공자와의 연락
 
-정확한 비용은 사례별로 상이하므로 무료 상담 시 안내드립니다.
+정확한 비용은 사례별로 상이하므로 상담 시 안내드립니다.
 
-<h2 id="section-8">무료 상담 안내</h2>
+<h2 id="section-8">상담 안내</h2>
 
 우리 행정사사무소 이룸은 최대한 빨리 허가받게 하기 위해 지속적으로 노력하고 있습니다.
 출입국사무소별 처리 상황은 수시로 바뀌므로, 지금 시점의 가장 빠른 경로는 상담을 통해 확인하세요.

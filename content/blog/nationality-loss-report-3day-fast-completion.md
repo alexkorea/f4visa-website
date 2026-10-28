@@ -116,7 +116,7 @@ slug: "nationality-loss-report-3day-fast-completion"
 
 처리 기간은 접수 관청과 본인 서류 상태에 따라 달라집니다.
 
-본인 사안에 맞는 가장 빠른 경로는 무료 상담으로 확인하세요.
+본인 사안에 맞는 가장 빠른 경로는 상담으로 확인하세요.
 
 ![Professional meeting with individuals signing legal documents in an office setting.](https://images.pexels.com/photos/7841473/pexels-photo-7841473.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
@@ -189,7 +189,7 @@ slug: "nationality-loss-report-3day-fast-completion"
 4. 각종 서류 발급대행 (기본증명서, 가족관계증명서, 제적등본 등)
 5. 숙박관련 숙박제공자와의 연락
 
-정확한 비용은 사례별로 상이하므로 무료 상담 시 안내드립니다.
+정확한 비용은 사례별로 상이하므로 상담 시 안내드립니다.
 
 <h2 id="section-8">자주 묻는 질문 (FAQ)</h2>
 
@@ -255,7 +255,7 @@ slug: "nationality-loss-report-3day-fast-completion"
 - 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - 상담 시간: 평일 09:30 — 17:30 (점심 12:00 — 13:00)
 
-비용은 사례별로 상이하므로 무료 상담 시 정확히 안내드립니다.
+비용은 사례별로 상이하므로 상담 시 정확히 안내드립니다.
 
 ---
 

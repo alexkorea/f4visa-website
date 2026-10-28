@@ -24,7 +24,7 @@ slug: "dual-citizenship-requirements-renunciation-loss-guide"
  <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적상실 후 F-4 비자로 한국 생활 이어가기</a></li>
  <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
  <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
- <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 무료 상담 안내</a></li>
+ <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 상담 안내</a></li>
  <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 전문가 상담이 필요하신가요?</a></li>
  </ul>
 </nav>
@@ -200,12 +200,12 @@ slug: "dual-citizenship-requirements-renunciation-loss-guide"
 4. 각종 서류 발급대행 (기본증명서, 가족관계증명서, 제적등본 등)
 5. 숙박관련 숙박제공자와의 연락
 
-정확한 비용은 사례별로 상이하므로 무료 상담 시 안내드립니다.
+정확한 비용은 사례별로 상이하므로 상담 시 안내드립니다.
 
-<h2 id="section-9">무료 상담 안내</h2>
+<h2 id="section-9">상담 안내</h2>
 
 국적상실신고부터 F-4 비자, 거소증 발급까지 하나의 흐름으로 진행하면 한국 체류 기간을 크게 줄일 수 있습니다.
-비용은 사례별로 상이하므로 무료 상담 시 정확히 안내드립니다.
+비용은 사례별로 상이하므로 상담 시 정확히 안내드립니다.
 
 - ✔ 한국 서류 발급대행 — 기본증명서(상세), 가족관계증명서(상세), 제적등본
 - ✔ F-4 거소증 신청대행 및 수령·발송 (거소허가번호 발급 후 출국 가능)

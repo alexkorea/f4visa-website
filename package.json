@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "prebuild": "node scripts/qr-hash-gate.mjs && node scripts/blog-dup-gate.mjs && node scripts/nocite-src-gate.mjs",
+    "prebuild": "node scripts/qr-hash-gate.mjs && node scripts/blog-dup-gate.mjs && node scripts/nocite-src-gate.mjs && node scripts/nofree-gate.mjs",
     "dev": "next dev",
-    "build": "next build && node scripts/seo-gate.mjs && node scripts/og-image-gate.mjs .next/server/app && node scripts/nocite-gate.mjs .next/server/app",
+    "build": "next build && node scripts/seo-gate.mjs && node scripts/og-image-gate.mjs .next/server/app && node scripts/nocite-gate.mjs .next/server/app && node scripts/nofree-gate.mjs .next/server/app",
     "start": "next start",
     "lint": "eslint .",
     "seo:gate": "node scripts/seo-gate.mjs",

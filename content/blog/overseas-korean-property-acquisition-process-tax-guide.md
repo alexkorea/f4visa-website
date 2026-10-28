@@ -126,7 +126,7 @@ F-4 거소증을 보유한 외국 국적 동포는 부동산 거래에서 한국
 
 <h2 id="section-4">본문 중간 안내</h2>
 
-정확한 비용과 절차는 사례별로 달라지므로 무료 상담을 통해 확인하세요.
+정확한 비용과 절차는 사례별로 달라지므로 상담을 통해 확인하세요.
 
 ![Close-up of a person analyzing financial documents using a calculator and pen.](https://images.pexels.com/photos/33175651/pexels-photo-33175651.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
@@ -189,5 +189,5 @@ F-4 거소증 보유자는 부동산 거래신고, 등기, 세금 신고 모두�
 4. 각종 서류 발급대행 (기본증명서, 가족관계증명서, 제적등본 등)
 5. 숙박관련 숙박제공자와의 연락
 
-정확한 비용은 사례별로 상이하므로 무료 상담 시 안내드립니다.
+정확한 비용은 사례별로 상이하므로 상담 시 안내드립니다.
 

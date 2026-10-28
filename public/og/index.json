@@ -3264,6 +3264,22 @@
    "slug": "f5-income-proof-when-certificate-unavailable-exception-documents",
    "generated_at": "2026-10-22T10:01:15.506Z",
    "version": "1.4"
+  },
+  "f5-14-h2-same-employer-four-years-permanent-residency": {
+   "hash": "9a6052b07c49779019e6cc94331be5ab4d1f83101eef4cfd31771b914d9c1c79",
+   "source": "pexels",
+   "seed": 289842647,
+   "theme": "residence",
+   "prompt_subject": "apartment building entrance",
+   "map_version": null,
+   "pexels_id": 18721430,
+   "pexels_author": "정규송 Nui MALAMA",
+   "category": "영주권",
+   "visa": "F-5",
+   "lang": "ko",
+   "slug": "f5-14-h2-same-employer-four-years-permanent-residency",
+   "generated_at": "2026-10-28T00:36:37.010Z",
+   "version": "1.4"
   }
  }
 }

@@ -179,6 +179,15 @@
       ],
       "at": "2026-10-22T10:01:15.525Z",
       "batch": "W2 (맥3 W2, 맥7 PASS, seo-keywords/20261002/W2-f4visa.net)"
+    },
+    {
+      "slug": "f5-14-h2-same-employer-four-years-permanent-residency",
+      "date": "2026-10-28",
+      "locales": [
+        "ko"
+      ],
+      "at": "2026-10-28T00:36:37.026Z",
+      "batch": "BLOG-STALL-1028 (맥4, 맥7 지시 2026-10-28)"
     }
   ],
   "rejected": []

@@ -140,7 +140,7 @@ slug: "f4-overseas-residence-card-remote-application-guide"
 
 ---
 
-**지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea**
+**지금 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea**
 
 정확한 비용과 필요한 한국 체류 일수는 본인 상황에 따라 달라지므로, 일정 확정 전 상담을 권합니다.
 
@@ -268,6 +268,6 @@ F-4 비자 신청 시 시민권증서 원본이 필요합니다.
 
 복잡한 절차, 혼자 고민하지 마세요. 전문 행정사가 친절하게 안내해 드립니다.
 
-**[무료 상담 신청하기](https://f4visa.net/contact)**
+**[상담 신청하기](https://f4visa.net/contact)**
 
 **공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

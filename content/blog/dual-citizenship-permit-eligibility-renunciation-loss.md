@@ -94,7 +94,7 @@ slug: "dual-citizenship-permit-eligibility-renunciation-loss"
 한국 서류는 국내 위임 발급이 가능하며, 저희 사무소에서 발급대행으로 처리해 드립니다.
 
 정확한 비용과 절차는 전문가 상담을 통해 확인하세요.
-**지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea**
+**지금 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea**
 
 <h2 id="section-4">국적이탈 vs 국적상실 비교, 여기서 차이가 납니다</h2>
 
@@ -212,6 +212,6 @@ slug: "dual-citizenship-permit-eligibility-renunciation-loss"
 
 복잡한 절차, 혼자 고민하지 마세요. 전문 행정사가 친절하게 안내해 드립니다.
 
-**[무료 상담 신청하기](https://f4visa.net/contact)**
+**[상담 신청하기](https://f4visa.net/contact)**
 
 **공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

@@ -131,7 +131,7 @@ F-4는 과거 대한민국 국적을 보유했던 사람과 그 직계비속이 
 본인 사례가 어디에 해당하는지는 이력마다 갈리므로 관할 기관 확인이 필요합니다.
 
 정확한 비용과 절차는 전문가 상담을 통해 확인하세요.
-지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea
+지금 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea
 
 ![A neat office setup with binders, eyeglasses, and a laptop, perfect for productivity.](https://images.pexels.com/photos/7681493/pexels-photo-7681493.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
@@ -248,6 +248,6 @@ F-4 자격은 서류의 수보다 국적 이력의 연결에서 통과 여부가
 
 복잡한 절차, 혼자 고민하지 마세요. 전문 행정사가 친절하게 안내해 드립니다.
 
-**[무료 상담 신청하기](https://f4visa.net/contact)**
+**[상담 신청하기](https://f4visa.net/contact)**
 
 **공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

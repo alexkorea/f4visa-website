@@ -22,7 +22,7 @@ slug: "f4-visa-us-citizen-application-procedure"
     <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 비자 미국 시민권자 신청 절차의 전체 흐름</a></li>
     <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 미국 시민권자 F-4 신청에 꼭 필요한 서류</a></li>
     <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 시민권증서 원본과 번역 공증 처리</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea</a></li>
+    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 지금 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea</a></li>
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 거소증(F-4) 발급 후 실제로 할 수 있는 것</a></li>
     <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 미국 시민권자 F-4 신청에서 가장 자주 꼬이는 4가지</a></li>
     <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 행정사사무소 이룸 F-4 서비스 안내</a></li>
@@ -141,7 +141,7 @@ F-4 비자 정보는 하이코리아 비자/체류 메뉴에서 최신 안내를
 
 길게 쓰는 것보다 정확히 일치시키는 것이 먼저입니다.
 
-<h2 id="section-5">지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea</h2>
+<h2 id="section-5">지금 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea</h2>
 
 본인 사례에 맞는 정확한 신청 경로와 가장 빠른 출입국사무소는 사례별로 달라 무료 상담 시 안내드립니다.
 
@@ -259,6 +259,6 @@ USCIS에 N-565 양식으로 재발급을 신청해야 하며, 처리 기간이 �
 
 복잡한 절차, 혼자 고민하지 마세요. 전문 행정사가 친절하게 안내해 드립니다.
 
-**[무료 상담 신청하기](https://f4visa.net/contact)**
+**[상담 신청하기](https://f4visa.net/contact)**
 
 **공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

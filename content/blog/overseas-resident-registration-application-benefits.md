@@ -142,7 +142,7 @@ slug: "overseas-resident-registration-application-benefits"
 
 ---
 
-**지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea**
+**지금 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea**
 
 신청 자격이 애매한 경우, 시민권자와 영주권자의 구분, 과거 말소된 주민등록의 재등록 가능 여부 등은 사례별로 차이가 큽니다. 정확한 절차는 전문가 상담을 통해 확인하세요.
 
@@ -294,6 +294,6 @@ slug: "overseas-resident-registration-application-benefits"
 
 복잡한 절차, 혼자 고민하지 마세요. 전문 행정사가 친절하게 안내해 드립니다.
 
-**[무료 상담 신청하기](https://f4visa.net/contact)**
+**[상담 신청하기](https://f4visa.net/contact)**
 
 **공식 사이트에서 확인하기:** [정부24](https://www.gov.kr)

@@ -21,7 +21,7 @@ F-4 비자 연장은 체류기간 만료일 4개월 전부터 신청 가능하�
     <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자 연장 기본 규정과 신청 시점</a></li>
     <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 연장에 필요한 서류와 자주 놓치는 부분</a></li>
     <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 기한 초과 시 실제 불이익</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 지금 무료 상담 신청하기</a></li>
+    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 지금 상담 신청하기</a></li>
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 출입국청별 처리 기간 차이</a></li>
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 연장 심사에서 자주 막히는 지점</a></li>
     <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
@@ -107,7 +107,7 @@ F-4 자격이 외국 국적 취득자(재외동포)에 근거한 경우, 시민�
 
 이 부분이 약하면 영주권 신청 시 보완 요구가 길어집니다.
 
-<h2 id="section-4">지금 무료 상담 신청하기</h2>
+<h2 id="section-4">지금 상담 신청하기</h2>
 
 만료일이 3개월 이내로 다가왔다면 빠른 확인이 필요합니다.
 
@@ -219,6 +219,6 @@ A. 가능합니다. 위임장과 대리인 신분증, 신청자 서류 일체가
 
 복잡한 절차, 혼자 고민하지 마세요. 전문 행정사가 친절하게 안내해 드립니다.
 
-**[무료 상담 신청하기](https://f4visa.net/contact)**
+**[상담 신청하기](https://f4visa.net/contact)**
 
 **공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

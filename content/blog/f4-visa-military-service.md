@@ -211,4 +211,4 @@ C씨는 **만 37세까지 대기하는 방법**을 선택했습니다. 그동안
 
 &nbsp;
 
-<div style="background:linear-gradient(135deg,#1e3a5f,#2563eb); border-radius:16px; padding:32px; margin:32px 0; text-align:center;"><h3 style="color:#fff; margin:0 0 8px;">병역 문제, 전문가가 해결해 드립니다</h3><p style="color:#bfdbfe; margin:0 0 16px;">개인 상황에 맞는 최적의 방법을 정확히 진단해 드립니다. 무료 상담으로 시작하세요.</p><a href="/contact" style="display:inline-block; background:#fff; color:#1e3a5f; padding:12px 32px; border-radius:8px; font-weight:700; text-decoration:none;">무료 상담 신청하기</a></div>
+<div style="background:linear-gradient(135deg,#1e3a5f,#2563eb); border-radius:16px; padding:32px; margin:32px 0; text-align:center;"><h3 style="color:#fff; margin:0 0 8px;">병역 문제, 전문가가 해결해 드립니다</h3><p style="color:#bfdbfe; margin:0 0 16px;">개인 상황에 맞는 최적의 방법을 정확히 진단해 드립니다. 무료 상담으로 시작하세요.</p><a href="/contact" style="display:inline-block; background:#fff; color:#1e3a5f; padding:12px 32px; border-radius:8px; font-weight:700; text-decoration:none;">상담 신청하기</a></div>

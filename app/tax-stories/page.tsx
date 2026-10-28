@@ -51,7 +51,7 @@ export default async function TaxStoriesPage() {
         <PageBreadcrumb items={[{ label: "세금 이야기", path: "/tax-stories" }]} />
         <PageHero
           title="세금 이야기"
-          subtitle="재외동포·F-4 비자 소지자를 위한 세금(부동산 취득세·종합소득세 등) 실무 가이드를 확인하세요." ctaLabel="무료 상담 신청"
+          subtitle="재외동포·F-4 비자 소지자를 위한 세금(부동산 취득세·종합소득세 등) 실무 가이드를 확인하세요." ctaLabel="상담 신청"
         />
 
         {/* Partner: 박동국 세무사 */}

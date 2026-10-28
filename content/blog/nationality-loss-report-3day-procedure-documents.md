@@ -145,7 +145,7 @@ slug: "nationality-loss-report-3day-procedure-documents"
 
 ---
 
-**지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea**
+**지금 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea**
 
 정확한 비용과 가장 빠른 처리 경로는 사례별로 다르므로, 본인 상황에 맞는 일정은 무료 상담으로 확인하세요.
 
@@ -280,6 +280,6 @@ F-4 신청 시 기본증명서에 ‘국적상실’ 기재가 떠야 정상 접
 
 복잡한 절차, 혼자 고민하지 마세요. 전문 행정사가 친절하게 안내해 드립니다.
 
-**[무료 상담 신청하기](https://f4visa.net/contact)**
+**[상담 신청하기](https://f4visa.net/contact)**
 
 **공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

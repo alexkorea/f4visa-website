@@ -123,7 +123,7 @@ slug: "nationality-recovery-minor-children-accompanying"
 
 ---
 
-**지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea**
+**지금 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea**
 
 정확한 비용과 절차는 사례별로 달라지므로 무료 상담을 통해 확인하세요.
 
@@ -259,5 +259,5 @@ slug: "nationality-recovery-minor-children-accompanying"
 
 복잡한 절차, 혼자 고민하지 마세요. 전문 행정사가 친절하게 안내해 드립니다.
 
-**[무료 상담 신청하기](https://f4visa.net/contact)**
+**[상담 신청하기](https://f4visa.net/contact)**
 

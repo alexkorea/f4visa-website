@@ -3,7 +3,7 @@ title: "재외동포 국적선택 기한과 절차 완벽 가이드"
 visa: 국적
 date: "2026-05-22"
 category: "국적"
-excerpt: "복수국적자의 국적선택 기한은 만 22세 전까지가 원칙이며, 기한을 놓치면 한국 국적 자동 상실 등 불이익이 따릅니다. 국적선택 절차의 실제 흐름·지금 무료 상담 신청하기까지 한 번에 확인하세요."
+excerpt: "복수국적자의 국적선택 기한은 만 22세 전까지가 원칙이며, 기한을 놓치면 한국 국적 자동 상실 등 불이익이 따릅니다. 국적선택 절차의 실제 흐름·지금 상담 신청하기까지 한 번에 확인하세요."
 image: "/og/nationality-selection-deadline-procedure.png"
 slug: "nationality-selection-deadline-procedure"
 ---
@@ -21,7 +21,7 @@ slug: "nationality-selection-deadline-procedure"
  <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 국적선택 의무 대상자는 누구인가</a></li>
  <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 국적선택 기한, 만 22세가 핵심이다</a></li>
  <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 국적선택 절차의 실제 흐름</a></li>
- <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 지금 무료 상담 신청하기</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 지금 상담 신청하기</a></li>
  <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 국적상실 후 F-4 비자 전환</a></li>
  <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 기한을 놓치면 어떻게 되는가</a></li>
  <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 묻는 질문 (FAQ)</a></li>
@@ -124,7 +124,7 @@ slug: "nationality-selection-deadline-procedure"
 
 신고 전이라도 법적으로는 이미 외국인 신분이므로, 한국 여권 사용은 즉시 중단해야 합니다.
 
-<h2 id="section-4">지금 무료 상담 신청하기</h2>
+<h2 id="section-4">지금 상담 신청하기</h2>
 
 본인이 어느 절차에 해당하는지, 기한이 얼마나 남았는지 판단이 어렵다면 빠른 확인이 먼저입니다.
 
@@ -271,6 +271,6 @@ slug: "nationality-selection-deadline-procedure"
 
 복잡한 절차, 혼자 고민하지 마세요. 전문 행정사가 친절하게 안내해 드립니다.
 
-**[무료 상담 신청하기](https://f4visa.net/contact)**
+**[상담 신청하기](https://f4visa.net/contact)**
 
 **공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

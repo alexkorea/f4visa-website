@@ -24,7 +24,7 @@ slug: "us-citizenship-korean-nationality-loss-guide"
     <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 국적 상실 이후 한국 체류 — F-4 재외동포 비자</a></li>
     <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 하는 실수 5가지</a></li>
     <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
-    <li><a href="#section-cta" style="color:#2563eb;text-decoration:none">9. 국적상실 신고 무료 상담 신청</a></li>
+    <li><a href="#section-cta" style="color:#2563eb;text-decoration:none">9. 국적상실 신고 상담 신청</a></li>
   </ul>
 </nav>
 
@@ -408,7 +408,7 @@ F-4 비자 신청에 필요한 무범죄경력조회서의 유효기간은 <stro
 
 ---
 
-<h2 id="section-cta">9. 국적상실 신고 무료 상담 신청</h2>
+<h2 id="section-cta">9. 국적상실 신고 상담 신청</h2>
 
 미국 시민권 취득 후 국적상실신고, F-4 비자 신청까지 한 번에 처리하고 싶으신 분은 행정사사무소 이룸으로 연락 주세요.
 

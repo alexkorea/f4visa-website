@@ -94,7 +94,7 @@ F-4 비자 체류기간 연장 신청과 함께 거소증도 갱신 신청합니
 <div style="background:#eff6ff;border:1px solid #bfdbfe;padding:24px;border-radius:8px;margin:32px 0">
 <h3 style="color:#1e40af;margin-top:0">전문가 도움이 필요하신가요?</h3>
 <p>행정사사무소 이룸은 F-4 거소증 신청부터 F-5 영주권 전환까지 재외동포 체류 전 과정을 지원합니다. 서류 준비부터 사무소 동행까지 원스톱으로 처리해드립니다.</p>
-<a href="/contact" style="display:inline-block;background:#A33344;color:#fff;padding:14px 28px;border-radius:8px;text-decoration:none;font-weight:700;font-size:15px">무료 상담 신청 →</a>
+<a href="/contact" style="display:inline-block;background:#A33344;color:#fff;padding:14px 28px;border-radius:8px;text-decoration:none;font-weight:700;font-size:15px">상담 신청 →</a>
 </div>
 
 ---

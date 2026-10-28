@@ -135,7 +135,7 @@ export default function HomePage() {
               </p>
               <div className="mt-8">
                 <Link href="/contact" className="btn btn-primary">
-                  무료 상담 신청
+                  상담 신청
                 </Link>
               </div>
               <p className="mt-8 text-base" style={{ color: "#475569" }}>

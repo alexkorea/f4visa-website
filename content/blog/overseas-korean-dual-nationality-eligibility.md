@@ -116,7 +116,7 @@ slug: "overseas-korean-dual-nationality-eligibility"
 | 서약 기한 | 국적취득 후 1년 이내 | 국적취득 후 1년 이내 |
 | 위반 시 | 한국 국적 상실 가능 | — |
 
-지금 무료 상담 신청하기 → **02-363-2251 / 카카오톡: alexkorea**
+지금 상담 신청하기 → **02-363-2251 / 카카오톡: alexkorea**
 처리 기간은 출입국·국적 부서별로 다르며, 가장 빠른 곳을 찾아 진행해 드립니다.
 
 ![Two individuals reviewing and signing official documents in an indoor setting.](https://images.pexels.com/photos/9870226/pexels-photo-9870226.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
@@ -222,6 +222,6 @@ slug: "overseas-korean-dual-nationality-eligibility"
 
 복잡한 절차, 혼자 고민하지 마세요. 전문 행정사가 친절하게 안내해 드립니다.
 
-**[무료 상담 신청하기](https://f4visa.net/contact)**
+**[상담 신청하기](https://f4visa.net/contact)**
 
 **공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

@@ -115,7 +115,7 @@ F-4는 외국 국적 동포 비자입니다.
 이 설명이 부족하면 신청 자체가 반려됩니다.
 저희는 **서울 내 임시주소 제공** 서비스를 통해 이 문제를 정리합니다 (별도 비용 안내).
 
-지금 무료 상담 신청하기 → **02-363-2251 / 카카오톡: alexkorea**
+지금 상담 신청하기 → **02-363-2251 / 카카오톡: alexkorea**
 
 ![Close-up of an employee sorting documents with sticky notes and pens on a wooden desk.](https://images.pexels.com/photos/7888676/pexels-photo-7888676.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
@@ -220,6 +220,6 @@ F-4는 외국 국적 동포 비자입니다.
 
 복잡한 절차, 혼자 고민하지 마세요. 전문 행정사가 친절하게 안내해 드립니다.
 
-**[무료 상담 신청하기](https://f4visa.net/contact)**
+**[상담 신청하기](https://f4visa.net/contact)**
 
 **공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

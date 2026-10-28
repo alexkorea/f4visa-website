@@ -21,7 +21,7 @@ F-4 거소증은 가장 빠르게 허가가 나오는 출입국사무소를 선�
  <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 거소증, 왜 체류 일수가 문제가 되는가</a></li>
  <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 거소증 대행 — 신청 전 반드시 갖춰야 할 서류</a></li>
  <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 최소 체류로 발급받는 실제 일정 모델</a></li>
- <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 지금 무료 상담 신청하기</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 지금 상담 신청하기</a></li>
  <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. F-4 거소증 대행이 실제로 줄여주는 시간</a></li>
  <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 본국 발급 vs 한국 입국 후 발급</a></li>
  <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 행정사사무소 이룸 F-4 서비스 안내</a></li>
@@ -120,7 +120,7 @@ F-4 거소증 신청은 원칙적으로 본인 출석 신청입니다.
 
 본인이 한국에 머무르는 시간은 신청 당일과 그 전후 며칠로 압축할 수 있습니다.
 
-<h2 id="section-4">지금 무료 상담 신청하기</h2>
+<h2 id="section-4">지금 상담 신청하기</h2>
 
 **가장 빠른 출입국사무소를 찾아 일정을 단축해 드립니다.**
 
@@ -247,6 +247,6 @@ F-4 거소증 신청대행은 사례마다 서류 준비 상태와 한국 방문
 
 복잡한 절차, 혼자 고민하지 마세요. 전문 행정사가 친절하게 안내해 드립니다.
 
-**[무료 상담 신청하기](https://f4visa.net/contact)**
+**[상담 신청하기](https://f4visa.net/contact)**
 
 **공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

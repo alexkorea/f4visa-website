@@ -46,7 +46,7 @@ export default async function BlogPage() {
         <PageBreadcrumb items={[{ label: "블로그", path: "/blog" }]} />
         <PageHero
           title="블로그"
-          subtitle="재외동포 행정 업무에 대한 최신 정보와 유용한 가이드를 확인하세요." ctaLabel="무료 상담 신청"
+          subtitle="재외동포 행정 업무에 대한 최신 정보와 유용한 가이드를 확인하세요." ctaLabel="상담 신청"
         />
 
         <section className="section">

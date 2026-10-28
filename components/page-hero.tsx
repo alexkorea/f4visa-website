@@ -9,7 +9,7 @@ import { SitePhoto } from "@/components/hero-photo"
 export function PageHero({
   title,
   subtitle,
-  ctaLabel = "무료 상담 신청",
+  ctaLabel = "상담 신청",
   ctaHref = "/contact",
   trust = SITE.trustLine,
   photo,

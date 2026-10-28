@@ -20,7 +20,7 @@ export function CtaSection({
           </p>
           <div className="mt-8 flex flex-col gap-4 sm:flex-row">
             <Link href="/contact" className="btn btn-primary">
-              무료 상담 신청
+              상담 신청
             </Link>
             <a href={SITE.phoneOfficeHref} className="btn btn-on-dark">
               <Phone className="h-4 w-4" aria-hidden />

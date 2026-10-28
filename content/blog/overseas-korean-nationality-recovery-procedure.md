@@ -366,7 +366,7 @@ slug: "overseas-korean-nationality-recovery-procedure"
 **🏢 방문 상담: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)  동대문역사문화공원역 4번출구 10미터 | 동대문역사문화공원역 4번출구 10미터**
 
 <div style="background:#1e40af;color:white;padding:20px;border-radius:8px;margin:30px 0;text-align:center">
-<h3 style="color:white;margin-top:0">무료 상담 신청
+<h3 style="color:white;margin-top:0">상담 신청
 <p style="margin:10px 0">재외동포 국적회복, 복잡하게 느껴지시나요?<br>행정사사무소 이룸의 전문가가 명쾌하게 답변드립니다.</p>
 <a href="[상담신청링크]" style="display:inline-block;background:white;color:#1e40af;padding:12px 30px;border-radius:5px;text-decoration:none;font-weight:bold;margin-top:10px">지금 무료 상담 받기 →</a>
 </div>

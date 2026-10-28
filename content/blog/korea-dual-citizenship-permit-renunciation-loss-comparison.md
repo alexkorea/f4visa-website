@@ -108,7 +108,7 @@ slug: "korea-dual-citizenship-permit-renunciation-loss-comparison"
 겉으로는 간단해 보여도, 본인이 이탈 대상인지 상실 대상인지부터 갈리는 사례가 많습니다.
 출생 당시 부모의 국적, 출생지, 시민권 취득 경위에 따라 판단이 달라집니다.
 
-지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea
+지금 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea
 
 ![Two women reviewing and signing documents at an indoor glass table.](https://images.pexels.com/photos/8962381/pexels-photo-8962381.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
@@ -214,6 +214,6 @@ F-4 신청 시 시민권증서 원본과 정리된 가족관계 서류가 그대
 
 복잡한 절차, 혼자 고민하지 마세요. 전문 행정사가 친절하게 안내해 드립니다.
 
-**[무료 상담 신청하기](https://f4visa.net/contact)**
+**[상담 신청하기](https://f4visa.net/contact)**
 
 **공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

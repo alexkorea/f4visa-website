@@ -102,7 +102,7 @@ slug: "dual-citizenship-permission-criteria-renunciation-vs-loss"
 > 이미 국적을 상실한 상태에서의 한국 여권 사용은 출입국 기록에 그대로 드러나며, 이후 비자 심사에서 불리하게 작용할 수 있습니다.
 
 정확한 비용과 절차는 전문가 상담을 통해 확인하세요.
-지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea
+지금 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea
 
 <h2 id="section-4">국적상실신고 절차와 서류, 흔히 놓치는 부분</h2>
 
@@ -223,6 +223,6 @@ slug: "dual-citizenship-permission-criteria-renunciation-vs-loss"
 
 복잡한 절차, 혼자 고민하지 마세요. 전문 행정사가 친절하게 안내해 드립니다.
 
-**[무료 상담 신청하기](https://f4visa.net/contact)**
+**[상담 신청하기](https://f4visa.net/contact)**
 
 **공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

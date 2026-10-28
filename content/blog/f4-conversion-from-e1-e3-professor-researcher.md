@@ -104,7 +104,7 @@ E-1·E-3으로 들어와 있더라도 국적상실신고가 누락된 상태라�
 발급일로부터 6개월입니다.
 재발급·아포스티유까지 시간이 걸리므로, 신청 직전에 발급하는 것이 안전합니다.
 
-지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea
+지금 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea
 
 ![Bustling urban street in Myeongdong, Seoul showcasing diverse shops and lively pedestrian activity.](https://images.pexels.com/photos/26732085/pexels-photo-26732085.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
@@ -192,6 +192,6 @@ E-1·E-3에서 F-4로 전환할 때 실제로 시간이 새는 지점은 국적�
 
 복잡한 절차, 혼자 고민하지 마세요. 전문 행정사가 친절하게 안내해 드립니다.
 
-**[무료 상담 신청하기](https://f4visa.net/contact)**
+**[상담 신청하기](https://f4visa.net/contact)**
 
 **공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

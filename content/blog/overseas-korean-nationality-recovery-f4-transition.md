@@ -57,7 +57,7 @@ image: "/og/overseas-korean-nationality-recovery-f4-transition.png"
 
 개인 상황(외국 국적 유지 필요성, 병역 이력, 향후 계획)에 따라 최적 경로가 다릅니다. 전문 행정사가 검토해 드립니다.
 
-**[무료 상담 신청하기 →](/contact)**
+**[상담 신청하기 →](/contact)**
 
 ---
 

@@ -174,7 +174,7 @@ slug: "nationality-recovery-permit-8months-documents-guide"
 
 ---
 
-**지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea**
+**지금 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea**
 
 처리 기간은 신청자 호적 상태와 관할 기관에 따라 달라집니다.
 
@@ -310,6 +310,6 @@ slug: "nationality-recovery-permit-8months-documents-guide"
 
 복잡한 절차, 혼자 고민하지 마세요. 전문 행정사가 친절하게 안내해 드립니다.
 
-**[무료 상담 신청하기](https://f4visa.net/contact)**
+**[상담 신청하기](https://f4visa.net/contact)**
 
 **공식 사이트에서 확인하기:** [출입국·외국인정책본부](https://www.immigration.go.kr)

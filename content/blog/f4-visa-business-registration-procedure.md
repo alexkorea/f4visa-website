@@ -21,7 +21,7 @@ F-4 재외동포 비자 소지자는 단순노무 업종을 제외한 거의 모
  <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-4 비자로 사업자등록이 가능한 이유</a></li>
  <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. F-4 사업자등록이 금지되는 업종</a></li>
  <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. F-4 사업자등록 신청 절차</a></li>
- <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea</a></li>
+ <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 지금 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea</a></li>
  <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 법인 설립 vs 개인사업자 선택</a></li>
  <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 사업자등록 후 자주 발생하는 실무 이슈</a></li>
  <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. F-4 사업자등록 준비 체크리스트</a></li>
@@ -128,7 +128,7 @@ F-4는 신분형 자격이라 별도 투자금 요건 없이 사업자등록을 
 
 이 단계에서 순서를 잘못 잡으면 등록이 꼬여 처음부터 다시 가는 경우가 자주 나옵니다.
 
-<h2 id="section-4">지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea</h2>
+<h2 id="section-4">지금 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea</h2>
 
 정확한 비용과 처리 기간은 업종·관할 세무서·임대차 조건에 따라 달라지므로, 본인 사례에 맞는 적용은 전문가 상담으로 확인하세요.
 
@@ -286,6 +286,6 @@ F-4 사업자등록은 거소증, 임대차, 업종 적합성, 후속 신고가 
 
 복잡한 절차, 혼자 고민하지 마세요. 전문 행정사가 친절하게 안내해 드립니다.
 
-**[무료 상담 신청하기](https://f4visa.net/contact)**
+**[상담 신청하기](https://f4visa.net/contact)**
 
 **공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

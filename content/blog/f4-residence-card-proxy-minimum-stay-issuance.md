@@ -95,7 +95,7 @@ slug: "f4-residence-card-proxy-minimum-stay-issuance"
 사전 검토를 거치면 이 재방문 위험을 줄일 수 있습니다.
 접수 완료 후 거소허가번호가 확인되면 출국 준비가 가능합니다.
 
-지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea
+지금 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea
 
 <h2 id="section-4">출국 후 수령·발송 — 대행이 마무리합니다</h2>
 
@@ -205,6 +205,6 @@ slug: "f4-residence-card-proxy-minimum-stay-issuance"
 
 복잡한 절차, 혼자 고민하지 마세요. 전문 행정사가 친절하게 안내해 드립니다.
 
-**[무료 상담 신청하기](https://f4visa.net/contact)**
+**[상담 신청하기](https://f4visa.net/contact)**
 
 **공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

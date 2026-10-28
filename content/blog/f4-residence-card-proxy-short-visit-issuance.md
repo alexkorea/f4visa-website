@@ -107,7 +107,7 @@ F-4 거소증(국내거소신고증)은 재외동포의 출입국과 법적 지�
 호텔 단기 투숙으로 처리 가능한지, 지인 주소를 쓸 때 무엇이 요구되는지는 사무소마다 실무 기준이 달라서, 여기서 반려되는 사례가 실제로 나옵니다.
 행정사사무소 이룸은 서울 내 임시주소 제공(별도 비용 안내)과 숙박제공자와의 연락까지 지원합니다.
 
-지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea
+지금 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea
 
 ![A bustling city street at night with neon lights and a delivery scooter navigating through.](https://images.pexels.com/photos/13679460/pexels-photo-13679460.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=650&amp;w=940)
 
@@ -214,6 +214,6 @@ F-4 거소증(국내거소신고증)은 재외동포의 출입국과 법적 지�
 
 복잡한 절차, 혼자 고민하지 마세요. 전문 행정사가 친절하게 안내해 드립니다.
 
-**[무료 상담 신청하기](https://f4visa.net/contact)**
+**[상담 신청하기](https://f4visa.net/contact)**
 
 **공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

@@ -104,7 +104,7 @@ slug: "nationality-loss-report-required-documents-guide"
 > **주의:** 서류마다 유효기간 기준이 다릅니다.
 > 미리 발급해 둔 서류가 접수 시점에 기간을 넘기면 다시 발급해야 하므로, 발급 순서를 잘못 잡으면 전체 일정이 밀립니다.
 
-지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea
+지금 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea
 
 <h2 id="section-4">국내 접수와 재외공관 접수, 어느 쪽이 빠른가</h2>
 
@@ -223,6 +223,6 @@ slug: "nationality-loss-report-required-documents-guide"
 
 복잡한 절차, 혼자 고민하지 마세요. 전문 행정사가 친절하게 안내해 드립니다.
 
-**[무료 상담 신청하기](https://f4visa.net/contact)**
+**[상담 신청하기](https://f4visa.net/contact)**
 
 **공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

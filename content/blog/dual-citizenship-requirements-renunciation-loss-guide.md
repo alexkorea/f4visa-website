@@ -102,7 +102,7 @@ slug: "dual-citizenship-requirements-renunciation-loss-guide"
 최근 비슷한 사례에서, 시민권 취득 후 한국 여권으로 수차례 입국한 사실이 뒤늦게 확인되어 절차가 길게 꼬인 경우가 있었습니다.
 본인 출입국 기록에 이런 이력이 있다면 신고 전에 반드시 상황 진단부터 받아야 합니다.
 
-지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea
+지금 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea
 
 <h2 id="section-4">국적상실신고 절차와 서류 — 실제로 많이 막히는 부분</h2>
 
@@ -225,6 +225,6 @@ slug: "dual-citizenship-requirements-renunciation-loss-guide"
 
 복잡한 절차, 혼자 고민하지 마세요. 전문 행정사가 친절하게 안내해 드립니다.
 
-**[무료 상담 신청하기](https://f4visa.net/contact)**
+**[상담 신청하기](https://f4visa.net/contact)**
 
 **공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

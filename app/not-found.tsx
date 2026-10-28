@@ -48,7 +48,7 @@ export default function NotFound() {
             </ul>
             <div className="mt-10 flex flex-col gap-4 sm:flex-row">
               <Link href="/contact" className="btn btn-primary">
-                무료 상담 신청
+                상담 신청
               </Link>
               <Link href="/" className="btn btn-secondary">
                 홈으로

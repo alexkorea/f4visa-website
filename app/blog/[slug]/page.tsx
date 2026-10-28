@@ -208,7 +208,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
                       href="/contact"
                       className="btn btn-primary btn-block mt-4"
                     >
-                      무료 상담 신청
+                      상담 신청
                     </Link>
                   </div>
                 )}

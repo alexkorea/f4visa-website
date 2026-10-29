@@ -3280,6 +3280,22 @@
    "slug": "f5-14-h2-same-employer-four-years-permanent-residency",
    "generated_at": "2026-10-28T00:36:37.010Z",
    "version": "1.4"
+  },
+  "f3-spouse-of-f4-h2-outside-status-employment-permit": {
+   "hash": "1a41c53cf029aeaa87a211b9ca6f260fc6b8e53f2e0a5127f8660067d6d07749",
+   "source": "pexels",
+   "seed": 982090005,
+   "theme": "life",
+   "prompt_subject": "residential street cafe morning",
+   "map_version": null,
+   "pexels_id": 32180314,
+   "pexels_author": "Theodore Nguyen",
+   "category": "재외동포",
+   "visa": "F-3",
+   "lang": "ko",
+   "slug": "f3-spouse-of-f4-h2-outside-status-employment-permit",
+   "generated_at": "2026-10-29T10:03:15.396Z",
+   "version": "1.4"
   }
  }
 }

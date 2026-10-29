@@ -188,6 +188,15 @@
       ],
       "at": "2026-10-28T00:36:37.026Z",
       "batch": "BLOG-STALL-1028 (맥4, 맥7 지시 2026-10-28)"
+    },
+    {
+      "slug": "f3-spouse-of-f4-h2-outside-status-employment-permit",
+      "date": "2026-10-29",
+      "locales": [
+        "ko"
+      ],
+      "at": "2026-10-29T10:03:15.412Z",
+      "batch": "BLOG-STALL-1028 (맥4, 맥7 지시 2026-10-28)"
     }
   ],
   "rejected": []

@@ -197,6 +197,15 @@
       ],
       "at": "2026-10-29T10:03:15.412Z",
       "batch": "BLOG-STALL-1028 (맥4, 맥7 지시 2026-10-28)"
+    },
+    {
+      "slug": "h2-compatriot-hiring-employer-special-employment-confirmation",
+      "date": "2026-10-30",
+      "locales": [
+        "ko"
+      ],
+      "at": "2026-10-30T10:03:23.438Z",
+      "batch": "BLOG-STALL-1028 (맥4, 맥7 지시 2026-10-28)"
     }
   ],
   "rejected": []

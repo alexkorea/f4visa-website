@@ -3296,6 +3296,22 @@
    "slug": "f3-spouse-of-f4-h2-outside-status-employment-permit",
    "generated_at": "2026-10-29T10:03:15.396Z",
    "version": "1.4"
+  },
+  "h2-compatriot-hiring-employer-special-employment-confirmation": {
+   "hash": "2295bf5c4cfa6b7d28f166476fb70297f34b972c345af3d002d1e4cc9d24968c",
+   "source": "pexels",
+   "seed": 1223345480,
+   "theme": "industry",
+   "prompt_subject": "shipping containers port",
+   "map_version": null,
+   "pexels_id": 40494497,
+   "pexels_author": "HONG SON",
+   "category": "재외동포",
+   "visa": "H-2",
+   "lang": "ko",
+   "slug": "h2-compatriot-hiring-employer-special-employment-confirmation",
+   "generated_at": "2026-10-30T10:03:23.422Z",
+   "version": "1.4"
   }
  }
 }

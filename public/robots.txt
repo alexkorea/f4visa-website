@@ -2,6 +2,11 @@ User-agent: *
 Allow: /
 Disallow: /api/
 
+# NAVER-SEO-FIX-1031: 네이버 검색로봇 명시(* 그룹을 대체하므로 Disallow 를 그대로 복사)
+User-agent: Yeti
+Allow: /
+Disallow: /api/
+
 User-agent: OAI-SearchBot
 Allow: /
 
@@ -32,4 +37,4 @@ Allow: /
 User-agent: Amazonbot
 Disallow: /
 
-Sitemap: https://f4visa.net/sitemap.xml
+Sitemap: https://www.f4visa.net/sitemap.xml

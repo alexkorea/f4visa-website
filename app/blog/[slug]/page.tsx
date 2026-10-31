@@ -70,6 +70,8 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
         url={`${SITE.url}/blog/${slug}`}
         image={post.image.startsWith("http") ? post.image : `${SITE.url}${post.image}`}
         datePublished={post.date}
+        dateModified={post.modified}
+        partner={post.partner}
       />
       {faqs.length > 0 && <FaqJsonLd questions={faqs.map((f) => ({ question: f.q, answer: f.a }))} />}
       <Header />

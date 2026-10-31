@@ -1,0 +1,22 @@
+{
+ "out": "lib/page-lastmod.generated.ts",
+ "roots": [
+  "app"
+ ],
+ "paths": [
+  "",
+  "/about",
+  "/f4-visa-resident-card",
+  "/f4-visa-renewal",
+  "/f4-visa-types",
+  "/nationality-loss-report",
+  "/nationality-renunciation-report",
+  "/nationality-selection-dual-nationality",
+  "/nationality-recovery",
+  "/permanent-residency",
+  "/tax-stories",
+  "/privacy",
+  "/terms",
+  "/contact"
+ ]
+}

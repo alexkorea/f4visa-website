@@ -1,3 +1,4 @@
+import { CONTENT_MODIFIED } from './content-modified.generated'
 import fs from 'node:fs'
 import path from 'node:path'
 import matter from 'gray-matter'
@@ -25,6 +26,8 @@ export interface BlogPost {
   excerpt: string
   image: string
   partner: string
+  /** 원고 마지막 커밋일(원고 date 이상) — Article dateModified·사이트맵 lastmod 원천(NAVER-SEO-FIX-1031). */
+  modified: string
   content: string
 }
 
@@ -72,6 +75,7 @@ function readPost(filePath: string): BlogPost | null {
       excerpt: data.excerpt || data.description || '',
       image: data.image || '/slides/documents.jpg',
       partner: data.partner || '',
+      modified: [String(data.date || ''), CONTENT_MODIFIED[slug] || ''].sort().pop() || '',
       content,
     }
   } catch {

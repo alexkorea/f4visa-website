@@ -124,6 +124,7 @@ export function ArticleJsonLd({
   image,
   datePublished,
   dateModified,
+  partner,
 }: {
   title: string
   description: string
@@ -131,6 +132,7 @@ export function ArticleJsonLd({
   image: string
   datePublished: string
   dateModified?: string
+  partner?: string
 }) {
   const data = {
     "@context": "https://schema.org",
@@ -146,12 +148,11 @@ export function ArticleJsonLd({
       "@id": url,
     },
     // 발행·저자 엔티티는 등록부 브랜드 C(이룸) 하나뿐이다 — 협력 세무사 글도 같다(2026-10-03).
-    author: {
-      "@type": "Organization",
-      "@id": ORG_ID,
-      name: SITE.name,
-      url: SITE.url,
-    },
+    // NAVER-SEO-FIX-1031: 행정사 글 저자 = 등록부 브랜드 C 대표 행정사(Person). 협력 세무사 글(partner)은 개인 이름을 등록부에서
+    // 확인할 수 없으므로 종전대로 사무소(Organization)로 둔다.
+    author: partner
+      ? { "@type": "Organization", "@id": ORG_ID, name: SITE.name, url: SITE.url }
+      : { "@type": "Person", name: "이시정", jobTitle: "대표 행정사", worksFor: { "@type": "Organization", "@id": ORG_ID, name: SITE.name } },
     publisher: {
       "@type": "Organization",
       "@id": ORG_ID,

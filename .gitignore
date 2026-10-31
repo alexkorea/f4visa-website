@@ -19,3 +19,7 @@ node_modules
 # cloudflare / opennext build output
 .open-next/
 .wrangler/
+
+# NAVER-SEO-FIX-1031: prebuild 생성(커밋일 기반) — 추적하지 않는다
+lib/page-lastmod.generated.ts
+lib/content-modified.generated.ts

@@ -10,7 +10,8 @@ export async function GET() {
   const posts = await getAllPosts()
   const xml = buildRss(
     { title: RSS_FEED.title, link: `${SITE.url}/blog`, description: RSS_FEED.desc, language: 'ko', self: `${SITE.url}${RSS_FEED.path}` },
-    posts.map((p) => ({ title: p.title, link: `${SITE.url}/blog/${p.slug}`, description: p.excerpt, date: p.date }))
+    posts.map((p) => ({ title: p.title, link: `${SITE.url}/blog/${p.slug}`, description: p.excerpt, date: p.date,
+      image: p.image ? (p.image.startsWith('http') ? p.image : `${SITE.url}${p.image}`) : undefined }))
   )
   return new Response(xml, { headers: RSS_HEADERS })
 }

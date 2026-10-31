@@ -203,7 +203,7 @@ A. 첨부 서류 해상도 불량, 체류지 입증서류 만료, 번역문 누�
 ## 함께 보면 좋은 글
 
 - [F-4 비자 갱신 종합 가이드 — 건강보험·세금·거절사례](/blog/f4-visa-renewal)
-- [F-4 비자 연장 한국어능력·해외범죄경력증명 실무](/blog/f4-visa-extension-guide)
+- [F-4 비자 연장 한국어능력 입증·서류 실무](/blog/f4-visa-extension-guide)
 - [F-4 비자 연장 절차 체크리스트](/blog/f4-visa-extension-procedure)
 
 > **전문가 상담 신청하기**

@@ -161,6 +161,6 @@ F-4 비자는 특정 직장에 종속되지 않으므로 무직 상태에서도 
 **관련 글**
 
 - [F-4 재외동포 비자 갱신 완벽 가이드](/blog/f4-visa-renewal)
-- [F-4 비자 연장 시 한국어능력·범죄경력증명서 준비 가이드](/blog/f4-visa-extension-guide)
+- [F-4 비자 연장 서류·한국어능력 입증 가이드](/blog/f4-visa-extension-guide)
 - [F-4 비자 갱신 법령 근거와 국가별 서류 정리](/blog/f4-visa-renewal-complete-guide)
 - [F-4에서 F-5 영주권 전환 요건 안내](/blog/f4-to-f5-permanent-residence)

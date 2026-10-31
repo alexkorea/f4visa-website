@@ -81,6 +81,10 @@ const CFG = SITES[SITE]
 // NOFREE(WQA1028-FIX-2 10-28, f6 F6-NOFREE 와 같은 원칙): scripts/nofree-gate.mjs 가 있는 레포에서만 켠다(f4visa·f6visa). 걸리면 rc=3 미발행.
 const NOFREE_GATE = path.join(REPO, 'scripts', 'nofree-gate.mjs')
 const NOFREE_RE = fs.existsSync(NOFREE_GATE) ? (await import(pathToFileURL(NOFREE_GATE).href)).NOFREE_RE : null
+// F4-BLOG-1031: 배포 빌드의 seo-gate.mjs 는 블로그 description(=excerpt) 70~160자 밖이면 빌드를 막는다.
+// 10-29 원고(165자)가 그대로 발행·커밋돼 10-29·10-30 배포가 연속 rc=1 이었다 → 발행 전에 같은 범위로 막는다(rc=3).
+const SEO_CFG_PATH = path.join(REPO, 'scripts', 'seo-gate.config.json')
+const SEO_CFG = fs.existsSync(SEO_CFG_PATH) ? JSON.parse(fs.readFileSync(SEO_CFG_PATH, 'utf8')) : null
 const DUP_GATE = path.join(REPO, 'scripts', 'blog-dup-gate.mjs')
 const dupGate = fs.existsSync(DUP_GATE) ? await import(pathToFileURL(DUP_GATE).href) : null
 async function dupHits(e) {
@@ -169,6 +173,10 @@ function checkEntry(e) {
     if (fm.locale && fm.locale !== loc) fails.push(`[${loc}] frontmatter locale=${fm.locale}`)
     if (!fm.title) fails.push(`[${loc}] title 없음`)
     if (!fm.description) fails.push(`[${loc}] description 없음`)
+    if (fm.description && SEO_CFG) {
+      const ex = stripDescription(fm.description, loc)
+      if (ex.length < SEO_CFG.descMin || ex.length > SEO_CFG.descMax) fails.push(`[${loc}] description ${ex.length}자 — seo-gate 허용 ${SEO_CFG.descMin}~${SEO_CFG.descMax}자 밖(배포 빌드가 막힌다)`)
+    }
     if (/"/.test(fm.title || '') || /"/.test(fm.description || '')) fails.push(`[${loc}] title/description 안 큰따옴표(평면 frontmatter 파서가 깨진다)`)
     if (loc !== 'ko' && /[가-힣]/.test(`${fm.title}${fm.description}`)) fails.push(`[${loc}] title/description 에 한글`)
     if (!/^#\s+\S/m.test(body)) warns.push(`[${loc}] 본문 H1 없음`)

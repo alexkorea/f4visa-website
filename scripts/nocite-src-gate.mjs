@@ -15,12 +15,20 @@ const root = process.cwd()
 const dir = path.join(root, 'content', 'blog')
 const allowFile = path.join(root, 'scripts', 'nocite-allow.txt')
 const allow = fs.existsSync(allowFile) ? fs.readFileSync(allowFile, 'utf8').split('\n').map((s) => s.trim()).filter(Boolean) : []
+const MANUAL_META_RE = /매뉴얼(?:은|에|상)/g
 let hits = 0, files = 0
 for (const f of fs.readdirSync(dir).filter((x) => x.endsWith('.md')).sort()) {
   const { data, content } = matter(fs.readFileSync(path.join(dir, f), 'utf8'))
   const html = String(await remark().use(remarkGfm).use(remarkHtml, { sanitize: false }).process(content))
   const h = scanHtml(`<h1>${data.title || ''}</h1><p>${data.excerpt || ''}</p><p>${data.description || ''}</p>${html}`)
     .filter((x) => !allow.some((a) => x.ctx.includes(a)))
+  // NAVER-SEO-FIX-1031-3(맥7 지시): f4 전용 — 화면의 '매뉴얼은/매뉴얼에/매뉴얼상' 출처 메타문장(공용 nocite-gate.mjs 는 못 잡는다).
+  // 공용 패턴 원천은 7사 바이트 동일이라 여기(원고 게이트)에만 둔다. 사실은 남기고 출처 수식구만 뺄 것.
+  const plain = `${data.title || ''}\n${data.excerpt || ''}\n${data.description || ''}\n${content}`
+  for (const m of plain.matchAll(MANUAL_META_RE)) {
+    const ctx = plain.slice(Math.max(0, m.index - 30), m.index + 40).replace(/\s+/g, ' ')
+    if (!allow.some((a) => ctx.includes(a))) h.push({ rule: '메타:매뉴얼', ctx })
+  }
   files++
   if (h.length) { hits += h.length; for (const x of h.slice(0, 3)) console.error(`  ✗ [${x.rule}] content/blog/${f}\n      …${x.ctx}…`) }
 }

@@ -3312,6 +3312,22 @@
    "slug": "h2-compatriot-hiring-employer-special-employment-confirmation",
    "generated_at": "2026-10-30T10:03:23.422Z",
    "version": "1.4"
+  },
+  "f4-occupation-report-and-child-school-enrollment-report": {
+   "hash": "0d32fc867b9b8f49b05810f5039f954661836042bbd2fc028c54e43d4d59c0a9",
+   "source": "pexels",
+   "seed": 2190498080,
+   "theme": "city",
+   "prompt_subject": "korean urban street",
+   "map_version": null,
+   "pexels_id": 31811691,
+   "pexels_author": "Theodore Nguyen",
+   "category": "F-4비자",
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-occupation-report-and-child-school-enrollment-report",
+   "generated_at": "2026-10-31T00:41:24.860Z",
+   "version": "1.4"
   }
  }
 }

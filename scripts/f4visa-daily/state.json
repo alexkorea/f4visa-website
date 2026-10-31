@@ -206,6 +206,15 @@
       ],
       "at": "2026-10-30T10:03:23.438Z",
       "batch": "BLOG-STALL-1028 (맥4, 맥7 지시 2026-10-28)"
+    },
+    {
+      "slug": "f4-occupation-report-and-child-school-enrollment-report",
+      "date": "2026-10-31",
+      "locales": [
+        "ko"
+      ],
+      "at": "2026-10-31T00:41:24.869Z",
+      "batch": "BLOG-STALL-1028 (맥4, 맥7 지시 2026-10-28)"
     }
   ],
   "rejected": []

@@ -2,6 +2,7 @@ import type { Metadata } from "next"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { withOgDefaults } from "@/lib/og"
+import { BreadcrumbJsonLd } from "@/components/structured-data"
 
 export const metadata: Metadata = withOgDefaults({
   title: "개인정보처리방침",
@@ -19,6 +20,8 @@ export const metadata: Metadata = withOgDefaults({
 export default function PrivacyPage() {
   return (
     <div className="flex min-h-screen flex-col">
+      {/* NAVER-SEO-FIX-1031: BreadcrumbList(JSON-LD 만 — 화면 문구 무변경) */}
+      <BreadcrumbJsonLd items={[{ name: "홈", url: "https://www.f4visa.net" }, { name: "개인정보처리방침", url: "https://www.f4visa.net/privacy" }]} />
       <Header />
       <main className="flex-1 py-8">
         <div className="container-x">

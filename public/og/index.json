@@ -3328,6 +3328,22 @@
    "slug": "f4-occupation-report-and-child-school-enrollment-report",
    "generated_at": "2026-10-31T00:41:24.860Z",
    "version": "1.4"
+  },
+  "f5-6r-regional-overseas-korean-permanent-residency": {
+   "hash": "f5e7b5af5557c367b9c0d98235df97648aad35b9a79e6147ae21dc339b127d1c",
+   "source": "pexels",
+   "seed": 752020158,
+   "theme": "residence",
+   "prompt_subject": "apartment building entrance",
+   "map_version": null,
+   "pexels_id": 35410014,
+   "pexels_author": "Sơn Nguyễn",
+   "category": "영주권",
+   "visa": "F-5",
+   "lang": "ko",
+   "slug": "f5-6r-regional-overseas-korean-permanent-residency",
+   "generated_at": "2026-11-01T10:02:42.522Z",
+   "version": "1.4"
   }
  }
 }

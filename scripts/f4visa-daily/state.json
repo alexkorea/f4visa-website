@@ -215,6 +215,15 @@
       ],
       "at": "2026-10-31T00:41:24.869Z",
       "batch": "BLOG-STALL-1028 (맥4, 맥7 지시 2026-10-28)"
+    },
+    {
+      "slug": "f5-6r-regional-overseas-korean-permanent-residency",
+      "date": "2026-11-01",
+      "locales": [
+        "ko"
+      ],
+      "at": "2026-11-01T10:02:42.541Z",
+      "batch": "BLOG-STALL-1028 (맥4, 맥7 지시 2026-10-28)"
     }
   ],
   "rejected": []

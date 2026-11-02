@@ -224,6 +224,15 @@
       ],
       "at": "2026-11-01T10:02:42.541Z",
       "batch": "BLOG-STALL-1028 (맥4, 맥7 지시 2026-10-28)"
+    },
+    {
+      "slug": "f4-tuberculosis-certificate-high-risk-countries-extension-status-change",
+      "date": "2026-11-02",
+      "locales": [
+        "ko"
+      ],
+      "at": "2026-11-02T10:03:17.399Z",
+      "batch": "BLOG-STALL-1028-2 (맥4, 맥7 지시 2026-10-28)"
     }
   ],
   "rejected": []

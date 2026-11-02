@@ -3344,6 +3344,22 @@
    "slug": "f5-6r-regional-overseas-korean-permanent-residency",
    "generated_at": "2026-11-01T10:02:42.522Z",
    "version": "1.4"
+  },
+  "f4-tuberculosis-certificate-high-risk-countries-extension-status-change": {
+   "hash": "9de103db79ed8430e445f550e792be94b58217bf15a7ea4d40d67fe3bec03993",
+   "source": "pexels",
+   "seed": 3310458142,
+   "theme": "city",
+   "prompt_subject": "korean urban street",
+   "map_version": null,
+   "pexels_id": 31671163,
+   "pexels_author": "Ayyeee Ayyeee",
+   "category": "F-4비자",
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-tuberculosis-certificate-high-risk-countries-extension-status-change",
+   "generated_at": "2026-11-02T10:03:17.382Z",
+   "version": "1.4"
   }
  }
 }

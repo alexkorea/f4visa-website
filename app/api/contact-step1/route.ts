@@ -150,8 +150,8 @@ export async function POST(request: Request) {
       body: JSON.stringify({
         from: "행정사사무소 이룸 <noreply@ko-visas.com>",
         to: [email],
-        // 고객 회신이 담당자에게 닿도록. (2026-09-22)
-        reply_to: "5000meter@gmail.com",
+        // 고객 회신이 담당자에게 닿도록. (2026-09-22) 고객에게는 사이트 공개 주소 help@f4visa.net 로 — CF 이메일 전달로 5000meter 에 닿는다(REPLYTO-1102-B)
+        reply_to: "help@f4visa.net",
         subject: "[행정사사무소 이룸] 행정사사무소 이룸에 상담요청해 주셔서 감사합니다.",
         html: buildEmailHtml(name, Array.isArray(services) ? services : [services], inquiryId, { email, contact, snsType, snsId, nationality, message: situation || undefined }),
       }),

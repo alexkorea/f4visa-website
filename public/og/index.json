@@ -3360,6 +3360,22 @@
    "slug": "f4-tuberculosis-certificate-high-risk-countries-extension-status-change",
    "generated_at": "2026-11-02T10:03:17.382Z",
    "version": "1.4"
+  },
+  "f4-stay-permit-application-departure-proxy-document-validity": {
+   "hash": "f9d0bd90b7794a964840eb4874ebe8131dd14c13d73ddfe0db1b6b2db15f3ef7",
+   "source": "pexels",
+   "seed": 3695398477,
+   "theme": "city",
+   "prompt_subject": "korean urban street",
+   "map_version": null,
+   "pexels_id": 32133696,
+   "pexels_author": "Theodore Nguyen",
+   "category": "F-4비자",
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-stay-permit-application-departure-proxy-document-validity",
+   "generated_at": "2026-11-03T10:01:58.707Z",
+   "version": "1.4"
   }
  }
 }

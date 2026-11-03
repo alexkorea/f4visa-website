@@ -48,7 +48,7 @@ const faqs: FaqItem[] = [
                 },
                 {
                   question: "내국인과 동일한 권리인가요?",
-                  answer: "대부분 동일하지만, 선거권, 공직 임용권 등 일부 권리는 제한됩니다. 그 외 취업, 사업, 부동산 소유 등은 내국인과 동일하게 가능합니다.",
+                  answer: "대부분 동일하지만, 대통령·국회의원 선거권과 공직 임용권 등 일부 권리는 제한됩니다. 지방선거 투표권은 영주자격 취득 후 3년이 지나고 해당 지역 외국인등록대장에 올라 있는 18세 이상일 때만 생깁니다. 그 외 취업, 사업, 부동산 소유 등은 내국인과 동일하게 가능합니다.",
                 },
                 {
                   question: "영주권도 연장해야 하나요?",
@@ -82,9 +82,11 @@ export default function PermanentResidencyPage() {
             <p className="mt-6 text-lg leading-relaxed text-muted-foreground">
               영주권(F-5)은 국내에서 무기한 체류할 수 있는 권리를 부여하는
               비자입니다. 재외동포 비자(F-4)에서 한 단계 업그레이드된
-              체류자격으로, 취업 제한 없이 자유롭게 경제활동을 할 수 있으며
-              지방선거 투표권, 국민연금, 건강보험 등 사회보험 혜택도 누릴 수
-              있습니다.
+              체류자격으로, 취업 제한 없이 자유롭게 경제활동을 할 수 있습니다.
+              영주자격을 취득한 날부터 3년이 지나고 해당 지역 외국인등록대장에
+              올라 있는 18세 이상이면 지방선거(지방의회의원·지방자치단체장)
+              투표권도 생깁니다. 국민연금·건강보험은 직장·지역별 가입 요건을
+              갖추면 가입 대상이 됩니다.
             </p>
           </div>
         </section>
@@ -133,8 +135,8 @@ export default function PermanentResidencyPage() {
                     },
                     {
                       label: "주요 혜택",
-                      f4: "자유로운 취업 활동 (단순노무직 제외), 건강보험 혜택",
-                      f5: "체류기간 제한 없이 체류 가능, 취업 제한 없음, 지방선거 투표권, 국민연금, 건강보험 등 사회보험 혜택",
+                      f4: "자유로운 취업 활동 (단순노무직 제외), 요건을 갖추면 건강보험 가입",
+                      f5: "체류기간 제한 없이 체류 가능, 취업 제한 없음, 지방선거 투표권(영주자격 취득 후 3년이 지나고 외국인등록대장에 올라 있는 18세 이상), 국민연금·건강보험은 가입 요건을 갖추면 가입",
                     },
                   ].map((row) => (
                     <tr
@@ -248,7 +250,7 @@ export default function PermanentResidencyPage() {
 
         <RelatedBlogLinks
           links={[
-            { slug: "f4-to-f5-conversion-guide", label: "F-4에서 F-5 영주권 전환 요건·서류·절차", note: "동포 영주자격 전환 경로 정리" },
+            { slug: "f4-to-f5-permanent-residence", label: "F-4에서 F-5 영주권 전환 완벽 가이드", note: "동포 영주자격 전환 경로 정리" },
             { slug: "f4-income-requirement-f5-permanent-residency", label: "F-4 소득과 F-5 영주권 소득 기준", note: "심사에서 보는 소득 인정 방식" },
             { slug: "f5-permanent-residency-documents-review-guide", label: "F-5 영주권 신청 서류와 심사 포인트", note: "거소증 보유자의 전환 실무" },
           ]}

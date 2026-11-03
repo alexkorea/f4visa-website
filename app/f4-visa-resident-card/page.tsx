@@ -85,6 +85,48 @@ const faqs = [
     answer:
       "네, 실제로 거주하는 주거지 주소(전세계약서, 숙소 확인서 등)를 제출해야 하며, 이를 통해 관할 출입국 사무소에서 거소증이 발급됩니다.",
   },
+  {
+    question: "거소신고는 입국 후 언제까지 해야 하나요?",
+    answer:
+      "90일 이상 체류하려면 입국일부터 90일 안에 체류지 관할 출입국·외국인청(사무소·출장소)에 거소신고를 해야 합니다. 하이코리아에서 방문 예약을 한 뒤 방문합니다.",
+  },
+  {
+    question: "한국어능력 서류를 내지 않으면 어떻게 되나요?",
+    answer:
+      "거소신고는 할 수 있지만 체류기간이 1년으로 짧게 나옵니다. 사회통합프로그램을 등록·수강 중이면 2년이며, 한국어능력 입증서류를 내면 체류기간 연장 때 최대 3년까지 받을 수 있습니다.",
+  },
+]
+
+// F4-QA1102-FIX 3: 거소신고 필요서류·처리 흐름·관할 안내(체류민원 매뉴얼 재외동포 체류관리 절차 원문 대조 — 대조표는 보고서에만).
+const residenceDocsBase = [
+  { name: "재외동포 통합신청서", note: "출입국·외국인관서 비치 서식" },
+  { name: "여권 원본과 사본", note: "인적사항 면과 F-4 사증(입국인) 면" },
+  { name: "표준규격 사진 1매", note: "여권 사진 규격" },
+  { name: "체류지 입증서류", note: "임대차계약서, 숙소제공 확인서, 공공요금 납부영수증 등 실제 거주지를 보여주는 서류" },
+  { name: "조기적응프로그램 이수증", note: "이수 면제 대상이면 제출하지 않습니다" },
+  { name: "수수료", note: "접수할 때 납부" },
+]
+
+const residenceDocsExtra = [
+  { name: "해외 범죄경력증명서", note: "국적국 발급분. 최근 5년 안에 1년 이상 계속 산 제3국이 있으면 그 나라 것도 필요하며, 면제 대상인지 먼저 확인합니다." },
+  { name: "한국어능력 입증서류", note: "사회통합프로그램 사전평가·교육확인서, TOPIK, 세종학당 수료증 등. 내지 않으면 체류기간이 1년(사회통합프로그램을 등록·수강 중이면 2년)으로 짧게 나옵니다." },
+]
+
+const earlyProgramExempt = [
+  "국내 초·중·고교에 재학 중이거나 졸업한 사람",
+  "만 6세 이하 또는 만 65세 이상",
+  "장기체류 자격으로 국내에서 3년 이상 체류한 사람",
+  "이전에 조기적응프로그램을 이수한 사람",
+  "사회통합프로그램 1단계 이상을 이수 중이거나 이수한 사람",
+  "중증장애인",
+]
+
+const residenceFlow = [
+  { title: "입국", description: "F-4 사증으로 입국합니다. 90일 이상 머물 계획이면 입국일부터 90일 안에 거소신고를 해야 합니다." },
+  { title: "체류지 정하기·서류 준비", description: "실제로 살 곳을 먼저 정하고 임대차계약서 등 체류지 입증서류를 갖춥니다. 해외 발급 서류는 입국 전에 받아 오는 편이 빠릅니다." },
+  { title: "관할 관서 방문 예약", description: "체류지를 관할하는 출입국·외국인청(사무소·출장소)을 하이코리아에서 날짜·시간대로 예약합니다. 예약 없이 가면 접수가 안 되거나 오래 기다릴 수 있습니다." },
+  { title: "방문 접수", description: "신청서와 서류를 내고 수수료를 납부합니다. 서류가 빠지면 보완 요청을 받아 일정이 늘어납니다." },
+  { title: "심사·발급", description: "심사를 거쳐 국내거소신고증이 나옵니다. 걸리는 기간은 관서와 시기에 따라 다르므로 접수 때 수령 일정과 방법을 확인합니다." },
 ]
 
 export default function F4VisaResidentCardPage() {
@@ -190,6 +232,104 @@ export default function F4VisaResidentCardPage() {
                   </p>
                 </div>
               </div>
+            </div>
+          </div>
+        </section>
+
+        {/* 거소신고 필요서류 체크리스트 */}
+        <section className="section" id="residence-documents">
+          <div className="container-x">
+            <div className="measure">
+              <h2 className="text-2xl font-bold text-foreground md:text-3xl">
+                거소신고 필요서류 체크리스트
+              </h2>
+              <p className="mt-4 text-muted-foreground">
+                F-4 사증으로 입국한 뒤 국내에서 거소신고를 할 때 기본으로 내는 서류와, 사람에 따라 더 필요한 서류입니다.
+                국적·체류 이력에 따라 관서가 서류를 더 요구할 수 있습니다.
+              </p>
+              <div className="mt-8 grid gap-4 md:grid-cols-2">
+                <div className="rounded-2xl border border-border bg-card p-6">
+                  <h3 className="text-lg font-semibold text-foreground">모든 신청인</h3>
+                  <ul className="mt-4 space-y-3 text-sm text-muted-foreground">
+                    {residenceDocsBase.map((d) => (
+                      <li key={d.name} className="flex items-start gap-3">
+                        <CheckCircle className="mt-0.5 h-5 w-5 shrink-0 text-primary" />
+                        <span><strong className="font-semibold text-foreground">{d.name}</strong> — {d.note}</span>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+                <div className="rounded-2xl border border-border bg-card p-6">
+                  <h3 className="text-lg font-semibold text-foreground">해당하는 경우</h3>
+                  <ul className="mt-4 space-y-3 text-sm text-muted-foreground">
+                    {residenceDocsExtra.map((d) => (
+                      <li key={d.name} className="flex items-start gap-3">
+                        <CheckCircle className="mt-0.5 h-5 w-5 shrink-0 text-primary" />
+                        <span><strong className="font-semibold text-foreground">{d.name}</strong> — {d.note}</span>
+                      </li>
+                    ))}
+                  </ul>
+                  <h3 className="mt-6 text-base font-semibold text-foreground">조기적응프로그램 이수 면제</h3>
+                  <ul className="mt-3 space-y-1.5 text-sm text-muted-foreground">
+                    {earlyProgramExempt.map((x) => (
+                      <li key={x}>- {x}</li>
+                    ))}
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* 거소신고 처리 흐름 */}
+        <section className="section section-alt" id="residence-flow">
+          <div className="container-x">
+            <div className="measure">
+              <h2 className="text-2xl font-bold text-foreground md:text-3xl">
+                거소신고 처리 흐름
+              </h2>
+              <ol className="mt-8 space-y-4">
+                {residenceFlow.map((s, i) => (
+                  <li key={s.title} className="flex gap-4 rounded-2xl border border-border bg-card p-6">
+                    <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-primary text-sm font-bold text-primary-foreground">
+                      {i + 1}
+                    </span>
+                    <div>
+                      <h3 className="text-lg font-semibold text-foreground">{s.title}</h3>
+                      <p className="mt-1 text-sm leading-relaxed text-muted-foreground">{s.description}</p>
+                    </div>
+                  </li>
+                ))}
+              </ol>
+            </div>
+          </div>
+        </section>
+
+        {/* 관할 출입국 안내 */}
+        <section className="section" id="residence-office">
+          <div className="container-x">
+            <div className="measure">
+              <h2 className="text-2xl font-bold text-foreground md:text-3xl">
+                어느 출입국에 신고하나요 — 관할 안내
+              </h2>
+              <p className="mt-6 text-lg leading-relaxed text-muted-foreground">
+                거소신고는 체류지, 즉 실제로 사는 곳을 관할하는 출입국·외국인청(사무소·출장소)에 합니다.
+                아무 관서에서나 받는 것이 아니라 주소로 관할이 정해지므로, 숙소를 먼저 정한 뒤 관할 관서를 확인하세요.
+              </p>
+              <ul className="mt-6 space-y-3 text-muted-foreground">
+                <li className="flex items-start gap-3">
+                  <CheckCircle className="mt-1 h-5 w-5 shrink-0 text-primary" />
+                  <span>같은 시 안에서도 구·군에 따라 관할이 나뉩니다. 서울만 해도 서울출입국·외국인청과 서울남부출입국·외국인사무소 등으로 나뉩니다.</span>
+                </li>
+                <li className="flex items-start gap-3">
+                  <CheckCircle className="mt-1 h-5 w-5 shrink-0 text-primary" />
+                  <span>관할이 헷갈리면 외국인종합안내센터(국번 없이 1345)에 체류지 주소를 알려 확인한 뒤, 그 관서로 하이코리아 방문 예약을 합니다.</span>
+                </li>
+                <li className="flex items-start gap-3">
+                  <CheckCircle className="mt-1 h-5 w-5 shrink-0 text-primary" />
+                  <span>잠시 머무는 곳과 실제로 살 곳이 다르면, 체류지 입증서류에 적힌 실제 거주지를 기준으로 준비합니다.</span>
+                </li>
+              </ul>
             </div>
           </div>
         </section>

@@ -5,12 +5,25 @@ import { Footer } from "@/components/footer"
 import { PageHero } from "@/components/page-hero"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { getAllPosts } from "@/lib/blog"
-import { BlogPagedList, type BlogListItem } from "@/components/blog-paged-list"
+import { BlogPagedList, PAGE_SIZE, blogPageHref, type BlogListItem } from "@/components/blog-paged-list"
+import { notFound } from "next/navigation"
 import { withOgDefaults } from "@/lib/og"
 
 export const revalidate = 60
 
-export const metadata: Metadata = withOgDefaults({
+type Props = { searchParams: Promise<{ page?: string | string[] }> }
+
+/** ?page 값 → 쪽 번호. 없으면 1, 숫자가 아니거나(“2a”·“01”) 범위 밖이면 null(=404). */
+async function resolvePage(searchParams: Props["searchParams"]): Promise<{ page: number; totalPages: number } | null> {
+  const raw = (await searchParams).page
+  const totalPages = Math.max(1, Math.ceil((await getAllPosts()).length / PAGE_SIZE))
+  if (raw === undefined) return { page: 1, totalPages }
+  if (typeof raw !== "string" || !/^[1-9]\d*$/.test(raw)) return null
+  const page = Number(raw)
+  return page <= totalPages ? { page, totalPages } : null
+}
+
+const baseMetadata: Metadata = withOgDefaults({
   title: "블로그 — F-4 비자·거소증·국적 실무 가이드",
   description: "F-4 재외동포 비자 신청 자격과 서류, 거소증 발급과 갱신, 국적상실·국적회복, F-5 영주권 전환까지 재외동포 행정 실무를 사례 중심으로 정리한 가이드 모음입니다.",
   alternates: { canonical: `${SITE.url}/blog` },
@@ -28,8 +41,23 @@ export const metadata: Metadata = withOgDefaults({
   },
 })
 
-export default async function BlogPage() {
-  const all = await getAllPosts()
+// F4-QA1102-FIX 2: 각 쪽의 canonical 은 자기 주소(1쪽=/blog, N쪽=/blog?page=N), 2쪽부터는 제목에 쪽 번호.
+export async function generateMetadata({ searchParams }: Props): Promise<Metadata> {
+  const r = await resolvePage(searchParams)
+  if (!r || r.page === 1) return baseMetadata
+  const url = `${SITE.url}${blogPageHref(r.page)}`
+  return {
+    ...baseMetadata,
+    title: `블로그 ${r.page}쪽 — F-4 비자·거소증·국적 실무 가이드`,
+    alternates: { canonical: url },
+    openGraph: { ...baseMetadata.openGraph, url },
+  }
+}
+
+export default async function BlogPage({ searchParams }: Props) {
+  const r = await resolvePage(searchParams)
+  if (!r) notFound()
+  const all = (await getAllPosts()).slice((r.page - 1) * PAGE_SIZE, r.page * PAGE_SIZE)
   const posts: BlogListItem[] = all.map((p) => ({
     slug: p.slug,
     title: p.title,
@@ -51,7 +79,7 @@ export default async function BlogPage() {
 
         <section className="section">
           <div className="container-x">
-            <BlogPagedList posts={posts} />
+            <BlogPagedList posts={posts} page={r.page} totalPages={r.totalPages} />
           </div>
         </section>
       </main>

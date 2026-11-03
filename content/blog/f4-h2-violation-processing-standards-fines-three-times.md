@@ -3,7 +3,7 @@ title: "방문취업(H-2) 동포가 법을 위반하면? 범칙금 500만 원·7
 date: "2026-10-19"
 category: "재외동포"
 excerpt: "방문취업(H-2) 자격자의 법 위반 시 처리기준(초범 범칙금 500만 원, 재범 최근 3년 합산 700만 원, 3회 이상 처분), 취업 목적 외 취업활동의 범칙금, 결핵 진단자 연장 처리를 정리했습니다."
-image: "/og/f4-h2-violation-processing-standards-fines-three-times.png"
+image: "/og/f4-h2-violation-processing-standards-fines-three-times-r1103.png"
 slug: "f4-h2-violation-processing-standards-fines-three-times"
 ---
 # 방문취업(H-2) 동포가 법을 위반하면? 범칙금 500만 원·700만 원 기준과 3회 이상 처분 시 출국조치

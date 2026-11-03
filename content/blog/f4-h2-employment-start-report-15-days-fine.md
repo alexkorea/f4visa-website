@@ -3,7 +3,7 @@ title: "방문취업(H-2) 동포의 취업개시 신고, 15일 이내 신고와 
 date: "2026-10-16"
 category: "재외동포"
 excerpt: "H-2 소지 동포가 허용업종에 처음 취업하거나 근무처를 바꿀 때 15일 이내에 해야 하는 취업개시·근무처변경 신고의 방법, 첨부서류, 위반 시 100만 원 이하 과태료를 정리했습니다."
-image: "/og/f4-h2-employment-start-report-15-days-fine.png"
+image: "/og/f4-h2-employment-start-report-15-days-fine-r1103.png"
 slug: "f4-h2-employment-start-report-15-days-fine"
 ---
 # 방문취업(H-2) 동포의 취업개시 신고, 15일 이내 신고와 위반 시 과태료는 어떻게 되나요?

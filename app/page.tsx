@@ -142,9 +142,10 @@ export default function HomePage() {
                 {SITE.trustLine}
               </p>
             </div>
-            {/* 좁은 화면은 제목 위 144px 썸네일 — 큰 사진이 모바일 LCP 가 되면 랩 LCP 가 늦어진다(components/page-hero.tsx 와 같은 규칙) */}
-            <div className="order-first mb-6 w-36 overflow-hidden rounded-xl shadow-sm lg:order-last lg:mb-0 lg:w-auto lg:rounded-2xl">
-              <SitePhoto slot="home-hero" hero sizes="(min-width: 1024px) 520px, 144px" />
+            {/* F4-QA1102-FIX 6(맥6 보스눈 11-02, 4회 지적): 좁은 화면도 제목 위 전체 폭 사진. 예전 144px 썸네일은 LCP 때문이었다(BEYE-1007) —
+                사진은 eager·fetchpriority=high 그대로, 폭에 맞는 파일 하나(390 화면 DPR3 → 1280)만 받는다. 하위 페이지(page-hero)는 썸네일 유지. */}
+            <div className="order-first mb-6 w-full overflow-hidden rounded-xl shadow-sm lg:order-last lg:mb-0 lg:w-auto lg:rounded-2xl">
+              <SitePhoto slot="home-hero" hero mobileFull sizes="(min-width: 1024px) 520px, calc(100vw - 32px)" />
             </div>
           </div>
         </section>

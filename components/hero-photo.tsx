@@ -8,11 +8,14 @@ export function SitePhoto({
   slot,
   sizes,
   hero = false,
+  mobileFull = false,
   className = "",
 }: {
   slot: keyof typeof PHOTOS | string
   sizes: string
   hero?: boolean
+  /** F4-QA1102-FIX 6(보스눈): 좁은 화면에서도 썸네일이 아니라 화면 폭 사진 — 폭(w) 기술자 + sizes 로 받는다. */
+  mobileFull?: boolean
   className?: string
 }) {
   const p = PHOTOS[slot]
@@ -25,10 +28,14 @@ export function SitePhoto({
     // 홈 RSC 를 링크 프리페치할 때 미리받기 힌트까지 실려 모든 페이지가 홈 사진을 High 로 받았다(BEYE-1007 실측).
     return (
       <picture>
-        <source media="(max-width: 1023px)" srcSet={`${p.base}-320.webp 1x, ${p.base}-640.webp 2x, ${p.base}-1280.webp 3x`} />
+        {mobileFull ? (
+          <source media="(max-width: 1023px)" srcSet={p.widths.filter((x) => x <= 1280).map((x) => `${p.base}-${x}.webp ${x}w`).join(", ")} sizes="calc(100vw - 32px)" />
+        ) : (
+          <source media="(max-width: 1023px)" srcSet={`${p.base}-320.webp 1x, ${p.base}-640.webp 2x, ${p.base}-1280.webp 3x`} />
+        )}
         <source media="(min-width: 1024px)" srcSet={photoSrcSet(p)} sizes={sizes} />
         <img
-          src={`${p.base}-320.webp`}
+          src={`${p.base}-${mobileFull ? 640 : 320}.webp`}
           width={w}
           height={Math.round(w / 1.6)}
           alt={p.alt}

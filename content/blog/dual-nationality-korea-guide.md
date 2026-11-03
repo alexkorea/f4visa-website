@@ -76,7 +76,7 @@ pillar: "dual-nationality-korea-guide"
 국적 이탈은 선천적 복수국적자가 정해진 절차에 따라 스스로 한국 국적을 벗어나겠다고 신고하는 것으로, 이중국적을 유지할지 국적을 이탈할지는 본인의 선택에 달려 있습니다.
 
 국적 상실 후 이중국적 회복을 시도하려면 국적회복 절차를 거쳐야 하며, 이때도 앞서 설명한 고령자·우수인재 등 예외 요건에 해당해야 외국 국적 포기 없이 회복이 가능합니다.
-국적 상실과 국적이탈, 이중국적 허용 여부를 종합적으로 비교한 내용은 [복수국적 허용 조건과 국적이탈·국적상실 비교](/blog/dual-citizenship-permission-criteria-renunciation-vs-loss) 글과 [한국 국적 상실 가이드](/blog/korean-nationality-loss-guide) 글에서 확인하시기 바랍니다.
+국적 상실과 국적이탈, 이중국적 허용 여부를 종합적으로 비교한 내용은 [복수국적 허용 조건과 국적이탈·국적상실 비교](/blog/dual-citizenship-korea-eligibility-renunciation-loss) 글과 [한국 국적 상실 가이드](/blog/korean-nationality-loss-guide) 글에서 확인하시기 바랍니다.
 
 ## 7. 이중국적 허용 여부 판단 체크리스트
 
@@ -123,7 +123,7 @@ A. 국적이탈은 본인이 절차를 밟아 스스로 국적을 벗어나는 �
 
 - [재외동포 복수국적 허용 대상과 조건 총정리](/blog/overseas-korean-dual-nationality-eligibility)
 - [재외동포 국적선택 기한과 절차 완벽 가이드](/blog/nationality-selection-deadline-procedure)
-- [복수국적 허용 조건 총정리 — 국적이탈과 국적상실은 여기서 갈립니다](/blog/dual-citizenship-permission-criteria-renunciation-vs-loss)
+- [복수국적 허용 조건 총정리 — 국적이탈과 국적상실은 여기서 갈립니다](/blog/dual-citizenship-korea-eligibility-renunciation-loss)
 - [한국 국적 상실 가이드](/blog/korean-nationality-loss-guide)
 - [국적회복 허가 신청 절차](/blog/nationality-recovery)
 

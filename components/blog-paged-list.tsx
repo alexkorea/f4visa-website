@@ -1,6 +1,3 @@
-"use client"
-
-import { useEffect, useState } from "react"
 import Link from "next/link"
 import Image from "next/image"
 import { Calendar, Tag } from "lucide-react"
@@ -14,7 +11,11 @@ export type BlogListItem = {
   excerpt: string
 }
 
-const PAGE_SIZE = 16
+// F4-QA1102-FIX 2: 쪽 나누기를 서버에서 한다(?page=N 을 app/blog/page.tsx 가 읽어 그 쪽 글만 넘긴다).
+// 예전엔 클라이언트가 첫 쪽을 그린 뒤 ?page 를 읽어 바꿔서, 크롤러·첫 화면에는 늘 1쪽만 보였고 canonical 도 모두 /blog 였다.
+export const PAGE_SIZE = 16
+
+export const blogPageHref = (n: number) => (n <= 1 ? "/blog" : `/blog?page=${n}`)
 
 function buildPageList(current: number, total: number): (number | "...")[] {
   const want = new Set<number>([1, total, current, current - 1, current + 1])
@@ -29,34 +30,14 @@ function buildPageList(current: number, total: number): (number | "...")[] {
   return res
 }
 
-export function BlogPagedList({ posts }: { posts: BlogListItem[] }) {
-  const total = posts.length
-  const totalPages = Math.max(1, Math.ceil(total / PAGE_SIZE))
-  const [page, setPage] = useState(1)
-
-  // 최초 마운트 시 URL ?page= 반영 (정적 페이지 유지 + 공유 가능)
-  useEffect(() => {
-    const sp = new URLSearchParams(window.location.search)
-    const raw = parseInt(sp.get("page") ?? "1", 10)
-    if (!Number.isNaN(raw)) setPage(Math.min(Math.max(raw, 1), totalPages))
-  }, [totalPages])
-
-  function goTo(n: number) {
-    const next = Math.min(Math.max(n, 1), totalPages)
-    setPage(next)
-    const url = next === 1 ? "/blog" : `/blog?page=${next}`
-    window.history.replaceState(null, "", url)
-    window.scrollTo({ top: 0, behavior: "smooth" })
-  }
-
-  const start = (page - 1) * PAGE_SIZE
-  const pageItems = posts.slice(start, start + PAGE_SIZE)
+export function BlogPagedList({ posts, page, totalPages }: { posts: BlogListItem[]; page: number; totalPages: number }) {
+  const pageItems = posts
   const pageList = buildPageList(page, totalPages)
 
   const pageLinkBase =
     "inline-flex h-11 min-w-[2.75rem] items-center justify-center rounded-lg border border-border px-3 text-sm font-medium transition-colors hover:border-primary hover:text-primary"
 
-  if (total === 0) {
+  if (pageItems.length === 0) {
     return <p className="text-center text-muted-foreground">아직 게시글이 없습니다.</p>
   }
 
@@ -96,9 +77,11 @@ export function BlogPagedList({ posts }: { posts: BlogListItem[] }) {
 
       {totalPages > 1 && (
         <nav className="mt-12 flex flex-wrap items-center justify-center gap-2" aria-label="블로그 페이지 목록">
-          <button type="button" onClick={() => goTo(page - 1)} disabled={page === 1} className={`${pageLinkBase} disabled:opacity-40 disabled:cursor-not-allowed`}>
-            이전
-          </button>
+          {page > 1 ? (
+            <Link href={blogPageHref(page - 1)} rel="prev" className={pageLinkBase}>이전</Link>
+          ) : (
+            <span aria-disabled="true" className={`${pageLinkBase} opacity-40`}>이전</span>
+          )}
           {pageList.map((n, i) =>
             n === "..." ? (
               <span key={`e${i}`} className="px-2 text-muted-foreground">
@@ -109,14 +92,16 @@ export function BlogPagedList({ posts }: { posts: BlogListItem[] }) {
                 {n}
               </span>
             ) : (
-              <button key={n} type="button" onClick={() => goTo(n)} className={pageLinkBase}>
+              <Link key={n} href={blogPageHref(n)} className={pageLinkBase}>
                 {n}
-              </button>
+              </Link>
             )
           )}
-          <button type="button" onClick={() => goTo(page + 1)} disabled={page === totalPages} className={`${pageLinkBase} disabled:opacity-40 disabled:cursor-not-allowed`}>
-            다음
-          </button>
+          {page < totalPages ? (
+            <Link href={blogPageHref(page + 1)} rel="next" className={pageLinkBase}>다음</Link>
+          ) : (
+            <span aria-disabled="true" className={`${pageLinkBase} opacity-40`}>다음</span>
+          )}
         </nav>
       )}
     </>

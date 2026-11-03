@@ -127,7 +127,6 @@ F-4 비자로 취업을 준비할 때 실무에서 자주 발생하는 실수는
 
 - [F-4 비자 취업 가능 직종 총정리](/blog/f4-visa-eligible-jobs): 취업 가능 직종을 더 폭넓게 다룬 종합 안내
 - [일본 거주 재외동포의 F-4 취업활동 범위](/blog/f4-visa-japan-employment-scope): 거주국별로 달라지는 실무 쟁점 안내
-- [F-4 비자로 허용되는 세부 직종 안내](/blog/f4-visa-employment-permitted-jobs): 허용 직종을 세부 업종별로 정리한 글
 
 ## 자주 묻는 질문
 

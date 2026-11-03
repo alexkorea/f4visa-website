@@ -3,7 +3,7 @@ title: "기존 방문취업(H-2) 소지 동포의 외국인등록과 체류기�
 date: "2026-10-17"
 category: "재외동포"
 excerpt: "2026년 2월 12일 이전 H-2 사증으로 입국한 동포의 외국인등록 기한(90일), 제출서류, 한국어능력 입증 시 체류기간 3년·미제출 시 1년, 고용부 확인서에 따른 연장 한도를 정리했습니다."
-image: "/og/f4-h2-existing-holders-registration-stay-period-extension-limits.png"
+image: "/og/f4-h2-existing-holders-registration-stay-period-extension-limits-r1103.png"
 slug: "f4-h2-existing-holders-registration-stay-period-extension-limits"
 ---
 # 기존 방문취업(H-2) 소지 동포의 외국인등록과 체류기간, 3년 부여 조건과 연장 한도는?

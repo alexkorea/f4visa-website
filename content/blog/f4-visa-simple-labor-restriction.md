@@ -255,7 +255,7 @@ F-4 소지자가 단순노무 사업장에 등록된 경우 선별 조사 대상
 ## 관련 글
 
 - [F-4 비자 취업 허용 직종과 업종 제한 — 2026년 실무 기준](/blog/f4-visa-employment-occupations)
-- [F-4 비자 소지자 사업자등록 가능 여부와 절차](/blog/f4-visa-business-registration)
+- [F-4 비자 소지자 사업자등록 가능 여부와 절차](/blog/f4-visa-business-registration-procedure)
 - [F-4 재외동포 비자 완벽 가이드 — 자격·신청·갱신](/blog/f4-visa-guide)
 
 ---

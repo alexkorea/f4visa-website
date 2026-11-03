@@ -220,4 +220,4 @@ A. 신고인이 미성년자인 경우 법정대리인이 대리해 진행하는
 - [이중국적 허용 기준 — 한국 이중국적 가능한 경우와 불가능한 경우](/blog/dual-nationality-korea-guide)
 - [국적회복 신청 — 과거 한국 국적자의 국적 회복 절차 완전 가이드](/blog/korean-nationality-recovery-guide)
 - [국적상실 신고 방법 — 외국 국적 취득 후 한국 국적 처리 가이드](/blog/korean-nationality-loss-guide)
-- [복수국적 허용 조건과 국적이탈 vs 국적상실 차이 완벽 정리](/blog/dual-nationality-conditions-vs-nationality-loss-renunciation)
+- [복수국적 허용 조건과 국적이탈 vs 국적상실 차이 완벽 정리](/blog/dual-citizenship-korea-eligibility-renunciation-loss)

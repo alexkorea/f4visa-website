@@ -4,19 +4,22 @@ import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { PageHero } from "@/components/page-hero"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
-import { getAllPosts } from "@/lib/blog"
+// 워커에는 content/blog 가 없다 — 목록은 prebuild 의 scripts/blog-list-index.mjs 가 만든 색인에서 읽는다.
+import blogList from "@/lib/blog-list.generated.json"
 import { BlogPagedList, PAGE_SIZE, blogPageHref, type BlogListItem } from "@/components/blog-paged-list"
 import { notFound } from "next/navigation"
 import { withOgDefaults } from "@/lib/og"
 
 export const revalidate = 60
 
+const ALL = blogList as BlogListItem[]
+
 type Props = { searchParams: Promise<{ page?: string | string[] }> }
 
 /** ?page 값 → 쪽 번호. 없으면 1, 숫자가 아니거나(“2a”·“01”) 범위 밖이면 null(=404). */
 async function resolvePage(searchParams: Props["searchParams"]): Promise<{ page: number; totalPages: number } | null> {
   const raw = (await searchParams).page
-  const totalPages = Math.max(1, Math.ceil((await getAllPosts()).length / PAGE_SIZE))
+  const totalPages = Math.max(1, Math.ceil(ALL.length / PAGE_SIZE))
   if (raw === undefined) return { page: 1, totalPages }
   if (typeof raw !== "string" || !/^[1-9]\d*$/.test(raw)) return null
   const page = Number(raw)
@@ -57,15 +60,7 @@ export async function generateMetadata({ searchParams }: Props): Promise<Metadat
 export default async function BlogPage({ searchParams }: Props) {
   const r = await resolvePage(searchParams)
   if (!r) notFound()
-  const all = (await getAllPosts()).slice((r.page - 1) * PAGE_SIZE, r.page * PAGE_SIZE)
-  const posts: BlogListItem[] = all.map((p) => ({
-    slug: p.slug,
-    title: p.title,
-    category: p.category ?? "",
-    image: p.image ?? "/slides/documents.jpg",
-    date: p.date ?? "",
-    excerpt: p.excerpt ?? "",
-  }))
+  const posts = ALL.slice((r.page - 1) * PAGE_SIZE, r.page * PAGE_SIZE)
 
   return (
     <div className="flex min-h-screen flex-col">

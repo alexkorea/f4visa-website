@@ -105,7 +105,7 @@ slug: "f4-tuberculosis-certificate-high-risk-countries-extension-status-change"
 ## 관련 안내
 
 - [한국에서 재외동포(F-4)로 자격변경하는 조건](https://www.f4visa.net/blog/f4-status-change-in-korea-document-conditions-cis-past-compatriot-visa)
-- [F-4 체류기간 연장](https://www.f4visa.net/blog/f4-visa-renewal-extension-guide)
+- [F-4 체류기간 연장](https://www.f4visa.net/blog/f4-visa-renewal-procedure)
 - [F-4 장기 출국 유의사항과 재입국](https://www.f4visa.net/blog/f4-long-departure-reentry-rules)
 
 ## 상담 안내

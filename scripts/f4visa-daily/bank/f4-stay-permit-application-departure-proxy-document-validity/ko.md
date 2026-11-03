@@ -102,7 +102,7 @@ keywords:
 
 ## 관련 안내
 
-- [F-4 체류기간 연장](https://www.f4visa.net/blog/f4-visa-renewal-extension-guide)
+- [F-4 체류기간 연장](https://www.f4visa.net/blog/f4-visa-renewal-procedure)
 - [F-4 장기 출국 유의사항과 재입국](https://www.f4visa.net/blog/f4-long-departure-reentry-rules)
 - [F-4 해외 범죄경력증명서 아포스티유](https://www.f4visa.net/blog/f4-fbi-background-check-apostille)
 - [F-4 거소증(국내거소신고증) 안내](https://www.f4visa.net/f4-visa-resident-card)

@@ -113,7 +113,7 @@ keywords:
 
 - [지역특화형 재외동포비자(F-4-R) 거주 조건과 취업 지역](https://www.f4visa.net/blog/f4-r-regional-specialized-overseas-korean-visa)
 - [방문취업(H-2)에서 F-4로 바꾼 뒤 예전 사업장에서 일하기](https://www.f4visa.net/blog/f4-visa-h2-former-workplace-outside-status-activity-permit)
-- [F-4 체류기간 연장](https://www.f4visa.net/blog/f4-visa-renewal-extension-guide)
+- [F-4 체류기간 연장](https://www.f4visa.net/blog/f4-visa-renewal-procedure)
 
 ## 상담 안내
 

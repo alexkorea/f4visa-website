@@ -106,7 +106,7 @@ keywords:
 
 - [F-4 한국어능력 입증서류 기준](https://www.f4visa.net/blog/f4-visa-korean-language-proof-documents)
 - [F-4 조기적응프로그램 이수 기준](https://www.f4visa.net/blog/f4-early-adaptation-program-requirement)
-- [F-4 체류기간 연장](https://www.f4visa.net/blog/f4-visa-renewal-extension-guide)
+- [F-4 체류기간 연장](https://www.f4visa.net/blog/f4-visa-renewal-procedure)
 
 ## 상담 안내
 

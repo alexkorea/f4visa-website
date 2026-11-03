@@ -123,7 +123,7 @@ keywords:
 ## 관련 안내
 
 - [지역특화형 재외동포비자(F-4-R)](https://www.f4visa.net/blog/f4-r-regional-specialized-overseas-korean-visa)
-- [F-4 체류기간 연장](https://www.f4visa.net/blog/f4-visa-renewal-extension-guide)
+- [F-4 체류기간 연장](https://www.f4visa.net/blog/f4-visa-renewal-procedure)
 - [F-4 재외동포 비자 유형](https://www.f4visa.net/f4-visa-types)
 
 ## 상담 안내

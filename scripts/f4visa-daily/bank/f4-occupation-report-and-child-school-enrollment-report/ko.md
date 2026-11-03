@@ -93,7 +93,7 @@ keywords:
 
 - [F-4 거소증(국내거소신고증) 안내](https://www.f4visa.net/f4-visa-resident-card)
 - [F-4 자녀 국내 초·중·고 입학](https://www.f4visa.net/blog/f4-visa-children-school-enrollment)
-- [F-4 체류기간 연장](https://www.f4visa.net/blog/f4-visa-renewal-extension-guide)
+- [F-4 체류기간 연장](https://www.f4visa.net/blog/f4-visa-renewal-procedure)
 
 ## 상담 안내
 

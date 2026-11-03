@@ -29,7 +29,9 @@ export function SitePhoto({
     return (
       <picture>
         {mobileFull ? (
-          <source media="(max-width: 1023px)" srcSet={p.widths.filter((x) => x <= 1280).map((x) => `${p.base}-${x}.webp ${x}w`).join(", ")} sizes="calc(100vw - 32px)" />
+          // F4-QA1102-FIX-2 C3: 모바일 홈 LCP(사진)가 960w(38KB)일 때 랩 3.6s — 임계 폰트 preload(92KB)와 대역을 나눈다.
+          // 좁은 화면은 화면 배율과 무관하게 -640(18KB) 한 장만 받는다(358px 표시 → 1.8배 밀도).
+          <source media="(max-width: 1023px)" srcSet={`${p.base}-640.webp`} />
         ) : (
           <source media="(max-width: 1023px)" srcSet={`${p.base}-320.webp 1x, ${p.base}-640.webp 2x, ${p.base}-1280.webp 3x`} />
         )}

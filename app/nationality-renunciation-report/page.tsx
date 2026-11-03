@@ -4,9 +4,10 @@ import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { PageHero } from "@/components/page-hero"
 import { SITE } from "@/lib/site"
+import { RecoTop, RecoBottom, RecoJsonLd, recoFaqItems } from "@/components/reco-block"
+import { RECO_PILLARS } from "@/lib/reco/pillars"
 import { Faq, type FaqItem } from "@/components/faq"
 import { CtaSection } from "@/components/cta-section"
-import { ServiceJsonLd } from "@/components/structured-data"
 import { RelatedBlogLinks } from "@/components/related-blog-links"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import {
@@ -20,14 +21,14 @@ import {
 import { withOgDefaults } from "@/lib/og"
 
 export const metadata: Metadata = withOgDefaults({
-  title: "국적이탈 신고 — 절차·기한·필수 서류",
+  title: "국적이탈 신고 대행 — 절차·기한·필수 서류",
   description:
     "복수국적자의 국적이탈 신고 기한과 절차, 재외공관 제출 서류를 정리했습니다. 병역 관련 기한을 놓쳤을 때의 제한과 확인해야 할 사항을 행정사가 안내합니다.",
   alternates: {
     canonical: "https://www.f4visa.net/nationality-renunciation-report",
   },
   openGraph: {
-    title: "국적이탈 신고 — 절차·기한·필수 서류 | 행정사사무소 이룸",
+    title: "국적이탈 신고 대행 — 절차·기한·필수 서류 | 행정사사무소 이룸",
     description: "복수국적자의 국적이탈 신고 기한과 절차, 재외공관 제출 서류를 정리했습니다. 병역 관련 기한을 놓쳤을 때의 제한과 확인해야 할 사항을 행정사가 안내합니다.",
     url: `${SITE.url}/nationality-renunciation-report`,
     siteName: SITE.name,
@@ -35,34 +36,24 @@ export const metadata: Metadata = withOgDefaults({
   },
   twitter: {
     card: "summary_large_image",
-    title: "국적이탈 신고 — 절차·기한·필수 서류 | 행정사사무소 이룸",
+    title: "국적이탈 신고 대행 — 절차·기한·필수 서류 | 행정사사무소 이룸",
     description: "복수국적자의 국적이탈 신고 기한과 절차, 재외공관 제출 서류를 정리했습니다. 병역 관련 기한을 놓쳤을 때의 제한과 확인해야 할 사항을 행정사가 안내합니다.",
   },
 })
 
 const faqs: FaqItem[] = [
-  {
-                  question: "국적이탈 신고를 하지 않으면?",
-                  answer: "신고하지 않으면 대한민국 국적자가 유지된 상태로 간주되며, 병역의무 발생, 출입국 제한, 외국 국적 활용에 제약 등의 불이익이 따를 수 있습니다.",
-                },
-                {
-                  question: "어디서 신고하나요?",
-                  answer: "반드시 재외공관에서 신청해야 합니다. 해외에 주소를 두고 거주하는 사람에 한해 해당 주소지 관할 재외공관(대사관/영사관)을 통해 신고할 수 있습니다.",
-                },
                 {
                   question: "처리 기간은?",
                   answer: "국적이탈 처리 후 가족관계부에 등록될 때까지 약 3개월 이상 소요됩니다. 서류 미비나 심사 상황에 따라 더 길어질 수 있습니다.",
                 },
 ]
 
+const RECO = RECO_PILLARS.renunciation
+
 export default function NationalityRenunciationReportPage() {
   return (
     <div className="flex min-h-screen flex-col">
-      <ServiceJsonLd
-        name="국적이탈 신고 대행"
-        description="복수국적자의 국적이탈 신고 절차, 병역의무 기한, 국적상실과의 차이점 안내. 행정사사무소 이룸이 전 과정을 대행합니다."
-        url={`${SITE.url}/nationality-renunciation-report`}
-      />
+      <RecoJsonLd p={RECO} description={"복수국적자의 국적이탈 신고 절차, 병역의무 기한, 국적상실과의 차이점 안내. 행정사사무소 이룸이 전 과정을 대행합니다."} />
       <Header />
       <main id="main" className="flex-1">
         <PageBreadcrumb items={[{ label: "국적이탈 신고", path: "/nationality-renunciation-report" }]} />
@@ -70,6 +61,8 @@ export default function NationalityRenunciationReportPage() {
           title="국적이탈신고 / 신고 절차 및 필수 서류"
           subtitle="복수국적자의 고민, 국적이탈 신고 절차 및 필수 서류 종합 안내"
         />
+
+        <RecoTop p={RECO} />
 
         {/* 국적이탈 신고란? */}
         <section className="py-8 md:py-12">
@@ -243,6 +236,8 @@ export default function NationalityRenunciationReportPage() {
           </div>
         </section>
 
+        <RecoBottom p={RECO} />
+
         <RelatedBlogLinks
           links={[
             { slug: "nationality-renunciation-korea", label: "국적이탈 신고 — 선천적 복수국적자 절차", note: "이탈 신고 요건과 접수 경로" },
@@ -251,7 +246,7 @@ export default function NationalityRenunciationReportPage() {
           ]}
         />
 
-        <Faq items={faqs} />
+        <Faq items={faqs} extraSchemaItems={recoFaqItems(RECO)} />
 
         <CtaSection
           title="전문 상담이 필요하신가요?"

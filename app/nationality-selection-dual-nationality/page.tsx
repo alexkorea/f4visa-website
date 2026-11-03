@@ -4,9 +4,10 @@ import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { PageHero } from "@/components/page-hero"
 import { SITE } from "@/lib/site"
+import { RecoTop, RecoBottom, RecoJsonLd, recoFaqItems } from "@/components/reco-block"
+import { RECO_PILLARS } from "@/lib/reco/pillars"
 import { Faq, type FaqItem } from "@/components/faq"
 import { CtaSection } from "@/components/cta-section"
-import { ServiceJsonLd } from "@/components/structured-data"
 import { RelatedBlogLinks } from "@/components/related-blog-links"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { AlertTriangle, ShieldCheck, Gavel, Clock } from "lucide-react"
@@ -42,20 +43,14 @@ const faqs: FaqItem[] = [
                   question: "복수국적자의 법적 지위는?",
                   answer: "국적법 요건을 충족하는 복수국적자는 대한민국 법령 적용에서 대한민국 국민으로만 처우됩니다. 다만 직무상 제한이 있는 분야는 외국 국적 포기가 요구될 수 있습니다.",
                 },
-                {
-                  question: "외국국적 불행사 서약 위반 시?",
-                  answer: "외국국적불행사 서약에 현저히 반하는 행위를 하면 법무부장관이 6개월 내 국적선택을 명할 수 있습니다.",
-                },
 ]
+
+const RECO = RECO_PILLARS.selection
 
 export default function NationalitySelectionDualNationalityPage() {
   return (
     <div className="flex min-h-screen flex-col">
-      <ServiceJsonLd
-        name="국적선택·복수국적 안내"
-        description="복수국적자의 법적 처우, 직무상 제한, 국적선택 기한, 불행사서약 위반 시 국적선택 명령 안내. 행정사사무소 이룸 전문 상담."
-        url={`${SITE.url}/nationality-selection-dual-nationality`}
-      />
+      <RecoJsonLd p={RECO} description={"복수국적자의 법적 처우, 직무상 제한, 국적선택 기한, 불행사서약 위반 시 국적선택 명령 안내. 행정사사무소 이룸 전문 상담."} />
       <Header />
       <main id="main" className="flex-1">
         <PageBreadcrumb items={[{ label: "국적선택과 이중국적", path: "/nationality-selection-dual-nationality" }]} />
@@ -63,6 +58,8 @@ export default function NationalitySelectionDualNationalityPage() {
           title="국적선택과 이중국적 / 복수국적자 종합가이드"
           subtitle="복수국적자의 법적 지위, 국적선택 기한, 불행사 서약 위반 사례까지 한눈에 정리"
         />
+
+        <RecoTop p={RECO} />
 
         {/* 복수국적자의 법적 처우 */}
         <section className="py-8 md:py-12">
@@ -237,6 +234,8 @@ export default function NationalitySelectionDualNationalityPage() {
           </div>
         </section>
 
+        <RecoBottom p={RECO} />
+
         <RelatedBlogLinks
           links={[
             { slug: "nationality-selection-deadline-procedure", label: "재외동포 국적선택 기한과 절차", note: "국적선택 기한과 신고 경로" },
@@ -245,7 +244,7 @@ export default function NationalitySelectionDualNationalityPage() {
           ]}
         />
 
-        <Faq items={faqs} />
+        <Faq items={faqs} extraSchemaItems={recoFaqItems(RECO)} />
 
         <CtaSection
           title="전문 상담이 필요하신가요?"

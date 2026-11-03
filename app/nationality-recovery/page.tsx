@@ -4,21 +4,22 @@ import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { PageHero } from "@/components/page-hero"
 import { SITE } from "@/lib/site"
+import { RecoTop, RecoBottom, RecoJsonLd, recoFaqItems } from "@/components/reco-block"
+import { RECO_PILLARS } from "@/lib/reco/pillars"
 import { Faq, type FaqItem } from "@/components/faq"
 import { CtaSection } from "@/components/cta-section"
-import { ServiceJsonLd } from "@/components/structured-data"
 import { RelatedBlogLinks } from "@/components/related-blog-links"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { FileText, Building2, Scale, Award, ShieldCheck } from "lucide-react"
 import { withOgDefaults } from "@/lib/og"
 
 export const metadata: Metadata = withOgDefaults({
-  title: "국적회복 — 신청 자격·절차·65세 이상 특례",
+  title: "국적회복 신청 대행 — 자격·절차·65세 이상 특례",
   description:
     "과거 대한민국 국민이었던 분의 국적회복 허가 신청 자격과 절차, 필요 서류, 65세 이상 복수국적 허용 특례를 정리했습니다. 심사 기간과 준비 순서를 행정사가 안내합니다.",
   alternates: { canonical: `${SITE.url}/nationality-recovery` },
   openGraph: {
-    title: "국적회복 — 신청 자격·절차·65세 이상 특례 | 행정사사무소 이룸",
+    title: "국적회복 신청 대행 — 자격·절차·65세 이상 특례 | 행정사사무소 이룸",
     description: "과거 대한민국 국민이었던 분의 국적회복 허가 신청 자격과 절차, 필요 서류, 65세 이상 복수국적 허용 특례를 정리했습니다. 심사 기간과 준비 순서를 행정사가 안내합니다.",
     url: `${SITE.url}/nationality-recovery`,
     siteName: SITE.name,
@@ -26,24 +27,15 @@ export const metadata: Metadata = withOgDefaults({
   },
   twitter: {
     card: "summary_large_image",
-    title: "국적회복 — 신청 자격·절차·65세 이상 특례 | 행정사사무소 이룸",
+    title: "국적회복 신청 대행 — 자격·절차·65세 이상 특례 | 행정사사무소 이룸",
     description: "과거 대한민국 국민이었던 분의 국적회복 허가 신청 자격과 절차, 필요 서류, 65세 이상 복수국적 허용 특례를 정리했습니다. 심사 기간과 준비 순서를 행정사가 안내합니다.",
   },
 })
 
 const faqs: FaqItem[] = [
   {
-    question: "65세 이후 국적을 회복하면 미국 국적을 유지할 수 있나요?",
-    answer:
-      "외국에서 거주하다가 영주할 목적으로 만 65세 이후에 입국해 국적회복허가를 받은 사람은, 국적을 취득한 날부터 1년 안에 외국 국적을 포기하는 대신 대한민국에서 외국 국적을 행사하지 않겠다는 서약을 할 수 있습니다. 1년 안에 포기나 서약 중 어느 것도 하지 않으면 그 기간이 지난 때 대한민국 국적을 상실합니다. 국적회복은 법무부장관의 허가 사항이고 품행 등 심사를 거칩니다. 한국 국적 회복 뒤 미국 국적이 어떻게 되는지는 미국 법에 따르므로 미국 당국에 확인해야 합니다.",
-  },
-  {
                   question: "외국국적 불행사 서약은 필수인가요?",
                   answer: "네, 복수국적 유지를 희망하는 경우 반드시 '외국국적 불행사 서약'을 해야 합니다. 이 서약을 하지 않으면 외국 국적을 포기해야 합니다.",
-                },
-                {
-                  question: "F-4 비자는 어떻게 되나요?",
-                  answer: "국적회복을 통해 대한민국 국적을 취득하게 되면 F-4 비자는 소멸되며, 주민등록을 하고 대한민국 여권을 발급받아 사용하게 됩니다.",
                 },
                 {
                   question: "서류 준비가 어렵다면?",
@@ -51,14 +43,12 @@ const faqs: FaqItem[] = [
                 },
 ]
 
+const RECO = RECO_PILLARS.recovery
+
 export default function NationalityRecoveryPage() {
   return (
     <div className="flex min-h-screen flex-col">
-      <ServiceJsonLd
-        name="국적회복 허가 신청 대행"
-        description="한국 국적회복 신청 자격, 65세 이상 복수국적 유지 특례, 필수 서류 및 절차 안내. 행정사사무소 이룸이 전 과정을 대행합니다."
-        url={`${SITE.url}/nationality-recovery`}
-      />
+      <RecoJsonLd p={RECO} description={"한국 국적회복 신청 자격, 65세 이상 복수국적 유지 특례, 필수 서류 및 절차 안내. 행정사사무소 이룸이 전 과정을 대행합니다."} />
       <Header />
       <main id="main" className="flex-1">
         <PageBreadcrumb items={[{ label: "국적회복", path: "/nationality-recovery" }]} />
@@ -67,6 +57,8 @@ export default function NationalityRecoveryPage() {
           subtitle="잃어버린 한국 국적을 되찾는 법 -- 복수국적 유지까지 가능한 국적회복 종합 안내"
           photo="d-recovery"
         />
+
+        <RecoTop p={RECO} />
 
         {/* 누가 신청할 수 있나요? */}
         <section className="py-8 md:py-12">
@@ -246,6 +238,8 @@ export default function NationalityRecoveryPage() {
           </div>
         </section>
 
+        <RecoBottom p={RECO} />
+
         <RelatedBlogLinks
           links={[
             { slug: "korean-nationality-recovery-guide", label: "국적회복 신청 절차 가이드", note: "국적회복 허가 흐름" },
@@ -254,7 +248,7 @@ export default function NationalityRecoveryPage() {
           ]}
         />
 
-        <Faq items={faqs} />
+        <Faq items={faqs} extraSchemaItems={recoFaqItems(RECO)} />
 
         <CtaSection
           title="전문 상담이 필요하신가요?"

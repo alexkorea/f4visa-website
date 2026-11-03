@@ -3,9 +3,10 @@ import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { PageHero } from "@/components/page-hero"
 import { SITE } from "@/lib/site"
+import { RecoTop, RecoBottom, RecoJsonLd, recoFaqItems } from "@/components/reco-block"
+import { RECO_PILLARS } from "@/lib/reco/pillars"
 import { Faq, type FaqItem } from "@/components/faq"
 import { CtaSection } from "@/components/cta-section"
-import { ServiceJsonLd } from "@/components/structured-data"
 import { RelatedBlogLinks } from "@/components/related-blog-links"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { Button } from "@/components/ui/button"
@@ -13,12 +14,12 @@ import { CalendarCheck, FileText, Building2, CheckCircle2 } from "lucide-react"
 import { withOgDefaults } from "@/lib/og"
 
 export const metadata = withOgDefaults({
-  title: "F-4 비자 연장 — 필요서류와 절차, 신청 시기",
+  title: "F-4 비자 연장 대행 — 필요서류와 절차, 신청 시기",
   description:
     "F-4 재외동포 비자 체류기간 연장의 신청 시기와 필요 서류, 관할 출입국·외국인청 접수 절차를 정리했습니다. 연장 지연 시 불이익과 준비 순서를 행정사가 안내합니다.",
   alternates: { canonical: `${SITE.url}/f4-visa-renewal` },
   openGraph: {
-    title: "F-4 비자 연장 — 필요서류와 절차, 신청 시기 | 행정사사무소 이룸",
+    title: "F-4 비자 연장 대행 — 필요서류와 절차, 신청 시기 | 행정사사무소 이룸",
     description: "F-4 재외동포 비자 체류기간 연장의 신청 시기와 필요 서류, 관할 출입국·외국인청 접수 절차를 정리했습니다. 연장 지연 시 불이익과 준비 순서를 행정사가 안내합니다.",
     url: `${SITE.url}/f4-visa-renewal`,
     siteName: SITE.name,
@@ -26,7 +27,7 @@ export const metadata = withOgDefaults({
   },
   twitter: {
     card: "summary_large_image" as const,
-    title: "F-4 비자 연장 — 필요서류와 절차, 신청 시기 | 행정사사무소 이룸",
+    title: "F-4 비자 연장 대행 — 필요서류와 절차, 신청 시기 | 행정사사무소 이룸",
     description: "F-4 재외동포 비자 체류기간 연장의 신청 시기와 필요 서류, 관할 출입국·외국인청 접수 절차를 정리했습니다. 연장 지연 시 불이익과 준비 순서를 행정사가 안내합니다.",
   },
 })
@@ -88,16 +89,6 @@ const faqs = [
       "체류기간이 만료되기 전에 체류기간 연장허가를 신청해야 합니다. 만료일이 지난 뒤에는 연장이 아니라 불법체류 상태가 되므로, 만료일을 기준으로 미리 준비하세요.",
   },
   {
-    question: "언제부터 신청 가능한가요?",
-    answer:
-      "체류 만료일 4개월 전부터 신청 가능합니다. 너무 늦게 신청하면 과태료가 발생할 수 있으므로 최소 1~2개월 전에 준비하는 것이 안전합니다.",
-  },
-  {
-    question: "방문 없이 온라인으로 가능한가요?",
-    answer:
-      "하이코리아(www.hikorea.go.kr)를 통한 온라인 신청도 가능합니다. 다만, 일부 서류 확인이 필요한 경우 직접 방문이 요구될 수 있습니다.",
-  },
-  {
     question: "세금 체납이 있으면 어떻게 되나요?",
     answer:
       "사업자등록이 있거나 소득이 있는 경우, 세금 체납 사실이 있으면 연장 심사에서 불이익을 받을 수 있으므로 반드시 납부를 완료해야 합니다.",
@@ -107,21 +98,14 @@ const faqs = [
     answer:
       "경미한 경우에는 심사에 따라 연장이 가능하지만, 중대한 범죄 기록이 있으면 거절될 수 있습니다.",
   },
-  {
-    question: "만료일을 넘기면?",
-    answer:
-      "만료일을 넘기면 불법체류 상태가 되며 과태료가 부과됩니다. 일정 기간이 지나면 강제 출국까지 될 수 있으니 반드시 만료 전에 연장 신청을 해야 합니다. 만료일을 넘긴 후 F-4를 재신청할 때는 처음 F-4 신청했던 모든 서류를 다시 제출해야 합니다. 범죄경력증명서도 다시 제출해야 합니다.",
-  },
 ]
+
+const RECO = RECO_PILLARS.f4Renewal
 
 export default function F4VisaRenewalPage() {
   return (
     <div className="flex min-h-screen flex-col">
-      <ServiceJsonLd
-        name="F-4 비자 연장 대행"
-        description="재외동포 F-4 비자 연장 절차, 필요서류, 신청 방법을 안내합니다. 체류 만료일 4개월 전부터 신청 가능합니다."
-        url={`${SITE.url}/f4-visa-renewal`}
-      />
+      <RecoJsonLd p={RECO} description={"재외동포 F-4 비자 연장 절차, 필요서류, 신청 방법을 안내합니다. 체류 만료일 4개월 전부터 신청 가능합니다."} />
       <Header />
       <main id="main" className="flex-1">
         <PageBreadcrumb items={[{ label: "F-4 비자 연장", path: "/f4-visa-renewal" }]} />
@@ -130,6 +114,8 @@ export default function F4VisaRenewalPage() {
           subtitle="안정적인 체류를 위한 필수 가이드"
           photo="d-renewal"
         />
+
+        <RecoTop p={RECO} />
 
         {/* Intro */}
         <section className="section">
@@ -234,6 +220,8 @@ export default function F4VisaRenewalPage() {
           </div>
         </section>
 
+        <RecoBottom p={RECO} />
+
         <RelatedBlogLinks
           links={[
             { slug: "f4-visa-domestic-renewal-guide", label: "F-4 체류기간 연장허가 신청 시기와 거부 사유 대응", note: "연장 신청 시기와 불허 사유별 준비" },
@@ -242,7 +230,7 @@ export default function F4VisaRenewalPage() {
           ]}
         />
 
-        <Faq items={faqs} />
+        <Faq items={faqs} extraSchemaItems={recoFaqItems(RECO)} />
 
         <CtaSection
           title="F-4 비자 연장, 전문가에게 맡기세요"

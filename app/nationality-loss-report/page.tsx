@@ -4,21 +4,22 @@ import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { PageHero } from "@/components/page-hero"
 import { SITE } from "@/lib/site"
+import { RecoTop, RecoBottom, RecoJsonLd, recoFaqItems } from "@/components/reco-block"
+import { RECO_PILLARS } from "@/lib/reco/pillars"
 import { Faq, type FaqItem } from "@/components/faq"
 import { CtaSection } from "@/components/cta-section"
-import { ServiceJsonLd } from "@/components/structured-data"
 import { RelatedBlogLinks } from "@/components/related-blog-links"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { FileText, Building2, ClipboardCheck, CheckCircle2 } from "lucide-react"
 import { withOgDefaults } from "@/lib/og"
 
 export const metadata: Metadata = withOgDefaults({
-  title: "국적상실 신고 — 절차·준비서류 총정리",
+  title: "국적상실 신고 대행 — 절차·준비서류 총정리",
   description:
     "외국 국적 취득으로 대한민국 국적을 상실한 경우의 신고 절차와 준비 서류, 신고를 미룰 때 생기는 문제를 정리했습니다. 재외공관·국내 접수 방법을 행정사가 안내합니다.",
   alternates: { canonical: `${SITE.url}/nationality-loss-report` },
   openGraph: {
-    title: "국적상실 신고 — 절차·준비서류 총정리 | 행정사사무소 이룸",
+    title: "국적상실 신고 대행 — 절차·준비서류 총정리 | 행정사사무소 이룸",
     description: "외국 국적 취득으로 대한민국 국적을 상실한 경우의 신고 절차와 준비 서류, 신고를 미룰 때 생기는 문제를 정리했습니다. 재외공관·국내 접수 방법을 행정사가 안내합니다.",
     url: `${SITE.url}/nationality-loss-report`,
     siteName: SITE.name,
@@ -26,7 +27,7 @@ export const metadata: Metadata = withOgDefaults({
   },
   twitter: {
     card: "summary_large_image",
-    title: "국적상실 신고 — 절차·준비서류 총정리 | 행정사사무소 이룸",
+    title: "국적상실 신고 대행 — 절차·준비서류 총정리 | 행정사사무소 이룸",
     description: "외국 국적 취득으로 대한민국 국적을 상실한 경우의 신고 절차와 준비 서류, 신고를 미룰 때 생기는 문제를 정리했습니다. 재외공관·국내 접수 방법을 행정사가 안내합니다.",
   },
 })
@@ -42,10 +43,6 @@ const faqs: FaqItem[] = [
                   answer: "일반적으로 3개월 이내 발급 원본을 권장합니다. 기관 안내 기준을 우선합니다.",
                 },
                 {
-                  question: "국적상실신고를 안 하면 어떤 불이익이 있나요?",
-                  answer: "외국 국적을 취득한 때 한국 국적은 이미 상실된 것으로 보지만, 국적상실자는 법무부장관에게 신고해야 합니다. 신고하지 않으면 가족관계 기록과 실제 국적이 맞지 않아 국내 행정·금융에서 기록 불일치로 불이익이 생길 수 있고, F-4 비자는 국적상실신고가 완료된 뒤에 신청할 수 있어 F-4 신청도 늦어집니다.",
-                },
-                {
                   question: "국적상실신고와 F-4 비자를 같이 진행할 수 있나요?",
                   answer: "국적상실신고가 처리된 뒤 F-4 비자를 신청하는 순서로 진행합니다. 이 페이지에서 안내하듯 F-4 신청 전에 국적상실신고가 완료되어 있어야 하므로 두 절차를 동시에 접수하기보다, 일정이 끊기지 않도록 연계해 진행합니다. 필요한 서류는 '필수 서류 체크리스트'와 F-4 비자 안내 페이지에서 함께 확인할 수 있습니다.",
                 },
@@ -55,14 +52,12 @@ const faqs: FaqItem[] = [
                 },
 ]
 
+const RECO = RECO_PILLARS.loss
+
 export default function NationalityLossReportPage() {
   return (
     <div className="flex min-h-screen flex-col">
-      <ServiceJsonLd
-        name="국적상실 신고 대행"
-        description="외국 국적 취득 시 한국 국적 상실 신고 절차, 필수 서류 안내. 행정사사무소 이룸이 국적상실 신고를 대행합니다."
-        url={`${SITE.url}/nationality-loss-report`}
-      />
+      <RecoJsonLd p={RECO} description={"외국 국적 취득 시 한국 국적 상실 신고 절차, 필수 서류 안내. 행정사사무소 이룸이 국적상실 신고를 대행합니다."} />
       <Header />
       <main id="main" className="flex-1">
         <PageBreadcrumb items={[{ label: "국적상실 신고", path: "/nationality-loss-report" }]} />
@@ -70,6 +65,8 @@ export default function NationalityLossReportPage() {
           title="국적상실 신고 절차와 준비서류 총정리"
           subtitle="재외동포 필독 가이드 -- 외국 국적 취득 후 반드시 필요한 국적상실 신고의 모든 것"
         />
+
+        <RecoTop p={RECO} />
 
         {/* 국적상실이란? */}
         <section className="py-8 md:py-12">
@@ -260,6 +257,8 @@ export default function NationalityLossReportPage() {
           </div>
         </section>
 
+        <RecoBottom p={RECO} />
+
         <RelatedBlogLinks
           links={[
             { slug: "korean-nationality-loss-guide", label: "국적상실 신고 방법 — 외국 국적 취득 후 처리", note: "외국 국적 취득 후 신고 절차" },
@@ -268,7 +267,7 @@ export default function NationalityLossReportPage() {
           ]}
         />
 
-        <Faq items={faqs} />
+        <Faq items={faqs} extraSchemaItems={recoFaqItems(RECO)} />
 
         <CtaSection
           title="전문 상담이 필요하신가요?"

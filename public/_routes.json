@@ -19,6 +19,7 @@
     "/*.webp",
     "/fonts/*",
     "/087a03956ec0a4e31c2f88cb4d5c9a8d.txt",
-    "/llms.txt"
+    "/llms.txt",
+    "/manifest.webmanifest"
   ]
 }

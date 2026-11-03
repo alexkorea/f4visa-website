@@ -15,7 +15,9 @@ export function OrganizationJsonLd() {
     alternateName: SITE.nameEn,
     legalName: SITE.name,
     url: SITE.url,
-    logo: `${SITE.url}/logo.png`,
+    // AI-RECO-1103 9절: 정사각 512 불투명(흰 바탕·여백) PNG + 대표 이미지
+    logo: { "@type": "ImageObject", url: `${SITE.url}/logo-512.png`, width: 512, height: 512 },
+    image: `${SITE.url}/og-image.png`,
     description: "F-4 재외동포 비자, 국내거소신고증, 국적상실·이탈·회복 신고를 지원하는 행정사사무소 이룸.",
     taxID: SITE.businessNumber,
     founder: { "@type": "Person", name: SITE.representative },
@@ -47,6 +49,10 @@ export function OrganizationJsonLd() {
       "국적이탈 신고",
       "국적회복 신청",
       "F-5 영주권",
+      "재외동포(F-4-41·F-4-42) 사증발급·체류자격 변경",
+      "방문취업(H-2) 동포의 재외동포(F-4) 자격 변경",
+      "복수국적자 국적선택 신고",
+      "외국국적동포 영주(F-5-6·F-5-7·F-5-14) 체류자격 변경",
     ],
     openingHoursSpecification: {
       "@type": "OpeningHoursSpecification",

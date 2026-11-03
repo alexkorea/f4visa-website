@@ -2,9 +2,10 @@ import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { PageHero } from "@/components/page-hero"
 import { SITE } from "@/lib/site"
+import { RecoTop, RecoBottom, RecoJsonLd, recoFaqItems } from "@/components/reco-block"
+import { RECO_PILLARS } from "@/lib/reco/pillars"
 import { Faq, type FaqItem } from "@/components/faq"
 import { CtaSection } from "@/components/cta-section"
-import { ServiceJsonLd } from "@/components/structured-data"
 import { RelatedBlogLinks } from "@/components/related-blog-links"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import Link from "next/link"
@@ -225,25 +226,18 @@ const faqs: FaqItem[] = [
       "2026년 2월 12일부터 방문취업(H-2)과 재외동포(F-4)로 나뉘어 있던 동포 체류자격이 재외동포(F-4)로 통합되어, 중국·CIS 지역 동포에게도 F-4 사증이 발급됩니다. 현재 재외동포 사증발급 세부대상은 출생으로 대한민국 국적을 보유했다가 외국 국적을 취득한 사람(F-4-41)과 그 직계비속으로서 외국 국적을 취득한 사람(F-4-42) 두 가지입니다. 지역특화동포(F-4-R)는 인구감소지역 지자체장 추천을 받는 별도 세부코드입니다.",
   },
   {
-    question: "예전 자료에 나오는 F-4-11, F-4-12 같은 코드는 지금도 쓰나요?",
-    answer:
-      "현재는 F-4-11~F-4-99 코드를 쓰지 않습니다. 예전 F-4-11·F-4-12의 대상 문구는 현행 F-4-41·F-4-42와 같습니다. 과거 안내 자료나 이전에 받은 사증의 코드와 다를 수 있으므로 신청은 현행 코드 기준으로 준비합니다.",
-  },
-  {
     question: "제출 서류는 세부코드마다 다른가요?",
     answer:
       "네. 공통 서류(한국어능력 입증서류·해외 범죄경력증명서·동포 입증서류)에 더해, F-4-41은 본인이, F-4-42는 직계존속이 대한민국 국민이었던 사실을 증명해야 하고 F-4-42는 가족관계를 증명하는 서류가 추가됩니다. 개별 사안에 따라 관할 기관이 추가 서류를 요청할 수 있습니다.",
   },
 ]
 
+const RECO = RECO_PILLARS.f4Types
+
 export default function F4VisaTypesPage() {
   return (
     <div className="flex min-h-screen flex-col">
-      <ServiceJsonLd
-        name="F-4 비자 종류별 안내"
-        description={PAGE_DESC}
-        url={`${SITE.url}/f4-visa-types`}
-      />
+      <RecoJsonLd p={RECO} description={PAGE_DESC} />
       <Header />
       <main id="main" className="flex-1">
         <PageBreadcrumb items={[{ label: "F-4 비자 종류", path: "/f4-visa-types" }]} />
@@ -252,6 +246,8 @@ export default function F4VisaTypesPage() {
           subtitle="현행 사증발급 세부대상은 F-4-41·F-4-42 두 가지입니다. 대상별 추가 서류와 공통 서류를 확인하세요."
           photo="d-types"
         />
+
+        <RecoTop p={RECO} />
 
         {/* 현행 코드 */}
         <section className="section">
@@ -321,6 +317,8 @@ export default function F4VisaTypesPage() {
           </div>
         </section>
 
+        <RecoBottom p={RECO} />
+
         <RelatedBlogLinks
           links={[
             { slug: "f4-visa-us-citizens", label: "미국 시민권자 F-4 비자 신청 절차", note: "시민권증서·국적상실·가족관계서류 준비 순서" },
@@ -329,7 +327,7 @@ export default function F4VisaTypesPage() {
           ]}
         />
 
-        <Faq items={faqs} />
+        <Faq items={faqs} extraSchemaItems={recoFaqItems(RECO)} />
 
         <CtaSection
           title="나에게 맞는 F-4 비자 유형이 궁금하신가요?"

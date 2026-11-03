@@ -4,21 +4,22 @@ import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { PageHero } from "@/components/page-hero"
 import { SITE } from "@/lib/site"
+import { RecoTop, RecoBottom, RecoJsonLd, recoFaqItems } from "@/components/reco-block"
+import { RECO_PILLARS } from "@/lib/reco/pillars"
 import { Faq, type FaqItem } from "@/components/faq"
 import { CtaSection } from "@/components/cta-section"
-import { ServiceJsonLd } from "@/components/structured-data"
 import { RelatedBlogLinks } from "@/components/related-blog-links"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { CheckCircle2 } from "lucide-react"
 import { withOgDefaults } from "@/lib/og"
 
 export const metadata: Metadata = withOgDefaults({
-  title: "재외동포 영주권(F-5) — 자격·절차·필요서류",
+  title: "재외동포 영주권(F-5) 대행 — 자격·절차·필요서류",
   description:
     "F-4 비자에서 F-5 영주권으로 전환할 때의 체류 요건, 생계유지 능력, 기본소양 요건과 필요 서류, 신청 절차를 비교표로 정리했습니다. 신청 시점 판단을 행정사가 검토해 드립니다.",
   alternates: { canonical: `${SITE.url}/permanent-residency` },
   openGraph: {
-    title: "재외동포 영주권(F-5) — 자격·절차·필요서류 | 행정사사무소 이룸",
+    title: "재외동포 영주권(F-5) 대행 — 자격·절차·필요서류 | 행정사사무소 이룸",
     description:
       "F-4 비자에서 F-5 영주권으로 전환할 때의 체류 요건, 생계유지 능력, 기본소양 요건과 필요 서류, 신청 절차를 비교표로 정리했습니다. 신청 시점 판단을 행정사가 검토해 드립니다.",
     url: `${SITE.url}/permanent-residency`,
@@ -27,7 +28,7 @@ export const metadata: Metadata = withOgDefaults({
   },
   twitter: {
     card: "summary_large_image",
-    title: "재외동포 영주권(F-5) — 자격·절차·필요서류 | 행정사사무소 이룸",
+    title: "재외동포 영주권(F-5) 대행 — 자격·절차·필요서류 | 행정사사무소 이룸",
     description:
       "F-4 비자에서 F-5 영주권으로 전환할 때의 체류 요건, 생계유지 능력, 기본소양 요건과 필요 서류, 신청 절차를 비교표로 정리했습니다. 신청 시점 판단을 행정사가 검토해 드립니다.",
   },
@@ -50,20 +51,14 @@ const faqs: FaqItem[] = [
                   question: "내국인과 동일한 권리인가요?",
                   answer: "대부분 동일하지만, 대통령·국회의원 선거권과 공직 임용권 등 일부 권리는 제한됩니다. 지방선거 투표권은 영주자격 취득 후 3년이 지나고 해당 지역 외국인등록대장에 올라 있는 18세 이상일 때만 생깁니다. 그 외 취업, 사업, 부동산 소유 등은 내국인과 동일하게 가능합니다.",
                 },
-                {
-                  question: "영주권도 연장해야 하나요?",
-                  answer: "아닙니다. 영주권은 무기한 체류 자격이므로 별도의 연장이 필요하지 않습니다. 다만, 신분증 역할을 하는 외국인등록증(또는 영주증)은 10년마다 갱신해야 합니다.",
-                },
 ]
+
+const RECO = RECO_PILLARS.f5
 
 export default function PermanentResidencyPage() {
   return (
     <div className="flex min-h-screen flex-col">
-      <ServiceJsonLd
-        name="F-5 영주권 신청 대행"
-        description="F-4 비자에서 F-5 영주권으로 전환하는 방법. 신청 자격, 체류 요건, 생계능력, 기본소양 요건 및 비교표 안내. 행정사사무소 이룸 전문 상담."
-        url={`${SITE.url}/permanent-residency`}
-      />
+      <RecoJsonLd p={RECO} description={"F-4 비자에서 F-5 영주권으로 전환하는 방법. 신청 자격, 체류 요건, 생계능력, 기본소양 요건 및 비교표 안내. 행정사사무소 이룸 전문 상담."} />
       <Header />
       <main id="main" className="flex-1">
         <PageBreadcrumb items={[{ label: "영주권", path: "/permanent-residency" }]} />
@@ -72,6 +67,8 @@ export default function PermanentResidencyPage() {
           subtitle="F-4 비자에서 F-5 영주권으로 -- 안정적인 한국 체류를 위한 종합 가이드"
           photo="d-permanent"
         />
+
+        <RecoTop p={RECO} />
 
         {/* 영주권이란? */}
         <section className="py-8 md:py-12">
@@ -248,6 +245,8 @@ export default function PermanentResidencyPage() {
           </div>
         </section>
 
+        <RecoBottom p={RECO} />
+
         <RelatedBlogLinks
           links={[
             { slug: "f4-to-f5-permanent-residence", label: "F-4에서 F-5 영주권 전환 완벽 가이드", note: "동포 영주자격 전환 경로 정리" },
@@ -256,7 +255,7 @@ export default function PermanentResidencyPage() {
           ]}
         />
 
-        <Faq items={faqs} />
+        <Faq items={faqs} extraSchemaItems={recoFaqItems(RECO)} />
 
         <CtaSection
           title="전문 상담이 필요하신가요?"

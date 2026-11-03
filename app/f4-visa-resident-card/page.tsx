@@ -3,9 +3,10 @@ import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { PageHero } from "@/components/page-hero"
 import { SITE } from "@/lib/site"
+import { RecoTop, RecoBottom, RecoJsonLd, recoFaqItems } from "@/components/reco-block"
+import { RECO_PILLARS } from "@/lib/reco/pillars"
 import { Faq, type FaqItem } from "@/components/faq"
 import { CtaSection } from "@/components/cta-section"
-import { ServiceJsonLd } from "@/components/structured-data"
 import { RelatedBlogLinks } from "@/components/related-blog-links"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { Button } from "@/components/ui/button"
@@ -13,12 +14,12 @@ import { CheckCircle, FileText, ClipboardList, UserCheck } from "lucide-react"
 import { withOgDefaults } from "@/lib/og"
 
 export const metadata = withOgDefaults({
-  title: "F-4 비자와 거소증 — 발급 대상·효과·신청 절차",
+  title: "F-4 비자·거소증 발급 대행 — 대상·효과·신청 절차",
   description:
     "재외동포 체류자격(F-4)과 국내거소신고증(거소증)의 발급 대상과 효과, 신청 절차를 정리했습니다. 체류기간, 병역 관련 제한, 사업자등록·부동산 취득 가능 여부까지 행정사가 안내합니다.",
   alternates: { canonical: `${SITE.url}/f4-visa-resident-card` },
   openGraph: {
-    title: "F-4 비자와 거소증 — 발급 대상·효과·신청 절차 | 행정사사무소 이룸",
+    title: "F-4 비자·거소증 발급 대행 — 대상·효과·신청 절차 | 행정사사무소 이룸",
     description: "재외동포 체류자격(F-4)과 국내거소신고증(거소증)의 발급 대상과 효과, 신청 절차를 정리했습니다. 체류기간, 병역 관련 제한, 사업자등록·부동산 취득 가능 여부까지 행정사가 안내합니다.",
     url: `${SITE.url}/f4-visa-resident-card`,
     siteName: SITE.name,
@@ -26,7 +27,7 @@ export const metadata = withOgDefaults({
   },
   twitter: {
     card: "summary_large_image" as const,
-    title: "F-4 비자와 거소증 — 발급 대상·효과·신청 절차 | 행정사사무소 이룸",
+    title: "F-4 비자·거소증 발급 대행 — 대상·효과·신청 절차 | 행정사사무소 이룸",
     description: "재외동포 체류자격(F-4)과 국내거소신고증(거소증)의 발급 대상과 효과, 신청 절차를 정리했습니다. 체류기간, 병역 관련 제한, 사업자등록·부동산 취득 가능 여부까지 행정사가 안내합니다.",
   },
 })
@@ -66,11 +67,6 @@ const faqs = [
       "재외공관에서 사증을 받을 때는 한국어능력 입증서류를 내면(면제 대상 포함) 2년, 내지 않으면 1년입니다. 국내에서 체류자격 변경·체류기간 연장을 받을 때는 한국어능력 입증서류를 내면 최대 3년, 내지 않으면 1년(사회통합프로그램을 등록·수강하면 2년)입니다. 연장은 만료 전에 다시 신청해야 하며 자동으로 늘어나지 않습니다.",
   },
   {
-    question: "병역 관련 제한이 있나요?",
-    answer:
-      "2018년 5월 1일 이후 처음으로 대한민국 국적을 이탈하거나 상실한 남성은 병역을 마치거나 면제처분을 받지 않았다면 40세가 되는 해의 12월 31일까지 F-4 체류자격을 받을 수 없습니다.",
-  },
-  {
     question: "사업자 등록이 가능한가요?",
     answer:
       "가능합니다. 일반 내국인과 동일하게 개인사업자 및 법인사업자 등록이 가능하며, 세무 신고 및 부가가치세 납부 의무도 동일하게 적용됩니다.",
@@ -84,16 +80,6 @@ const faqs = [
     question: "거소지 증명이 필요한가요?",
     answer:
       "네, 실제로 거주하는 주거지 주소(전세계약서, 숙소 확인서 등)를 제출해야 하며, 이를 통해 관할 출입국 사무소에서 거소증이 발급됩니다.",
-  },
-  {
-    question: "거소신고는 입국 후 언제까지 해야 하나요?",
-    answer:
-      "90일 이상 체류하려면 입국일부터 90일 안에 체류지 관할 출입국·외국인청(사무소·출장소)에 거소신고를 해야 합니다. 하이코리아에서 방문 예약을 한 뒤 방문합니다.",
-  },
-  {
-    question: "한국어능력 서류를 내지 않으면 어떻게 되나요?",
-    answer:
-      "거소신고는 할 수 있지만 체류기간이 1년으로 짧게 나옵니다. 사회통합프로그램을 등록·수강 중이면 2년이며, 한국어능력 입증서류를 내면 체류기간 연장 때 최대 3년까지 받을 수 있습니다.",
   },
 ]
 
@@ -129,22 +115,22 @@ const residenceFlow = [
   { title: "심사·발급", description: "심사를 거쳐 국내거소신고증이 나옵니다. 걸리는 기간은 관서와 시기에 따라 다르므로 접수 때 수령 일정과 방법을 확인합니다." },
 ]
 
+const RECO = RECO_PILLARS.f4Resident
+
 export default function F4VisaResidentCardPage() {
   return (
     <div className="flex min-h-screen flex-col">
-      <ServiceJsonLd
-        name="F-4 비자·거소증 신청 대행"
-        description="재외동포 체류자격(F-4) 비자와 거소증(외국국적동포 국내거소신고증)에 대한 안내. 발급 대상, 효과, 신청 절차를 확인하세요."
-        url={`${SITE.url}/f4-visa-resident-card`}
-      />
+      <RecoJsonLd p={RECO} description={"재외동포 체류자격(F-4) 비자와 거소증(외국국적동포 국내거소신고증)에 대한 안내. 발급 대상, 효과, 신청 절차를 확인하세요."} />
       <Header />
       <main id="main" className="flex-1">
         <PageBreadcrumb items={[{ label: "F-4 비자 거소증", path: "/f4-visa-resident-card" }]} />
         <PageHero
-          title="F-4 비자와 거소증"
+          title="F-4 비자·거소증 발급 대행"
           subtitle="재외동포 국내거소신고증(거소증) 발급 안내"
           photo="d-resident"
         />
+
+        <RecoTop p={RECO} />
 
         {/* F-4 비자란? */}
         <section className="section">
@@ -369,6 +355,8 @@ export default function F4VisaResidentCardPage() {
           </div>
         </section>
 
+        <RecoBottom p={RECO} />
+
         <RelatedBlogLinks
           links={[
             { slug: "f4-residence-card-issuance-period-by-immigration-office", label: "F-4 거소증 발급 기간과 출입국사무소별 차이", note: "접수 기관·서류 보완이 일정에 미치는 영향" },
@@ -377,7 +365,7 @@ export default function F4VisaResidentCardPage() {
           ]}
         />
 
-        <Faq items={faqs} />
+        <Faq items={faqs} extraSchemaItems={recoFaqItems(RECO)} />
 
         <CtaSection
           title="F-4 비자 및 거소증 신청, 지금 상담하세요"

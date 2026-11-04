@@ -5,6 +5,7 @@ import { DeferredCtaBar } from '@/components/deferred-cta-bar'
 import { SITE } from '@/lib/site'
 import { DEFAULT_OG_IMAGE } from '@/lib/og'
 import { RSS_FEED } from '@/lib/rss-meta'
+import { OrganizationJsonLd } from '@/components/structured-data'
 
 const TITLE_DEFAULT = `F-4 비자 · 거소증 · 국적상실 · 국적회복 · 영주권 | ${SITE.name}`
 const DESCRIPTION =
@@ -84,6 +85,8 @@ export default function RootLayout({
       <body>
         <a href="#main" className="skip-link">본문 바로가기</a>
         {children}
+        {/* AI-RECO-2 C-1: 사이트 전체 Organization 1개(@id=/#organization) — 다른 조각은 @id 참조만 */}
+        <OrganizationJsonLd />
         <DeferredCtaBar />
         {/* gtag 번들은 177KB 다. next/script 의 lazyOnload 는 window load 에 붙는데,
             이 페이지는 load 가 ~0.4s 에 떨어져서 결국 LCP 구간 한복판에서 177KB 를

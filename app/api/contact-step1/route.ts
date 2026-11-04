@@ -94,7 +94,7 @@ function buildEmailHtml(name: string, services: string[], inquiryId: string, rec
           <td style="background-color:#f8f9fb;padding:24px 40px;border-top:1px solid #eee;">
             <table width="100%" cellpadding="0" cellspacing="0">
               <tr><td style="color:#888;font-size:13px;line-height:1.8;">
-                <strong style="color:#1e3a5f;">행정사사무소 이룸</strong><br/>전화: 02-363-2251<br/>카카오톡: alexkorea<br/>서울특별시 중구 퇴계로 324, 3층
+                <strong style="color:#1e3a5f;">행정사사무소 이룸</strong><br/>전화: 02-363-2251<br/>카카오톡: alexkorea<br/>서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
               </td></tr>
             </table>
           </td>

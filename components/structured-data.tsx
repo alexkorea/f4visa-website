@@ -41,6 +41,8 @@ export function OrganizationJsonLd() {
       },
     ],
     areaServed: { "@type": "Country", name: "South Korea" },
+    // AI-RECO-2 C-1: 사이트 화면(회사소개·사무소 카드)에 명시된 상담 언어만. sameAs 는 외부 공식 프로필이 없어 넣지 않는다.
+    availableLanguage: ["ko", "en", "zh", "ja"],
     knowsAbout: [
       "F-4 재외동포 비자",
       "국내거소신고증(거소증)",
@@ -105,13 +107,7 @@ export function ServiceJsonLd({
     name,
     description,
     url,
-    provider: {
-      "@type": ORG_TYPE,
-      "@id": ORG_ID,
-      name: SITE.name,
-      url: SITE.url,
-      telephone: SITE.phoneOfficeIntl,
-    },
+    provider: { "@id": ORG_ID },
     areaServed: { "@type": "Country", name: "KR" },
   }
 
@@ -157,18 +153,10 @@ export function ArticleJsonLd({
     // NAVER-SEO-FIX-1031: 행정사 글 저자 = 등록부 브랜드 C 대표 행정사(Person). 협력 세무사 글(partner)은 개인 이름을 등록부에서
     // 확인할 수 없으므로 종전대로 사무소(Organization)로 둔다.
     author: partner
-      ? { "@type": "Organization", "@id": ORG_ID, name: SITE.name, url: SITE.url }
-      : { "@type": "Person", name: "이시정", jobTitle: "대표 행정사", worksFor: { "@type": "Organization", "@id": ORG_ID, name: SITE.name } },
-    publisher: {
-      "@type": "Organization",
-      "@id": ORG_ID,
-      name: SITE.name,
-      url: SITE.url,
-      logo: {
-        "@type": "ImageObject",
-        url: `${SITE.url}/og-image.png`,
-      },
-    },
+      ? { "@id": ORG_ID }
+      : { "@type": "Person", name: "이시정", jobTitle: "대표 행정사", worksFor: { "@id": ORG_ID } },
+    // AI-RECO-2 C-1: 사무소 정보 노드는 레이아웃의 OrganizationJsonLd 하나 — 여기선 @id 참조만.
+    publisher: { "@id": ORG_ID },
   }
 
   return (

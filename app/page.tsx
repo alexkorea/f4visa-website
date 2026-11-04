@@ -5,7 +5,7 @@ import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { CtaSection } from "@/components/cta-section"
 import { Faq, type FaqItem } from "@/components/faq"
-import { OrganizationJsonLd, WebSiteJsonLd } from "@/components/structured-data"
+import { WebSiteJsonLd } from "@/components/structured-data"
 import { SITE } from "@/lib/site"
 import { qrHref } from "@/lib/qr-links"
 import { SitePhoto } from "@/components/hero-photo"
@@ -110,7 +110,6 @@ const faqs: FaqItem[] = [
 export default function HomePage() {
   return (
     <div className="flex min-h-screen flex-col">
-      <OrganizationJsonLd />
       <WebSiteJsonLd />
       <Header />
 

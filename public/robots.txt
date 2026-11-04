@@ -9,12 +9,14 @@ Disallow: /api/
 
 User-agent: OAI-SearchBot
 Allow: /
+Disallow: /api/
 
 User-agent: GPTBot
 Allow: /
 
 User-agent: ChatGPT-User
 Allow: /
+Disallow: /api/
 
 User-agent: ClaudeBot
 Allow: /
@@ -24,15 +26,23 @@ Allow: /
 
 User-agent: PerplexityBot
 Allow: /
+Disallow: /api/
 
 User-agent: Google-Extended
 Allow: /
 
 User-agent: Claude-SearchBot
 Allow: /
+Disallow: /api/
 
 User-agent: Bingbot
 Allow: /
+Disallow: /api/
+
+# AI-RECO-2 A-3: 검색봇 명시 그룹(* 그룹 Disallow 복사)
+User-agent: Googlebot
+Allow: /
+Disallow: /api/
 
 User-agent: Amazonbot
 Disallow: /

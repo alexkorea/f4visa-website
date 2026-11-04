@@ -6,6 +6,7 @@ import { PageHero } from "@/components/page-hero"
 import { SITE } from "@/lib/site"
 import { RecoTop, RecoBottom, RecoJsonLd, recoFaqItems } from "@/components/reco-block"
 import { RECO_PILLARS } from "@/lib/reco/pillars"
+import { PAGE_LASTMOD } from "@/lib/page-lastmod.generated"
 import { Faq, type FaqItem } from "@/components/faq"
 import { CtaSection } from "@/components/cta-section"
 import { RelatedBlogLinks } from "@/components/related-blog-links"
@@ -57,7 +58,7 @@ const RECO = RECO_PILLARS.loss
 export default function NationalityLossReportPage() {
   return (
     <div className="flex min-h-screen flex-col">
-      <RecoJsonLd p={RECO} description={"외국 국적 취득 시 한국 국적 상실 신고 절차, 필수 서류 안내. 행정사사무소 이룸이 국적상실 신고를 대행합니다."} />
+      <RecoJsonLd p={RECO} modified={PAGE_LASTMOD[RECO.path]} description={"외국 국적 취득 시 한국 국적 상실 신고 절차, 필수 서류 안내. 행정사사무소 이룸이 국적상실 신고를 대행합니다."} />
       <Header />
       <main id="main" className="flex-1">
         <PageBreadcrumb items={[{ label: "국적상실 신고", path: "/nationality-loss-report" }]} />
@@ -66,7 +67,7 @@ export default function NationalityLossReportPage() {
           subtitle="재외동포 필독 가이드 -- 외국 국적 취득 후 반드시 필요한 국적상실 신고의 모든 것"
         />
 
-        <RecoTop p={RECO} />
+        <RecoTop p={RECO} modified={PAGE_LASTMOD[RECO.path]} />
 
         {/* 국적상실이란? */}
         <section className="py-8 md:py-12">

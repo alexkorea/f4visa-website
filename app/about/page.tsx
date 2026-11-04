@@ -226,6 +226,7 @@ export default function AboutPage() {
                   <li>해외 거주자 원격 진행 — 한국 내 서류 발급 대행과 완성 서류의 해외 송달</li>
                   <li>관련 법령과 절차 상담</li>
                 </ul>
+                <p className="mt-4 text-sm"><Link href="/services" className="text-primary underline-offset-2 hover:underline">처리 업무 전체 목록 보기</Link></p>
               </div>
               <div className="rounded-2xl border border-border bg-card p-6">
                 <h3 className="text-lg font-semibold text-foreground">처리하지 않는 업무</h3>

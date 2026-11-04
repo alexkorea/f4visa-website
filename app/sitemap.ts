@@ -25,6 +25,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: `${baseUrl}/nationality-recovery`, lastModified: lm("/nationality-recovery"), changeFrequency: "monthly", priority: 0.9 },
     { url: `${baseUrl}/permanent-residency`, lastModified: lm("/permanent-residency"), changeFrequency: "monthly", priority: 0.9 },
     { url: `${baseUrl}/h2-visa`, lastModified: lm("/h2-visa"), changeFrequency: "monthly", priority: 0.8 },
+    { url: `${baseUrl}/services`, lastModified: lm("/services"), changeFrequency: "monthly", priority: 0.8 },
     { url: `${baseUrl}/tax-stories`, lastModified: lm("/tax-stories"), changeFrequency: "weekly", priority: 0.7 },
     { url: `${baseUrl}/privacy`, lastModified: lm("/privacy"), changeFrequency: "yearly", priority: 0.3 },
     { url: `${baseUrl}/terms`, lastModified: lm("/terms"), changeFrequency: "yearly", priority: 0.3 },

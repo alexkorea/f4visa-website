@@ -6,6 +6,7 @@ import { PageHero } from "@/components/page-hero"
 import { SITE } from "@/lib/site"
 import { RecoTop, RecoBottom, RecoJsonLd, recoFaqItems } from "@/components/reco-block"
 import { RECO_PILLARS } from "@/lib/reco/pillars"
+import { PAGE_LASTMOD } from "@/lib/page-lastmod.generated"
 import { Faq, type FaqItem } from "@/components/faq"
 import { CtaSection } from "@/components/cta-section"
 import { RelatedBlogLinks } from "@/components/related-blog-links"
@@ -53,7 +54,7 @@ const RECO = RECO_PILLARS.renunciation
 export default function NationalityRenunciationReportPage() {
   return (
     <div className="flex min-h-screen flex-col">
-      <RecoJsonLd p={RECO} description={"복수국적자의 국적이탈 신고 절차, 병역의무 기한, 국적상실과의 차이점 안내. 행정사사무소 이룸이 전 과정을 대행합니다."} />
+      <RecoJsonLd p={RECO} modified={PAGE_LASTMOD[RECO.path]} description={"복수국적자의 국적이탈 신고 절차, 병역의무 기한, 국적상실과의 차이점 안내. 행정사사무소 이룸이 전 과정을 대행합니다."} />
       <Header />
       <main id="main" className="flex-1">
         <PageBreadcrumb items={[{ label: "국적이탈 신고", path: "/nationality-renunciation-report" }]} />
@@ -62,7 +63,7 @@ export default function NationalityRenunciationReportPage() {
           subtitle="복수국적자의 고민, 국적이탈 신고 절차 및 필수 서류 종합 안내"
         />
 
-        <RecoTop p={RECO} />
+        <RecoTop p={RECO} modified={PAGE_LASTMOD[RECO.path]} />
 
         {/* 국적이탈 신고란? */}
         <section className="py-8 md:py-12">

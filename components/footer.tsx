@@ -17,6 +17,7 @@ const footerLinks = {
   ],
   company: [
     { title: "사무소 소개", href: "/about" },
+    { title: "처리 업무 전체 목록", href: "/services" },
     { title: "블로그", href: "/blog" },
     { title: "세금이야기", href: "/tax-stories" },
     { title: "상담문의", href: "/contact" },

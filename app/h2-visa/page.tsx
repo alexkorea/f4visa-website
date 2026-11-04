@@ -4,6 +4,7 @@ import { PageHero } from "@/components/page-hero"
 import { SITE } from "@/lib/site"
 import { RecoTop, RecoBottom, RecoJsonLd, recoFaqItems } from "@/components/reco-block"
 import { RECO_PILLARS } from "@/lib/reco/pillars"
+import { PAGE_LASTMOD } from "@/lib/page-lastmod.generated"
 import { Faq, type FaqItem } from "@/components/faq"
 import { CtaSection } from "@/components/cta-section"
 import { RelatedBlogLinks } from "@/components/related-blog-links"
@@ -55,7 +56,7 @@ const RECO = RECO_PILLARS.h2
 export default function H2VisaPage() {
   return (
     <div className="flex min-h-screen flex-col">
-      <RecoJsonLd p={RECO} description={PAGE_DESC} />
+      <RecoJsonLd p={RECO} modified={PAGE_LASTMOD[RECO.path]} description={PAGE_DESC} />
       <Header />
       <main id="main" className="flex-1">
         <PageBreadcrumb items={[{ label: "방문취업(H-2)", path: "/h2-visa" }]} />
@@ -63,7 +64,7 @@ export default function H2VisaPage() {
           title={PAGE_TITLE}
           subtitle="H-2 신규 발급 중단 이후 기존 H-2 동포가 고를 수 있는 길 — 연장, F-4 전환, 영주(F-5-14)."
         />
-        <RecoTop p={RECO} />
+        <RecoTop p={RECO} modified={PAGE_LASTMOD[RECO.path]} />
 
         <section className="section section-alt">
           <div className="container-x">

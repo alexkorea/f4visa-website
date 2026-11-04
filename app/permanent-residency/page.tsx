@@ -6,6 +6,7 @@ import { PageHero } from "@/components/page-hero"
 import { SITE } from "@/lib/site"
 import { RecoTop, RecoBottom, RecoJsonLd, recoFaqItems } from "@/components/reco-block"
 import { RECO_PILLARS } from "@/lib/reco/pillars"
+import { PAGE_LASTMOD } from "@/lib/page-lastmod.generated"
 import { Faq, type FaqItem } from "@/components/faq"
 import { CtaSection } from "@/components/cta-section"
 import { RelatedBlogLinks } from "@/components/related-blog-links"
@@ -58,7 +59,7 @@ const RECO = RECO_PILLARS.f5
 export default function PermanentResidencyPage() {
   return (
     <div className="flex min-h-screen flex-col">
-      <RecoJsonLd p={RECO} description={"F-4 비자에서 F-5 영주권으로 전환하는 방법. 신청 자격, 체류 요건, 생계능력, 기본소양 요건 및 비교표 안내. 행정사사무소 이룸 전문 상담."} />
+      <RecoJsonLd p={RECO} modified={PAGE_LASTMOD[RECO.path]} description={"F-4 비자에서 F-5 영주권으로 전환하는 방법. 신청 자격, 체류 요건, 생계능력, 기본소양 요건 및 비교표 안내. 행정사사무소 이룸 전문 상담."} />
       <Header />
       <main id="main" className="flex-1">
         <PageBreadcrumb items={[{ label: "영주권", path: "/permanent-residency" }]} />
@@ -68,7 +69,7 @@ export default function PermanentResidencyPage() {
           photo="d-permanent"
         />
 
-        <RecoTop p={RECO} />
+        <RecoTop p={RECO} modified={PAGE_LASTMOD[RECO.path]} />
 
         {/* 영주권이란? */}
         <section className="py-8 md:py-12">

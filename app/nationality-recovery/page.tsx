@@ -6,6 +6,7 @@ import { PageHero } from "@/components/page-hero"
 import { SITE } from "@/lib/site"
 import { RecoTop, RecoBottom, RecoJsonLd, recoFaqItems } from "@/components/reco-block"
 import { RECO_PILLARS } from "@/lib/reco/pillars"
+import { PAGE_LASTMOD } from "@/lib/page-lastmod.generated"
 import { Faq, type FaqItem } from "@/components/faq"
 import { CtaSection } from "@/components/cta-section"
 import { RelatedBlogLinks } from "@/components/related-blog-links"
@@ -48,7 +49,7 @@ const RECO = RECO_PILLARS.recovery
 export default function NationalityRecoveryPage() {
   return (
     <div className="flex min-h-screen flex-col">
-      <RecoJsonLd p={RECO} description={"한국 국적회복 신청 자격, 65세 이상 복수국적 유지 특례, 필수 서류 및 절차 안내. 행정사사무소 이룸이 전 과정을 대행합니다."} />
+      <RecoJsonLd p={RECO} modified={PAGE_LASTMOD[RECO.path]} description={"한국 국적회복 신청 자격, 65세 이상 복수국적 유지 특례, 필수 서류 및 절차 안내. 행정사사무소 이룸이 전 과정을 대행합니다."} />
       <Header />
       <main id="main" className="flex-1">
         <PageBreadcrumb items={[{ label: "국적회복", path: "/nationality-recovery" }]} />
@@ -58,7 +59,7 @@ export default function NationalityRecoveryPage() {
           photo="d-recovery"
         />
 
-        <RecoTop p={RECO} />
+        <RecoTop p={RECO} modified={PAGE_LASTMOD[RECO.path]} />
 
         {/* 누가 신청할 수 있나요? */}
         <section className="py-8 md:py-12">

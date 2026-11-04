@@ -12,12 +12,36 @@ import type { RecoPillar } from "@/lib/reco/types"
 
 const ORG_ID = `${SITE.url}/#organization`
 
-export function RecoTop({ p }: { p: RecoPillar }) {
+/** E-1: 첫 화면에 보이는 '이런 상황에서 맡기십니다' 질문 수(상황별 질문 원고 재사용, 답은 아래 #situations) */
+const INTENT_COUNT = 5
+
+export function RecoTop({ p, modified }: { p: RecoPillar; modified?: string }) {
   return (
     <section className="section" id="reco-summary">
       <div className="container-x">
         <div className="measure">
+          {modified ? (
+            <p className="mb-4 text-sm text-muted-foreground">
+              최종 수정일 <time dateTime={modified}>{modified}</time>
+            </p>
+          ) : null}
           <p className="text-lg leading-relaxed text-foreground">{p.coreAnswer}</p>
+
+          <h2 id="client-situations" className="mt-10 text-2xl font-bold text-foreground md:text-3xl">
+            이런 상황에서 맡기십니다
+          </h2>
+          <div className="mt-4 space-y-2">
+            {p.situations.slice(0, INTENT_COUNT).map((s) => (
+              <a
+                key={s.id}
+                href={`#${s.id}`}
+                className="block rounded-xl border border-border bg-card p-3 hover:border-primary"
+              >
+                <h3 className="text-base font-semibold text-foreground">{s.q}</h3>
+                <span className="mt-1 block text-sm text-primary">답 보기</span>
+              </a>
+            ))}
+          </div>
 
           <h2 id="services" className="mt-10 text-2xl font-bold text-foreground md:text-3xl">
             {p.servicesHeading}
@@ -148,8 +172,22 @@ export function recoFaqItems(p: RecoPillar) {
   return p.situations.map((s) => ({ question: s.q, answer: s.a }))
 }
 
-export function RecoJsonLd({ p, description }: { p: RecoPillar; description: string }) {
+export function RecoJsonLd({ p, description, modified }: { p: RecoPillar; description: string; modified?: string }) {
   const url = `${SITE.url}${p.path}`
+  // E-4: 화면 '최종 수정일'과 같은 값(쪽 파일·데이터 마지막 커밋일, lib/page-lastmod.generated.ts)
+  const webPage = modified
+    ? {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": `${url}#webpage`,
+        url,
+        name: p.serviceName,
+        inLanguage: "ko-KR",
+        dateModified: modified,
+        mainEntity: { "@id": `${url}#service` },
+        publisher: { "@id": ORG_ID },
+      }
+    : null
   const service = {
     "@context": "https://schema.org",
     "@type": "Service",
@@ -192,6 +230,7 @@ export function RecoJsonLd({ p, description }: { p: RecoPillar; description: str
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(service) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(terms) }} />
+      {webPage ? <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(webPage) }} /> : null}
     </>
   )
 }

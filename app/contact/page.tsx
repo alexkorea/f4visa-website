@@ -1,3 +1,4 @@
+import Link from "next/link"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { PageHero } from "@/components/page-hero"
@@ -57,6 +58,9 @@ export default function ContactPage() {
                 </a>
               ))}
             </div>
+            <p className="mt-6 text-center text-sm text-muted-foreground">
+              맡길 수 있는 업무는 <Link href="/services" className="text-primary underline-offset-2 hover:underline">처리 업무 전체 목록</Link>에서 먼저 확인할 수 있습니다.
+            </p>
           </div>
         </section>
 

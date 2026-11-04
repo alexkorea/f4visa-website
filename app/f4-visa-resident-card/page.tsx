@@ -5,6 +5,7 @@ import { PageHero } from "@/components/page-hero"
 import { SITE } from "@/lib/site"
 import { RecoTop, RecoBottom, RecoJsonLd, recoFaqItems } from "@/components/reco-block"
 import { RECO_PILLARS } from "@/lib/reco/pillars"
+import { PAGE_LASTMOD } from "@/lib/page-lastmod.generated"
 import { Faq, type FaqItem } from "@/components/faq"
 import { CtaSection } from "@/components/cta-section"
 import { RelatedBlogLinks } from "@/components/related-blog-links"
@@ -120,7 +121,7 @@ const RECO = RECO_PILLARS.f4Resident
 export default function F4VisaResidentCardPage() {
   return (
     <div className="flex min-h-screen flex-col">
-      <RecoJsonLd p={RECO} description={"재외동포 체류자격(F-4) 비자와 거소증(외국국적동포 국내거소신고증)에 대한 안내. 발급 대상, 효과, 신청 절차를 확인하세요."} />
+      <RecoJsonLd p={RECO} modified={PAGE_LASTMOD[RECO.path]} description={"재외동포 체류자격(F-4) 비자와 거소증(외국국적동포 국내거소신고증)에 대한 안내. 발급 대상, 효과, 신청 절차를 확인하세요."} />
       <Header />
       <main id="main" className="flex-1">
         <PageBreadcrumb items={[{ label: "F-4 비자 거소증", path: "/f4-visa-resident-card" }]} />
@@ -130,7 +131,7 @@ export default function F4VisaResidentCardPage() {
           photo="d-resident"
         />
 
-        <RecoTop p={RECO} />
+        <RecoTop p={RECO} modified={PAGE_LASTMOD[RECO.path]} />
 
         {/* F-4 비자란? */}
         <section className="section">

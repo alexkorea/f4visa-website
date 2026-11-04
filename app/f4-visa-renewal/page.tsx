@@ -5,6 +5,7 @@ import { PageHero } from "@/components/page-hero"
 import { SITE } from "@/lib/site"
 import { RecoTop, RecoBottom, RecoJsonLd, recoFaqItems } from "@/components/reco-block"
 import { RECO_PILLARS } from "@/lib/reco/pillars"
+import { PAGE_LASTMOD } from "@/lib/page-lastmod.generated"
 import { Faq, type FaqItem } from "@/components/faq"
 import { CtaSection } from "@/components/cta-section"
 import { RelatedBlogLinks } from "@/components/related-blog-links"
@@ -105,7 +106,7 @@ const RECO = RECO_PILLARS.f4Renewal
 export default function F4VisaRenewalPage() {
   return (
     <div className="flex min-h-screen flex-col">
-      <RecoJsonLd p={RECO} description={"재외동포 F-4 비자 연장 절차, 필요서류, 신청 방법을 안내합니다. 체류 만료일 4개월 전부터 신청 가능합니다."} />
+      <RecoJsonLd p={RECO} modified={PAGE_LASTMOD[RECO.path]} description={"재외동포 F-4 비자 연장 절차, 필요서류, 신청 방법을 안내합니다. 체류 만료일 4개월 전부터 신청 가능합니다."} />
       <Header />
       <main id="main" className="flex-1">
         <PageBreadcrumb items={[{ label: "F-4 비자 연장", path: "/f4-visa-renewal" }]} />
@@ -115,7 +116,7 @@ export default function F4VisaRenewalPage() {
           photo="d-renewal"
         />
 
-        <RecoTop p={RECO} />
+        <RecoTop p={RECO} modified={PAGE_LASTMOD[RECO.path]} />
 
         {/* Intro */}
         <section className="section">

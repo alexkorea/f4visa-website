@@ -4,6 +4,7 @@ import { PageHero } from "@/components/page-hero"
 import { SITE } from "@/lib/site"
 import { RecoTop, RecoBottom, RecoJsonLd, recoFaqItems } from "@/components/reco-block"
 import { RECO_PILLARS } from "@/lib/reco/pillars"
+import { PAGE_LASTMOD } from "@/lib/page-lastmod.generated"
 import { Faq, type FaqItem } from "@/components/faq"
 import { CtaSection } from "@/components/cta-section"
 import { RelatedBlogLinks } from "@/components/related-blog-links"
@@ -237,7 +238,7 @@ const RECO = RECO_PILLARS.f4Types
 export default function F4VisaTypesPage() {
   return (
     <div className="flex min-h-screen flex-col">
-      <RecoJsonLd p={RECO} description={PAGE_DESC} />
+      <RecoJsonLd p={RECO} modified={PAGE_LASTMOD[RECO.path]} description={PAGE_DESC} />
       <Header />
       <main id="main" className="flex-1">
         <PageBreadcrumb items={[{ label: "F-4 비자 종류", path: "/f4-visa-types" }]} />
@@ -247,7 +248,7 @@ export default function F4VisaTypesPage() {
           photo="d-types"
         />
 
-        <RecoTop p={RECO} />
+        <RecoTop p={RECO} modified={PAGE_LASTMOD[RECO.path]} />
 
         {/* 현행 코드 */}
         <section className="section">

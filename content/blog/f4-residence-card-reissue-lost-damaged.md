@@ -476,7 +476,7 @@ F-4 거소증 재발급은 단순해 보여도 관할 확인, 사유서 작성, 
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">주소</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">(04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">(04614) 서울특별시 중구 퇴계로 324, 3층(광희동2가, 성우빌딩)</td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">상담 시간</td>

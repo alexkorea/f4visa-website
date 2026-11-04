@@ -440,7 +440,7 @@ slug: "f4-visa-military-service-unfulfilled-restriction"
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">주소</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">(04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">(04614) 서울특별시 중구 퇴계로 324, 3층(광희동2가, 성우빌딩)</td>
     </tr>
     <tr>
       <td style="border:1px solid #e5e7eb;padding:10px">상담 시간</td>

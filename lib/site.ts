@@ -22,8 +22,8 @@ export const SITE = {
   kakaoId: "alexkorea",
 
   address: {
-    full: "서울특별시 중구 퇴계로 324, 3층 (성우빌딩)",
-    street: "퇴계로 324, 3층 (성우빌딩)",
+    full: "서울특별시 중구 퇴계로 324, 3층(광희동2가, 성우빌딩)",
+    street: "퇴계로 324, 3층(광희동2가, 성우빌딩)",
     locality: "중구",
     region: "서울특별시",
     postalCode: "04614", // 본문·풋터 표기와 통일(I3b 맥7 결정 2026-10-03)

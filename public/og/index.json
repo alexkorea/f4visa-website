@@ -3376,6 +3376,22 @@
    "slug": "f4-stay-permit-application-departure-proxy-document-validity",
    "generated_at": "2026-11-03T10:01:58.707Z",
    "version": "1.4"
+  },
+  "f4-confusing-allowed-jobs-kitchen-assistant-housekeeper-sorting": {
+   "hash": "9bcb517adc37c782c9aace55074f87ac42f35bacf156c170c1a8e8ec268a11a0",
+   "source": "pexels",
+   "seed": 2438597851,
+   "theme": "city",
+   "prompt_subject": "korean urban street",
+   "map_version": null,
+   "pexels_id": 21011587,
+   "pexels_author": "Honggrider Rock",
+   "category": "F-4비자",
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-confusing-allowed-jobs-kitchen-assistant-housekeeper-sorting",
+   "generated_at": "2026-11-04T10:03:53.783Z",
+   "version": "1.4"
   }
  }
 }

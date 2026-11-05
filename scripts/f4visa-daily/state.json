@@ -251,6 +251,15 @@
       ],
       "at": "2026-11-04T10:03:53.799Z",
       "batch": "BLOG-STALL-1028-2 (맥4, 맥7 지시 2026-10-28)"
+    },
+    {
+      "slug": "f4-social-integration-program-stay-period-early-adaptation-exemption",
+      "date": "2026-11-05",
+      "locales": [
+        "ko"
+      ],
+      "at": "2026-11-05T10:05:05.597Z",
+      "batch": "BLOG-STALL-1028-2 (맥4, 맥7 지시 2026-10-28)"
     }
   ],
   "rejected": []

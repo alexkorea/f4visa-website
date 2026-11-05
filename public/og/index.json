@@ -3392,6 +3392,22 @@
    "slug": "f4-confusing-allowed-jobs-kitchen-assistant-housekeeper-sorting",
    "generated_at": "2026-11-04T10:03:53.783Z",
    "version": "1.4"
+  },
+  "f4-social-integration-program-stay-period-early-adaptation-exemption": {
+   "hash": "e8416702217094f2149b73792b41bd7bb6b35a54bba2ce81726f32d0a58d4468",
+   "source": "pexels",
+   "seed": 2914630816,
+   "theme": "city",
+   "prompt_subject": "korean urban street",
+   "map_version": null,
+   "pexels_id": 35816143,
+   "pexels_author": "Luiz M - Channel YT Viajei Amei",
+   "category": "F-4비자",
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-social-integration-program-stay-period-early-adaptation-exemption",
+   "generated_at": "2026-11-05T10:05:05.580Z",
+   "version": "1.4"
   }
  }
 }

@@ -3408,6 +3408,22 @@
    "slug": "f4-social-integration-program-stay-period-early-adaptation-exemption",
    "generated_at": "2026-11-05T10:05:05.580Z",
    "version": "1.4"
+  },
+  "f4-status-change-after-korean-schooling-exempt-documents": {
+   "hash": "c2b7706784cd6805fe5ac15eec4678a560fd8055446d23d8793ad6d44188a624",
+   "source": "pexels",
+   "seed": 2572139924,
+   "theme": "city",
+   "prompt_subject": "korean urban street",
+   "map_version": null,
+   "pexels_id": 31680631,
+   "pexels_author": "Theodore Nguyen",
+   "category": "F-4비자",
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-status-change-after-korean-schooling-exempt-documents",
+   "generated_at": "2026-11-06T10:04:12.369Z",
+   "version": "1.4"
   }
  }
 }

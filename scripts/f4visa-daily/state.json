@@ -260,6 +260,15 @@
       ],
       "at": "2026-11-05T10:05:05.597Z",
       "batch": "BLOG-STALL-1028-2 (맥4, 맥7 지시 2026-10-28)"
+    },
+    {
+      "slug": "f4-status-change-after-korean-schooling-exempt-documents",
+      "date": "2026-11-06",
+      "locales": [
+        "ko"
+      ],
+      "at": "2026-11-06T10:04:12.388Z",
+      "batch": "BLOG-STALL-1028-2 (맥4, 맥7 지시 2026-10-28)"
     }
   ],
   "rejected": []

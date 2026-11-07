@@ -3424,6 +3424,22 @@
    "slug": "f4-status-change-after-korean-schooling-exempt-documents",
    "generated_at": "2026-11-06T10:04:12.369Z",
    "version": "1.4"
+  },
+  "f5-holder-spouse-minor-child-f2-3-residence": {
+   "hash": "14a5e56e9c6d8a0c95844f66424464c182437c87519c50c89348752e5f835335",
+   "source": "pexels",
+   "seed": 1804456769,
+   "theme": "residence",
+   "prompt_subject": "apartment building entrance",
+   "map_version": null,
+   "pexels_id": 18126506,
+   "pexels_author": "Faheem Ahamad",
+   "category": "영주권",
+   "visa": "F-2",
+   "lang": "ko",
+   "slug": "f5-holder-spouse-minor-child-f2-3-residence",
+   "generated_at": "2026-11-07T10:03:53.667Z",
+   "version": "1.4"
   }
  }
 }

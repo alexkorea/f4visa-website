@@ -2,7 +2,7 @@
 title: "거소증 필요서류 — F-4 재외동포 거소증 신청 서류 체크리스트"
 visa: F-4
 date: "2026-05-23"
-image: "/og/geo-so-jeung-required-documents.png"
+image: "/og/geo-so-jeung-required-documents-r1108.png"
 excerpt: "F-4 비자 거소증 발급에 필요한 서류 목록을 국적별(미국·캐나다·일본·호주 등), 상황별(첫 신청·갱신·분실)로 정리한 체크리스트입니다."
 author: "이시정 대표행정사"
 description: "F-4 거소증 신청은 국적과 상황(첫 신청·갱신·분실·기재변경)에 따라 준비 서류가 달라지며, 한국어능력 입증서류 누락이 반려의 주요 원인입니다. 국적별 체크리스트로 정리했습니다."

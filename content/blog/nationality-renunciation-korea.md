@@ -1,8 +1,8 @@
 ---
 title: "국적이탈 신고 — 선천적 이중국적자 한국 국적 포기 절차"
-visa: "국적이탈"
+visa: "국적"
 date: "2026-05-23"
-image: "/og/nationality-renunciation-korea.png"
+image: "/og/nationality-renunciation-korea-r1108.png"
 excerpt: "선천적 이중국적자(복수국적자)가 한국 국적을 포기(국적이탈)하는 신고 기한, 절차, 필요 서류, 병역 관계를 최신 기준으로 안내합니다."
 author: "이시정 대표행정사"
 description: "선천적 복수국적자의 국적이탈 신고 기한과 병역 관계, 헌법재판소 결정 이후 달라진 예외 인정 기준까지 실무 관점에서 사례 중심으로 정리했습니다."

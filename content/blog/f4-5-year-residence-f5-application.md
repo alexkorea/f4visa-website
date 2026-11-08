@@ -4,7 +4,7 @@ visa: F-5
 date: "2026-05-24"
 category: "영주권"
 excerpt: "F-4에서 바로 신청하는 재외동포 영주(F-5-6)는 5년이 아니라 F-4로 2년 이상 계속 체류하면 신청할 수 있습니다. 생계 요건 6가지, 기본소양 면제, 서류와 심사 포인트를 정리합니다."
-image: "/og/f4-5-year-residence-f5-application.png"
+image: "/og/f4-5-year-residence-f5-application-r1108.png"
 slug: "f4-5-year-residence-f5-application"
 ---
 # F-4 5년 거주해야 F-5? 재외동포 영주(F-5-6) 신청 조건 정리

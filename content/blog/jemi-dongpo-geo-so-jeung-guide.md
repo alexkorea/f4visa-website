@@ -2,7 +2,7 @@
 title: "재미동포 거소증 신청 방법 — 미국 시민권자·영주권자 완전 가이드"
 visa: "F-4"
 date: "2026-05-23"
-image: "/og/jemi-dongpo-geo-so-jeung-guide.png"
+image: "/og/jemi-dongpo-geo-so-jeung-guide-r1108.png"
 excerpt: "미국에 거주하는 재외동포(재미동포)의 거소증 신청 자격, 필요서류, 신청 절차를 미국 시민권자와 영주권자로 나누어 안내합니다."
 author: "이시정 대표행정사"
 description: "재미동포 거소증은 미국 시민권 취득 여부에 따라 자격이 갈립니다. 시민권자·영주권자 차이, 준비 서류, 조기적응프로그램 면제 기준을 실무 기준으로 정리했습니다."

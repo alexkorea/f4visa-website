@@ -3,7 +3,7 @@ title: "F-4 비자 FBI 범죄경력증명서와 아포스티유 — 제출 기�
 date: "2026-10-03"
 category: "F-4비자"
 excerpt: "미국 국적 동포가 F-4를 신청할 때 내는 해외 범죄경력증명서를 정리했습니다. FBI 본부 발급 원칙, 아포스티유, 6개월 유효기간, 면제 대상과 번역본 요건까지 확인하세요."
-image: "/slides/legal-docs.jpg"
+image: "/og/f4-fbi-background-check-apostille-r1108.png"
 slug: "f4-fbi-background-check-apostille"
 ---
 # F-4 비자 FBI 범죄경력증명서와 아포스티유 — 제출 기준 정리

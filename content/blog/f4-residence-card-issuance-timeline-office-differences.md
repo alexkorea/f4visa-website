@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-08-10"
 category: "거소증"
 excerpt: "F-4 거소증 발급 기간은 관할 출입국·외국인관서 사정에 따라 다르며, 사무소 선택과 서류 완성도가 실제 소요시간을 좌우합니다."
-image: "/og/f4-residence-card-issuance-timeline-office-differences.png"
+image: "/og/f4-residence-card-issuance-timeline-office-differences-r1108.png"
 slug: "f4-residence-card-issuance-timeline-office-differences"
 ---
 # F-4 거소증 발급 기간 — 서류 완성도가 소요시간을 가르는 이유

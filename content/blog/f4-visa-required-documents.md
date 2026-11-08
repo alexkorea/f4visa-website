@@ -5,7 +5,7 @@ description: "F-4 비자 최초 신청 시 필요한 서류를 해외 영사관 
 date: "2026-05-23"
 slug: "f4-visa-required-documents"
 author: "이시정 대표행정사"
-image: "/og/f4-visa-required-documents.png"
+image: "/og/f4-visa-required-documents-r1108.png"
 pillar: "f4-visa-eligibility"
 draft: false
 excerpt: "F-4 재외동포 비자 신청에 필요한 서류를 신청 국가(미국·캐나다·일본·호주 등), 신청 방법(영사관·국내)별로 정리한 최신 체크리스트입니다."

@@ -4,7 +4,7 @@ visa: 국적
 date: "2026-08-02"
 category: "국적"
 excerpt: "국적회복 허가까지의 기간은 관할 기관 사정에 따라 다르며, 무범죄경력증명서 유효기간 6개월 관리와 서류 준비 순서가 결과를 좌우합니다."
-image: "/og/nationality-recovery-procedure-timeline-documents-checklist.png"
+image: "/og/nationality-recovery-procedure-timeline-documents-checklist-r1108.png"
 slug: "nationality-recovery-procedure-timeline-documents-checklist"
 ---
 # 국적회복 신청 절차 — 심사가 길어지는 이유와 필요서류 총정리

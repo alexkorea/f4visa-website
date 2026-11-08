@@ -2,7 +2,7 @@
 title: "이중국적 허용 기준 — 한국 이중국적 가능한 경우와 불가능한 경우"
 visa: 국적
 date: "2026-05-23"
-image: "/og/dual-nationality-korea-guide.png"
+image: "/og/dual-nationality-korea-guide-r1108.png"
 excerpt: "한국에서 이중국적이 허용되는 경우(선천적 이중국적·고령자·우수 인재 등)와 국적 선택 의무, 외국 국적 불행사 서약 절차를 기준으로 정리합니다."
 author: "이시정 대표행정사"
 description: "선천적 복수국적자부터 고령 재외동포 국적회복자, 우수인재까지 이중국적이 허용되는 유형별 요건과 서약 절차, 허용되지 않는 예외 사례를 실무 기준으로 정리했습니다."

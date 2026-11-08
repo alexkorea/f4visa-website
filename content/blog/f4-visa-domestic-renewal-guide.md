@@ -7,7 +7,7 @@ excerpt: "F-4 비자 체류기간 연장허가는 언제 신청해야 유리한�
 description: "F-4 체류기간 연장허가는 신청 시기 판단과 거부 사유별 대응이 서류 준비보다 중요한 경우가 많습니다. 체류기간 산정 기준까지 실무 관점에서 정리했습니다."
 pillar: "f4-visa-guide"
 author: "이시정 대표행정사"
-image: "/og/f4-visa-domestic-renewal-guide.png"
+image: "/og/f4-visa-domestic-renewal-guide-r1108.png"
 draft: false
 ---
 

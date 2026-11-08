@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-08-05"
 category: "F-4비자"
 excerpt: "F-4 재외동포 비자로 일할 수 있는 업종과 단순노무 등 제한 업종의 구분 기준, 인구감소지역 예외, 위반 시 불이익까지 실무 기준으로 정리했습니다."
-image: "/og/f4-visa-allowed-restricted-job-categories.png"
+image: "/og/f4-visa-allowed-restricted-job-categories-r1108.png"
 slug: "f4-visa-allowed-restricted-job-categories"
 ---
 # F-4 단순노무 판단 기준과 인구감소지역 예외

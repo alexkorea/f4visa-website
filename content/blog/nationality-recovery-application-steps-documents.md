@@ -4,7 +4,7 @@ visa: 국적
 date: "2026-08-10"
 category: "국적"
 excerpt: "국적회복 허가까지의 기간은 관할 기관 사정에 따라 다르며, 무범죄경력증명서 유효기간과 국적상실 정리 여부에서 심사가 갈리는 실무 절차를 순서대로 정리했습니다."
-image: "/og/nationality-recovery-application-steps-documents.png"
+image: "/og/nationality-recovery-application-steps-documents-r1108.png"
 slug: "nationality-recovery-application-steps-documents"
 ---
 # 국적회복 신청 절차 — 접수부터 허가까지, 필요서류 총정리

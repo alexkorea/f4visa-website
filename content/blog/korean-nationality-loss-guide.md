@@ -1,8 +1,8 @@
 ---
 title: "국적상실 신고 방법 — 외국 국적 취득 후 한국 국적 처리 가이드"
-visa: "국적상실"
+visa: "국적"
 date: "2026-05-23"
-image: "/og/korean-nationality-loss-guide.png"
+image: "/og/korean-nationality-loss-guide-r1108.png"
 excerpt: "외국 국적을 자동 취득하거나 귀화 신청으로 한국 국적을 상실한 경우 국적상실 신고 절차, 필요 서류, 기한을 기준으로 정리합니다."
 author: "이시정 대표행정사"
 description: "외국 국적을 자진 취득해 한국 국적을 상실한 경우의 신고 의무자, 기한, 서류, 절차와 병역·재입국 문제까지 사안별 유의사항 중심으로 정리했습니다."

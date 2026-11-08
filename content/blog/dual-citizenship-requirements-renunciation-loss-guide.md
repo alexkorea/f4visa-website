@@ -4,7 +4,7 @@ visa: 국적
 date: "2026-08-01"
 category: "국적"
 excerpt: "외국국적불행사 서약으로 복수국적이 허용되는 조건과 국적이탈·국적상실의 차이, 신고 절차와 F-4 비자 연결까지 실무 기준으로 정리했습니다."
-image: "/og/dual-citizenship-requirements-renunciation-loss-guide.png"
+image: "/og/dual-citizenship-requirements-renunciation-loss-guide-r1108.png"
 slug: "dual-citizenship-requirements-renunciation-loss-guide"
 ---
 # 복수국적 허용 조건과 국적이탈·국적상실 차이 — 실무에서 갈리는 지점

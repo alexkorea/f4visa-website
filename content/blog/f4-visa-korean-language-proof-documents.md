@@ -3,7 +3,7 @@ title: "재외동포(F-4) 한국어능력 입증서류, TOPIK 1급 없이 사회
 date: "2026-10-08"
 category: "F-4비자"
 excerpt: "F-4 사증·거소신고·연장·자격변경 때 내는 한국어능력 입증서류의 종류(TOPIK 1급, 사회통합프로그램, 세종학당, 한국교육원), 유효기간, 면제 대상, 체류기간 차이를 정리했습니다."
-image: "/og/f4-visa-korean-language-proof-documents.png"
+image: "/og/f4-visa-korean-language-proof-documents-r1108.png"
 slug: "f4-visa-korean-language-proof-documents"
 ---
 # 재외동포(F-4) 한국어능력 입증서류, TOPIK 1급 없이 사회통합프로그램·세종학당으로 되나요?

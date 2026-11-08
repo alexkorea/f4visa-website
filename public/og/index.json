@@ -31,7 +31,10 @@
    "lang": "ko",
    "slug": "f4-visa-eligible-jobs",
    "generated_at": "2026-09-22T06:07:32.886Z",
-   "version": "1.4"
+   "version": "1.4",
+   "title": "F-4 재외동포 비자 취업 가능 직종 완벽 가이드",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-extension-guide": {
    "hash": "eb902225a4ad40306c7e04ddddd67c69739bfd3a8cb4228056ffc3c0d6429531",
@@ -47,7 +50,10 @@
    "lang": "ko",
    "slug": "f4-visa-extension-guide",
    "generated_at": "2026-09-22T06:07:33.802Z",
-   "version": "1.4"
+   "version": "1.4",
+   "title": "F-4 재외동포 비자 연장 방법 완벽 가이드 — 서류·기간·절차",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "dongpo-property-purchase-tax-process-guide": {
    "hash": "165d9acb1975539ba90e9d9082dcdef55cf26da0742cfdff46e2fb3b6a395e2c",
@@ -63,7 +69,10 @@
    "lang": "ko",
    "slug": "dongpo-property-purchase-tax-process-guide",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "재외동포 부동산 취득세 — 세율·과세표준·계산법",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "dual-citizenship-conditions-nationality-departure-loss-difference": {
    "hash": "b5509bc05a7066d9561378441f61be4db7c16fd073045dc6af7e68ca3293c423",
@@ -95,7 +104,10 @@
    "lang": "ko",
    "slug": "dual-citizenship-korea-eligibility-renunciation-loss",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "복수국적 허용 조건 총정리 — 국적이탈과 국적상실은 여기서 갈립니다",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "dual-citizenship-permission-criteria-renunciation-vs-loss": {
    "hash": "3de3f7a8ab9bbb0872f7fdc44fc9afe85f27c554bad32066bf6651fd5c43778d",
@@ -239,7 +251,10 @@
    "lang": "ko",
    "slug": "f4-address-change-notification",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 거소증 주소 변경 신고 방법 — 기한·서류·절차 총정리",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-bukmi-dongpo": {
    "hash": "142f296024ec116f1a3ece3f94044ea3ac07449844bbf002e25777d984ec2621",
@@ -255,7 +270,10 @@
    "lang": "ko",
    "slug": "f4-bukmi-dongpo",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "미국·캐나다 재외동포 F-4 비자 신청 실무 — 자격 요건부터 서류까지",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-children-f3-school-age-education-benefits": {
    "hash": "fb19c9d1c0b9ed2387ad8f1e3e2d6f5c7ff8b802aab790573fe11538f8b63b0b",
@@ -271,7 +289,10 @@
    "lang": "ko",
    "slug": "f4-children-f3-school-age-education-benefits",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 자녀 학령기 F-3 교육 혜택 완전정리 기준",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-cis-overseas-korean-special-procedures": {
    "hash": "5870837f859b6ae5ace5b1fa77332e62acdae05f5ad437eecc0053a335c48fcd",
@@ -287,7 +308,10 @@
    "lang": "ko",
    "slug": "f4-cis-overseas-korean-special-procedures",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 CIS 재외동포 특별 절차 완벽 가이드",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-conversion-from-e1-e3-professor-researcher": {
    "hash": "24b7e52754ba1a26bbd21e1d627c6f924049a9f73df219c6101b523d47398be5",
@@ -303,7 +327,10 @@
    "lang": "ko",
    "slug": "f4-conversion-from-e1-e3-professor-researcher",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 교수·연구원 E-1 E-3 전환 절차와 실무 포인트",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+콘택트시트 육안(OCR 잡음) 2026-11-08"
   },
   "f4-domestic-residence-filing-steps": {
    "hash": "6f1615add3a57812acbc884149d58b77e30bf916873e4a4c3e4fe7a9bd64df39",
@@ -319,7 +346,10 @@
    "lang": "ko",
    "slug": "f4-domestic-residence-filing-steps",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 소지자 국내거소신고 절차 완벽 가이드",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-driver-license-exchange-acquisition": {
    "hash": "664164d0b99b518ee1d741a40c9e3f5c28cb5076ec7b3c6fb4ac99ca47339d4c",
@@ -335,7 +365,10 @@
    "lang": "ko",
    "slug": "f4-driver-license-exchange-acquisition",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 운전면허 교환과 신규 취득, 실무 절차 한눈에 정리",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-eligibility-overseas-korean-scope": {
    "hash": "a6432b560a9239ae4be2b6609f54904e8406aba66a9acb808182f77de16183f7",
@@ -351,7 +384,10 @@
    "lang": "ko",
    "slug": "f4-eligibility-overseas-korean-scope",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 신청 자격과 재외동포 범위 총정리",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-family-invitation-f1-dependent-visa": {
    "hash": "c393524cff34e6f45df41232b643415033838291abae3ada4f23326fb45bdecd",
@@ -367,7 +403,10 @@
    "lang": "ko",
    "slug": "f4-family-invitation-f1-dependent-visa",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 가족초청 F-1 동반비자 발급 완벽 가이드",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-geosojeung-daehaeng-minimum-stay": {
    "hash": "0f4442f81c89e56ea6c9fbaf7a533064b9161912ba53857f44627f9e818c205a",
@@ -447,7 +486,10 @@
    "lang": "ko",
    "slug": "f4-holder-resident-registration-possibility",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 거소증 소지자 주민등록 가능 여부 완전 정리",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-ilbon-dongpo": {
    "hash": "c194d8b02829b8b363f204d9443f4c93a5948ccaaf87080503a924896d893bd7",
@@ -463,7 +505,10 @@
    "lang": "ko",
    "slug": "f4-ilbon-dongpo",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "일본 거주 재외동포 F-4 비자 신청 가이드 — 특별영주자·일반영주자 구분",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-income-requirement-f5-permanent-residency": {
    "hash": "276afed77b21d07ccd3137284bdb2dd5fb0a04d71b83fce8c71480f02160de28",
@@ -479,7 +524,10 @@
    "lang": "ko",
    "slug": "f4-income-requirement-f5-permanent-residency",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 소득과 F-5 영주권 기준, 실제 심사에서 갈리는 지점",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-korean-chinese-requirements-guide": {
    "hash": "7adc85fce9c3cc473ab5a30b7ae39e4bb5570c622218c28680dd3293c006a03a",
@@ -495,7 +543,10 @@
    "lang": "ko",
    "slug": "f4-korean-chinese-requirements-guide",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 조선족 신청 요건과 주의점 — 실무에서 가장 많이 막히는 지점",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-koryoin-application-guide": {
    "hash": "354ddaa922d842970c5e8015099f1b4eaee4111bcd30d78025294236a14737ae",
@@ -511,7 +562,10 @@
    "lang": "ko",
    "slug": "f4-koryoin-application-guide",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 고려인 신청 자격과 서류 완벽 정리",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-long-departure-reentry-rules": {
    "hash": "9123d41739beffe914b8352dc323409e257c6ad7ea239a78af5091d6cd1d8c29",
@@ -527,7 +581,10 @@
    "lang": "ko",
    "slug": "f4-long-departure-reentry-rules",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 장기 출국 유의사항과 재입국 — 거소증 유지부터 재입국허가까지",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-overseas-korean-residence-registration": {
    "hash": "10b8117cee452cb3fa08c35e00d8e6e60f4ffac6da06898ce21a77d74b0ac648",
@@ -575,7 +632,10 @@
    "lang": "ko",
    "slug": "f4-overseas-residence-card-remote-application-guide",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "해외 거소증 신청, 한국 입국 없이 원격으로 가능한가",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-parent-invitation-f1-5-visa": {
    "hash": "26755fcdf0bebedd17135ede53f193ba9898195f00055a13b6f67333f7bef65e",
@@ -591,7 +651,10 @@
    "lang": "ko",
    "slug": "f4-parent-invitation-f1-5-visa",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 부모 초청 F-1-5 비자 신청 완벽 가이드",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-real-estate-acquisition-tax-guide": {
    "hash": "4fc59dd7d80dc62d1f6bd805976030e17b83f8dad996a18f660de70c2001255e",
@@ -607,7 +670,10 @@
    "lang": "ko",
    "slug": "f4-real-estate-acquisition-tax-guide",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 부동산 취득세 절차와 세율 가이드",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-reentry-permit-exemption": {
    "hash": "6287ce2275967e62f5bc4b08b3df33955922bb5953fd84b17785ad02d0be626e",
@@ -623,7 +689,10 @@
    "lang": "ko",
    "slug": "f4-reentry-permit-exemption",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 재입국허가 면제와 유효기간 완벽 정리",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-renewal-documents-process-checklist": {
    "hash": "402bbdbba82b83157a40bf86c8ee7a8e34bcf64c83f849c4621deedc13d0d539",
@@ -703,7 +772,10 @@
    "lang": "ko",
    "slug": "f4-residence-card-agency-minimum-stay-korea-guide",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 거소증 신청대행 — 한국 최소 체류로 발급받는 방법",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+콘택트시트 육안(OCR 잡음) 2026-11-08"
   },
   "f4-residence-card-agency-minimum-stay-korea": {
    "hash": "e82a9ffc060bb1572e57895691eb5bcf4617cc5d35f944e90529a7cf06595e5e",
@@ -783,7 +855,10 @@
    "lang": "ko",
    "slug": "f4-residence-card-application-guide",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 재외동포 거소증 신청 방법: 서류·기간·비용 완벽 가이드",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-residence-card-issuance-period-by-immigration-office": {
    "hash": "67910bcdaf9fc76135bb22490d42ab9fe26d86c7bd91ff82cf1f6a675d71061d",
@@ -879,7 +954,10 @@
    "lang": "ko",
    "slug": "f4-residence-card-processing-time-by-office",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 거소증 발급 기간 완벽 비교 — 출입국사무소별 소요시간 차이",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-residence-card-proxy-minimum-stay-issuance": {
    "hash": "e18114ec303c124abd7462dc4714784c82002e42e94239a8fbf7d5e3303f6a09",
@@ -943,7 +1021,10 @@
    "lang": "ko",
    "slug": "f4-sojourn-extension",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 체류기간 연장 신청 방법 (출입국관리법 기준",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-spouse-f3-visa-application": {
    "hash": "8751117fc1e59f3dfcc9f1e75a3560208c74795ebdf7bf428fa7284dadda28f4",
@@ -975,7 +1056,10 @@
    "lang": "ko",
    "slug": "f4-to-f5-eligibility-requirements",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자에서 F-5 영주권 전환 요건 완벽 정리",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-to-f5-permanent-residence": {
    "hash": "fa89e59978849d7f31b3c4642e33769dc5b3bfb9b810b1ac46e52f35d4b23db3",
@@ -991,7 +1075,10 @@
    "lang": "ko",
    "slug": "f4-to-f5-permanent-residence",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 재외동포 비자에서 F-5 영주권 전환 완벽 가이드",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-to-f5-permanent-residency-conversion": {
    "hash": "b7b9dd498c6a0a6f793cabc5b8de379c164d56b39323688af12817c1cf78b78a",
@@ -1023,7 +1110,10 @@
    "lang": "ko",
    "slug": "f4-to-f5-points-requirement",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4에서 F-5 영주권 전환 점수 요건과 계산법",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-address-registration": {
    "hash": "08c72b0e69f25ce109cd12fdcf65ae81dac62e5370c689a599ead250f8a9f46d",
@@ -1039,7 +1129,10 @@
    "lang": "ko",
    "slug": "f4-visa-address-registration",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 재외동포 비자 외국인 등록과 거주지 신고 의무",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-age-25-requirement-explained": {
    "hash": "03dd0721c742a60451ab4704a46cdfa8a96a91ee99b54d607b358f94905b6933",
@@ -1055,7 +1148,10 @@
    "lang": "ko",
    "slug": "f4-visa-age-25-requirement-explained",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 만 25세 이상 요건, 병역과 얽혀 꼬이는 실무 포인트",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-allowed-jobs-restricted-industries": {
    "hash": "14177ad94e57b7f36962041192eee3cb8db6730fdf4a1ba65bce94a7f034b14f",
@@ -1071,7 +1167,10 @@
    "lang": "ko",
    "slug": "f4-visa-allowed-jobs-restricted-industries",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 취업 허용 직종과 업종 제한 — 단순노무 금지 기준 실무 정리",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-allowed-restricted-job-categories": {
    "hash": "e3a0e11031251482c0527fec40d21f4aa91cd6d2381ae9d21a54b5daa6de6596",
@@ -1135,7 +1234,10 @@
    "lang": "ko",
    "slug": "f4-visa-application-documents-checklist",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 재외동포 비자 신청 서류 체크리스트 (미국·캐나다·호주",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-application-eligibility-documents-complete": {
    "hash": "5ba9d5be455ef9ed90ec066d808e57ad596db4bba4868587a18ad7e7ebc0cf83",
@@ -1167,7 +1269,10 @@
    "lang": "ko",
    "slug": "f4-visa-banking-account-opening",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 소지자 금융 거래 계좌 개설 실무 가이드",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-business-registration-korea": {
    "hash": "8aae234ca614adacd23cbee180d7d24d26a813280b3854f52c24499383f408cb",
@@ -1183,7 +1288,10 @@
    "lang": "ko",
    "slug": "f4-visa-business-registration-korea",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 재외동포 비자로 한국에서 사업자등록 가능한가? 실무 정리",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-business-registration-procedure": {
    "hash": "2c6a669cf06f135db1db7a1b01d9129503e0f83595524058add50786e21de285",
@@ -1199,7 +1307,10 @@
    "lang": "ko",
    "slug": "f4-visa-business-registration-procedure",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 사업자등록 가능 여부와 절차 완벽 정리",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-business-registration": {
    "hash": "594abe25579c3a88d561380bb6935eb5ca226eb74ee564605c81d91113c03728",
@@ -1231,7 +1342,10 @@
    "lang": "ko",
    "slug": "f4-visa-canada-citizen-eligibility",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "캐나다 시민권자 재외동포 자격확인서 발급과 F-4 비자 신청",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-children-school-enrollment": {
    "hash": "192f409404144846d6c578676f66fa99841fafccee5caf915550e4310822a8c8",
@@ -1247,7 +1361,10 @@
    "lang": "ko",
    "slug": "f4-visa-children-school-enrollment",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 소지자 자녀 국내 초·중·고 입학 가이드",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-chinese-koreans": {
    "hash": "6bb924dba578cae89ae4de3ebaf60738e69f55abaac620d6c5f45f2dc724c983",
@@ -1263,7 +1380,10 @@
    "lang": "ko",
    "slug": "f4-visa-chinese-koreans",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 중국동포 신청 자격과 제한 완벽 정리",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-credit-card-loan-qualification": {
    "hash": "5c9bb39e7a9dec8182e38b183fec99ab698554fd628bc57c4304122c45919d31",
@@ -1279,7 +1399,10 @@
    "lang": "ko",
    "slug": "f4-visa-credit-card-loan-qualification",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 신용카드 발급과 대출 자격 실무 가이드",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-document-checklist-guide": {
    "hash": "4cdc510cd3f2e29fa7506d1064c4769593763dd7033d52b32d305eeb863f1622",
@@ -1295,7 +1418,10 @@
    "lang": "ko",
    "slug": "f4-visa-document-checklist-guide",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 신청 필수서류 체크리스트 완벽 정리",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-domestic-renewal-guide": {
    "hash": "477d941dc3a54981e7ba2e22b1cbc1bb87599a0831bc538de9399f1b30af0e0d",
@@ -1327,7 +1453,10 @@
    "lang": "ko",
    "slug": "f4-visa-eligibility-check",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 재외동포 비자 신청 자격 완전 정리 최신",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-eligibility-documents-complete-guide": {
    "hash": "ec1fe9f894bfa7c2d2893624e97f74aa73449477d92556e1b093e317df111f1e",
@@ -1407,7 +1536,10 @@
    "lang": "ko",
    "slug": "f4-visa-eligibility-required-documents-full-guide",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 신청 자격 완벽 가이드 — 재외동포 필요서류와 심사 기준",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-eligibility": {
    "hash": "980fa27ce697f4f4ad6574ae47cd6c699a07b161699f7ede0b9c4dd39557d8a8",
@@ -1423,7 +1555,10 @@
    "lang": "ko",
    "slug": "f4-visa-eligibility",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 재외동포 비자 신청 자격 완벽 가이드 — 미국·캐나다·호주 동포 필독",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-employment-activities-guide": {
    "hash": "ef1db4bb9a43d7f44df506bfa33310ce18faa03372b5c2daf7174b00936d34fa",
@@ -1439,7 +1574,10 @@
    "lang": "ko",
    "slug": "f4-visa-employment-activities-guide",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 재외동포 비자 취업 활동 범위와 제한 직종 안내",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-employment-permitted-jobs": {
    "hash": "4434c23e874c8d6acac2f5545988bac5cd0ff23ca82e3a4b88fc67a994b5d7bc",
@@ -1487,7 +1625,10 @@
    "lang": "ko",
    "slug": "f4-visa-employment-work-rights",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 취업·사업 활동 범위와 제한사항",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-expiry-reentry-procedure": {
    "hash": "cf3b4e6ad6c7f87b400213d71ec0c5a3674dff5501ba1568d9497cfb21cdfbf7",
@@ -1503,7 +1644,10 @@
    "lang": "ko",
    "slug": "f4-visa-expiry-reentry-procedure",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 만료 후 재입국 절차 완벽 가이드 - 거소증 만료자가 꼭 알아야 할 실무",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-extension-procedure": {
    "hash": "22c65d842c1d497489c2dd694f284da28c0fc607b963b0a0bb5a844cd440eec4",
@@ -1519,7 +1663,10 @@
    "lang": "ko",
    "slug": "f4-visa-extension-procedure",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 재외동포 비자 연장 절차 — 만료 전 체크리스트",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-f5-conversion": {
    "hash": "a23a12a038a162bc92b61ad16b4b078b10c3bb53965d1d09be560c8cb1b44b6f",
@@ -1551,7 +1698,10 @@
    "lang": "ko",
    "slug": "f4-visa-family-entry-guide",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 가족 동반 입국 방법과 체류 자격",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-freelance-activities": {
    "hash": "1d74c6c522cfb61906af22b83ee01427343aebc357ca8167056d4b14109689cc",
@@ -1567,7 +1717,10 @@
    "lang": "ko",
    "slug": "f4-visa-freelance-activities",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 프리랜서 활동 가능 범위 완벽 정리: 실무에서 막히는 지점까지",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-goso-registration": {
    "hash": "817af64d5fbdc7c3a7caf878cc083a8f163ea9df9ddb2ad640c9918bdc8a95f9",
@@ -1583,7 +1736,10 @@
    "lang": "ko",
    "slug": "f4-visa-goso-registration",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 재외동포 거소증 신청 절차 — 외국인등록과의 차이점",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-guide": {
    "hash": "6f3a23982d0edf614d6eac31b96a75f4144e307ec588aa21446bd4d64c70c86c",
@@ -1599,7 +1755,10 @@
    "lang": "ko",
    "slug": "f4-visa-guide",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 신청 완벽 가이드: 자격요건부터 발급까지",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-health-insurance-obligation-premium": {
    "hash": "d1e0678d333840d3052ed8030947ed79c07bc7b4aa65002fa0c7f7ecb6b4f79a",
@@ -1631,7 +1790,10 @@
    "lang": "ko",
    "slug": "f4-visa-health-insurance",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 재외동포 비자 건강보험 가입 방법 — 직장·지역 가입 비교",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-japan-employment-scope": {
    "hash": "e9bb23a1b41678db560e144f2facea95c6847b11e80037991c015b7f71c98557",
@@ -1647,7 +1809,10 @@
    "lang": "ko",
    "slug": "f4-visa-japan-employment-scope",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "일본 재외동포 F-4 비자 — 취업 범위와 주의사항",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-military-service": {
    "hash": "f0b56cb4dccef0d0c68eebdb390bc0e331ae6a4397d80f5d945ffe1d1e78766d",
@@ -1663,7 +1828,10 @@
    "lang": "ko",
    "slug": "f4-visa-military-service",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자와 병역의무: 남성 재외동포가 반드시 알아야 할 사항",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-national-pension-enrollment": {
    "hash": "e648c2e58dfe8adcd0ba1b4efebd2f01d2c7c95f4985f2bf648d393a5e2deccd",
@@ -1679,7 +1847,10 @@
    "lang": "ko",
    "slug": "f4-visa-national-pension-enrollment",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 국민연금 가입 대상 여부 완벽 정리",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-overseas-korean-eligibility": {
    "hash": "58edb7db3cef64926edde856e11f432d1b8f2c1aca31ab8ce5aba92fce90de86",
@@ -1695,7 +1866,10 @@
    "lang": "ko",
    "slug": "f4-visa-overseas-korean-eligibility",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 신청 자격 완벽 정리 — 재외동포 해당 여부 확인",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-overseas-vs-domestic-application-comparison": {
    "hash": "e533e59db0662732c461f156a382a7f241f330e3bded860307542b14cfedbf02",
@@ -1727,7 +1901,10 @@
    "lang": "ko",
    "slug": "f4-visa-passport-renewal",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 재외동포 비자 여권 만료 시 체류자격 갱신 방법",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-permitted-restricted-industries-complete": {
    "hash": "9ba5f3125a0abd1cbcb54da2c88a408471475edfa147f1848b797d85d8a06d18",
@@ -1775,7 +1952,10 @@
    "lang": "ko",
    "slug": "f4-visa-qualification-required-papers-master-guide",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 신청 자격과 필요서류 완벽 가이드",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-real-estate-purchase-guide": {
    "hash": "b000fb8b3d0431ee93b88eb3507619c1e538b406d3e1eb8f37267444045952ed",
@@ -1791,7 +1971,10 @@
    "lang": "ko",
    "slug": "f4-visa-real-estate-purchase-guide",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "재외동포 F-4 비자로 한국 부동산 취득 방법",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-renewal-complete-guide": {
    "hash": "3fe4b8dfe8b54e2bcf0a3dbdb94934e0857a3d657f6ec3c9a6ad15d4c13379a2",
@@ -1807,7 +1990,10 @@
    "lang": "ko",
    "slug": "f4-visa-renewal-complete-guide",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 재외동포 비자 갱신 완벽 가이드",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-renewal-document-list-and-process-guide": {
    "hash": "98f91750dd65318c496277d398135a83d83a58ff393151891530c15ca0f1aa97",
@@ -1823,7 +2009,10 @@
    "lang": "ko",
    "slug": "f4-visa-renewal-document-list-and-process-guide",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 갱신 서류 — 준비 목록과 절차, 실제로 걸리는 부분까지",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-renewal-documents-full-process": {
    "hash": "651d80c2da12b26671d76f809f438b3155cc6478245dfd8b49ec12a1fd83e8e5",
@@ -1839,7 +2028,10 @@
    "lang": "ko",
    "slug": "f4-visa-renewal-documents-full-process",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 갱신 서류 — 준비 목록과 절차, 놓치기 쉬운 부분까지",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-renewal-documents-procedure-latest": {
    "hash": "83272f2429c35601d6864a0cc15244e9ad55c373d2744c776f3e604dd858829f",
@@ -1855,7 +2047,10 @@
    "lang": "ko",
    "slug": "f4-visa-renewal-documents-procedure-latest",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 갱신 서류와 절차 — 최신 기준 완벽 정리",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-renewal-documents-procedure-update": {
    "hash": "045f3d34a1e957927ad00c64991b6919832cc1ffb8bcd370a1ee138e76961a4b",
@@ -1903,7 +2098,10 @@
    "lang": "ko",
    "slug": "f4-visa-renewal-paperwork-immigration",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 갱신 서류 — 실무에서 막히는 지점과 최신 절차",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-renewal-preparation-immigration-guide": {
    "hash": "d08b9cf5d99c4e55dc9b40c87df465cf1ffbce77254d864202210adc1b5a5d57",
@@ -1951,7 +2149,10 @@
    "lang": "ko",
    "slug": "f4-visa-renewal-procedure",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 갱신 절차와 기간 안내",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-renewal": {
    "hash": "89a4c3c785c9115a815465295892dff4acbadea13013c804e911336dc7ec2bcd",
@@ -1967,7 +2168,10 @@
    "lang": "ko",
    "slug": "f4-visa-renewal",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 재외동포 비자 갱신 완벽 가이드 — 체류 기간 연장 실무 절차",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-required-documents-checklist": {
    "hash": "e48359f2995ea4685a36cdd725b2d1744dcb9ff0ed3784a3f646b395d96fccb3",
@@ -1983,7 +2187,10 @@
    "lang": "ko",
    "slug": "f4-visa-required-documents-checklist",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 신청 필수서류 체크리스트 — 실무에서 가장 많이 막히는 서류와 발급 순서",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-required-documents-complete": {
    "hash": "44868c04c047a586f536f2c8e3df7be86ea4291b11db23b9c441ee6b58d3747c",
@@ -1999,7 +2206,10 @@
    "lang": "ko",
    "slug": "f4-visa-required-documents-complete",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 신청 서류 완벽 가이드 : 재외동포 거소증 발급까지",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-required-documents": {
    "hash": "90051adaf059a7e19da02372ab01896f991a5cf0db4a04a72bfb7d7613dbb965",
@@ -2031,7 +2241,10 @@
    "lang": "ko",
    "slug": "f4-visa-requirements",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 신청 요건 완벽 가이드 — 재외동포 취업 자격 총정리",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-simple-labor-prohibited-jobs": {
    "hash": "d1e7dd26444f95a2c16e40a232aa1f771ace10cd4bd75dc61da1a2c153602aed",
@@ -2047,7 +2260,10 @@
    "lang": "ko",
    "slug": "f4-visa-simple-labor-prohibited-jobs",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 단순노무 업종 취업 금지 주의 — 자격 박탈로 이어지는 실무 함정",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-simple-labor-restriction": {
    "hash": "17c8fb5e92d76d49983564dd6712ac1a3454bec2d299004ff2d83613a1178ac8",
@@ -2063,7 +2279,10 @@
    "lang": "ko",
    "slug": "f4-visa-simple-labor-restriction",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 단순노무 취업 금지 — 위반 시 처벌과 대처 방법",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-spouse-child-accompanying-visa": {
    "hash": "6525c1fcb4dd3e956d19d7149ee3a6f8ac28f3fc729dfb6f3cb0333528ffb6a6",
@@ -2079,7 +2298,10 @@
    "lang": "ko",
    "slug": "f4-visa-spouse-child-accompanying-visa",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 배우자·자녀 동반 비자 신청 완전 가이드 (F-3·F-1",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-stay-period-extension-guide": {
    "hash": "e8ab274c024ef62d5263391ac9b8b0810c0bfd5ac52a4b42fdc2c03f421324b5",
@@ -2095,7 +2317,10 @@
    "lang": "ko",
    "slug": "f4-visa-stay-period-extension-guide",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 체류기간 연장 완전 가이드 (신청 방법·서류·주의사항",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-tax-obligations-comprehensive-income": {
    "hash": "499cac5d302772f64e297c7d57f05829748db3a3d1242d47c30e6ed5823b3afc",
@@ -2111,7 +2336,10 @@
    "lang": "ko",
    "slug": "f4-visa-tax-obligations-comprehensive-income",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 종합소득세 신고 의무 완벽정리",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-to-f5-permanent-residency-2": {
    "hash": "bab16fffbb2cf0069cebd9cc55098b8055b1adecac4a3ff30e9a3a896c5fcd56",
@@ -2143,7 +2371,10 @@
    "lang": "ko",
    "slug": "f4-visa-us-citizens",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 미국 시민권자 신청 절차 완벽 가이드",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-us-permanent-resident-guide": {
    "hash": "b58710e0ba09f04831cac8ac914a5d47f36b0b0c2eb5e0bb91ea0fe55da0a24c",
@@ -2159,7 +2390,10 @@
    "lang": "ko",
    "slug": "f4-visa-us-permanent-resident-guide",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "미국 영주권자 F-4 재외동포 비자 신청 방법",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-us-pr-documents": {
    "hash": "173a7adf76e25af68b0cad2168136175fc36775de9205b2b9eee139aa04960b1",
@@ -2175,7 +2409,10 @@
    "lang": "ko",
    "slug": "f4-visa-us-pr-documents",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 재외동포 비자 서류 완전 가이드 — 미국 영주권자 기준",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-work-industry-scope-guide": {
    "hash": "124885772a11ce504b58c3d8320f6402b3bb0b6cc947676e1704502fe6deba1b",
@@ -2223,7 +2460,10 @@
    "lang": "ko",
    "slug": "f4-visa-work-permitted-vs-prohibited-fields",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 취업 가능 업종과 제한 업종 총정리",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-vs-h2-visa-chinese-koreans-comparison": {
    "hash": "ab401b9921b9e8da3bc354adb7b80f8cdfac96fe4a015865a0b5b0de92796b22",
@@ -2239,7 +2479,10 @@
    "lang": "ko",
    "slug": "f4-vs-h2-visa-chinese-koreans-comparison",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-4 비자 중국동포 H-2 F-4 차이 비교 — 실무로 보는 선택 기준",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+콘택트시트 육안(OCR 잡음) 2026-11-08"
   },
   "f4-yureop-ho-gallsin": {
    "hash": "cba7b315b35fde336bf02715a95dd8ce2b890bb68654e01d7ff12600ee0c844f",
@@ -2255,7 +2498,10 @@
    "lang": "ko",
    "slug": "f4-yureop-ho-gallsin",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "유럽·호주 재외동포 F-4 비자 갱신 실무 — 장기 체류자 체크리스트",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f5-permanent-residency-documents-review-guide": {
    "hash": "c4c0726f3b2f9c3abb10ac80ba0f99641df30f7da31516c64b3a97b273859a86",
@@ -2271,7 +2517,10 @@
    "lang": "ko",
    "slug": "f5-permanent-residency-documents-review-guide",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "F-5 영주권 신청 서류와 심사 — F-4 거소증 보유자의 전환 실무",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+콘택트시트 육안(OCR 잡음) 2026-11-08"
   },
   "geo-so-jeung-guide": {
    "hash": "62ab7f5cf11cdecef5213174877cb367f5b054e4933d531ab69d2605800731a2",
@@ -2319,7 +2568,10 @@
    "lang": "ko",
    "slug": "geosojeung-f4-guide",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "거소증 신청 완전가이드 — F-4 재외동포 거소증 서류·발급기간·수수료",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "goso-jeung-overseas-remote-proxy-application": {
    "hash": "3281294ee983f28184abbf2a9d3408793f488afe93d459157c51ce308f0bd05f",
@@ -2335,7 +2587,10 @@
    "lang": "ko",
    "slug": "goso-jeung-overseas-remote-proxy-application",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "해외 거소증 신청, 원격 대행으로 어디까지 가능한가",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "goso-jeung-remote-application-from-abroad": {
    "hash": "e53c14a37e78c4da4b1a35b5e5b8cb9a0a4c736351de86b638bcbf0160529545",
@@ -2351,7 +2606,10 @@
    "lang": "ko",
    "slug": "goso-jeung-remote-application-from-abroad",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "해외 거소증 신청 가능한가 — 원격 대행으로 처리하는 방법",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+콘택트시트 육안(OCR 잡음) 2026-11-08"
   },
   "jaeil-gyopo-f4-visa-application-guide": {
    "hash": "d686e1960ceae6d7f29e9ef1fcd03d5c4142e1c451f7971b65558f4f29a21279",
@@ -2367,7 +2625,10 @@
    "lang": "ko",
    "slug": "jaeil-gyopo-f4-visa-application-guide",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "재일교포 F-4 비자 신청 가이드 — 자격·서류·절차 총정리",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "jaemi-gyopo-f4-visa-application-guide": {
    "hash": "abb57f2117c1aeec1dba627ba38e6f629f8755d5de7f6d1971f6b550102932e3",
@@ -2383,7 +2644,10 @@
    "lang": "ko",
    "slug": "jaemi-gyopo-f4-visa-application-guide",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "재미교포 F-4 비자 신청 방법 — 자격·서류·절차 완벽 가이드",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "jemi-dongpo-geo-so-jeung-guide": {
    "hash": "018360781921e0f58a22f6db52ec6890f0faf77a6b9c0e046888f51e2be9c91c",
@@ -2479,7 +2743,10 @@
    "lang": "ko",
    "slug": "nationality-loss-filing-3day-checklist",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "국적상실 신고 절차 완벽 정리 — 3일이면 완료되는 실무 가이드",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "nationality-loss-report-3day-complete-procedure": {
    "hash": "961cccb87728a439e6044c9ea25b1781c298601ddd881b320fb94a5b8af8f7fc",
@@ -2543,7 +2810,10 @@
    "lang": "ko",
    "slug": "nationality-loss-report-overseas",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "재외동포 국적상실 신고 의무 기한 완벽 정리",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "nationality-loss-report-procedure-3days": {
    "hash": "8588a43aca202cc939d5f318a0ea51c87665f598d6774090d80c9af8238efb38",
@@ -2575,7 +2845,10 @@
    "lang": "ko",
    "slug": "nationality-loss-report-required-documents-guide",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "국적상실 신고 절차와 필요서류 — 서류만 맞으면 3일이면 완료",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "nationality-recovery-application-8months-documents": {
    "hash": "528bfd2d87ec1de66d0f12708edda9721194384569399a8e9c2297f2915cf42f",
@@ -2623,7 +2896,10 @@
    "lang": "ko",
    "slug": "nationality-recovery-minor-children-accompanying",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "재외동포 국적회복 미성년 자녀 동반 완벽 가이드",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "nationality-recovery-permit-8months-documents-guide": {
    "hash": "ca6befd43b231e751980043083979f0e2b8b1114ea7c0024158a98edf8153d0d",
@@ -2671,7 +2947,10 @@
    "lang": "ko",
    "slug": "nationality-recovery-review-criteria-period",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "재외동포 국적회복 심사 기준과 기간, 실제 통과 라인은 어디인가",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "nationality-recovery": {
    "hash": "4a15cf8e95e7b6b31561c57184ce3cf3c7184589aaf32e1ba817cf9dfbc5d094",
@@ -2687,7 +2966,10 @@
    "lang": "ko",
    "slug": "nationality-recovery",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "국적회복 완벽 가이드: 대한민국 국적을 되찾는 방법",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "nationality-renunciation-korea": {
    "hash": "f6fc6bffc9ea907fd42f127e0f90e765bdd4a740bdfda708c23d15731aed690d",
@@ -2735,7 +3017,10 @@
    "lang": "ko",
    "slug": "nationality-selection-deadline-procedure",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "재외동포 국적선택 기한과 절차 완벽 가이드",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "overseas-goso-jeung-remote-agency-application": {
    "hash": "135954e3849047154e3095226cc4ddab8df4bdce1b624a9915de594dfd2eb2c2",
@@ -2751,7 +3036,10 @@
    "lang": "ko",
    "slug": "overseas-goso-jeung-remote-agency-application",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "해외 거소증 신청 가능한가 — 한국 방문 없이 원격 대행하는 방법",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "overseas-korean-dual-nationality-eligibility": {
    "hash": "f1f51a2d95e2f1261ca064a3f27aa9afd403ba79c5f7e199f3ce3cf61c9b58c9",
@@ -2767,7 +3055,10 @@
    "lang": "ko",
    "slug": "overseas-korean-dual-nationality-eligibility",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "재외동포 복수국적 허용 대상과 조건 총정리",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "overseas-korean-housing-purchase-registration-tax-guide": {
    "hash": "e661c1f0256db909c86d91216a8cef205a389f06853acf74a211b8952963bf8f",
@@ -2783,7 +3074,10 @@
    "lang": "ko",
    "slug": "overseas-korean-housing-purchase-registration-tax-guide",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "재외동포 부동산 소유권 이전등기와 등록면허세 절차",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "overseas-korean-korea-home-purchase-tax-steps": {
    "hash": "b812d02ad0d6be38cd2140dce4ed7149aab2eb1482abad2ce6ea5e0bd8561c27",
@@ -2799,7 +3093,10 @@
    "lang": "ko",
    "slug": "overseas-korean-korea-home-purchase-tax-steps",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "재외동포 국내주택 매입 자금출처조사와 해외송금 신고",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "overseas-korean-nationality-recovery-f4-transition": {
    "hash": "678783a51329751f349ab9ad4168dc73d5ebef598083f44b96da05a226716c1c",
@@ -2815,7 +3112,10 @@
    "lang": "ko",
    "slug": "overseas-korean-nationality-recovery-f4-transition",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "재외동포 국적회복 후 F-4 비자 전환 방법 — 절차·서류 총정리",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "overseas-korean-property-acquisition-procedure-tax-guide": {
    "hash": "901ccdad0f006c8fbeda08511757bdc5ba6bb41ce0c74c316327cfa8bcc298b1",
@@ -2831,7 +3131,10 @@
    "lang": "ko",
    "slug": "overseas-korean-property-acquisition-procedure-tax-guide",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "외국인·재외동포 부동산거래·토지취득 신고의무 안내",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "overseas-korean-property-acquisition-process-tax-guide": {
    "hash": "10891a25815a3283c5809744b28e1b32acd9ce5c963ebc54594d71b41ac41ede",
@@ -2847,7 +3150,10 @@
    "lang": "ko",
    "slug": "overseas-korean-property-acquisition-process-tax-guide",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "재외동포 국내부동산 보유세(재산세·종합부동산세) 안내",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "overseas-korean-property": {
    "hash": "7a8b8e1a311cb8d30e4808addd02444a9e6d673627d299040891a7cb378d312d",
@@ -2863,7 +3169,10 @@
    "lang": "ko",
    "slug": "overseas-korean-property",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "재외동포 국내 부동산 취득 절차와 세금 안내",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "overseas-korean-real-estate-acquisition-tax-procedure": {
    "hash": "0fa1b00cbb416d2ef044216c195bf13a1b5efc8b03b1c7ed1f1b5780c348658a",
@@ -2879,7 +3188,10 @@
    "lang": "ko",
    "slug": "overseas-korean-real-estate-acquisition-tax-procedure",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "재외동포 국내부동산 양도소득세 신고와 절세 전략",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "overseas-korean-real-estate-purchase-procedure-tax": {
    "hash": "2fb090c1c54e8663197dc095b0fc7f1bf2539f846ff7cd95202f34d35321c4dc",
@@ -2895,7 +3207,10 @@
    "lang": "ko",
    "slug": "overseas-korean-real-estate-purchase-procedure-tax",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "재외동포 부동산 취득 개정세법 총정리",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "overseas-korean-residence-report-violation-penalty": {
    "hash": "2c0d55b71c50bd2d75ffd378440e187969d079950926df60256c0eccd7d673f5",
@@ -2911,7 +3226,10 @@
    "lang": "ko",
    "slug": "overseas-korean-residence-report-violation-penalty",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "재외동포 국내 거주 신고 위반 처벌 규정 총정리",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "overseas-resident-registration-application-benefits": {
    "hash": "27aaea44baf27b10ebba74d23993f5fc4d99578b4fc98fe57fed5bda4c8e1dc5",
@@ -2927,7 +3245,10 @@
    "lang": "ko",
    "slug": "overseas-resident-registration-application-benefits",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "재외국민 주민등록 신청 방법과 혜택 완벽 가이드",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "residence-card-overseas-remote-application-agency": {
    "hash": "f443c21f8f381958d5f1d029374525219c2e9f94e4f8f3e783d39d68055a83d0",
@@ -2943,7 +3264,10 @@
    "lang": "ko",
    "slug": "residence-card-overseas-remote-application-agency",
    "generated_at": null,
-   "version": "legacy-pre-1.4"
+   "version": "legacy-pre-1.4",
+   "title": "해외 거소증 신청, 원격 대행으로 가능한가 — 출국 없이 진행하는 방법",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-early-adaptation-program-requirement": {
    "hash": "ede8ca1fe85608b89fff4dc52e64625e42050eab97f2a18818a0ea0405c51373",
@@ -2959,7 +3283,10 @@
    "lang": "ko",
    "slug": "f4-early-adaptation-program-requirement",
    "generated_at": "2026-10-03T10:00:51.023Z",
-   "version": "1.4"
+   "version": "1.4",
+   "title": "재외동포(F-4) 조기적응프로그램, 자격변경·거소신고증 발급 전에 꼭 들어야 하나요?",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-r-regional-specialized-overseas-korean-visa": {
    "hash": "226cc75762eadba9db603a19499690d843c305bf92bf33e2c21eb89ead2f925b",
@@ -2975,7 +3302,10 @@
    "lang": "ko",
    "slug": "f4-r-regional-specialized-overseas-korean-visa",
    "generated_at": "2026-10-04T10:02:30.887Z",
-   "version": "1.4"
+   "version": "1.4",
+   "title": "지역특화형 재외동포비자(F-4-R)란? 인구감소지역 거주 조건과 취업 지역 제한",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-to-f5-6-two-year-residence-income-exemptions": {
    "hash": "1cf38c47648c1e4f7ce8b2808a60a63d879fe44da0032fb3811e10812981e9cb",
@@ -2991,7 +3321,10 @@
    "lang": "ko",
    "slug": "f4-to-f5-6-two-year-residence-income-exemptions",
    "generated_at": "2026-10-05T10:02:35.098Z",
-   "version": "1.4"
+   "version": "1.4",
+   "title": "재외동포(F-4)에서 영주(F-5-6)로, 2년 이상 체류 후 소득·교역·투자 요건은 어떻게 되나요?",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-grant-restriction-criminal-fine-record": {
    "hash": "bdd45b197f8cc1bc14ab2c897f51d035941622232f13f634fca71eab961ac5c2",
@@ -3007,7 +3340,10 @@
    "lang": "ko",
    "slug": "f4-visa-grant-restriction-criminal-fine-record",
    "generated_at": "2026-10-06T10:50:51.415Z",
-   "version": "1.4"
+   "version": "1.4",
+   "title": "재외동포(F-4) 자격부여 제한 대상, 벌금 700만 원·범칙금·집행유예가 있으면 안 되나요?",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-h2-former-workplace-outside-status-activity-permit": {
    "hash": "8d3c95ad2c98b9ee210cab8281ddf04faa3528908f27d79804e2cc9d45e1efe2",
@@ -3023,7 +3359,10 @@
    "lang": "ko",
    "slug": "f4-visa-h2-former-workplace-outside-status-activity-permit",
    "generated_at": "2026-10-07T10:02:50.470Z",
-   "version": "1.4"
+   "version": "1.4",
+   "title": "방문취업(H-2)에서 재외동포(F-4)로 바꾼 뒤 예전 사업장에서 계속 일하려면 어떻게 하나요?",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-korean-language-proof-documents": {
    "hash": "b7119a38ac5e1be9bd28dfeb59de03b138ec7566cbe6388904fff633f2460302",
@@ -3039,7 +3378,10 @@
    "lang": "ko",
    "slug": "f4-visa-korean-language-proof-documents",
    "generated_at": "2026-10-08T10:04:29.468Z",
-   "version": "1.4"
+   "version": "1.4",
+   "title": "재외동포(F-4) 한국어능력 입증서류, TOPIK 1급 없이 사회통합프로그램·세종학당으로 되나요?",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-overseas-conviction-processing-standards": {
    "hash": "28084374c2ea5b9abac5371f2881572db21e3df61826f646f2d954e4d3631f48",
@@ -3055,7 +3397,10 @@
    "lang": "ko",
    "slug": "f4-visa-overseas-conviction-processing-standards",
    "generated_at": "2026-10-09T10:01:37.186Z",
-   "version": "1.4"
+   "version": "1.4",
+   "title": "재외동포(F-4) 해외에서 형을 받은 적이 있으면? 7년·5년 불허 기준 정리",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-visa-overseas-criminal-record-submission-rules": {
    "hash": "e764271434304b368d12753ae0ac103b46a061c69f5644ea885accb1447fefea",
@@ -3071,7 +3416,10 @@
    "lang": "ko",
    "slug": "f4-visa-overseas-criminal-record-submission-rules",
    "generated_at": "2026-10-10T10:01:36.119Z",
-   "version": "1.4"
+   "version": "1.4",
+   "title": "재외동포(F-4) 해외 범죄경력증명서 제출 기준, 누가 어디까지 어떻게 내야 하나요?",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f5-permanent-residency-basic-literacy-requirement-overseas-korean": {
    "hash": "9cd4ae02230306a022e13cf8e3389544da09c9c222a7537254844d730b7f5c1c",
@@ -3087,7 +3435,10 @@
    "lang": "ko",
    "slug": "f5-permanent-residency-basic-literacy-requirement-overseas-korean",
    "generated_at": "2026-10-11T10:01:18.749Z",
-   "version": "1.4"
+   "version": "1.4",
+   "title": "동포 영주권(F-5) 기본소양 요건, 사회통합프로그램 5단계 vs 종합평가 60점 누가 면제되나요?",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f5-permanent-residency-loss-cancellation-reasons-overseas-korean": {
    "hash": "21fa3f89600d5ef39cfa5bcccf7644a04e8ba62a27e21c799a49444e1ecd7843",
@@ -3103,7 +3454,10 @@
    "lang": "ko",
    "slug": "f5-permanent-residency-loss-cancellation-reasons-overseas-korean",
    "generated_at": "2026-10-12T10:01:20.756Z",
-   "version": "1.4"
+   "version": "1.4",
+   "title": "동포 영주권(F-5) 상실·취소 사유, 해외에 2년 넘게 있으면 어떻게 되나요?",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-41-f4-42-eligibility-proof-documents-by-category": {
    "hash": "a8f105fd5193d3d7ddc90eab64d07147c6034f291e84e772229f0aea9a2d154a",
@@ -3119,7 +3473,10 @@
    "lang": "ko",
    "slug": "f4-41-f4-42-eligibility-proof-documents-by-category",
    "generated_at": "2026-10-13T10:01:35.167Z",
-   "version": "1.4"
+   "version": "1.4",
+   "title": "재외동포 F-4-41과 F-4-42는 무엇이 다른가요? 대상별 동포 입증서류 정리",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-c3-8-compatriot-visit-visa-5-year-multiple-entry": {
    "hash": "d7dfc06d1fae735161951e49399aaa437b3ce95e603fbf5cb5621c5d8d371bae",
@@ -3135,7 +3492,10 @@
    "lang": "ko",
    "slug": "f4-c3-8-compatriot-visit-visa-5-year-multiple-entry",
    "generated_at": "2026-10-14T10:01:32.801Z",
-   "version": "1.4"
+   "version": "1.4",
+   "title": "동포방문(C-3-8) 사증이란? 5년 유효 복수사증과 90일 체류, 취업 불가와 발급 제한 기준",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-grant-restriction-serious-crime-sentence-five-years": {
    "hash": "6ecb24765b4b6e75f72c19ce854bc2a1af46239af04d3ca136e9b66d8aab80eb",
@@ -3151,7 +3511,10 @@
    "lang": "ko",
    "slug": "f4-grant-restriction-serious-crime-sentence-five-years",
    "generated_at": "2026-10-15T10:01:38.383Z",
-   "version": "1.4"
+   "version": "1.4",
+   "title": "재외동포(F-4) 자격부여가 제한되는 형 선고는? 특정강력범죄·마약·보이스피싱·음주운전과 금고 이상 형 후 5년",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-h2-employment-start-report-15-days-fine": {
    "hash": "8f53ff336b1288cb4c1e4cbecb8b887ed972d8dc5fcd103433ede76382aeae74",
@@ -3199,7 +3562,10 @@
    "lang": "ko",
    "slug": "f4-h2-new-issuance-suspended-unified-into-f4-2026",
    "generated_at": "2026-10-18T10:01:41.687Z",
-   "version": "1.4"
+   "version": "1.4",
+   "title": "방문취업(H-2) 사증 신규 발급이 중단됐다면? 2026년 2월 12일부터 재외동포(F-4)로 통합된 동포 체류자격",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-h2-violation-processing-standards-fines-three-times": {
    "hash": "9987d31a5114fd7f7fa642f5a7356c69e763574772e4fb15db3e7865a6c0f4eb",
@@ -3231,7 +3597,10 @@
    "lang": "ko",
    "slug": "f4-status-change-in-korea-document-conditions-cis-past-compatriot-visa",
    "generated_at": "2026-10-20T10:01:32.294Z",
-   "version": "1.4"
+   "version": "1.4",
+   "title": "한국에서 재외동포(F-4)로 자격변경하려면? 국내 변경이 가능한 조건과 CIS 동포·F-4-R 소지자 기준",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f5-income-assets-recognition-relaxation-gni-70-80-percent": {
    "hash": "b236b6f4084eb3e715d63e9d9f146ab39375b92bba99d6267bfd59ce0e82046a",
@@ -3247,7 +3616,10 @@
    "lang": "ko",
    "slug": "f5-income-assets-recognition-relaxation-gni-70-80-percent",
    "generated_at": "2026-10-21T10:01:18.260Z",
-   "version": "1.4"
+   "version": "1.4",
+   "title": "동포 영주(F-5) 소득·자산 요건, 자산 인정 방법과 GNI 70%·80% 완화 기준은?",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f5-income-proof-when-certificate-unavailable-exception-documents": {
    "hash": "6851681b7b528fc413999298c123a33a6ca3e59e5fd15183ef4b7c2cc855b16c",
@@ -3263,7 +3635,10 @@
    "lang": "ko",
    "slug": "f5-income-proof-when-certificate-unavailable-exception-documents",
    "generated_at": "2026-10-22T10:01:15.506Z",
-   "version": "1.4"
+   "version": "1.4",
+   "title": "동포 영주(F-5) 소득 증빙, 소득금액증명을 못 받을 때 내는 예외 서류와 불일치 시 취소 조치",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f5-14-h2-same-employer-four-years-permanent-residency": {
    "hash": "9a6052b07c49779019e6cc94331be5ab4d1f83101eef4cfd31771b914d9c1c79",
@@ -3279,7 +3654,10 @@
    "lang": "ko",
    "slug": "f5-14-h2-same-employer-four-years-permanent-residency",
    "generated_at": "2026-10-28T00:36:37.010Z",
-   "version": "1.4"
+   "version": "1.4",
+   "title": "방문취업(H-2) 동포의 영주(F-5-14), 같은 업체 4년 이상 근속과 기술자격·본인 소득 GNI 70% 요건은?",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f3-spouse-of-f4-h2-outside-status-employment-permit": {
    "hash": "1a41c53cf029aeaa87a211b9ca6f260fc6b8e53f2e0a5127f8660067d6d07749",
@@ -3295,7 +3673,10 @@
    "lang": "ko",
    "slug": "f3-spouse-of-f4-h2-outside-status-employment-permit",
    "generated_at": "2026-10-29T10:03:15.396Z",
-   "version": "1.4"
+   "version": "1.4",
+   "title": "재외동포(F-4)·방문취업(H-2) 동포의 배우자(F-3)도 일할 수 있나요? 체류자격 외 활동허가 분야와 서류",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "h2-compatriot-hiring-employer-special-employment-confirmation": {
    "hash": "66d89df41670e29564e3e2e8166f0664f76faf0e041d2239dacb1c3bccb2af30",
@@ -3327,7 +3708,10 @@
    "lang": "ko",
    "slug": "f4-occupation-report-and-child-school-enrollment-report",
    "generated_at": "2026-10-31T00:41:24.860Z",
-   "version": "1.4"
+   "version": "1.4",
+   "title": "재외동포(F-4) 거소신고·연장 때 함께 내는 직업 신고와 자녀 재학 여부 신고, 언제 무엇을 적나요?",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f5-6r-regional-overseas-korean-permanent-residency": {
    "hash": "f5e7b5af5557c367b9c0d98235df97648aad35b9a79e6147ae21dc339b127d1c",
@@ -3343,7 +3727,10 @@
    "lang": "ko",
    "slug": "f5-6r-regional-overseas-korean-permanent-residency",
    "generated_at": "2026-11-01T10:02:42.522Z",
-   "version": "1.4"
+   "version": "1.4",
+   "title": "지역특화형 재외동포영주(F-5-6R), 지역특화동포(F-4-R)로 4년 거주하면 영주를 신청할 수 있나요?",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-tuberculosis-certificate-high-risk-countries-extension-status-change": {
    "hash": "9de103db79ed8430e445f550e792be94b58217bf15a7ea4d40d67fe3bec03993",
@@ -3359,7 +3746,10 @@
    "lang": "ko",
    "slug": "f4-tuberculosis-certificate-high-risk-countries-extension-status-change",
    "generated_at": "2026-11-02T10:03:17.382Z",
-   "version": "1.4"
+   "version": "1.4",
+   "title": "재외동포(F-4) 결핵진단서, 체류기간 연장·자격변경 때 누가 내야 하나요? 결핵 고위험국가와 6개월 체류 기준",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-stay-permit-application-departure-proxy-document-validity": {
    "hash": "f9d0bd90b7794a964840eb4874ebe8131dd14c13d73ddfe0db1b6b2db15f3ef7",
@@ -3375,7 +3765,10 @@
    "lang": "ko",
    "slug": "f4-stay-permit-application-departure-proxy-document-validity",
    "generated_at": "2026-11-03T10:01:58.707Z",
-   "version": "1.4"
+   "version": "1.4",
+   "title": "재외동포(F-4) 체류허가 신청해 두고 출국해도 되나요? 신청 중 출국·대행 제한과 서류 유효기간 3개월 기준",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-confusing-allowed-jobs-kitchen-assistant-housekeeper-sorting": {
    "hash": "9bcb517adc37c782c9aace55074f87ac42f35bacf156c170c1a8e8ec268a11a0",
@@ -3391,7 +3784,10 @@
    "lang": "ko",
    "slug": "f4-confusing-allowed-jobs-kitchen-assistant-housekeeper-sorting",
    "generated_at": "2026-11-04T10:03:53.783Z",
-   "version": "1.4"
+   "version": "1.4",
+   "title": "재외동포(F-4)로 주방보조·가사도우미·제품선별 일을 해도 되나요? 혼동하기 쉬운 허용·제한 직업 구분",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-social-integration-program-stay-period-early-adaptation-exemption": {
    "hash": "e8416702217094f2149b73792b41bd7bb6b35a54bba2ce81726f32d0a58d4468",
@@ -3407,7 +3803,10 @@
    "lang": "ko",
    "slug": "f4-social-integration-program-stay-period-early-adaptation-exemption",
    "generated_at": "2026-11-05T10:05:05.580Z",
-   "version": "1.4"
+   "version": "1.4",
+   "title": "재외동포(F-4)가 사회통합프로그램에 등록하면 무엇이 달라지나요? 체류기간 2년·조기적응 면제·한국어 입증",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f4-status-change-after-korean-schooling-exempt-documents": {
    "hash": "c2b7706784cd6805fe5ac15eec4678a560fd8055446d23d8793ad6d44188a624",
@@ -3423,7 +3822,10 @@
    "lang": "ko",
    "slug": "f4-status-change-after-korean-schooling-exempt-documents",
    "generated_at": "2026-11-06T10:04:12.369Z",
-   "version": "1.4"
+   "version": "1.4",
+   "title": "한국에서 학교를 다닌 동포가 재외동포(F-4)로 바꿀 때 면제되는 서류는? 한국어·조기적응·해외 범죄경력",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
   },
   "f5-holder-spouse-minor-child-f2-3-residence": {
    "hash": "14a5e56e9c6d8a0c95844f66424464c182437c87519c50c89348752e5f835335",
@@ -3439,6 +3841,805 @@
    "lang": "ko",
    "slug": "f5-holder-spouse-minor-child-f2-3-residence",
    "generated_at": "2026-11-07T10:03:53.667Z",
+   "version": "1.4",
+   "title": "동포 영주권자(F-5)의 배우자·미성년 자녀는 어떤 자격으로 체류하나요? 거주(F-2-3) 사증·자격변경 서류와 연장",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
+  },
+  "dual-citizenship-requirements-renunciation-loss-guide-r1108": {
+   "hash": "5125514e365169ba7b599dfc59ee9e49f9d8c86a60ca8ba3110cfab50e91c3b0",
+   "source": "pexels",
+   "seed": 2979798869,
+   "theme": "documents",
+   "prompt_subject": "documents desk office",
+   "map_version": null,
+   "pexels_id": 7681195,
+   "pexels_author": "https://kaboompics.com/",
+   "category": "국적",
+   "visa": "국적",
+   "lang": "ko",
+   "slug": "dual-citizenship-requirements-renunciation-loss-guide",
+   "title": "복수국적 허용 조건(외국국적불행사 서약 대상)과 국적이탈·국적상실 신고 절차",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:11:10.530Z",
+   "version": "1.4"
+  },
+  "dual-nationality-korea-guide-r1108": {
+   "hash": "1cf99688358cd8abdaafb0593259872456e2ab418345810efc1414f6e3e61c94",
+   "source": "pexels",
+   "seed": 2507828734,
+   "theme": "documents",
+   "prompt_subject": "documents desk office",
+   "map_version": null,
+   "pexels_id": 6814522,
+   "pexels_author": "cottonbro studio",
+   "category": null,
+   "visa": "국적",
+   "lang": "ko",
+   "slug": "dual-nationality-korea-guide",
+   "title": "이중국적 허용 기준 — 한국 이중국적 가능한 경우와 불가능한 경우",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:11:10.964Z",
+   "version": "1.4"
+  },
+  "f4-5-year-residence-f5-application-r1108": {
+   "hash": "ca78755232e029871012bb5fec2050dab67740c595df4f9581703835fca59ef4",
+   "source": "pexels",
+   "seed": 3588979854,
+   "theme": "residence",
+   "prompt_subject": "korean apartment residential",
+   "map_version": null,
+   "pexels_id": 38795154,
+   "pexels_author": "Haibo  Ni",
+   "category": "영주권",
+   "visa": "F-5",
+   "lang": "ko",
+   "slug": "f4-5-year-residence-f5-application",
+   "title": "F-4 5년 거주해야 F-5? 재외동포 영주(F-5-6) 신청 조건 정리",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:11:55.618Z",
+   "version": "1.4"
+  },
+  "f4-fbi-background-check-apostille-r1108": {
+   "hash": "813b1017666c7ad37d135c4828603770fc13717155de9eef00bc203de48c7319",
+   "source": "pexels",
+   "seed": 184981823,
+   "theme": "default",
+   "prompt_subject": "seoul skyline",
+   "map_version": null,
+   "pexels_id": 36920797,
+   "pexels_author": "高 长华",
+   "category": "F-4비자",
+   "visa": null,
+   "lang": "ko",
+   "slug": "f4-fbi-background-check-apostille",
+   "title": "F-4 비자 FBI 범죄경력증명서와 아포스티유 — 제출 기준 정리",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:13:21.846Z",
+   "version": "1.4"
+  },
+  "f4-residence-card-agency-fast-processing-guide-r1108": {
+   "hash": "76470b8a490dd3c15a26ecb71287f63f308e33e43c4966b94767b8973b377f45",
+   "source": "pexels",
+   "seed": 1302526070,
+   "theme": "city",
+   "prompt_subject": "seoul city street",
+   "map_version": null,
+   "pexels_id": 32028715,
+   "pexels_author": "Theodore Nguyen",
+   "category": "거소증",
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-residence-card-agency-fast-processing-guide",
+   "title": "F-4 거소증 신청대행 — 가장 빠른 출입국사무소로 체류 며칠 단축",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:14:31.667Z",
+   "version": "1.4"
+  },
+  "f4-residence-card-agency-minimum-korea-stay-r1108": {
+   "hash": "f8f990c803484dd84f0179777dd93825f772b58f1af526554c87e8e096fda2c8",
+   "source": "pexels",
+   "seed": 3550847768,
+   "theme": "city",
+   "prompt_subject": "seoul city street",
+   "map_version": null,
+   "pexels_id": 31892112,
+   "pexels_author": "Theodore Nguyen",
+   "category": "거소증",
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-residence-card-agency-minimum-korea-stay",
+   "title": "F-4 거소증 짧게 머물며 발급받기 — 사무소 선택·주소 문제·출국 시점",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:14:32.517Z",
+   "version": "1.4"
+  },
+  "f4-residence-card-agency-minimum-stay-r1108": {
+   "hash": "728f14ef874d41c26e6d2fc49a39b741ba2da9a69a5bfcd0eab09cd129a47127",
+   "source": "pexels",
+   "seed": 1106540750,
+   "theme": "city",
+   "prompt_subject": "seoul city street",
+   "map_version": null,
+   "pexels_id": 12205539,
+   "pexels_author": "Viridiana Rivera",
+   "category": null,
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-residence-card-agency-minimum-stay",
+   "title": "F-4 거소증 신청대행 — 서류 사전 준비로 한국 체류 며칠 안에 출국",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:22:38.745Z",
+   "version": "1.4"
+  },
+  "f4-residence-card-agency-minimum-stay-korea-r1108": {
+   "hash": "dd20a4d6c8cd95da15728ccb561ca6d83230548cf21e046e8570a76c9d7319f2",
+   "source": "pexels",
+   "seed": 1366617412,
+   "theme": "city",
+   "prompt_subject": "seoul city street",
+   "map_version": null,
+   "pexels_id": 14734778,
+   "pexels_author": "Naufal Shidqi",
+   "category": "거소증",
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-residence-card-agency-minimum-stay-korea",
+   "title": "F-4 거소증 최소 체류 동선 — 거소허가번호 수령 후 바로 출국",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:25:34.436Z",
+   "version": "1.4"
+  },
+  "f4-residence-card-issuance-period-by-immigration-office-r1108": {
+   "hash": "2314ab455c4a860e44ea251a4e73665a50462a67d396e84e1f60b8f6440d987e",
+   "source": "pexels",
+   "seed": 4069151936,
+   "theme": "city",
+   "prompt_subject": "seoul city street",
+   "map_version": null,
+   "pexels_id": 17286485,
+   "pexels_author": "Jimmy Liao",
+   "category": null,
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-residence-card-issuance-period-by-immigration-office",
+   "title": "F-4 거소증 발급 기간 — 관할 출입국 사정에 따라 다른 이유",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:14:34.545Z",
+   "version": "1.4"
+  },
+  "f4-residence-card-issuance-period-immigration-office-comparison-r1108": {
+   "hash": "7f98a47a52016de5de0a4a91d3e08fa97b58429c1e6816d846d6889703de0325",
+   "source": "pexels",
+   "seed": 136481295,
+   "theme": "city",
+   "prompt_subject": "seoul city street",
+   "map_version": null,
+   "pexels_id": 31971653,
+   "pexels_author": "Theodore Nguyen",
+   "category": "거소증",
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-residence-card-issuance-period-immigration-office-comparison",
+   "title": "F-4 거소증 발급 기간 — 사무소별 처리 속도·지연 원인·빠른 곳 고르는 기준",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:14:35.344Z",
+   "version": "1.4"
+  },
+  "f4-residence-card-issuance-timeline-office-differences-r1108": {
+   "hash": "80b63902ae32465b14c2399741694d53ded9ccf9fe5053134790ddd3a16357c0",
+   "source": "pexels",
+   "seed": 2987139793,
+   "theme": "city",
+   "prompt_subject": "seoul city street",
+   "map_version": null,
+   "pexels_id": 16470310,
+   "pexels_author": "Ayyeee Ayyeee",
+   "category": "거소증",
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-residence-card-issuance-timeline-office-differences",
+   "title": "F-4 거소증 발급 기간 — 서류 완성도가 소요시간을 가르는 이유",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:14:36.147Z",
+   "version": "1.4"
+  },
+  "f4-residence-card-proxy-short-visit-issuance-r1108": {
+   "hash": "91f878b03224ad04afd74f568965bb21c0d654096752988cacc1efa8f9174cf3",
+   "source": "pexels",
+   "seed": 1119654424,
+   "theme": "city",
+   "prompt_subject": "seoul city street",
+   "map_version": null,
+   "pexels_id": 4567143,
+   "pexels_author": "zhang kaiyv",
+   "category": "거소증",
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-residence-card-proxy-short-visit-issuance",
+   "title": "F-4 거소증 대행 — 입국 전 서류 준비와 거소허가번호 발급 후 출국 절차",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:14:36.962Z",
+   "version": "1.4"
+  },
+  "f4-spouse-f3-visa-application-r1108": {
+   "hash": "a71473e3026f0162db6beb55d4b324f6684f2c35d266f7a9a07a36541e4c7c40",
+   "source": "pexels",
+   "seed": 339207310,
+   "theme": "life",
+   "prompt_subject": "korean daily life street",
+   "map_version": null,
+   "pexels_id": 31811680,
+   "pexels_author": "Theodore Nguyen",
+   "category": null,
+   "visa": "F-3",
+   "lang": "ko",
+   "slug": "f4-spouse-f3-visa-application",
+   "title": "F-4 비자 배우자의 F-3 동반비자 신청 절차 완벽 가이드",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:23:34.031Z",
+   "version": "1.4"
+  },
+  "f4-visa-allowed-restricted-job-categories-r1108": {
+   "hash": "1d2a74e5d3910831cb2ed02e42c6f2784c776a37698917534c002423654ecfd3",
+   "source": "pexels",
+   "seed": 1830757577,
+   "theme": "city",
+   "prompt_subject": "seoul city street",
+   "map_version": null,
+   "pexels_id": 12811578,
+   "pexels_author": "Jimmy Liao",
+   "category": "F-4비자",
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-visa-allowed-restricted-job-categories",
+   "title": "F-4 단순노무 판단 기준과 인구감소지역 예외",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:15:23.608Z",
+   "version": "1.4"
+  },
+  "f4-visa-application-channels-r1108": {
+   "hash": "815283fdf1a133d9daa7212a8a7637b935c5b3c7865f69abeadf0dfed9ef982a",
+   "source": "pexels",
+   "seed": 1153707473,
+   "theme": "city",
+   "prompt_subject": "seoul city street",
+   "map_version": null,
+   "pexels_id": 36785239,
+   "pexels_author": "Luiz M - Channel YT Viajei Amei",
+   "category": null,
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-visa-application-channels",
+   "title": "F-4 비자 신청 방법 해외 vs 국내 비교 - 어디서 신청해야 빠를까",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:15:24.381Z",
+   "version": "1.4"
+  },
+  "f4-visa-domestic-renewal-guide-r1108": {
+   "hash": "ff3530b82629a10bf5935c94f1ad079b5584294ff89989c9e85915d5369d79fb",
+   "source": "pexels",
+   "seed": 1566301109,
+   "theme": "city",
+   "prompt_subject": "seoul city street",
+   "map_version": null,
+   "pexels_id": 39375806,
+   "pexels_author": "wal_ 172619",
+   "category": "F-4",
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-visa-domestic-renewal-guide",
+   "title": "F-4 비자 체류기간 연장허가 — 신청 시기와 거부 사유 대응법",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:15:24.831Z",
+   "version": "1.4"
+  },
+  "f4-visa-employment-report-obligation-r1108": {
+   "hash": "3ffe3e761ac36cff1dbaf846905bb1a4f03c95a398cc52603d3be1d09a8d7b56",
+   "source": "pexels",
+   "seed": 4226215349,
+   "theme": "city",
+   "prompt_subject": "seoul city street",
+   "map_version": null,
+   "pexels_id": 34659707,
+   "pexels_author": "Jimmy Liao",
+   "category": null,
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-visa-employment-report-obligation",
+   "title": "F-4 비자 취업 신고 의무와 과태료 완전 정리",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:15:25.640Z",
+   "version": "1.4"
+  },
+  "f4-visa-health-insurance-obligation-premium-r1108": {
+   "hash": "d13555860ce4268c8128138fac1d5d6dfcab48d877f536d7401aea6eb5bd4a13",
+   "source": "pexels",
+   "seed": 2776101382,
+   "theme": "city",
+   "prompt_subject": "seoul city street",
+   "map_version": null,
+   "pexels_id": 12811632,
+   "pexels_author": "Jimmy Liao",
+   "category": null,
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-visa-health-insurance-obligation-premium",
+   "title": "F-4 비자 건강보험 가입 의무와 보험료 실무 가이드",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:15:26.467Z",
+   "version": "1.4"
+  },
+  "f4-visa-permitted-restricted-industries-complete-r1108": {
+   "hash": "a58cd821a0924bc48219e45f2ca90010d119263fbb615ec9d9c712ca703e24b5",
+   "source": "pexels",
+   "seed": 349597822,
+   "theme": "city",
+   "prompt_subject": "seoul city street",
+   "map_version": null,
+   "pexels_id": 9663955,
+   "pexels_author": "Jimmy Liao",
+   "category": "F-4비자",
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-visa-permitted-restricted-industries-complete",
+   "title": "F-4 비자 제한 업종·가능 직종 빠른 비교표",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:15:27.242Z",
+   "version": "1.4"
+  },
+  "f4-visa-renewal-documents-procedure-update-r1108": {
+   "hash": "b9d80b2c0872df99fbd712f9ac07f606d139c17119207a70dc8f47aeddc10a95",
+   "source": "pexels",
+   "seed": 3256421767,
+   "theme": "city",
+   "prompt_subject": "seoul city street",
+   "map_version": null,
+   "pexels_id": 17318333,
+   "pexels_author": "Alvin & Chelsea",
+   "category": null,
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-visa-renewal-documents-procedure-update",
+   "title": "F-4 비자 갱신 서류 — 최신 기준 절차와 실무 체크포인트",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:15:28.026Z",
+   "version": "1.4"
+  },
+  "f4-visa-required-documents-r1108": {
+   "hash": "75fae134355a2644a460727d9c4862077542a275338f2c45632dcc167ebd3c8f",
+   "source": "pexels",
+   "seed": 571907733,
+   "theme": "city",
+   "prompt_subject": "seoul city street",
+   "map_version": null,
+   "pexels_id": 40248803,
+   "pexels_author": "Faheem Ahamad",
+   "category": null,
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-visa-required-documents",
+   "title": "F-4 비자 필요서류 — 재외동포 비자 신청 서류 완전 체크리스트",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:15:28.812Z",
+   "version": "1.4"
+  },
+  "f4-visa-to-f5-permanent-residency-2-r1108": {
+   "hash": "be1651babb30a8114ffb9fd51df1110e1e2fa137314aa1597e4c656ea893fbeb",
+   "source": "pexels",
+   "seed": 761315123,
+   "theme": "residence",
+   "prompt_subject": "korean apartment residential",
+   "map_version": null,
+   "pexels_id": 7189284,
+   "pexels_author": "Gije Cho",
+   "category": "영주권",
+   "visa": "F-5",
+   "lang": "ko",
+   "slug": "f4-visa-to-f5-permanent-residency-2",
+   "title": "F-4에서 F-5 영주권 전환, 국적취득요건 구비 동포(F-5-7) 경로와 실익 비교",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:15:29.584Z",
+   "version": "1.4"
+  },
+  "f4-visa-work-industry-scope-guide-r1108": {
+   "hash": "8a23589556fd46cc5664bff98b783d9e9a54e5b611c6c935c4d5454ceee64650",
+   "source": "pexels",
+   "seed": 306879834,
+   "theme": "city",
+   "prompt_subject": "seoul city street",
+   "map_version": null,
+   "pexels_id": 33415083,
+   "pexels_author": "Gül Işık",
+   "category": "F-4비자",
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-visa-work-industry-scope-guide",
+   "title": "F-4 비자 취업 가능 업종 — 제한 업종(단순노무·사행·풍속)까지",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:15:29.994Z",
+   "version": "1.4"
+  },
+  "f4-visa-work-permitted-industry-restriction-list-r1108": {
+   "hash": "7460d844f94754e7580629e437122c6be6878083477af6050c9350ccf05afd23",
+   "source": "pexels",
+   "seed": 2258125996,
+   "theme": "city",
+   "prompt_subject": "seoul city street",
+   "map_version": null,
+   "pexels_id": 38795397,
+   "pexels_author": "Mayank Chourasia",
+   "category": "F-4비자",
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-visa-work-permitted-industry-restriction-list",
+   "title": "F-4 비자 자유 취업 원칙과 금지 업종 판단 기준",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:15:30.794Z",
+   "version": "1.4"
+  },
+  "geo-so-jeung-guide-r1108": {
+   "hash": "922cc6d868d78f6ed64d6af1b94ece54f92c4a4f3a4a0d29e7890629a25ef168",
+   "source": "pexels",
+   "seed": 1886101116,
+   "theme": "city",
+   "prompt_subject": "seoul city street",
+   "map_version": null,
+   "pexels_id": 11687641,
+   "pexels_author": "Ethan Brooke",
+   "category": null,
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "geo-so-jeung-guide",
+   "title": "거소증 신청 방법 — F-4 재외동포 거소증 발급 완전 가이드",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:15:31.605Z",
+   "version": "1.4"
+  },
+  "geo-so-jeung-required-documents-r1108": {
+   "hash": "775f94a017462cafd74c5b57dfb49aeff61eab895881638070db4524ac938c4b",
+   "source": "pexels",
+   "seed": 4173461771,
+   "theme": "city",
+   "prompt_subject": "seoul city street",
+   "map_version": null,
+   "pexels_id": 34488982,
+   "pexels_author": "jackie mrs ho",
+   "category": null,
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "geo-so-jeung-required-documents",
+   "title": "거소증 필요서류 — F-4 재외동포 거소증 신청 서류 체크리스트",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:15:32.390Z",
+   "version": "1.4"
+  },
+  "geosojeung-agency-checklist-r1108": {
+   "hash": "a123d749290c441b258b54a473738d2cc59ada2e4ad1b2c8189c2d3920fee008",
+   "source": "pexels",
+   "seed": 4026698244,
+   "theme": "default",
+   "prompt_subject": "seoul skyline",
+   "map_version": null,
+   "pexels_id": 40494460,
+   "pexels_author": "HONG SON",
+   "category": "거소증",
+   "visa": null,
+   "lang": "ko",
+   "slug": "geosojeung-agency-checklist",
+   "title": "거소증·F-4 업무를 행정사에게 맡길 때 확인할 점 — 업무 범위와 체크리스트",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:15:33.225Z",
+   "version": "1.4"
+  },
+  "jemi-dongpo-geo-so-jeung-guide-r1108": {
+   "hash": "917ef95e316820fc6f8ef5d8f1cffdf38c90bb94e350990c1a0a9c5c404bd9d9",
+   "source": "pexels",
+   "seed": 3676032842,
+   "theme": "city",
+   "prompt_subject": "seoul city street",
+   "map_version": null,
+   "pexels_id": 31939747,
+   "pexels_author": "Theodore Nguyen",
+   "category": null,
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "jemi-dongpo-geo-so-jeung-guide",
+   "title": "재미동포 거소증 신청 방법 — 미국 시민권자·영주권자 완전 가이드",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:15:34.027Z",
+   "version": "1.4"
+  },
+  "korean-nationality-loss-guide-r1108": {
+   "hash": "a3f0df06e2ab0050cdfa72cdbcbf851afd03f3987d297c61cb78c31db9d16159",
+   "source": "pexels",
+   "seed": 2001721502,
+   "theme": "documents",
+   "prompt_subject": "documents desk office",
+   "map_version": null,
+   "pexels_id": 9572697,
+   "pexels_author": "Tima Miroshnichenko",
+   "category": null,
+   "visa": "국적",
+   "lang": "ko",
+   "slug": "korean-nationality-loss-guide",
+   "title": "국적상실 신고 방법 — 외국 국적 취득 후 한국 국적 처리 가이드",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:15:34.460Z",
+   "version": "1.4"
+  },
+  "korean-nationality-recovery-guide-r1108": {
+   "hash": "51f294f358b76e8fd789ba4b8eaaaef1a86c339c59f6b415094893622856d8c4",
+   "source": "pexels",
+   "seed": 1552784295,
+   "theme": "documents",
+   "prompt_subject": "documents desk office",
+   "map_version": null,
+   "pexels_id": 10347148,
+   "pexels_author": "Ron Lach",
+   "category": null,
+   "visa": "국적",
+   "lang": "ko",
+   "slug": "korean-nationality-recovery-guide",
+   "title": "국적회복 신청 — 과거 한국 국적자의 국적 회복 절차 완전 가이드",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:15:35.226Z",
+   "version": "1.4"
+  },
+  "nationality-loss-report-3day-complete-procedure-r1108": {
+   "hash": "ec3ea6106555be637f26fc95490298e9a7d7d83aa87def84ff51536df50f3815",
+   "source": "pexels",
+   "seed": 4244569635,
+   "theme": "documents",
+   "prompt_subject": "documents desk office",
+   "map_version": null,
+   "pexels_id": 6814539,
+   "pexels_author": "cottonbro studio",
+   "category": "국적",
+   "visa": "국적",
+   "lang": "ko",
+   "slug": "nationality-loss-report-3day-complete-procedure",
+   "title": "국적상실 신고 채널과 필요서류 — 행정 정리 절차 총정리",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:15:35.652Z",
+   "version": "1.4"
+  },
+  "nationality-loss-report-3day-procedure-documents-r1108": {
+   "hash": "fa8bec32de3713260fd4405420e4aeea873eb38444f6658ef2fd85fe801448f1",
+   "source": "pexels",
+   "seed": 1903472680,
+   "theme": "documents",
+   "prompt_subject": "documents desk office",
+   "map_version": null,
+   "pexels_id": 7681330,
+   "pexels_author": "https://kaboompics.com/",
+   "category": "국적",
+   "visa": "국적",
+   "lang": "ko",
+   "slug": "nationality-loss-report-3day-procedure-documents",
+   "title": "국적상실 신고 — 외국 시민권 취득 후 필요서류와 신고 절차",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:15:36.064Z",
+   "version": "1.4"
+  },
+  "nationality-loss-report-procedure-3days-r1108": {
+   "hash": "d6329a1f0bc55e2895ff6efd9241f57d93425595deab7afe7fb37d443587e3d3",
+   "source": "pexels",
+   "seed": 3778907508,
+   "theme": "documents",
+   "prompt_subject": "documents desk office",
+   "map_version": null,
+   "pexels_id": 8382083,
+   "pexels_author": "cottonbro studio",
+   "category": "국적",
+   "visa": "국적",
+   "lang": "ko",
+   "slug": "nationality-loss-report-procedure-3days",
+   "title": "국적상실 신고 의무자·신고 기한·필요서류와 절차 흐름",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:15:36.476Z",
+   "version": "1.4"
+  },
+  "nationality-recovery-application-8months-documents-r1108": {
+   "hash": "ba235c4c1bd565864275ef4e6d4960fe36332187091d7eb56572fdbdfa9875c8",
+   "source": "pexels",
+   "seed": 935601314,
+   "theme": "documents",
+   "prompt_subject": "documents desk office",
+   "map_version": null,
+   "pexels_id": 5668808,
+   "pexels_author": "Sora Shimazaki",
+   "category": "국적",
+   "visa": "국적",
+   "lang": "ko",
+   "slug": "nationality-recovery-application-8months-documents",
+   "title": "국적회복 신청 절차 — 처리 흐름, 필요서류와 실무 포인트 총정리",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:15:37.221Z",
+   "version": "1.4"
+  },
+  "nationality-recovery-application-steps-documents-r1108": {
+   "hash": "4c6d4d1946849c7f3f3a7d12d1b6cf95b1409150a0fa91ee465a6308192ccef9",
+   "source": "pexels",
+   "seed": 435725229,
+   "theme": "documents",
+   "prompt_subject": "documents desk office",
+   "map_version": null,
+   "pexels_id": 7875829,
+   "pexels_author": "https://kaboompics.com/",
+   "category": "국적",
+   "visa": "국적",
+   "lang": "ko",
+   "slug": "nationality-recovery-application-steps-documents",
+   "title": "국적회복 신청 절차 — 접수부터 허가까지, 필요서류 총정리",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:23:55.442Z",
+   "version": "1.4"
+  },
+  "nationality-recovery-permit-8months-documents-guide-r1108": {
+   "hash": "1e739dc538069633af3b59abc4b59857517140e3cf1711efe15506c06ba1a68e",
+   "source": "pexels",
+   "seed": 2647453008,
+   "theme": "documents",
+   "prompt_subject": "documents desk office",
+   "map_version": null,
+   "pexels_id": 7128991,
+   "pexels_author": "Michael Burrows",
+   "category": "국적",
+   "visa": "국적",
+   "lang": "ko",
+   "slug": "nationality-recovery-permit-8months-documents-guide",
+   "title": "국적회복 허가 신청 절차 — 처리 기간과 필요서류 총정리",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:15:38.055Z",
+   "version": "1.4"
+  },
+  "nationality-recovery-procedure-timeline-documents-checklist-r1108": {
+   "hash": "8a920b8f57bcc54083c25409051e162b05aa5877dec88cef9bc5d218ac82cc9b",
+   "source": "pexels",
+   "seed": 3927048039,
+   "theme": "documents",
+   "prompt_subject": "documents desk office",
+   "map_version": null,
+   "pexels_id": 8872505,
+   "pexels_author": "MART  PRODUCTION",
+   "category": "국적",
+   "visa": "국적",
+   "lang": "ko",
+   "slug": "nationality-recovery-procedure-timeline-documents-checklist",
+   "title": "국적회복 신청 절차 — 심사가 길어지는 이유와 필요서류 총정리",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:15:38.491Z",
+   "version": "1.4"
+  },
+  "nationality-renunciation-korea-r1108": {
+   "hash": "8c4f5c13f509faa77f5457a2b907a72ff7063e64e30a64598ec94c61ecac76a5",
+   "source": "pexels",
+   "seed": 448140502,
+   "theme": "documents",
+   "prompt_subject": "documents desk office",
+   "map_version": null,
+   "pexels_id": 7681077,
+   "pexels_author": "https://kaboompics.com/",
+   "category": null,
+   "visa": "국적",
+   "lang": "ko",
+   "slug": "nationality-renunciation-korea",
+   "title": "국적이탈 신고 — 선천적 이중국적자 한국 국적 포기 절차",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:15:38.896Z",
+   "version": "1.4"
+  },
+  "nationality-restoration-permit-procedure-required-documents-r1108": {
+   "hash": "dc34608fb5721f944adf2e12ceb3dbb34178355d8d1fe09e230a72e81efb0a94",
+   "source": "pexels",
+   "seed": 149909759,
+   "theme": "documents",
+   "prompt_subject": "documents desk office",
+   "map_version": null,
+   "pexels_id": 7876758,
+   "pexels_author": "https://kaboompics.com/",
+   "category": "국적",
+   "visa": "국적",
+   "lang": "ko",
+   "slug": "nationality-restoration-permit-procedure-required-documents",
+   "title": "국적회복 신청 절차 총정리 — 허가까지의 흐름, 필요서류와 진행 순서",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:15:39.319Z",
+   "version": "1.4"
+  },
+  "h2-compatriot-hiring-employer-special-employment-confirmation-r1103": {
+   "hash": "66d89df41670e29564e3e2e8166f0664f76faf0e041d2239dacb1c3bccb2af30",
+   "source": "pexels",
+   "seed": 1223345480,
+   "theme": "industry",
+   "prompt_subject": "shipping containers port",
+   "map_version": null,
+   "pexels_id": 8475203,
+   "pexels_author": "Kampus Production",
+   "category": "재외동포",
+   "visa": "H-2",
+   "lang": "ko",
+   "slug": "h2-compatriot-hiring-employer-special-employment-confirmation",
+   "generated_at": "2026-11-03T03:34:59.558Z",
+   "version": "1.4",
+   "title": "방문취업(H-2) 동포를 고용하려는 사업주, 허용업종 확인과 내국인 구인노력 15일·특례고용가능확인서 절차",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
+  },
+  "f4-h2-violation-processing-standards-fines-three-times-r1103": {
+   "hash": "9987d31a5114fd7f7fa642f5a7356c69e763574772e4fb15db3e7865a6c0f4eb",
+   "source": "pexels",
+   "seed": 3764308219,
+   "theme": "industry",
+   "prompt_subject": "shipping containers port",
+   "map_version": null,
+   "pexels_id": 5668481,
+   "pexels_author": "Sora Shimazaki",
+   "category": "재외동포",
+   "visa": "H-2",
+   "lang": "ko",
+   "slug": "f4-h2-violation-processing-standards-fines-three-times",
+   "generated_at": "2026-11-03T03:34:59.139Z",
+   "version": "1.4",
+   "title": "방문취업(H-2) 동포가 법을 위반하면? 범칙금 500만 원·700만 원 기준과 3회 이상 처분 시 출국조치",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
+  },
+  "f4-h2-existing-holders-registration-stay-period-extension-limits-r1103": {
+   "hash": "baf5103999251d999a669bce8f679fe3c8e0ad61a49a63ec18c4b752e4bd24b1",
+   "source": "pexels",
+   "seed": 3978969373,
+   "theme": "industry",
+   "prompt_subject": "shipping containers port",
+   "map_version": null,
+   "pexels_id": 6929010,
+   "pexels_author": "Leeloo The First",
+   "category": "재외동포",
+   "visa": "H-2",
+   "lang": "ko",
+   "slug": "f4-h2-existing-holders-registration-stay-period-extension-limits",
+   "generated_at": "2026-11-03T03:34:58.257Z",
+   "version": "1.4",
+   "title": "기존 방문취업(H-2) 소지 동포의 외국인등록과 체류기간, 3년 부여 조건과 연장 한도는?",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
+  },
+  "f4-h2-employment-start-report-15-days-fine-r1103": {
+   "hash": "8f53ff336b1288cb4c1e4cbecb8b887ed972d8dc5fcd103433ede76382aeae74",
+   "source": "pexels",
+   "seed": 2552065764,
+   "theme": "industry",
+   "prompt_subject": "shipping containers port",
+   "map_version": null,
+   "pexels_id": 14804687,
+   "pexels_author": "Mandiri Abadi",
+   "category": "재외동포",
+   "visa": "H-2",
+   "lang": "ko",
+   "slug": "f4-h2-employment-start-report-15-days-fine",
+   "generated_at": "2026-11-03T03:34:58.672Z",
+   "version": "1.4",
+   "title": "방문취업(H-2) 동포의 취업개시 신고, 15일 이내 신고와 위반 시 과태료는 어떻게 되나요?",
+   "site_name": "행정사사무소 이룸",
+   "text_verified": "QA1108 git제목이력+OCR(사이트명·제목·카테고리) 2026-11-08"
+  },
+  "f4-visa-korean-language-proof-documents-r1108": {
+   "hash": "6e9a2a44d7ac896aed5e4ac2a7ecc8667675a27be11190d17822cf8a35f8dd70",
+   "source": "pexels",
+   "seed": 574948370,
+   "theme": "city",
+   "prompt_subject": "seoul city street",
+   "map_version": null,
+   "pexels_id": 31971672,
+   "pexels_author": "Theodore Nguyen",
+   "category": "F-4비자",
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-visa-korean-language-proof-documents",
+   "title": "재외동포(F-4) 한국어능력 입증서류, TOPIK 1급 없이 사회통합프로그램·세종학당으로 되나요?",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T06:20:21.006Z",
    "version": "1.4"
   }
  }

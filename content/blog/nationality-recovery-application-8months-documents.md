@@ -4,7 +4,7 @@ visa: 국적
 date: "2026-06-15"
 category: "국적"
 excerpt: "국적회복 신청은 처리 기간이 관할 기관 사정에 따라 다르며, 시민권증서 원본과 기본증명서가 핵심 서류로 작용합니다. 국적회복이란 무엇인가·국적회복 신청 자격과 대상·국적회복 필요서류 총정리·신청 장소와 절차까지 한 번에 확인하세요."
-image: "/og/nationality-recovery-application-8months-documents.png"
+image: "/og/nationality-recovery-application-8months-documents-r1108.png"
 slug: "nationality-recovery-application-8months-documents"
 ---
 # 국적회복 신청 절차 — 처리 흐름, 필요서류와 실무 포인트 총정리

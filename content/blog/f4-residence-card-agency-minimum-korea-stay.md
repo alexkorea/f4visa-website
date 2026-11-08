@@ -4,7 +4,7 @@ visa: F-4
 date: "2026-06-10"
 category: "거소증"
 excerpt: "F-4 거소증을 한국에 짧게 머물면서 발급받는 실무 절차와 출입국사무소 선택, 주소 문제, 출국 시점까지 정리했습니다. 국적 정리·한국 내 주소 문제까지 한 번에 확인하세요."
-image: "/og/f4-residence-card-agency-minimum-korea-stay.png"
+image: "/og/f4-residence-card-agency-minimum-korea-stay-r1108.png"
 slug: "f4-residence-card-agency-minimum-korea-stay"
 ---
 # F-4 거소증 신청대행 — 한국 최소 체류로 발급받는 방법

@@ -4641,6 +4641,24 @@
    "site_name": "행정사사무소 이룸",
    "generated_at": "2026-11-08T06:20:21.006Z",
    "version": "1.4"
+  },
+  "f5-4-permanent-residency-spouse-child-of-permanent-resident": {
+   "hash": "7ce90198c4eb3353c75a6b92dbd112364b2957a9ae2ff6cf901c7ca01759b1c9",
+   "source": "pexels",
+   "seed": 1434219999,
+   "theme": "residence",
+   "prompt_subject": "apartment building entrance",
+   "map_version": null,
+   "pexels_id": 30304298,
+   "pexels_author": "Muhamad Guruh Budi Hartono",
+   "category": "영주권",
+   "visa": "F-5",
+   "lang": "ko",
+   "slug": "f5-4-permanent-residency-spouse-child-of-permanent-resident",
+   "title": "동포 영주권자의 배우자·미성년 자녀가 영주(F-5-4)를 받으려면? 거주(F-2) 2년 체류·혼인관계 유지·소득 요건",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-08T10:04:36.681Z",
+   "version": "1.4"
   }
  }
 }

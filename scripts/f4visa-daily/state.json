@@ -278,6 +278,15 @@
       ],
       "at": "2026-11-07T10:03:53.685Z",
       "batch": "BLOG-STALL-1028-2 (맥4, 맥7 지시 2026-10-28)"
+    },
+    {
+      "slug": "f5-4-permanent-residency-spouse-child-of-permanent-resident",
+      "date": "2026-11-08",
+      "locales": [
+        "ko"
+      ],
+      "at": "2026-11-08T10:04:36.698Z",
+      "batch": "BLOG-STALL-1028-2 (맥4, 맥7 지시 2026-10-28)"
     }
   ],
   "rejected": []

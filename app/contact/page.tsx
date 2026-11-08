@@ -80,7 +80,7 @@ export default function ContactPage() {
                   <h3 id="messenger" className="mb-4 text-lg font-semibold text-foreground">메신저 상담</h3>
                   <p className="text-sm text-muted-foreground">급하신 문의는 전화 또는 카카오톡으로 연락해 주세요.</p>
                   <div className="mt-4 grid grid-cols-2 gap-4">
-                    {[{ name: "Kakao Talk", qr: "/qr/kakao-20260927-224.webp" }, { name: "WeChat", qr: "/qr/wechat-20260927-224.webp" }, { name: "LINE", qr: "/qr/line-20260927-150.webp" }, { name: "WhatsApp", qr: "/qr/whatsapp-20260927-224.webp" }].map((m) => (
+                    {[{ name: "Kakao Talk", qr: "/qr/kakao-20260927-224.webp" }, { name: "WeChat", qr: "/qr/wechat-20260927-224.webp" }, { name: "LINE", qr: "/qr/line-20261108-765.jpg" }, { name: "WhatsApp", qr: "/qr/whatsapp-20260927-224.webp" }].map((m) => (
                       <div key={m.name} className="text-center">
                         <a href={qrHref(m.qr)} target="_blank" rel="noopener noreferrer" aria-label={`${m.name} 상담 열기`} className="mx-auto mb-2 block w-full aspect-square rounded-lg overflow-hidden border border-border"><img src={m.qr} alt={m.name} className="w-full h-full object-cover" /></a>
                         <span className="text-xs text-muted-foreground">{m.name}</span>

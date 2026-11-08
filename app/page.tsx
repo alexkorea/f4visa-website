@@ -70,7 +70,7 @@ const reasons = [
 const messengers = [
   { name: "카카오톡", qr: "/qr/kakao-20260927-224.webp" },
   { name: "WeChat", qr: "/qr/wechat-20260927-224.webp" },
-  { name: "LINE", qr: "/qr/line-20260927-150.webp" },
+  { name: "LINE", qr: "/qr/line-20261108-765.jpg" },
   { name: "WhatsApp", qr: "/qr/whatsapp-20260927-224.webp" },
 ]
 

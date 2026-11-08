@@ -155,7 +155,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
                       {[
                         { name: "Kakao Talk", qr: "/qr/kakao-20260927-224.webp" },
                         { name: "WeChat", qr: "/qr/wechat-20260927-224.webp" },
-                        { name: "LINE", qr: "/qr/line-20260927-150.webp" },
+                        { name: "LINE", qr: "/qr/line-20261108-765.jpg" },
                         { name: "WhatsApp", qr: "/qr/whatsapp-20260927-224.webp" },
                       ].map((m) => (
                         <div key={m.name} className="text-center">

@@ -158,7 +158,7 @@ export default function HomePage() {
             </div>
             <ul className="grid grid-cols-2 gap-4 lg:grid-cols-4">
               {messengers.map((m) => (
-                <li key={m.name} className="card-x flex flex-col justify-end text-center">
+                <li key={m.name} className="card-x flex flex-col justify-end text-center" style={m.box ? { paddingInline: 8 } : undefined}>
                   <a href={qrHref(m.qr)} target="_blank" rel="noopener noreferrer" aria-label={`${m.name} 상담 열기`} className="mx-auto block w-fit">
                     <Image
                       src={m.qr}

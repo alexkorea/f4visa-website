@@ -1,5 +1,6 @@
 ---
 title: "재미동포 거소증 신청 방법 — 미국 시민권자·영주권자 완전 가이드"
+category: "거소증"
 visa: "F-4"
 date: "2026-05-23"
 image: "/og/jemi-dongpo-geo-so-jeung-guide-r1108.png"

@@ -1,5 +1,6 @@
 ---
 title: "거소증 필요서류 — F-4 재외동포 거소증 신청 서류 체크리스트"
+category: "거소증"
 visa: F-4
 date: "2026-05-23"
 image: "/og/geo-so-jeung-required-documents-r1108.png"

@@ -2,7 +2,7 @@
 title: "F-4 비자 배우자의 F-3 동반비자 신청 절차 완벽 가이드"
 visa: F-3
 date: "2026-05-26"
-category: ""
+category: "가족초청"
 excerpt: "F-4 재외동포 비자 소지자의 외국인 배우자는 F-3 동반비자로 한국에 체류할 수 있으며, 혼인관계 입증과 초청자 자격이 핵심입니다."
 image: "/og/f4-spouse-f3-visa-application-r1108.png"
 slug: "f4-spouse-f3-visa-application"

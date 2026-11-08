@@ -1,5 +1,6 @@
 ---
 title: "이중국적 허용 기준 — 한국 이중국적 가능한 경우와 불가능한 경우"
+category: "국적"
 visa: 국적
 date: "2026-05-23"
 image: "/og/dual-nationality-korea-guide-r1108.png"

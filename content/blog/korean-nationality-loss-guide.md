@@ -1,5 +1,6 @@
 ---
 title: "국적상실 신고 방법 — 외국 국적 취득 후 한국 국적 처리 가이드"
+category: "국적"
 visa: "국적"
 date: "2026-05-23"
 image: "/og/korean-nationality-loss-guide-r1108.png"

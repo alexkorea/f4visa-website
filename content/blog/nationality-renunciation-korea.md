@@ -1,5 +1,6 @@
 ---
 title: "국적이탈 신고 — 선천적 이중국적자 한국 국적 포기 절차"
+category: "국적"
 visa: "국적"
 date: "2026-05-23"
 image: "/og/nationality-renunciation-korea-r1108.png"

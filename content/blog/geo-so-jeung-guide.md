@@ -1,5 +1,6 @@
 ---
 title: "거소증 신청 방법 — F-4 재외동포 거소증 발급 완전 가이드"
+category: "거소증"
 visa: F-4
 date: "2026-05-23"
 image: "/og/geo-so-jeung-guide-r1108.png"

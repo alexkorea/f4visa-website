@@ -1,5 +1,6 @@
 ---
 title: "국적회복 신청 — 과거 한국 국적자의 국적 회복 절차 완전 가이드"
+category: "국적"
 visa: "국적"
 date: "2026-05-23"
 image: "/og/korean-nationality-recovery-guide-r1108.png"

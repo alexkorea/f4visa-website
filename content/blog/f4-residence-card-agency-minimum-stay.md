@@ -2,7 +2,7 @@
 title: "F-4 거소증 신청대행 — 서류 사전 준비로 한국 체류 며칠 안에 출국"
 visa: F-4
 date: "2026-06-05"
-category: ""
+category: "거소증"
 excerpt: "F-4 거소증은 가장 빠른 출입국사무소를 선택하고 서류를 미리 갖추면 한국 체류 며칠 안에 거소허가번호를 받고 출국할 수 있습니다."
 image: "/og/f4-residence-card-agency-minimum-stay-r1108.png"
 slug: "f4-residence-card-agency-minimum-stay"

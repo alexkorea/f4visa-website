@@ -70,7 +70,8 @@ const reasons = [
 const messengers = [
   { name: "카카오톡", qr: "/qr/kakao-20260927-224.webp" },
   { name: "WeChat", qr: "/qr/wechat-20260927-224.webp" },
-  { name: "LINE", qr: "/qr/line-20261108-765.jpg" },
+  // LINEQR-SIZE(11-08 보스 5765 ②): 보스 원본은 흰 여백(무늬 77.5%)이 있어 칸만 1.25배(112→140px). 이미지 그대로.
+  { name: "LINE", qr: "/qr/line-20261108-765.jpg", box: 140 },
   { name: "WhatsApp", qr: "/qr/whatsapp-20260927-224.webp" },
 ]
 
@@ -157,13 +158,13 @@ export default function HomePage() {
             </div>
             <ul className="grid grid-cols-2 gap-4 lg:grid-cols-4">
               {messengers.map((m) => (
-                <li key={m.name} className="card-x text-center">
+                <li key={m.name} className="card-x flex flex-col justify-end text-center">
                   <a href={qrHref(m.qr)} target="_blank" rel="noopener noreferrer" aria-label={`${m.name} 상담 열기`} className="mx-auto block w-fit">
                     <Image
                       src={m.qr}
                       alt={`${m.name} 상담 QR 코드`}
-                      width={112}
-                      height={112}
+                      width={m.box ?? 112}
+                      height={m.box ?? 112}
                       className="mx-auto rounded-[8px]"
                     />
                   </a>

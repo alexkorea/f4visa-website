@@ -4659,6 +4659,24 @@
    "site_name": "행정사사무소 이룸",
    "generated_at": "2026-11-08T10:04:36.681Z",
    "version": "1.4"
+  },
+  "f5-20-korea-born-child-of-permanent-resident": {
+   "hash": "95b77098ba339889092d40b6fa5a13d5967fd079a9a2e8b0334a7e84a5b1e80a",
+   "source": "pexels",
+   "seed": 2187266488,
+   "theme": "residence",
+   "prompt_subject": "apartment building entrance",
+   "map_version": null,
+   "pexels_id": 36298689,
+   "pexels_author": "ZhiCheng Zhang",
+   "category": "영주권",
+   "visa": "F-5",
+   "lang": "ko",
+   "slug": "f5-20-korea-born-child-of-permanent-resident",
+   "title": "동포 영주권자가 한국에서 아이를 낳으면? 영주권자의 국내 출생 자녀(F-5-20) 90일 신청과 부모 요건",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-09T10:07:38.442Z",
+   "version": "1.4"
   }
  }
 }

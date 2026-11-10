@@ -4677,6 +4677,24 @@
    "site_name": "행정사사무소 이룸",
    "generated_at": "2026-11-09T10:07:38.442Z",
    "version": "1.4"
+  },
+  "h2-service-industry-allowed-excluded-delivery-warehouse-cleaning": {
+   "hash": "7ec471fe1de4bbbea48d89f3cf9654d99a99c560873ba2560f98d6652a7d8d6a",
+   "source": "pexels",
+   "seed": 3591797857,
+   "theme": "employment",
+   "prompt_subject": "workplace desk with employment contract and pen",
+   "map_version": null,
+   "pexels_id": 7821913,
+   "pexels_author": "RDNE Stock project",
+   "category": "재외동포",
+   "visa": "H-2",
+   "lang": "ko",
+   "slug": "h2-service-industry-allowed-excluded-delivery-warehouse-cleaning",
+   "title": "방문취업(H-2) 동포가 일할 수 있는 서비스업은? 음식점·택배 하역·냉동창고·건물 청소·가사서비스와 허용 제외업종",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-10T10:06:32.899Z",
+   "version": "1.4"
   }
  }
 }

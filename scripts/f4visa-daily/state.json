@@ -296,6 +296,15 @@
       ],
       "at": "2026-11-09T10:07:38.461Z",
       "batch": "BLOG-STALL-1028-2 (맥4, 맥7 지시 2026-10-28)"
+    },
+    {
+      "slug": "h2-service-industry-allowed-excluded-delivery-warehouse-cleaning",
+      "date": "2026-11-10",
+      "locales": [
+        "ko"
+      ],
+      "at": "2026-11-10T10:06:32.919Z",
+      "batch": "BLOG-STALL-1028-2 (맥4, 맥7 지시 2026-10-28)"
     }
   ],
   "rejected": []

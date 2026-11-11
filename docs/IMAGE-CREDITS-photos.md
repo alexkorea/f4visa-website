@@ -7,7 +7,7 @@
 | card-renewal | 11773871 | Towfiqu barbhuiya | https://www.pexels.com/photo/a-person-holding-black-pen-pointing-on-calendar-11773871/ | 4592×3064 |
 | card-nat-loss | 7318931 | Angela Roma | https://www.pexels.com/photo/close-up-of-woman-taking-out-a-blank-piece-of-paper-form-an-envelope-7318931/ | 5040×3360 |
 | card-nat-recovery | 34225794 | FranKai Silva | https://www.pexels.com/photo/historic-korean-temple-gate-with-traditional-design-34225794/ | 6106×4070 |
-| card-permanent | 27976252 | fine studio | https://www.pexels.com/photo/apartment-near-han-river-27976252/ | 5133×3422 |
+| card-permanent | 6358840 | Anna Tarazevich | https://www.pexels.com/photo/6358840/ | 3500×2333 (EYE1111-4 교체, 이전 27976252 fine studio) |
 | card-tax | 8250947 | PNW Production | https://www.pexels.com/photo/close-up-of-an-open-notebook-calculator-and-a-pen-8250947/ | 3960×2640 |
 | d-resident | 7662165 | GeoJango Maps | https://www.pexels.com/photo/brown-framed-sunglasses-on-map-7662165/ | 3000×2000 |
 | d-renewal | 7567551 | Tima Miroshnichenko | https://www.pexels.com/photo/a-hand-holding-a-pen-7567551/ | 6000×4000 |

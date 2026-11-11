@@ -30,6 +30,39 @@ export const metadata: Metadata = withOgDefaults({
   },
 })
 
+const TAX_FAQ5 = [
+  {
+    q: "F-4 비자가 있으면 한국에 종합소득세를 내야 하나요?",
+    a: "비자 종류가 아니라 세법상 거주자인지가 기준입니다. 한국 체류 일수와 생활 근거지로 판단하며, 거주자면 국내외 소득을 합산하고 비거주자면 국내에서 생긴 소득만 신고합니다. 신고는 매년 5월입니다.",
+    slug: "f4-visa-tax-obligations-comprehensive-income",
+    link: "종합소득세 신고 의무 보기",
+  },
+  {
+    q: "한국에서 집을 사면 취득세는 언제, 어디에 내나요?",
+    a: "잔금일 등 취득일부터 60일 안에 부동산이 있는 지방자치단체에 신고·납부합니다. 세율은 주택 수·지역·취득 가격에 따라 달라지고, 기한을 넘기면 가산세가 붙습니다.",
+    slug: "dongpo-property-purchase-tax-process-guide",
+    link: "취득세 계산 구조 보기",
+  },
+  {
+    q: "해외에 있는 매수 자금은 어떻게 들여와야 하나요?",
+    a: "외국환은행을 통해 송금하고 부동산 취득 신고를 해 두는 것이 기본입니다. 이 기록이 나중에 매각 대금을 해외로 가져갈 때 근거가 되며, 현금 휴대 반입이나 가족 간 이체는 자금 출처 소명에서 자주 막힙니다.",
+    slug: "overseas-korean-korea-home-purchase-tax-steps",
+    link: "자금출처·해외송금 신고 보기",
+  },
+  {
+    q: "집을 갖고만 있어도 세금이 나오나요?",
+    a: "매년 6월 1일 기준 소유자에게 재산세가 부과되고, 공시가격 합계가 일정 기준을 넘으면 종합부동산세가 더해집니다. 한국에 주소가 없다면 납세관리인 지정도 챙겨야 합니다.",
+    slug: "overseas-korean-property-acquisition-process-tax-guide",
+    link: "보유세 안내 보기",
+  },
+  {
+    q: "한국 집을 팔 때 양도소득세는 어떻게 달라지나요?",
+    a: "파는 시점에 세법상 거주자인지에 따라 세율과 비과세 적용이 달라집니다. 비거주자로 분류되면 1세대 1주택 비과세를 받지 못하며, 거소증이 있다고 자동으로 거주자가 되지는 않습니다.",
+    slug: "overseas-korean-real-estate-acquisition-tax-procedure",
+    link: "양도소득세 신고 보기",
+  },
+]
+
 export default async function TaxStoriesPage() {
   const TAX_SLUGS = new Set([
     "f4-visa-tax-obligations-comprehensive-income",
@@ -53,6 +86,33 @@ export default async function TaxStoriesPage() {
           title="세금 이야기"
           subtitle="재외동포·F-4 비자 소지자를 위한 세금(부동산 취득세·종합소득세 등) 실무 가이드를 확인하세요." ctaLabel="상담 신청"
         />
+
+        {/* EYE1111-2: 목록 위 고유 요약 — 자주 묻는 세금 5가지(금액 없이, 기존 글로 연결) */}
+        <section className="section pb-0" aria-labelledby="tax-faq5">
+          <div className="container-x">
+            <h2 id="tax-faq5" className="text-2xl font-bold text-foreground">재외동포가 자주 묻는 세금 5가지</h2>
+            <p className="mt-2 text-sm text-muted-foreground">
+              한국에 집을 사거나 소득이 생긴 재외동포·F-4 소지자가 상담에서 가장 많이 묻는 질문입니다. 자세한 내용은 각 글에서 확인하세요.
+            </p>
+            <ol className="mt-6 grid gap-4 md:grid-cols-2">
+              {TAX_FAQ5.map((q, i) => (
+                <li key={q.slug} className="rounded-2xl border border-border bg-card p-5">
+                  <h3 className="text-base font-semibold text-foreground">
+                    <span className="mr-1 text-primary">{i + 1}.</span>
+                    {q.q}
+                  </h3>
+                  <p className="mt-2 text-sm leading-relaxed text-muted-foreground">{q.a}</p>
+                  <Link
+                    href={`/blog/${q.slug}`}
+                    className="mt-2 inline-flex min-h-[44px] items-center text-sm font-semibold text-primary hover:underline"
+                  >
+                    {q.link} →
+                  </Link>
+                </li>
+              ))}
+            </ol>
+          </div>
+        </section>
 
         {/* Partner: 박동국 세무사 */}
         <section className="section">

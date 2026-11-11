@@ -10,7 +10,8 @@ export const PHOTOS: Record<string, Photo> = {
   "card-renewal": { base: "/photos/f4-card-renewal", widths: [400, 800], alt: "달력의 30일에 펜으로 동그라미를 치는 손 — 체류기간 만료일 확인", pexelsId: 11773871, credit: "Towfiqu barbhuiya" },
   "card-nat-loss": { base: "/photos/f4-card-nat-loss-v2", widths: [400, 800], alt: "빈 서류를 갈색 서류 봉투에 넣는 두 손 — 국적상실 신고 서류 제출", pexelsId: 7318931, credit: "Angela Roma" },
   "card-nat-recovery": { base: "/photos/f4-card-nat-recovery", widths: [400, 800], alt: "태극 문양이 그려진 한국 전통 궁궐 대문", pexelsId: 34225794, credit: "FranKai Silva" },
-  "card-permanent": { base: "/photos/f4-card-permanent", widths: [400, 800], alt: "서울 한강 변에 늘어선 아파트 단지", pexelsId: 27976252, credit: "fine studio" },
+  // EYE1111-4: 강변 아파트(27976252)는 영주권 전환과 주제가 맞지 않아 교체 — 신청서에 승인 도장을 찍는 손
+  "card-permanent": { base: "/photos/f4-card-permanent-v2", widths: [400, 800], alt: "책상 위 서류에 도장을 찍는 두 손 — 영주권 전환 신청 심사·승인", pexelsId: 6358840, credit: "Anna Tarazevich" },
   "card-tax": { base: "/photos/f4-card-tax-v2", widths: [400, 800], alt: "공학용 계산기와 스프링 노트, 샤프펜슬 — 세금 계산 준비", pexelsId: 8250947, credit: "PNW Production" },
   "d-resident": { base: "/photos/f4-d-resident", widths: [640, 960, 1280, 1920], alt: "세계 지도 위에 놓인 미국 여권과 여행용품 — 해외 거주 동포의 입국 준비", pexelsId: 7662165, credit: "GeoJango Maps" },
   "d-renewal": { base: "/photos/f4-d-renewal", widths: [640, 960, 1280, 1920], alt: "신청서에 펜으로 서명하는 손 — 체류기간 연장 신청서 작성", pexelsId: 7567551, credit: "Tima Miroshnichenko" },

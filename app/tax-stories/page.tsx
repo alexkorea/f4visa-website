@@ -70,7 +70,7 @@ export default async function TaxStoriesPage() {
     "dongpo-property-purchase-tax-process-guide",
     "overseas-korean-housing-purchase-registration-tax-guide",
     "overseas-korean-korea-home-purchase-tax-steps",
-    "overseas-korean-real-estate-purchase-procedure-tax-2026",
+    "overseas-korean-real-estate-purchase-procedure-tax",
     "overseas-korean-property-acquisition-procedure-tax-guide",
     "overseas-korean-property-acquisition-process-tax-guide",
     "overseas-korean-real-estate-acquisition-tax-procedure",

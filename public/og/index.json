@@ -4695,6 +4695,24 @@
    "site_name": "행정사사무소 이룸",
    "generated_at": "2026-11-10T10:06:32.899Z",
    "version": "1.4"
+  },
+  "h2-agriculture-forestry-fishery-mining-allowed-industries": {
+   "hash": "a91575f9f1419735186261abf05ba173a777231f86f2e36f668486765718d1f7",
+   "source": "pexels",
+   "seed": 899081661,
+   "theme": "employment",
+   "prompt_subject": "workplace desk with employment contract and pen",
+   "map_version": null,
+   "pexels_id": 8112136,
+   "pexels_author": "Pavel Danilyuk",
+   "category": "재외동포",
+   "visa": "H-2",
+   "lang": "ko",
+   "slug": "h2-agriculture-forestry-fishery-mining-allowed-industries",
+   "title": "방문취업(H-2) 동포는 농장·산림·어업·광산에서 일할 수 있나요? 농업·임업·어업·광업 허용업종과 제외 분야",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-11T10:06:39.731Z",
+   "version": "1.4"
   }
  }
 }

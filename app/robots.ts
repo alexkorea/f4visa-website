@@ -1,25 +1,17 @@
 import type { MetadataRoute } from "next"
 
+// 1SEO 3장(2026-11-12 task_mac4_34): 허용 봇을 한 그룹에 묶는다 — 이름 붙은 그룹은 * 의 disallow 를 물려받지 않는다.
+// 실제 응답은 public/robots.txt 가 낸다 — 둘을 같게 둔다.
+const ALLOWED_BOTS = [
+  "*", "Googlebot", "Yeti", "bingbot", "Applebot", "YandexBot",
+  "OAI-SearchBot", "ChatGPT-User", "GPTBot", "PerplexityBot", "Perplexity-User",
+  "Claude-SearchBot", "Claude-User", "ClaudeBot", "anthropic-ai", "Google-Extended",
+]
+
 export default function robots(): MetadataRoute.Robots {
   return {
     rules: [
-      {
-        userAgent: "*",
-        allow: "/",
-        disallow: ["/api/"],
-      },
-      // NAVER-SEO-FIX-1031: 네이버 Yeti 명시(* 그룹을 대체하므로 disallow 그대로). 실제 응답은 public/robots.txt 가 낸다 — 둘을 같게 둔다.
-      { userAgent: "Yeti", allow: "/", disallow: ["/api/"] },
-      { userAgent: "OAI-SearchBot", allow: "/", disallow: ["/api/"] },
-      { userAgent: "GPTBot", allow: "/" },
-      { userAgent: "ChatGPT-User", allow: "/", disallow: ["/api/"] },
-      { userAgent: "ClaudeBot", allow: "/" },
-      { userAgent: "anthropic-ai", allow: "/" },
-      { userAgent: "PerplexityBot", allow: "/", disallow: ["/api/"] },
-      { userAgent: "Google-Extended", allow: "/" },
-      { userAgent: "Claude-SearchBot", allow: "/", disallow: ["/api/"] },
-      { userAgent: "Googlebot", allow: "/", disallow: ["/api/"] },
-      { userAgent: "Bingbot", allow: "/", disallow: ["/api/"] },
+      { userAgent: ALLOWED_BOTS, allow: "/", disallow: ["/api/"] },
       { userAgent: "Amazonbot", disallow: "/" },
     ],
     sitemap: "https://www.f4visa.net/sitemap.xml",

@@ -4713,6 +4713,24 @@
    "site_name": "행정사사무소 이룸",
    "generated_at": "2026-11-11T10:06:39.731Z",
    "version": "1.4"
+  },
+  "f2-2-foreign-minor-child-of-korean-citizen": {
+   "hash": "520de84f2dde90f6f7d8e7fda619decd96d79c2f13a98e3276caf4bcaadd4557",
+   "source": "pexels",
+   "seed": 3230398428,
+   "theme": "residence",
+   "prompt_subject": "apartment building entrance",
+   "map_version": null,
+   "pexels_id": 12131611,
+   "pexels_author": "Roman Verton",
+   "category": "재외동포",
+   "visa": "F-2",
+   "lang": "ko",
+   "slug": "f2-2-foreign-minor-child-of-korean-citizen",
+   "title": "한국인 부모의 외국국적 미성년 자녀, 재외동포(F-4) 대신 거주(F-2-2)로 체류할 수 있나요?",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-12T10:04:40.661Z",
+   "version": "1.4"
   }
  }
 }

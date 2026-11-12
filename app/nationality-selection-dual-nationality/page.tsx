@@ -16,7 +16,7 @@ import { withOgDefaults } from "@/lib/og"
 
 export const metadata: Metadata = withOgDefaults({
   title:
-    "국적선택과 이중국적 / 복수국적자 종합가이드",
+    "국적선택과 이중국적 / 복수국적자",
   description:
     "복수국적자의 법적 지위와 국적선택 기한, 외국국적불행사 서약의 의미와 위반 사례를 정리했습니다. 국적이탈·국적상실과의 차이를 사례로 비교해 행정사가 안내합니다.",
   alternates: {
@@ -24,7 +24,7 @@ export const metadata: Metadata = withOgDefaults({
       "https://www.f4visa.net/nationality-selection-dual-nationality",
   },
   openGraph: {
-    title: "국적선택과 이중국적 / 복수국적자 종합가이드",
+    title: "국적선택과 이중국적 / 복수국적자",
     description:
       "복수국적자의 법적 처우, 직무상 제한, 국적선택 기한, 불행사서약 위반 시 국적선택 명령 안내.",
     url: `${SITE.url}/nationality-selection-dual-nationality`,
@@ -33,7 +33,7 @@ export const metadata: Metadata = withOgDefaults({
   },
   twitter: {
     card: "summary_large_image",
-    title: "국적선택과 이중국적 / 복수국적자 종합가이드",
+    title: "국적선택과 이중국적 / 복수국적자",
     description:
       "복수국적자의 법적 처우, 직무상 제한, 국적선택 기한, 불행사서약 위반 시 국적선택 명령 안내.",
   },

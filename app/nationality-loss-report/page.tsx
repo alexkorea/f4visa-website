@@ -15,12 +15,12 @@ import { FileText, Building2, ClipboardCheck, CheckCircle2 } from "lucide-react"
 import { withOgDefaults } from "@/lib/og"
 
 export const metadata: Metadata = withOgDefaults({
-  title: "국적상실 신고 대행 — 절차·준비서류 총정리",
+  title: "국적상실 신고 대행 — 절차·준비서류",
   description:
     "외국 국적 취득으로 대한민국 국적을 상실한 경우의 신고 절차와 준비 서류, 신고를 미룰 때 생기는 문제를 정리했습니다. 재외공관·국내 접수 방법을 행정사가 안내합니다.",
   alternates: { canonical: `${SITE.url}/nationality-loss-report` },
   openGraph: {
-    title: "국적상실 신고 대행 — 절차·준비서류 총정리 | 행정사사무소 이룸",
+    title: "국적상실 신고 대행 — 절차·준비서류 | 행정사사무소 이룸",
     description: "외국 국적 취득으로 대한민국 국적을 상실한 경우의 신고 절차와 준비 서류, 신고를 미룰 때 생기는 문제를 정리했습니다. 재외공관·국내 접수 방법을 행정사가 안내합니다.",
     url: `${SITE.url}/nationality-loss-report`,
     siteName: SITE.name,
@@ -28,7 +28,7 @@ export const metadata: Metadata = withOgDefaults({
   },
   twitter: {
     card: "summary_large_image",
-    title: "국적상실 신고 대행 — 절차·준비서류 총정리 | 행정사사무소 이룸",
+    title: "국적상실 신고 대행 — 절차·준비서류 | 행정사사무소 이룸",
     description: "외국 국적 취득으로 대한민국 국적을 상실한 경우의 신고 절차와 준비 서류, 신고를 미룰 때 생기는 문제를 정리했습니다. 재외공관·국내 접수 방법을 행정사가 안내합니다.",
   },
 })

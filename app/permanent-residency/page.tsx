@@ -15,12 +15,12 @@ import { CheckCircle2 } from "lucide-react"
 import { withOgDefaults } from "@/lib/og"
 
 export const metadata: Metadata = withOgDefaults({
-  title: "재외동포 영주권(F-5) 대행 — 자격·절차·필요서류",
+  title: "재외동포 영주권(F-5) 자격·절차",
   description:
     "F-4 비자에서 F-5 영주권으로 전환할 때의 체류 요건, 생계유지 능력, 기본소양 요건과 필요 서류, 신청 절차를 비교표로 정리했습니다. 신청 시점 판단을 행정사가 검토해 드립니다.",
   alternates: { canonical: `${SITE.url}/permanent-residency` },
   openGraph: {
-    title: "재외동포 영주권(F-5) 대행 — 자격·절차·필요서류 | 행정사사무소 이룸",
+    title: "재외동포 영주권(F-5) 자격·절차 | 행정사사무소 이룸",
     description:
       "F-4 비자에서 F-5 영주권으로 전환할 때의 체류 요건, 생계유지 능력, 기본소양 요건과 필요 서류, 신청 절차를 비교표로 정리했습니다. 신청 시점 판단을 행정사가 검토해 드립니다.",
     url: `${SITE.url}/permanent-residency`,
@@ -29,7 +29,7 @@ export const metadata: Metadata = withOgDefaults({
   },
   twitter: {
     card: "summary_large_image",
-    title: "재외동포 영주권(F-5) 대행 — 자격·절차·필요서류 | 행정사사무소 이룸",
+    title: "재외동포 영주권(F-5) 자격·절차 | 행정사사무소 이룸",
     description:
       "F-4 비자에서 F-5 영주권으로 전환할 때의 체류 요건, 생계유지 능력, 기본소양 요건과 필요 서류, 신청 절차를 비교표로 정리했습니다. 신청 시점 판단을 행정사가 검토해 드립니다.",
   },

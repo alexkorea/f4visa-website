@@ -3,6 +3,8 @@ title: "방문취업(H-2) 동포를 고용하려는 사업주, 허용업종 확�
 date: "2026-10-30"
 category: "재외동포"
 excerpt: "방문취업(H-2) 동포를 채용하려는 사업주가 알아야 할 허용업종 판단 방식(포지티브·네거티브), 제조업·건설업 한정 조건, 내국인 구인노력 15일과 특례고용가능확인서, 외국인구직자 명부 안 허용인원, 취업개시·근로개시 신고 15일과 첨부서류를 정리했습니다."
+seoTitle: "H-2 사업주 특례고용가능확인서 절차"
+seoDescription: "방문취업(H-2) 동포를 채용하려는 사업주가 알아야 할 허용업종 판단 방식, 내국인 구인노력 15일과 특례고용가능확인서, 취업개시·근로개시 신고 15일과 첨부서류를 정리했습니다."
 image: "/og/h2-compatriot-hiring-employer-special-employment-confirmation-r1103.png"
 slug: "h2-compatriot-hiring-employer-special-employment-confirmation"
 ---

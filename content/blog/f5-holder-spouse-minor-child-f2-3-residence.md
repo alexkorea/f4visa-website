@@ -3,6 +3,8 @@ title: "동포 영주권자(F-5)의 배우자·미성년 자녀는 어떤 자격
 date: "2026-11-07"
 category: "영주권"
 excerpt: "외국국적동포가 영주(F-5) 자격을 받은 뒤 배우자와 미성년 자녀가 받는 거주(F-2-3) 자격의 대상, 해외 배우자의 거주(F-2-3) 단수사증 서류, 국내 거주자격 변경 서류, 체류기간 연장 서류, 한국인 배우자가 국적을 상실한 경우의 거주(F-2) 체류자격 부여를 정리했습니다."
+seoTitle: "F-5 배우자·자녀 거주(F-2-3)"
+seoDescription: "외국국적동포가 영주(F-5) 자격을 받은 뒤 배우자와 미성년 자녀가 받는 거주(F-2-3) 자격의 대상, 국내 거주자격 변경 서류, 체류기간 연장 서류를 정리했습니다."
 image: "/og/f5-holder-spouse-minor-child-f2-3-residence.png"
 slug: "f5-holder-spouse-minor-child-f2-3-residence"
 ---

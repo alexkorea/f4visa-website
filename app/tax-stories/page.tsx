@@ -13,11 +13,11 @@ import { withOgDefaults } from "@/lib/og"
 export const revalidate = 60
 
 export const metadata: Metadata = withOgDefaults({
-  title: "세금 이야기 — 재외동포·F-4 비자 세금 가이드",
+  title: "재외동포·F-4 비자 세금 이야기",
   description: "재외동포와 F-4 비자 소지자의 부동산 취득세, 등기, 종합소득세 신고 등 세금 실무를 협력 세무사(박동국 세무사·택스가이드 세무회계사무소)와 함께 정리한 가이드 모음입니다.",
   alternates: { canonical: `${SITE.url}/tax-stories` },
   openGraph: {
-    title: "세금 이야기 — 재외동포·F-4 비자 세금 가이드 | 행정사사무소 이룸",
+    title: "재외동포·F-4 비자 세금 이야기 | 행정사사무소 이룸",
     description: "재외동포와 F-4 비자 소지자의 부동산 취득세, 등기, 종합소득세 신고 등 세금 실무를 협력 세무사(박동국 세무사·택스가이드 세무회계사무소)와 함께 정리한 가이드 모음입니다.",
     url: `${SITE.url}/tax-stories`,
     siteName: SITE.name,
@@ -25,7 +25,7 @@ export const metadata: Metadata = withOgDefaults({
   },
   twitter: {
     card: "summary_large_image",
-    title: "세금 이야기 — 재외동포·F-4 비자 세금 가이드 | 행정사사무소 이룸",
+    title: "재외동포·F-4 비자 세금 이야기 | 행정사사무소 이룸",
     description: "재외동포와 F-4 비자 소지자의 부동산 취득세, 등기, 종합소득세 신고 등 세금 실무를 협력 세무사(박동국 세무사·택스가이드 세무회계사무소)와 함께 정리한 가이드 모음입니다.",
   },
 })

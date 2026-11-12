@@ -15,12 +15,12 @@ import { CalendarCheck, FileText, Building2, CheckCircle2 } from "lucide-react"
 import { withOgDefaults } from "@/lib/og"
 
 export const metadata = withOgDefaults({
-  title: "F-4 비자 연장 대행 — 필요서류와 절차, 신청 시기",
+  title: "F-4 비자 연장 — 필요서류와 절차",
   description:
     "F-4 재외동포 비자 체류기간 연장의 신청 시기와 필요 서류, 관할 출입국·외국인청 접수 절차를 정리했습니다. 연장 지연 시 불이익과 준비 순서를 행정사가 안내합니다.",
   alternates: { canonical: `${SITE.url}/f4-visa-renewal` },
   openGraph: {
-    title: "F-4 비자 연장 대행 — 필요서류와 절차, 신청 시기 | 행정사사무소 이룸",
+    title: "F-4 비자 연장 — 필요서류와 절차 | 행정사사무소 이룸",
     description: "F-4 재외동포 비자 체류기간 연장의 신청 시기와 필요 서류, 관할 출입국·외국인청 접수 절차를 정리했습니다. 연장 지연 시 불이익과 준비 순서를 행정사가 안내합니다.",
     url: `${SITE.url}/f4-visa-renewal`,
     siteName: SITE.name,
@@ -28,7 +28,7 @@ export const metadata = withOgDefaults({
   },
   twitter: {
     card: "summary_large_image" as const,
-    title: "F-4 비자 연장 대행 — 필요서류와 절차, 신청 시기 | 행정사사무소 이룸",
+    title: "F-4 비자 연장 — 필요서류와 절차 | 행정사사무소 이룸",
     description: "F-4 재외동포 비자 체류기간 연장의 신청 시기와 필요 서류, 관할 출입국·외국인청 접수 절차를 정리했습니다. 연장 지연 시 불이익과 준비 순서를 행정사가 안내합니다.",
   },
 })

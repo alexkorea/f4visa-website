@@ -3,6 +3,8 @@ title: "재외동포(F-4) 결핵진단서, 체류기간 연장·자격변경 때
 date: "2026-11-02"
 category: "F-4비자"
 excerpt: "재외동포(F-4) 국내 자격변경 서류에 들어가는 결핵진단서, 결핵 고위험국가 35개국 목록, 사증 신청·입국 후·체류 중 단계별 제출 대상, 해외에 연속 6개월 이상 머문 뒤 연장할 때의 기준과 제출 제외 대상을 정리했습니다."
+seoTitle: "F-4 결핵진단서 누가 내야 하나요?"
+seoDescription: "재외동포(F-4) 국내 자격변경 서류에 들어가는 결핵진단서, 결핵 고위험국가 35개국 목록, 해외에 연속 6개월 이상 머문 뒤 연장할 때의 기준과 제출 제외 대상을 정리했습니다."
 image: "/og/f4-tuberculosis-certificate-high-risk-countries-extension-status-change.png"
 slug: "f4-tuberculosis-certificate-high-risk-countries-extension-status-change"
 ---

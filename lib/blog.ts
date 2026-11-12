@@ -26,6 +26,9 @@ export interface BlogPost {
   excerpt: string
   image: string
   partner: string
+  /** 검색결과용 제목·설명(선택). 없으면 title·excerpt. <title>·description·og·twitter 에만 쓴다(H1·목록·RSS 는 title·excerpt 그대로). */
+  seoTitle?: string
+  seoDescription?: string
   /** 원고 마지막 커밋일(원고 date 이상) — Article dateModified·사이트맵 lastmod 원천(NAVER-SEO-FIX-1031). */
   modified: string
   content: string
@@ -75,6 +78,8 @@ function readPost(filePath: string): BlogPost | null {
       excerpt: data.excerpt || data.description || '',
       image: data.image || '/slides/documents.jpg',
       partner: data.partner || '',
+      seoTitle: data.seoTitle || undefined,
+      seoDescription: data.seoDescription || undefined,
       modified: [String(data.date || ''), CONTENT_MODIFIED[slug] || ''].sort().pop() || '',
       content,
     }

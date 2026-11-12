@@ -3,6 +3,8 @@ title: "재외동포(F-4) 체류허가 신청해 두고 출국해도 되나요? 
 date: "2026-11-03"
 category: "F-4비자"
 excerpt: "재외동포(F-4)가 체류기간 연장·자격변경을 신청할 때 지켜야 할 공통 규칙, 신청 후 출국 시 불허 가능성, 출국 중 대행신청 불가, 국내 서류 3개월·해외 서류 아포스티유 기준, 이미 낸 서류 생략과 사전방문예약제를 정리했습니다."
+seoTitle: "F-4 체류허가 신청 중 출국 제한"
+seoDescription: "재외동포(F-4)가 체류기간 연장·자격변경을 신청할 때 신청 후 출국 시 불허 가능성, 출국 중 대행신청 불가, 국내 서류 3개월·해외 서류 아포스티유 기준을 정리했습니다."
 image: "/og/f4-stay-permit-application-departure-proxy-document-validity.png"
 slug: "f4-stay-permit-application-departure-proxy-document-validity"
 ---

@@ -3,6 +3,8 @@ title: "지역특화형 재외동포영주(F-5-6R), 지역특화동포(F-4-R)로
 date: "2026-11-01"
 category: "영주권"
 excerpt: "지역특화동포(F-4-R)로 추천지역에 계속 거주한 동포가 받을 수 있는 지역동포영주(F-5-6R)의 거주기간(4년, 기존 거주자는 2년), 생계유지능력 GNI 70% 완화, 기본소양 요건과 면제 대상, 제출서류, 일반 동포 영주(F-5-6)와 다른 점을 정리했습니다."
+seoTitle: "지역특화형 재외동포영주(F-5-6R)"
+seoDescription: "지역특화동포(F-4-R)로 추천지역에 계속 거주한 동포가 받을 수 있는 지역동포영주(F-5-6R)의 거주기간(4년, 기존 거주자는 2년), 기본소양 요건, 제출서류를 정리했습니다."
 image: "/og/f5-6r-regional-overseas-korean-permanent-residency.png"
 slug: "f5-6r-regional-overseas-korean-permanent-residency"
 ---

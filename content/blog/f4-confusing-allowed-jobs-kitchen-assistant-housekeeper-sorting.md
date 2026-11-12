@@ -3,6 +3,8 @@ title: "재외동포(F-4)로 주방보조·가사도우미·제품선별 일을 
 date: "2026-11-04"
 category: "F-4비자"
 excerpt: "2026년 2월 12일부터 시행된 재외동포(F-4) 취업활동 제한범위 기준에서 주방보조원·가사도우미·육아도우미·제품단순선별원·음식서비스종사원 등은 허용, 건설 단순종사원·택배원·건물청소원 등은 일반 지역에서 제한되는 구분과 인구감소지역 예외를 정리했습니다."
+seoTitle: "F-4 주방보조·가사도우미 허용·제한"
+seoDescription: "재외동포(F-4) 취업활동 제한범위 기준에서 주방보조원·가사도우미 등은 허용, 건설 단순종사원·택배원·건물청소원 등은 일반 지역에서 제한되는 구분과 인구감소지역 예외를 정리했습니다."
 image: "/og/f4-confusing-allowed-jobs-kitchen-assistant-housekeeper-sorting.png"
 slug: "f4-confusing-allowed-jobs-kitchen-assistant-housekeeper-sorting"
 ---

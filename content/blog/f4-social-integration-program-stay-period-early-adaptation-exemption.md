@@ -3,6 +3,8 @@ title: "재외동포(F-4)가 사회통합프로그램에 등록하면 무엇이 
 date: "2026-11-05"
 category: "F-4비자"
 excerpt: "한국어능력 입증서류가 없는 재외동포(F-4)는 거소신고·연장 때 체류기간 1년이지만 사회통합프로그램을 등록·수강하면 2년, 1단계 이수나 사전평가 21점이면 한국어능력 입증으로 최대 3년, 1단계 이상 이수 중이면 조기적응프로그램 면제가 되는 구조를 정리했습니다."
+seoTitle: "F-4 사회통합프로그램 체류기간 2년"
+seoDescription: "한국어능력 입증서류가 없는 재외동포(F-4)는 체류기간 1년이지만 사회통합프로그램을 등록·수강하면 2년, 1단계 이상 이수 중이면 조기적응프로그램 면제가 되는 구조를 정리했습니다."
 image: "/og/f4-social-integration-program-stay-period-early-adaptation-exemption.png"
 slug: "f4-social-integration-program-stay-period-early-adaptation-exemption"
 ---

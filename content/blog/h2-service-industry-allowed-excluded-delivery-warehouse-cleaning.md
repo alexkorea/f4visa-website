@@ -3,6 +3,8 @@ title: "방문취업(H-2) 동포가 일할 수 있는 서비스업은? 음식점
 date: "2026-11-10"
 category: "재외동포"
 excerpt: "방문취업(H-2) 동포가 서비스업에서 일할 수 있는 범위를 허용 제외업종 방식으로 설명합니다. 음식점·숙박업·도소매업, 운수·창고업 안에서 예외로 허용되는 택배 하역·냉장 냉동창고·물류 터미널, 건물 청소와 가사서비스, 제외되는 업종을 확인하세요."
+seoTitle: "H-2 서비스업 허용 제외업종"
+seoDescription: "방문취업(H-2) 동포가 서비스업에서 일할 수 있는 범위를 허용 제외업종 방식으로 설명합니다. 음식점·숙박업·도소매업, 택배 하역·냉장 냉동창고, 건물 청소와 가사서비스를 확인하세요."
 image: "/og/h2-service-industry-allowed-excluded-delivery-warehouse-cleaning.png"
 slug: "h2-service-industry-allowed-excluded-delivery-warehouse-cleaning"
 ---

@@ -3,6 +3,8 @@ title: "방문취업(H-2) 동포는 농장·산림·어업·광산에서 일할 
 date: "2026-11-11"
 category: "재외동포"
 excerpt: "방문취업(H-2) 동포가 농업·임업·어업·광업에서 일할 수 있는 허용업종을 정리했습니다. 작물 재배업·축산업, 법인 산림사업체 임업 단순 종사원 한정 조건, 연근해·양식 어업, 금속·비금속 광업과 함께 허용되지 않는 분야를 확인하세요."
+seoTitle: "H-2 농업·임업·어업·광업 허용업종"
+seoDescription: "방문취업(H-2) 동포가 농업·임업·어업·광업에서 일할 수 있는 허용업종을 정리했습니다. 작물 재배업·축산업, 연근해·양식 어업, 금속·비금속 광업과 허용되지 않는 분야를 확인하세요."
 image: "/og/h2-agriculture-forestry-fishery-mining-allowed-industries.png"
 slug: "h2-agriculture-forestry-fishery-mining-allowed-industries"
 ---

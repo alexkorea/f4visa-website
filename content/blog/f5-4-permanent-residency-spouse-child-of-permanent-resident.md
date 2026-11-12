@@ -3,6 +3,8 @@ title: "동포 영주권자의 배우자·미성년 자녀가 영주(F-5-4)를 �
 date: "2026-11-08"
 category: "영주권"
 excerpt: "영주(F-5) 외국국적동포의 배우자와 미성년 자녀가 영주자의 배우자·미성년 자녀(F-5-4)로 영주자격을 신청할 때의 대상, 거주(F-2) 2년 이상 체류 요건, 혼인관계·친권 요건, GNI 또는 순자산 기준, 기본소양 요건, 제출서류를 정리했습니다."
+seoTitle: "배우자·미성년 자녀 영주(F-5-4)"
+seoDescription: "영주(F-5) 외국국적동포의 배우자와 미성년 자녀가 영주자의 배우자·미성년 자녀(F-5-4)로 영주자격을 신청할 때의 거주(F-2) 2년 이상 체류 요건과 제출서류를 정리했습니다."
 image: "/og/f5-4-permanent-residency-spouse-child-of-permanent-resident.png"
 slug: "f5-4-permanent-residency-spouse-child-of-permanent-resident"
 ---

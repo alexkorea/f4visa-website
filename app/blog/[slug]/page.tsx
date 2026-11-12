@@ -30,13 +30,16 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   // 세무글(partner: taxguide)도 발행 주체는 이룸이다. 협력 세무사 상호를 title·siteName 에
   // 넣으면 타 브랜드 혼입이 된다(검색노출 지침 11장, 2026-10-03). 협력 세무사 연락처 박스는 본문에 유지.
   const brand = SITE.name
+  // 검색결과 제목·설명은 원고의 seoTitle·seoDescription(선택)이 있으면 그것, 없으면 title·excerpt (1SEO 5장, 11-12).
+  const metaTitle = post.seoTitle || post.title
+  const metaDesc = post.seoDescription || post.excerpt
   return {
-    title: post.title,
-    description: post.excerpt,
+    title: metaTitle,
+    description: metaDesc,
     alternates: { canonical: `${BASE_URL}/blog/${slug}` },
     openGraph: {
-      title: `${post.title} | ${brand}`,
-      description: post.excerpt,
+      title: `${metaTitle} | ${brand}`,
+      description: metaDesc,
       url: `${BASE_URL}/blog/${slug}`,
       siteName: brand,
       type: "article",
@@ -44,8 +47,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     },
     twitter: {
       card: "summary_large_image",
-      title: `${post.title} | ${brand}`,
-      description: post.excerpt,
+      title: `${metaTitle} | ${brand}`,
+      description: metaDesc,
       images: [post.image.startsWith("http") ? post.image : `${BASE_URL}${post.image}`],
     },
   }

@@ -3,6 +3,8 @@ title: "재외동포(F-4) 거소신고·연장 때 함께 내는 직업 신고�
 date: "2026-10-31"
 category: "F-4비자"
 excerpt: "재외동포(F-4)가 체류기간 연장·자격변경 같은 체류허가를 신청할 때 함께 하는 외국인 직업 신고(연 소득금액은 기재 불요)와, 만 6세 이상 만 18세 이하 자녀의 재학 여부 신고(입학·진학 시 15일 이내) 시기와 작성 방법을 정리했습니다."
+seoTitle: "F-4 직업 신고와 자녀 재학 신고"
+seoDescription: "재외동포(F-4)가 체류허가를 신청할 때 함께 하는 외국인 직업 신고와, 만 6세 이상 만 18세 이하 자녀의 재학 여부 신고 시기와 작성 방법을 정리했습니다."
 image: "/og/f4-occupation-report-and-child-school-enrollment-report.png"
 slug: "f4-occupation-report-and-child-school-enrollment-report"
 ---

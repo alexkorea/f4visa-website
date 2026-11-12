@@ -3,6 +3,8 @@ title: "한국에서 학교를 다닌 동포가 재외동포(F-4)로 바꿀 때 
 date: "2026-11-06"
 category: "F-4비자"
 excerpt: "한국에서 초·중·고교나 대학을 다닌 외국국적동포가 국내에서 재외동포(F-4)로 자격변경할 때 한국어능력 입증서류, 조기적응프로그램 이수증, 해외 범죄경력증명서가 각각 어떤 조건에서 면제되는지와 그래도 내야 하는 서류를 정리했습니다."
+seoTitle: "F-4로 바꿀 때 면제되는 서류는?"
+seoDescription: "한국에서 초·중·고교나 대학을 다닌 외국국적동포가 재외동포(F-4)로 자격변경할 때 한국어능력 입증서류, 조기적응프로그램 이수증, 해외 범죄경력증명서가 면제되는지 정리했습니다."
 image: "/og/f4-status-change-after-korean-schooling-exempt-documents.png"
 slug: "f4-status-change-after-korean-schooling-exempt-documents"
 ---

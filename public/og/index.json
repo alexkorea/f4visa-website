@@ -4731,6 +4731,24 @@
    "site_name": "행정사사무소 이룸",
    "generated_at": "2026-11-12T10:04:40.661Z",
    "version": "1.4"
+  },
+  "f4-change-long-term-resident-three-years-exempt-documents": {
+   "hash": "42b0d506319e4202bd957383cfccfb776fcecca6d31f57b8401306b10e00477d",
+   "source": "pexels",
+   "seed": 229796991,
+   "theme": "city",
+   "prompt_subject": "korean urban street",
+   "map_version": null,
+   "pexels_id": 21134738,
+   "pexels_author": "ZhiCheng Zhang",
+   "category": "F-4비자",
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-change-long-term-resident-three-years-exempt-documents",
+   "title": "장기체류 중인 동포가 재외동포(F-4)로 바꿀 때, 3년 체류와 이전 제출로 면제되는 서류",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-13T10:05:40.215Z",
+   "version": "1.4"
   }
  }
 }

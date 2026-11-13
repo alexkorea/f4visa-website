@@ -39,10 +39,17 @@ async function markdownToHtml(markdown: string): Promise<string> {
   // 그대로 두면 한 페이지에 H1 이 2개가 된다(실측 158/184) — BLOG_STANDARD 4장 위반.
   const stripped = markdown.replace(/^\uFEFF?\s*#(?!#)\s+.*(?:\r?\n)+/, '')
   const result = await remark().use(remarkGfm).use(remarkHtml, { sanitize: false }).process(stripped)
-  return pexelsSrcset(addHeadingAnchors(result.toString()
+  return wrapTables(pexelsSrcset(addHeadingAnchors(result.toString()
     // 본문 중간에 남은 H1 은 H2 로 낮춘다(H1 은 문서당 1개).
     .replace(/<h1(\s[^>]*)?>/g, '<h2$1>')
-    .replace(/<\/h1>/g, '</h2>')))
+    .replace(/<\/h1>/g, '</h2>'))))
+}
+
+// QA01-FIX-1114 4(CARD-ALIGN): .prose table 이 display:block(가로 스크롤용)이라 테두리 상자는 본문 폭 전체인데
+// 안쪽 행은 내용 폭에서 끝나 머리줄 음영·줄 선이 상자 중간에서 끊겼다(1440 실측 3열 표 55% 폭). 표를 스크롤 상자로 감싸고
+// 표 자체는 display:table·width:100% 로 되돌린다(globals.css .prose .table-scroll). 원고는 그대로.
+function wrapTables(html: string): string {
+  return html.replace(/<table>([\s\S]*?)<\/table>/g, '<div class="table-scroll"><table>$1</table></div>')
 }
 
 // 본문의 Pexels 핫링크 사진은 원고마다 `w=940`(일부 w=800) 한 장뿐이라 1440 화면(본문 780px, DPR2 → 필요 1404px)에서 흐렸다

@@ -280,6 +280,24 @@
   font-size: var(--fs-caption);
   margin-top: var(--s-24);
 }
+/* QA01-FIX-1114 4: 블로그 렌더(lib/blog.ts wrapTables)는 표를 .table-scroll 로 감싼다 — 상자가 스크롤·테두리를 맡고
+   표는 상자 폭을 꽉 채운다(내용이 넓으면 표가 커지고 상자가 가로 스크롤). 감싸지 않은 다른 .prose 표는 위 규칙 그대로. */
+.prose .table-scroll {
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid var(--c-line);
+  border-radius: var(--tk-radius-sm);
+  margin-top: var(--s-24);
+}
+.prose .table-scroll > table {
+  display: table;
+  width: 100%;
+  overflow: visible;
+  border: 0;
+  border-radius: 0;
+  margin-top: 0;
+}
 .prose thead { background: var(--c-surface-alt); }
 .prose th {
   padding: var(--s-8) var(--s-16);

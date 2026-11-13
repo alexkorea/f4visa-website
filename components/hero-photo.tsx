@@ -31,7 +31,9 @@ export function SitePhoto({
         {mobileFull ? (
           // F4-QA1102-FIX-2 C3: 모바일 홈 LCP(사진)가 960w(38KB)일 때 랩 3.6s — 임계 폰트 preload(92KB)와 대역을 나눈다.
           // 좁은 화면은 화면 배율과 무관하게 -640(18KB) 한 장만 받는다(358px 표시 → 1.8배 밀도).
-          <source media="(max-width: 1023px)" srcSet={`${p.base}-640.webp`} />
+          // QA01-FIX-1114 2: -640 한 장은 358px×DPR2(필요 ≥644)·DPR3(≥967)에서 흐렸다 → 1920 원본에서 줄인 -720(DPR2)·-1080(DPR3) 을
+          // 폭(w) 기술자로 더한다. 1배 화면은 여전히 -640(18KB). -720 은 q75 약 22KB, -1080 은 q62 약 37KB(옛 -960 38KB 보다 작다).
+          <source media="(max-width: 1023px)" srcSet={`${p.base}-640.webp 640w, ${p.base}-720.webp 720w, ${p.base}-1080.webp 1080w`} sizes="calc(100vw - 32px)" />
         ) : (
           <source media="(max-width: 1023px)" srcSet={`${p.base}-320.webp 1x, ${p.base}-640.webp 2x, ${p.base}-1280.webp 3x`} />
         )}

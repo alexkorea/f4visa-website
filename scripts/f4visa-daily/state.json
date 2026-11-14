@@ -332,6 +332,15 @@
       ],
       "at": "2026-11-13T10:05:40.235Z",
       "batch": "F4-BLOG-1031-2 (맥4, 맥7 승인 2026-10-31)"
+    },
+    {
+      "slug": "f4-senior-compatriot-age-60-exempt-documents",
+      "date": "2026-11-14",
+      "locales": [
+        "ko"
+      ],
+      "at": "2026-11-14T10:08:10.687Z",
+      "batch": "F4-BLOG-1031-2 (맥4, 맥7 승인 2026-10-31)"
     }
   ],
   "rejected": []

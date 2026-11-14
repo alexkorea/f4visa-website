@@ -4749,6 +4749,24 @@
    "site_name": "행정사사무소 이룸",
    "generated_at": "2026-11-13T10:05:40.215Z",
    "version": "1.4"
+  },
+  "f4-senior-compatriot-age-60-exempt-documents": {
+   "hash": "221aaf244a3a25c35b3811af3bfb567ffdc3f0007950a6d2ada1f1e76d3f6538",
+   "source": "pexels",
+   "seed": 815413165,
+   "theme": "city",
+   "prompt_subject": "korean urban street",
+   "map_version": null,
+   "pexels_id": 16576696,
+   "pexels_author": "Ayyeee Ayyeee",
+   "category": "F-4비자",
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-senior-compatriot-age-60-exempt-documents",
+   "title": "만 60세 이상 동포의 재외동포(F-4) 신청, 면제되는 서류와 65세 전까지 남는 조기적응프로그램",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-14T10:08:10.666Z",
+   "version": "1.4"
   }
  }
 }

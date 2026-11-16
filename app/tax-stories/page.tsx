@@ -1,7 +1,6 @@
 import { SITE } from "@/lib/site"
 import type { Metadata } from "next"
 import Link from "next/link"
-import Image from "next/image"
 import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { PageHero } from "@/components/page-hero"
@@ -144,7 +143,18 @@ export default async function TaxStoriesPage() {
                     className="group overflow-hidden rounded-2xl border border-border bg-card transition-all hover:border-primary/30 hover:shadow-lg"
                   >
                     <div className="relative aspect-[1200/630] overflow-hidden">
-                      <Image src={post.image} alt={post.title} fill className="object-cover" />
+                      {/* EYE-FIX-1116: PNG 1200w(장당 ~200KB) 대신 같은 그림 WebP 480/800/1200w — scripts/tax-card-webp.mjs */}
+                      <img
+                        src={post.image.replace(/\.png$/, "-800w.webp")}
+                        srcSet={[480, 800, 1200].map((w) => `${post.image.replace(/\.png$/, `-${w}w.webp`)} ${w}w`).join(", ")}
+                        sizes="(min-width: 1024px) 361px, (min-width: 640px) 50vw, 100vw"
+                        width={1200}
+                        height={630}
+                        alt={post.title}
+                        loading="lazy"
+                        decoding="async"
+                        className="absolute inset-0 h-full w-full object-cover"
+                      />
                     </div>
                     <div className="p-6">
                       <div className="mb-4 flex flex-wrap items-center gap-2 text-xs text-muted-foreground">

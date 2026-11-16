@@ -107,8 +107,8 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
         <section className="section">
           <div className="container-x">
             <div className="grid gap-12 lg:grid-cols-[1fr_320px]">
-              {/* Main content */}
-              <div>
+              {/* Main content — min-w-0: 표 속 긴 단어가 1fr 칸을 밀어 390 가로 넘침(EYE-FIX-1116) */}
+              <div className="min-w-0">
                 <Link href="/blog" className="btn-text mb-8 inline-flex min-h-[44px] items-center gap-2">
                   <ArrowLeft className="h-4 w-4" aria-hidden />
                   블로그 목록으로

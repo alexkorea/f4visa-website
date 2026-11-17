@@ -96,8 +96,8 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
               <h1 className="mt-4 text-3xl lg:text-4xl">{post.title}</h1>
               <p className="mt-4 text-base" style={{ color: "rgba(255,255,255,0.75)" }}>
                 {isTaxGuide
-                  ? `${SITE.name} · 최종 업데이트 ${post.date} · 세무 상담: 협력 세무사 박동국`
-                  : `${SITE.name} · 최종 업데이트 ${post.date}`}
+                  ? `${SITE.name} · 최종 업데이트 ${post.updated || post.date} · 세무 상담: 협력 세무사 박동국`
+                  : `${SITE.name} · 최종 업데이트 ${post.updated || post.date}`}
               </p>
             </div>
           </div>

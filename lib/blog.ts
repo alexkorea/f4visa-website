@@ -31,6 +31,8 @@ export interface BlogPost {
   seoDescription?: string
   /** 원고 마지막 커밋일(원고 date 이상) — Article dateModified·사이트맵 lastmod 원천(NAVER-SEO-FIX-1031). */
   modified: string
+  /** 원고 frontmatter updated — 본문을 실제로 고친 날(사람이 적음). 화면 '최종 업데이트' 원천, 없으면 date(F4DATE-1117). */
+  updated?: string
   content: string
 }
 
@@ -87,7 +89,8 @@ function readPost(filePath: string): BlogPost | null {
       partner: data.partner || '',
       seoTitle: data.seoTitle || undefined,
       seoDescription: data.seoDescription || undefined,
-      modified: [String(data.date || ''), CONTENT_MODIFIED[slug] || ''].sort().pop() || '',
+      updated: data.updated ? String(data.updated) : undefined,
+      modified: [String(data.date || ''), String(data.updated || ''), CONTENT_MODIFIED[slug] || ''].sort().pop() || '',
       content,
     }
   } catch {

@@ -2,6 +2,7 @@
 title: "F-4 비자 장기 출국 유의사항과 재입국 — 거소증 유지부터 재입국허가까지"
 visa: F-4
 date: "2026-05-28"
+updated: "2026-11-17"
 category: "재입국"
 excerpt: "F-4 거소신고자는 체류기간 안이면 재입국허가 없이 다시 들어올 수 있지만, 출국 중 체류기간이 끝나면 이 면제가 적용되지 않아 재입국이 막힐 수 있습니다."
 image: "/og/f4-long-departure-reentry-rules.png"

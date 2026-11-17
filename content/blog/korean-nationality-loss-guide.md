@@ -3,6 +3,7 @@ title: "국적상실 신고 방법 — 외국 국적 취득 후 한국 국적 �
 category: "국적"
 visa: "국적"
 date: "2026-05-23"
+updated: "2026-11-17"
 image: "/og/korean-nationality-loss-guide-r1108.png"
 excerpt: "외국 귀화 등 자진 취득으로 한국 국적을 상실한 경우의 신고 절차·서류·기한과, 혼인 등으로 외국 국적을 얻었을 때 6개월 안에 하는 국적보유 신고를 정리합니다."
 author: "이시정 대표행정사"

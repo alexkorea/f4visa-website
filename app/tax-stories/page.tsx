@@ -39,40 +39,34 @@ const TAX_FAQ5 = [
   {
     q: "한국에서 집을 사면 취득세는 언제, 어디에 내나요?",
     a: "잔금일 등 취득일부터 60일 안에 부동산이 있는 지방자치단체에 신고·납부합니다. 세율은 주택 수·지역·취득 가격에 따라 달라지고, 기한을 넘기면 가산세가 붙습니다.",
-    slug: "dongpo-property-purchase-tax-process-guide",
-    link: "취득세 계산 구조 보기",
+    slug: "f4-visa-real-estate-purchase-guide",
+    link: "부동산 취득 절차와 세금 보기",
   },
   {
     q: "해외에 있는 매수 자금은 어떻게 들여와야 하나요?",
     a: "외국환은행을 통해 송금하고 부동산 취득 신고를 해 두는 것이 기본입니다. 이 기록이 나중에 매각 대금을 해외로 가져갈 때 근거가 되며, 현금 휴대 반입이나 가족 간 이체는 자금 출처 소명에서 자주 막힙니다.",
-    slug: "overseas-korean-korea-home-purchase-tax-steps",
-    link: "자금출처·해외송금 신고 보기",
+    slug: "f4-visa-real-estate-purchase-guide",
+    link: "부동산 취득 절차와 세금 보기",
   },
   {
     q: "집을 갖고만 있어도 세금이 나오나요?",
     a: "매년 6월 1일 기준 소유자에게 재산세가 부과되고, 공시가격 합계가 일정 기준을 넘으면 종합부동산세가 더해집니다. 한국에 주소가 없다면 납세관리인 지정도 챙겨야 합니다.",
-    slug: "overseas-korean-property-acquisition-process-tax-guide",
-    link: "보유세 안내 보기",
+    slug: "f4-visa-real-estate-purchase-guide",
+    link: "부동산 취득 절차와 세금 보기",
   },
   {
     q: "한국 집을 팔 때 양도소득세는 어떻게 달라지나요?",
     a: "파는 시점에 세법상 거주자인지에 따라 세율과 비과세 적용이 달라집니다. 비거주자로 분류되면 1세대 1주택 비과세를 받지 못하며, 거소증이 있다고 자동으로 거주자가 되지는 않습니다.",
-    slug: "overseas-korean-real-estate-acquisition-tax-procedure",
-    link: "양도소득세 신고 보기",
+    slug: "f4-visa-real-estate-purchase-guide",
+    link: "부동산 취득 절차와 세금 보기",
   },
 ]
 
 export default async function TaxStoriesPage() {
   const TAX_SLUGS = new Set([
     "f4-visa-tax-obligations-comprehensive-income",
-    "f4-real-estate-acquisition-tax-guide",
-    "dongpo-property-purchase-tax-process-guide",
-    "overseas-korean-housing-purchase-registration-tax-guide",
-    "overseas-korean-korea-home-purchase-tax-steps",
-    "overseas-korean-real-estate-purchase-procedure-tax",
-    "overseas-korean-property-acquisition-procedure-tax-guide",
-    "overseas-korean-property-acquisition-process-tax-guide",
-    "overseas-korean-real-estate-acquisition-tax-procedure",
+    // F4DROP-1117: 부동산 취득 절차·세금 10편 → 대표 1편으로 301 통합
+    "f4-visa-real-estate-purchase-guide",
   ])
   const posts = (await getAllPosts()).filter((p) => TAX_SLUGS.has(p.slug))
 
@@ -95,7 +89,7 @@ export default async function TaxStoriesPage() {
             </p>
             <ol className="mt-6 grid gap-4 md:grid-cols-2">
               {TAX_FAQ5.map((q, i) => (
-                <li key={q.slug} className="rounded-2xl border border-border bg-card p-5">
+                <li key={q.q} className="rounded-2xl border border-border bg-card p-5">
                   <h3 className="text-base font-semibold text-foreground">
                     <span className="mr-1 text-primary">{i + 1}.</span>
                     {q.q}

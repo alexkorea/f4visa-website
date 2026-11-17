@@ -106,7 +106,7 @@ F-4로 입국한 뒤 90일 이상 체류하려면 입국일부터 90일 이내�
 ## 관련 안내
 
 - [재외동포 F-4-41과 F-4-42 입증서류](https://www.f4visa.net/blog/f4-41-f4-42-eligibility-proof-documents-by-category)
-- [F-4 비자 배우자·자녀 동반 비자](https://www.f4visa.net/blog/f4-visa-spouse-child-accompanying-visa)
+- [F-4 비자 배우자·자녀 동반 비자](https://www.f4visa.net/blog/f4-spouse-f3-visa-application)
 - [조기적응프로그램 이수 기준](https://www.f4visa.net/blog/f4-early-adaptation-program-requirement)
 
 ## 상담 안내

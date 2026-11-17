@@ -238,7 +238,7 @@ slug: "nationality-recovery"
 - [국적상실 신고 절차](/nationality-loss-report)
 - [국적선택과 이중국적 안내](/nationality-selection-dual-nationality)
 - [국적이탈 신고](/nationality-renunciation-report)
-- [F-4 비자 신청 가이드](/blog/f4-visa-guide)
+- [F-4 비자 신청 가이드](/blog/f4-eligibility-overseas-korean-scope)
 - [F-4 비자와 거소증 안내](/f4-visa-resident-card)
 - [영주권(F-5) 신청](/permanent-residency)
 

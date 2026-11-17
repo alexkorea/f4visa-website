@@ -180,10 +180,9 @@ F-4 자격 자체가 지원 자격을 자동으로 보장하지는 않습니다.
 
 ## 관련 글
 
-- [F-4 비자 자녀 학령기 F-3 교육 혜택 완전정리 기준](/blog/f4-children-f3-school-age-education-benefits)
 - [F-4 비자 가족초청 F-1 동반비자 발급 완벽 가이드](/blog/f4-family-invitation-f1-dependent-visa)
-- [F-4 비자 배우자·자녀 동반 비자 신청 완전 가이드](/blog/f4-visa-spouse-child-accompanying-visa)
-- [F-4 비자 발급 요건 완전 정리](/blog/f4-visa-eligibility)
+- [F-4 비자 배우자·자녀 동반 비자 신청 완전 가이드](/blog/f4-spouse-f3-visa-application)
+- [F-4 비자 발급 요건 완전 정리](/blog/f4-eligibility-overseas-korean-scope)
 
 <script type="application/ld+json">
 {

@@ -177,4 +177,4 @@ A. 가능한 경우가 많지만 동일인 확인 서류가 추가로 필요합�
 
 - [F-4에서 F-5 영주권, 자격 요건 심층 분석](/blog/f4-to-f5-permanent-residence)
 - [F-4에서 F-5 영주권 전환 점수 요건과 계산법](/blog/f4-to-f5-points-requirement)
-- [F-4 재외동포 비자 신청 자격 완벽 가이드 — 미국·캐나다·호주 동포 필독](/blog/f4-visa-eligibility)
+- [F-4 재외동포 비자 신청 자격 완벽 가이드 — 미국·캐나다·호주 동포 필독](/blog/f4-eligibility-overseas-korean-scope)

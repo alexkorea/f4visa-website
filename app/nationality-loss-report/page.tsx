@@ -264,7 +264,7 @@ export default function NationalityLossReportPage() {
           links={[
             { slug: "korean-nationality-loss-guide", label: "국적상실 신고 방법 — 외국 국적 취득 후 처리", note: "외국 국적 취득 후 신고 절차" },
             { slug: "f4-visa-us-citizens", label: "미국 시민권자 F-4 비자 신청 절차", note: "국적상실 정리 후 F-4 신청 흐름" },
-            { slug: "dual-nationality-korea-guide", label: "한국 이중국적 허용 기준", note: "복수국적이 가능한 경우와 불가능한 경우" },
+            { slug: "dual-citizenship-korea-eligibility-renunciation-loss", label: "복수국적 허용 조건과 국적이탈·국적상실", note: "복수국적이 가능한 경우와 불가능한 경우" },
           ]}
         />
 

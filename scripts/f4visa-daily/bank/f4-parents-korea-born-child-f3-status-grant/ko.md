@@ -125,8 +125,8 @@ keywords:
 
 ## 관련 안내
 
-- [F-4 배우자·자녀 동반 비자](https://www.f4visa.net/blog/f4-visa-spouse-child-accompanying-visa)
-- [F-4 가족 동반 입국과 체류 자격](https://www.f4visa.net/blog/f4-visa-family-entry-guide)
+- [F-4 배우자·자녀 동반 비자](https://www.f4visa.net/blog/f4-spouse-f3-visa-application)
+- [F-4 가족 동반 입국과 체류 자격](https://www.f4visa.net/blog/f4-spouse-f3-visa-application)
 - [F-4 자녀 국내 초·중·고 입학](https://www.f4visa.net/blog/f4-visa-children-school-enrollment)
 
 ## 상담 안내

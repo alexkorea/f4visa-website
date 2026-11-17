@@ -91,7 +91,7 @@ keywords:
 ## 관련 안내
 
 - [F-4 재외동포 비자 유형](https://www.f4visa.net/f4-visa-types)
-- [F-4 허용·제한 직종 안내](https://www.f4visa.net/blog/f4-visa-allowed-restricted-job-categories)
+- [F-4 허용·제한 직종 안내](https://www.f4visa.net/blog/f4-visa-work-industry-scope-guide)
 - [국내거소신고증 안내](https://www.f4visa.net/f4-visa-resident-card)
 
 ## 상담 안내

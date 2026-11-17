@@ -223,7 +223,7 @@ F-4 거소증 신청부터 한국 내 계좌 개설, 부동산 자금 송금까�
 - [F-4 거소증(국내거소신고) 발급 안내](/f4-visa-resident-card) — 계좌 개설의 전제가 되는 거소증 신청 절차
 - [F-4 비자 신용카드 발급과 대출 자격 실무 가이드](/blog/f4-visa-credit-card-loan-qualification) — 계좌 다음 단계인 카드·대출 심사 기준
 - [F-4 비자 종합소득세 신고 의무 완벽정리](/blog/f4-visa-tax-obligations-comprehensive-income) — 거주자 판정과 이자·배당 소득 신고
-- [재외동포 부동산 취득세 — 세율·과세표준·계산법](/blog/dongpo-property-purchase-tax-process-guide) — 부동산 매수 자금 송금 이후의 세금
+- [재외동포 부동산 취득세 — 세율·과세표준·계산법](/blog/f4-visa-real-estate-purchase-guide) — 부동산 매수 자금 송금 이후의 세금
 
 
 **공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

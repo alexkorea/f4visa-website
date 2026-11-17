@@ -249,8 +249,8 @@ F-4 소지자 개인 자금으로 설립한 법인은 일반적으로 외국인 
 ## 관련 글
 
 - [F-4 비자 취업 허용 직종과 업종 제한 — 2026년 실무 기준](/blog/f4-visa-employment-occupations)
-- [F-4 비자 단순노무 취업 금지 — 위반 시 처벌과 대처 방법](/blog/f4-visa-simple-labor-restriction)
-- [F-4 재외동포 비자 완벽 가이드 — 자격·신청·갱신](/blog/f4-visa-guide)
+- [F-4 비자 단순노무 취업 금지 — 위반 시 처벌과 대처 방법](/blog/f4-visa-simple-labor-prohibited-jobs)
+- [F-4 재외동포 비자 완벽 가이드 — 자격·신청·갱신](/blog/f4-eligibility-overseas-korean-scope)
 
 ---
 

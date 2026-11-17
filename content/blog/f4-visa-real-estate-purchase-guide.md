@@ -103,7 +103,7 @@ F-4 비자 소지자가 한국 부동산에서 임대 수익을 올리면 소득
 - **상업용 부동산 임대**: 사업소득으로 신고
 - **비거주자 원천징수**: 20% 원천징수 (조세 조약 확인 필요)
 
-임대사업을 계획 중이라면 사업자등록 절차도 함께 검토해야 합니다. 자세한 내용은 [F-4 비자 사업자등록 안내](/blog/f4-visa-business-registration-korea)를 참고하시기 바랍니다.
+임대사업을 계획 중이라면 사업자등록 절차도 함께 검토해야 합니다. 자세한 내용은 [F-4 비자 사업자등록 안내](/blog/f4-visa-business-registration-procedure)를 참고하시기 바랍니다.
 
 ## 미국·캐나다 거주 재외동포를 위한 이중과세 방지
 
@@ -205,9 +205,9 @@ A. 2주택 이상을 보유하면 취득세 중과세율이 적용될 수 있고
 </script>
 ## 함께 보면 좋은 글
 
-- [F-4 비자 사업자등록 안내](/blog/f4-visa-business-registration-korea)
+- [F-4 비자 사업자등록 안내](/blog/f4-visa-business-registration-procedure)
 - [F-5 점수제 요건 안내](/blog/f4-to-f5-points-requirement)
-- [F-4 비자 자격 요건](/blog/f4-visa-eligibility)
+- [F-4 비자 자격 요건](/blog/f4-eligibility-overseas-korean-scope)
 
 > **전문가 상담 신청하기**
 >

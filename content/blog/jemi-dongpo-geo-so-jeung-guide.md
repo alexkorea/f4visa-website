@@ -196,6 +196,6 @@ A. 재발급은 원칙적으로 국내 관할 출입국·외국인청에서 처�
 
 ## 관련 글
 
-- [거소증 신청 방법 — F-4 재외동포 거소증 발급 완전 가이드](/blog/geo-so-jeung-guide)
-- [거소증 필요서류 — F-4 재외동포 거소증 신청 서류 체크리스트](/blog/geo-so-jeung-required-documents)
-- [미국·캐나다 재외동포 F-4 비자 신청 실무](/blog/f4-bukmi-dongpo)
+- [거소증 신청 방법 — F-4 재외동포 거소증 발급 완전 가이드](/blog/f4-residence-card-application-guide)
+- [거소증 필요서류 — F-4 재외동포 거소증 신청 서류 체크리스트](/blog/f4-residence-card-application-guide)
+- [미국·캐나다 재외동포 F-4 비자 신청 실무](/blog/f4-visa-us-citizens)

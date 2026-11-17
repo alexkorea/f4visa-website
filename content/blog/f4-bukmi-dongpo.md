@@ -222,7 +222,7 @@ A. 반려 이력 자체보다 반려 사유가 해소되었는지가 중요합�
 
 ## 관련 글
 
-- [F-4 재외동포 비자 신청 자격 완벽 가이드 — 미국·캐나다·호주 동포 필독](/blog/f4-visa-eligibility)
+- [F-4 재외동포 비자 신청 자격 완벽 가이드 — 미국·캐나다·호주 동포 필독](/blog/f4-eligibility-overseas-korean-scope)
 - [F-4 비자 미국 시민권자 신청 절차 완벽 가이드](/blog/f4-visa-us-citizens)
-- [미국 영주권자 F-4 재외동포 비자 신청 방법](/blog/f4-visa-us-permanent-resident-guide)
+- [미국 영주권자 F-4 재외동포 비자 신청 방법](/blog/f4-visa-us-citizens)
 - [캐나다 시민권자 재외동포 자격확인서 발급과 F-4 비자 신청](/blog/f4-visa-canada-citizen-eligibility)

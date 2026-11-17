@@ -64,7 +64,7 @@ keywords:
 체류기간 연장은 주 체류자격자의 체류기간 범위 안에서 이루어지므로, 가족의 체류기간은 신청자의 재외동포(F-4) 체류기간을 넘지 않습니다.
 
 자녀가 만 6세 이상 만 18세 이하라면 재학 여부 신고 대상이고, 처음 입학하거나 진학으로 재학 여부가 바뀌면 15일 이내에 신고합니다.
-가족 동반 입국 전반은 [F-4 가족 동반 입국과 체류 자격](https://www.f4visa.net/blog/f4-visa-family-entry-guide)에서 이어서 확인할 수 있습니다.
+가족 동반 입국 전반은 [F-4 가족 동반 입국과 체류 자격](https://www.f4visa.net/blog/f4-spouse-f3-visa-application)에서 이어서 확인할 수 있습니다.
 
 ## 5. 영주권을 받은 뒤 가족은 어떻게 되나요?
 
@@ -112,7 +112,7 @@ keywords:
 ## 관련 안내
 
 - [동포 영주권(F-5) 기본소양 요건](https://www.f4visa.net/blog/f5-permanent-residency-basic-literacy-requirement-overseas-korean)
-- [F-4 배우자·자녀 동반 비자](https://www.f4visa.net/blog/f4-visa-spouse-child-accompanying-visa)
+- [F-4 배우자·자녀 동반 비자](https://www.f4visa.net/blog/f4-spouse-f3-visa-application)
 - [영주권 안내](https://www.f4visa.net/permanent-residency)
 
 ## 상담 안내

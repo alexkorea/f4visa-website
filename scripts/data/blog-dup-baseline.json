@@ -1,10 +1,60 @@
 {
- "note": "F4-QA1102-FIX-2 C5 (맥7 결정 2026-11-03): 중복 13묶음 301 통합 뒤 남은 유사 쌍은 사람이 '다른 주제'로 판정해 유지한 것만 둔다 — jaeil↔jaemi(대상 다름, 오탐), f4-visa-application-documents-checklist↔f4-visa-eligibility(서류 vs 자격). 새 글을 여기에 추가하지 말 것.",
- "threshold": 0.76,
- "slugs": [
-  "f4-visa-application-documents-checklist",
-  "f4-visa-eligibility",
-  "jaeil-gyopo-f4-visa-application-guide",
-  "jaemi-gyopo-f4-visa-application-guide"
+ "note": "F4DROP-1117 (보스 msg 6966, 11-17): 23묶음 91편 301 통합 뒤 남은 의도 유사 쌍 — 맥4가 세부 주제가 다르다고 판정해 유지(보고서 후보 목록에 올림). 새 글을 여기에 추가하지 말 것.",
+ "threshold": {
+  "title": 0.76,
+  "titleIntent": 0.35,
+  "body": 0.45
+ },
+ "pairs": [
+  {
+   "pair": "f4-change-long-term-resident-three-years-exempt-documents | f4-status-change-after-korean-schooling-exempt-documents",
+   "score": 0.505,
+   "why": "본문 0.50"
+  },
+  {
+   "pair": "f4-family-invitation-f1-dependent-visa | f4-parent-invitation-f1-5-visa",
+   "score": 0.46,
+   "why": "제목·slug 의도 0.46"
+  },
+  {
+   "pair": "f4-fbi-background-check-apostille | f4-visa-overseas-conviction-processing-standards",
+   "score": 0.474,
+   "why": "본문 0.47"
+  },
+  {
+   "pair": "f4-fbi-background-check-apostille | f4-visa-overseas-criminal-record-submission-rules",
+   "score": 0.454,
+   "why": "본문 0.45"
+  },
+  {
+   "pair": "f4-income-requirement-f5-permanent-residency | f4-to-f5-permanent-residence",
+   "score": 0.366,
+   "why": "제목·slug 의도 0.37"
+  },
+  {
+   "pair": "f4-social-integration-program-stay-period-early-adaptation-exemption | f4-visa-korean-language-proof-documents",
+   "score": 0.559,
+   "why": "본문 0.56"
+  },
+  {
+   "pair": "f4-to-f5-permanent-residence | f4-to-f5-points-requirement",
+   "score": 0.529,
+   "why": "제목·slug 의도 0.47"
+  },
+  {
+   "pair": "f4-to-f5-permanent-residence | f4-visa-to-f5-permanent-residency-2",
+   "score": 0.503,
+   "why": "제목·slug 의도 0.50"
+  },
+  {
+   "pair": "f4-to-f5-permanent-residence | f5-permanent-residency-documents-review-guide",
+   "score": 0.386,
+   "why": "제목·slug 의도 0.39"
+  },
+  {
+   "pair": "f5-4-permanent-residency-spouse-child-of-permanent-resident | f5-holder-spouse-minor-child-f2-3-residence",
+   "score": 0.429,
+   "why": "제목·slug 의도 0.36"
+  }
  ]
 }

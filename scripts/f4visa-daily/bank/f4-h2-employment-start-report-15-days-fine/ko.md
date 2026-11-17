@@ -85,7 +85,7 @@ keywords:
 
 - [F-4와 H-2 비교](https://www.f4visa.net/blog/f4-vs-h2-visa-chinese-koreans-comparison)
 - [F-4 재외동포 비자 유형](https://www.f4visa.net/f4-visa-types)
-- [F-4 취업 가능 직종](https://www.f4visa.net/blog/f4-visa-eligible-jobs)
+- [F-4 취업 가능 직종](https://www.f4visa.net/blog/f4-visa-work-industry-scope-guide)
 
 ## 상담 안내
 

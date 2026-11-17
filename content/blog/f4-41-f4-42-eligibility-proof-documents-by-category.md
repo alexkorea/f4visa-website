@@ -74,8 +74,8 @@ F-4-41은 본인이 출생으로 한국 국적을 가졌던 사람이고, F-4-42
 ## 관련 안내
 
 - [F-4 재외동포 비자 유형](https://www.f4visa.net/f4-visa-types)
-- [F-4 필요서류 체크리스트](https://www.f4visa.net/blog/f4-visa-required-documents-checklist)
-- [F-4 자격 확인](https://www.f4visa.net/blog/f4-visa-eligibility-check)
+- [F-4 필요서류 체크리스트](https://www.f4visa.net/blog/f4-visa-document-checklist-guide)
+- [F-4 자격 확인](https://www.f4visa.net/blog/f4-eligibility-overseas-korean-scope)
 
 ## 상담 안내
 

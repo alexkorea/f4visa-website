@@ -144,9 +144,8 @@ F-4에서 F-5 영주권 전환은 거주기간 계산, 소득·자산 요건 선
 
 ## 관련 글
 
-- [F-4 비자에서 F-5 영주권 전환 요건 완벽 정리](/blog/f4-to-f5-eligibility-requirements)
 - [F-4 비자 소득과 F-5 영주권 기준, 실제 심사에서 갈리는 지점](/blog/f4-income-requirement-f5-permanent-residency)
-- [F-4 재외동포 비자 신청 자격 완벽 가이드](/blog/f4-visa-eligibility)
+- [F-4 재외동포 비자 신청 자격 완벽 가이드](/blog/f4-eligibility-overseas-korean-scope)
 
 <script type="application/ld+json">
 {

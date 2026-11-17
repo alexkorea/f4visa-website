@@ -219,7 +219,7 @@ F-4 비자로 6개월 이상 체류하면 국민건강보험 가입 대상이 �
 
 ## 관련 서비스
 
-- [F-4 비자 신청 가이드](/blog/f4-visa-guide)
+- [F-4 비자 신청 가이드](/blog/f4-eligibility-overseas-korean-scope)
 - [F-4 비자와 거소증 상세 안내](/f4-visa-resident-card)
 - [F-4 비자 종류 전체 목록](/f4-visa-types)
 - [F-4 비자 연장 절차](/f4-visa-renewal)

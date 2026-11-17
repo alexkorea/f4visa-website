@@ -243,7 +243,7 @@ export default function NationalityRecoveryPage() {
 
         <RelatedBlogLinks
           links={[
-            { slug: "korean-nationality-recovery-guide", label: "국적회복 신청 절차 가이드", note: "국적회복 허가 흐름" },
+            { slug: "nationality-recovery", label: "국적회복 신청 절차 가이드", note: "국적회복 허가 흐름" },
             { slug: "overseas-korean-nationality-recovery-f4-transition", label: "국적회복과 F-4 체류의 관계", note: "국적회복 전후 체류자격 정리" },
             { slug: "nationality-recovery-minor-children-accompanying", label: "국적회복 시 미성년 자녀 동반", note: "수반 취득 대상과 서류" },
           ]}

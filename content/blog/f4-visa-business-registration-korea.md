@@ -114,7 +114,7 @@ F-4 자격은 사업자등록의 진입장벽을 낮춰줄 뿐, 업종별 자격
 
 ## 관련 글
 
-- [F-4 재외동포 비자 신청 자격 완벽 가이드](/blog/f4-visa-eligibility)
+- [F-4 재외동포 비자 신청 자격 완벽 가이드](/blog/f4-eligibility-overseas-korean-scope)
 - [F-4 비자 사업자등록 절차 완벽 정리](/blog/f4-visa-business-registration-procedure)
 - [F-4 비자 프리랜서 활동 가능 범위 완벽 정리](/blog/f4-visa-freelance-activities)
 - [F-4 비자 종합소득세 신고 의무 완벽정리](/blog/f4-visa-tax-obligations-comprehensive-income)

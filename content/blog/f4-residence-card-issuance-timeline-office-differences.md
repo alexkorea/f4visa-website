@@ -13,7 +13,7 @@ slug: "f4-residence-card-issuance-timeline-office-differences"
 대상은 F-4 사증으로 입국해 국내거소신고를 앞둔 재외동포이며, 방문예약 대기부터 카드 수령까지 전 구간이 해당됩니다.
 사무소별 실제 소요시간 비교, 기간을 좌우하는 변수, 한국 체류 일정을 최소로 줄이는 실무 순서까지 다룹니다.
 
-관할별 처리 흐름과 지연 원인 비교는 [F-4 거소증 발급 기간 — 출입국사무소별 비교](/blog/f4-residence-card-issuance-period-immigration-office-comparison) 글에서 함께 확인할 수 있습니다.
+관할별 처리 흐름과 지연 원인 비교는 [F-4 거소증 발급 기간 — 출입국사무소별 비교](/blog/f4-residence-card-issuance-period-by-immigration-office) 글에서 함께 확인할 수 있습니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
  <h3 style="color:#1e40af;margin-top:0">목차</h3>

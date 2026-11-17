@@ -244,8 +244,7 @@ export default function NationalitySelectionDualNationalityPage() {
         <RelatedBlogLinks
           links={[
             { slug: "nationality-selection-deadline-procedure", label: "재외동포 국적선택 기한과 절차", note: "국적선택 기한과 신고 경로" },
-            { slug: "overseas-korean-dual-nationality-eligibility", label: "재외동포 복수국적 허용 대상과 조건", note: "외국국적불행사 서약 대상 정리" },
-            { slug: "dual-nationality-korea-guide", label: "한국 이중국적 허용 기준", note: "복수국적이 가능한 경우와 불가능한 경우" },
+            { slug: "dual-citizenship-korea-eligibility-renunciation-loss", label: "복수국적 허용 조건과 국적이탈·국적상실", note: "외국국적불행사 서약 대상과 허용 조건" },
           ]}
         />
 

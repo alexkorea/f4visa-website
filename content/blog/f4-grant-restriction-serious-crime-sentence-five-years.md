@@ -71,7 +71,7 @@ slug: "f4-grant-restriction-serious-crime-sentence-five-years"
 
 ## 관련 안내
 
-- [F-4 자격 확인](https://www.f4visa.net/blog/f4-visa-eligibility-check)
+- [F-4 자격 확인](https://www.f4visa.net/blog/f4-eligibility-overseas-korean-scope)
 - [F-4 비자 유형](https://www.f4visa.net/f4-visa-types)
 - [FBI 범죄경력 아포스티유](https://www.f4visa.net/blog/f4-fbi-background-check-apostille)
 

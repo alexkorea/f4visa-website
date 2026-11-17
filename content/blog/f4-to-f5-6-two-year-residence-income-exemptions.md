@@ -77,7 +77,7 @@ F-4 자격으로 대한민국에 2년 이상 계속 체류하고 있어야 F-5-6
 
 ## 관련 안내
 
-- [F-4에서 F-5 영주권 전환](https://www.f4visa.net/blog/f4-to-f5-eligibility-requirements)
+- [F-4에서 F-5 영주권 전환](https://www.f4visa.net/blog/f4-to-f5-permanent-residence)
 - [영주권 안내](https://www.f4visa.net/permanent-residency)
 - [F-4 소득 요건과 영주권](https://www.f4visa.net/blog/f4-income-requirement-f5-permanent-residency)
 

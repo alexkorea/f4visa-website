@@ -15,7 +15,7 @@ F-4 거소증 발급 기간은 일률적으로 정해져 있지 않고, 관할 �
 
 서울·인천·수원·안산 등 주요 사무소별 소요시간 차이, 빨리 받는 실무 포인트, 그리고 출국 일정에 맞춰 거소허가번호를 먼저 확보하는 방법까지 다룹니다.
 
-관할별 처리 흐름과 지연 원인 비교는 [F-4 거소증 발급 기간 — 출입국사무소별 비교](/blog/f4-residence-card-issuance-period-immigration-office-comparison) 글에서 함께 확인할 수 있습니다.
+관할별 처리 흐름과 지연 원인 비교는 F-4 거소증 발급 기간 — 출입국사무소별 비교 글에서 함께 확인할 수 있습니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
  <h3 style="color:#1e40af;margin-top:0">목차</h3>

@@ -125,7 +125,7 @@ A. 은행·세무·건강보험 등에서 안내문이 반송되거나 처리가
 
 ## 관련 글
 
-- [F-4 비자 신청 완벽 가이드: 자격요건부터 발급까지](/blog/f4-visa-guide)
+- [F-4 비자 신청 완벽 가이드: 자격요건부터 발급까지](/blog/f4-eligibility-overseas-korean-scope)
 - [F-4 비자 소지자 국내거소신고 절차 — 입국 후 90일 안에 반드시 마쳐야 합니다](/blog/f4-domestic-residence-registration)
 - [F-4 거소증 주소 변경 신고 방법 — 기한·서류·과태료까지 한 번에 정리](/blog/f4-residence-address-change)
 - [F-4 거소증 주소 변경 신고 방법 — 기한·서류·절차 총정리](/blog/f4-address-change-notification)

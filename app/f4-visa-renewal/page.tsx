@@ -225,9 +225,9 @@ export default function F4VisaRenewalPage() {
 
         <RelatedBlogLinks
           links={[
-            { slug: "f4-visa-domestic-renewal-guide", label: "F-4 체류기간 연장허가 신청 시기와 거부 사유 대응", note: "연장 신청 시기와 불허 사유별 준비" },
+            { slug: "f4-visa-extension-guide", label: "F-4 비자 연장 방법 — 서류·기간·절차", note: "연장 신청 시기와 준비 서류" },
             { slug: "f4-visa-expiry-reentry-procedure", label: "F-4 체류기간 만료 후 재입국 절차", note: "거소증 만료자가 확인할 순서" },
-            { slug: "f4-reentry-permit-exemption", label: "F-4 재입국허가 면제와 유효기간", note: "거소신고자의 재입국허가 면제 범위" },
+            { slug: "f4-long-departure-reentry-rules", label: "F-4 장기 출국과 재입국허가", note: "거소증 유지와 재입국허가 면제 범위" },
           ]}
         />
 

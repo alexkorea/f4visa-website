@@ -102,7 +102,7 @@ F-5-20은 영주자격 신청일이 출생한 날부터 1년 미만이어야 합
 
 - [재외동포(F-4)에서 영주(F-5-6)로 바꾸는 요건](https://www.f4visa.net/blog/f4-to-f5-6-two-year-residence-income-exemptions)
 - [동포 영주권(F-5) 상실·취소 사유](https://www.f4visa.net/blog/f5-permanent-residency-loss-cancellation-reasons-overseas-korean)
-- [F-4 배우자·자녀 동반 비자](https://www.f4visa.net/blog/f4-visa-spouse-child-accompanying-visa)
+- [F-4 배우자·자녀 동반 비자](https://www.f4visa.net/blog/f4-spouse-f3-visa-application)
 
 ## 상담 안내
 

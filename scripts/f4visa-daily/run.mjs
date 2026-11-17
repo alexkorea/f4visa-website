@@ -91,11 +91,13 @@ async function dupHits(e) {
   if (!dupGate || e.meta.dupAllow) return []
   const p = path.join(e.dir, 'ko.md')
   if (!fs.existsSync(p)) return []
-  let title = ''
-  try { title = parseManuscript(fs.readFileSync(p, 'utf8')).fm.title } catch { return [] }
-  return title ? dupGate.similarExisting(title, e.slug) : []
+  let title = '', body = ''
+  try { body = fs.readFileSync(p, 'utf8'); title = parseManuscript(body).fm.title } catch { return [] }
+  if (!title) return []
+  // F4DROP-1117(보스 msg 6966): 제목만이 아니라 검색 의도(머리 제목·제목/slug·본문 어휘)로, 301 통합된 옛 글까지 비교한다.
+  return dupGate.intentHits ? dupGate.intentHits({ title, slug: e.slug, body }) : dupGate.similarExisting(title, e.slug)
 }
-const dupText = (hits) => hits.slice(0, 3).map((h) => `${h.slug}(${h.score.toFixed(2)})`).join(', ')
+const dupText = (hits) => hits.slice(0, 3).map((h) => `${h.slug}(${h.score.toFixed(2)}${h.why ? ' ' + h.why : ''}${h.via ? ' via ' + h.via : ''})`).join(', ')
 if (!CFG) { console.error(`✗ 알 수 없는 SITE: ${SITE}`); process.exit(4) }
 
 // ── 검사 규칙 ────────────────────────────────────────────────────────────────
@@ -328,7 +330,7 @@ async function main() {
       const { fails, warns } = checkEntry(e)
       if (exist.length) fails.unshift(`기존 slug: ${exist.slice(0, 2).join(', ')}`)
       const dup = await dupHits(e)
-      if (dup.length) fails.unshift(`같은 주제(유사 제목): ${dupText(dup)}`)
+      if (dup.length) fails.unshift(`같은 검색 의도: ${dupText(dup)}`)
       if (fails.length) bad++
       console.log(`${fails.length ? '✗' : '✓'} ${String(e.order).padStart(2)} ${e.slug}${warns.length ? `  ⚠${warns.length}` : ''}`)
       for (const f of fails) console.log(`     ✗ ${f}`)
@@ -355,7 +357,7 @@ async function main() {
     const dup = await dupHits(e)
     if (dup.length) {
       console.log(`✗ 같은 주제 거부 — ${e.slug} ≈ ${dupText(dup)} (scripts/blog-dup-gate.mjs, 따로 낼 글이면 meta.json dupAllow 에 사유)`)
-      if (WRITE) { state.rejected.push({ slug: e.slug, date: DATE, reason: `similar-title: ${dupText(dup)}` }); writeState(state) }
+      if (WRITE) { state.rejected.push({ slug: e.slug, date: DATE, reason: `same-intent: ${dupText(dup)}` }); writeState(state) }
       continue
     }
     // 2) 원고 검사 — FAIL 이면 그날 미발행(rc=3). 건너뛰지 않는다: 사람이 고쳐야 한다.

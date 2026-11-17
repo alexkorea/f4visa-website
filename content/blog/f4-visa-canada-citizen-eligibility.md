@@ -123,7 +123,7 @@ A. 입국 후 90일 이상 체류할 경우 관할 출입국·외국인청에 �
 
 ## 관련 글
 
-- [미국·캐나다 재외동포 F-4 비자 신청 실무 — 자격 요건부터 서류까지](/blog/f4-bukmi-dongpo)
+- [미국·캐나다 재외동포 F-4 비자 신청 실무 — 자격 요건부터 서류까지](/blog/f4-visa-us-citizens)
 - [F-4 비자 신청 자격과 재외동포 범위 총정리](/blog/f4-eligibility-overseas-korean-scope)
 - [F-4 비자 신청 방법 해외 vs 국내 비교 - 어디서 신청해야 빠를까](/blog/f4-visa-application-channels)
 - [F-4 비자와 거소증 — 발급 대상·효과·신청 절차](/f4-visa-resident-card)

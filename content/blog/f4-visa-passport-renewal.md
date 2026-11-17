@@ -150,10 +150,10 @@ A. 사증 스티커 자체가 새 여권으로 자동 이전되지는 않습니�
 
 ## 관련 글
 
-- [F-4 비자 신청 완벽 가이드: 자격요건부터 발급까지](/blog/f4-visa-guide)
+- [F-4 비자 신청 완벽 가이드: 자격요건부터 발급까지](/blog/f4-eligibility-overseas-korean-scope)
 - [F-4 재외동포 거소증 신청 방법](/blog/f4-residence-card-application-guide)
 - [F-4 비자 소지자 국내거소신고 절차](/blog/f4-domestic-residence-registration)
-- [F-4 비자 갱신 서류 — 준비 목록과 절차](/blog/f4-visa-renewal-document-list-and-process-guide)
+- [F-4 비자 갱신 서류 — 준비 목록과 절차](/blog/f4-visa-extension-guide)
 
 <script type="application/ld+json">
 {

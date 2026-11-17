@@ -74,7 +74,7 @@ CIS 지역 국가 동포가 과거에 동포 사증(C-3-8, H-2, F-4)을 발급�
 ## 관련 안내
 
 - [F-4 재외동포 비자 유형](https://www.f4visa.net/f4-visa-types)
-- [F-4 국내 갱신 안내](https://www.f4visa.net/blog/f4-visa-domestic-renewal-guide)
+- [F-4 국내 갱신 안내](https://www.f4visa.net/blog/f4-visa-extension-guide)
 - [조기적응프로그램·거소신고 안내](https://www.f4visa.net/f4-visa-resident-card)
 
 ## 상담 안내

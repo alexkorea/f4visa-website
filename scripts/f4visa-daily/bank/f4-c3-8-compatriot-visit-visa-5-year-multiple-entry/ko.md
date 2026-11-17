@@ -86,7 +86,7 @@ keywords:
 
 - [F-4 재외동포 비자 유형](https://www.f4visa.net/f4-visa-types)
 - [F-4 비자 신청 방법](https://www.f4visa.net/blog/f4-visa-application-channels)
-- [F-4 자격 확인](https://www.f4visa.net/blog/f4-visa-eligibility-check)
+- [F-4 자격 확인](https://www.f4visa.net/blog/f4-eligibility-overseas-korean-scope)
 
 ## 상담 안내
 

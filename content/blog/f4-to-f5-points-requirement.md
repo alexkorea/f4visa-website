@@ -187,7 +187,6 @@ F-4에서 F-5로 가는 두 경로 중 어느 쪽이 본인에게 더 빠른지�
 
 - [F-4에서 F-5 영주권 전환 완벽 가이드 — 요건·서류·절차](/blog/f4-to-f5-permanent-residence)
 - [F-4 비자 소득과 F-5 영주권 기준, 실제 심사에서 갈리는 지점](/blog/f4-income-requirement-f5-permanent-residency)
-- [F-4 비자 5년 거주 F-5 신청 조건 완벽 정리 기준](/blog/f4-5-year-residence-f5-application)
 
 **공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)
 

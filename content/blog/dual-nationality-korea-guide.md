@@ -26,7 +26,7 @@ pillar: "dual-nationality-korea-guide"
 - 결혼이민자: 한국인 배우자와 혼인관계를 유지한 상태로 귀화한 경우
 
 각 유형은 요건을 충족했다고 해서 자동으로 이중국적이 유지되는 것이 아니라, 반드시 외국국적불행사서약이라는 별도 절차를 거쳐야 합니다.
-관련 세부 대상과 조건은 [재외동포 복수국적 허용 대상과 조건](/blog/overseas-korean-dual-nationality-eligibility) 글에서 더 자세히 확인할 수 있습니다.
+관련 세부 대상과 조건은 [재외동포 복수국적 허용 대상과 조건](/blog/dual-citizenship-korea-eligibility-renunciation-loss) 글에서 더 자세히 확인할 수 있습니다.
 고령 재외동포의 국적회복 신청 절차는 [국적회복 허가 신청 절차](/blog/nationality-recovery) 글을 참고하시기 바랍니다.
 
 ## 2. 국적 선택 의무와 기한
@@ -122,7 +122,7 @@ A. 국적이탈은 본인이 절차를 밟아 스스로 국적을 벗어나는 �
 
 ## 관련 글
 
-- [재외동포 복수국적 허용 대상과 조건 총정리](/blog/overseas-korean-dual-nationality-eligibility)
+- [재외동포 복수국적 허용 대상과 조건 총정리](/blog/dual-citizenship-korea-eligibility-renunciation-loss)
 - [재외동포 국적선택 기한과 절차 완벽 가이드](/blog/nationality-selection-deadline-procedure)
 - [복수국적 허용 조건 총정리 — 국적이탈과 국적상실은 여기서 갈립니다](/blog/dual-citizenship-korea-eligibility-renunciation-loss)
 - [한국 국적 상실 가이드](/blog/korean-nationality-loss-guide)

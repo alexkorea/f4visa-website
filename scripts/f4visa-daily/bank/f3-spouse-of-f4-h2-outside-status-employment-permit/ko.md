@@ -96,7 +96,7 @@ keywords:
 ## 관련 안내
 
 - [F-4 배우자 F-3 비자 신청 절차](https://www.f4visa.net/blog/f4-spouse-f3-visa-application)
-- [F-4 배우자·자녀 동반 비자](https://www.f4visa.net/blog/f4-visa-spouse-child-accompanying-visa)
+- [F-4 배우자·자녀 동반 비자](https://www.f4visa.net/blog/f4-spouse-f3-visa-application)
 - [지역특화형 재외동포비자(F-4-R)](https://www.f4visa.net/blog/f4-r-regional-specialized-overseas-korean-visa)
 
 ## 상담 안내

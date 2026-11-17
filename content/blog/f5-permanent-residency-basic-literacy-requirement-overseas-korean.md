@@ -79,7 +79,7 @@ slug: "f5-permanent-residency-basic-literacy-requirement-overseas-korean"
 ## 관련 안내
 
 - [영주권 안내](https://www.f4visa.net/permanent-residency)
-- [F-4에서 F-5 영주권 전환](https://www.f4visa.net/blog/f4-to-f5-eligibility-requirements)
+- [F-4에서 F-5 영주권 전환](https://www.f4visa.net/blog/f4-to-f5-permanent-residence)
 - [F-4 소득 요건과 영주권](https://www.f4visa.net/blog/f4-income-requirement-f5-permanent-residency)
 
 ## 상담 안내

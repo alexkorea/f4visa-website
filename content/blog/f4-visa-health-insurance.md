@@ -100,9 +100,9 @@ F-4 재외동포 비자로 한국에 6개월 이상 체류하면 건강보험 �
 
 건강보험 가입은 외국인등록 이후 절차와 맞물려 진행되는 경우가 많습니다. 함께 확인하면 도움이 되는 글입니다.
 
-- [F-4 거소증(외국국적동포 국내거소신고증) 신청 절차](/blog/f4-visa-goso-registration)
-- [F-4 비자 주소 등록 안내](/blog/f4-visa-address-registration)
-- [F-4 비자 국내 갱신 절차 안내](/blog/f4-visa-domestic-renewal-guide)
+- [F-4 거소증(외국국적동포 국내거소신고증) 신청 절차](/blog/f4-residence-card-application-guide)
+- [F-4 비자 주소 등록 안내](/blog/f4-address-change-notification)
+- [F-4 비자 국내 갱신 절차 안내](/blog/f4-visa-extension-guide)
 
 ## 자주 묻는 질문
 

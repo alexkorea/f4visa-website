@@ -210,7 +210,7 @@ A. 반드시 그런 것은 아닙니다. 연령이나 인재 인정 여부 등 �
 
 ## 관련 글
 
-- [이중국적 허용 기준 — 한국 이중국적 가능한 경우와 불가능한 경우](/blog/dual-nationality-korea-guide)
+- [이중국적 허용 기준 — 한국 이중국적 가능한 경우와 불가능한 경우](/blog/dual-citizenship-korea-eligibility-renunciation-loss)
 - [국적이탈 신고 — 선천적 이중국적자 한국 국적 포기 절차](/blog/nationality-renunciation-korea)
 - [국적상실 신고 방법 — 외국 국적 취득 후 한국 국적 처리 가이드](/blog/korean-nationality-loss-guide)
 - [재외동포 국적회복 후 F-4 비자 전환 방법 — 절차·서류 총정리](/blog/overseas-korean-nationality-recovery-f4-transition)

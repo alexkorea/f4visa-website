@@ -88,7 +88,7 @@ F-4 체류기간 범위 내에서 근로계약 기간에 따라 1회 기간이 �
 
 ## 관련 안내
 
-- [F-4 허용·제한 직종 안내](https://www.f4visa.net/blog/f4-visa-allowed-restricted-job-categories)
+- [F-4 허용·제한 직종 안내](https://www.f4visa.net/blog/f4-visa-work-industry-scope-guide)
 - [F-4 비자 갱신](https://www.f4visa.net/f4-visa-renewal)
 - [F-4 재외동포 비자 유형](https://www.f4visa.net/f4-visa-types)
 

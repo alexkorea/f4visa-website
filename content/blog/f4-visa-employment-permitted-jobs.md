@@ -149,8 +149,8 @@ A. 위반이 확인되면 대부분 범칙금 처분과 함께 해당 체류기�
 
 ## 관련 글
 
-- [F-4 비자 신청 완벽 가이드: 자격요건부터 발급까지](/blog/f4-visa-guide)
-- [F-4 재외동포 비자 취업 활동 범위와 제한 직종 안내](/blog/f4-visa-employment-activities-guide)
+- [F-4 비자 신청 완벽 가이드: 자격요건부터 발급까지](/blog/f4-eligibility-overseas-korean-scope)
+- [F-4 재외동포 비자 취업 활동 범위와 제한 직종 안내](/blog/f4-visa-work-industry-scope-guide)
 - [F-4 비자 취업 가능 업종과 제한 업종 총정리](/blog/f4-visa-work-industry-scope-guide)
 
 **공식 사이트에서 확인하기:** [하이코리아](https://www.hikorea.go.kr)

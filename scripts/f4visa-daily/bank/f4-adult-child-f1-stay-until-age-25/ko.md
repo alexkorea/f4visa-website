@@ -32,7 +32,7 @@ keywords:
 동반(F-3)의 해당자는 주된 체류자격을 가진 사람의 배우자, 그리고 미성년 자녀로서 배우자가 없는 사람입니다.
 
 즉 동반(F-3)은 자녀가 미성년이고 혼인하지 않았다는 점을 전제로 한 자격입니다.
-가족 전체의 체류 구성은 [F-4 배우자·자녀 동반 비자 안내](https://www.f4visa.net/blog/f4-visa-spouse-child-accompanying-visa)에서 함께 확인할 수 있습니다.
+가족 전체의 체류 구성은 [F-4 배우자·자녀 동반 비자 안내](https://www.f4visa.net/blog/f4-spouse-f3-visa-application)에서 함께 확인할 수 있습니다.
 
 ## 2. 자녀가 성년이 되면 무엇이 달라지나요?
 
@@ -114,8 +114,8 @@ keywords:
 
 ## 관련 안내
 
-- [F-4 배우자·자녀 동반 비자](https://www.f4visa.net/blog/f4-visa-spouse-child-accompanying-visa)
-- [F-4 가족 동반 입국과 체류 자격](https://www.f4visa.net/blog/f4-visa-family-entry-guide)
+- [F-4 배우자·자녀 동반 비자](https://www.f4visa.net/blog/f4-spouse-f3-visa-application)
+- [F-4 가족 동반 입국과 체류 자격](https://www.f4visa.net/blog/f4-spouse-f3-visa-application)
 - [F-4 직업 신고와 자녀 재학 여부 신고](https://www.f4visa.net/blog/f4-occupation-report-and-child-school-enrollment-report)
 
 ## 상담 안내

@@ -112,8 +112,9 @@ export default function ServicesPage() {
                         <th scope="row" className="py-3 pr-4 text-left font-semibold text-foreground">{p.serviceName}</th>
                         <td className="py-3 pr-4 text-muted-foreground">{agency}</td>
                         <td className="py-3 pr-4 text-muted-foreground">{target}</td>
-                        <td className="py-3">
-                          <Link href={p.path} className="text-primary underline-offset-2 hover:underline">바로 가기</Link>
+                        <td className="py-3 whitespace-nowrap">
+                          {/* QAFIX-1117: 390px 에서 칸이 12px 로 눌려 글자가 세로로 꺾이고 탭 영역이 24px 미만이었다 → 줄바꿈 금지·최소 44px */}
+                          <Link href={p.path} className="inline-flex min-h-[44px] min-w-[44px] items-center text-primary underline-offset-2 hover:underline">바로 가기</Link>
                         </td>
                       </tr>
                     ))}
@@ -126,12 +127,12 @@ export default function ServicesPage() {
                 {items.map(({ p }) => (
                   <div key={p.path}>
                     <h3 className="text-lg font-semibold text-foreground">
-                      <Link href={p.path} className="hover:text-primary">{p.serviceName}</Link>
+                      <Link href={p.path} className="inline-flex min-h-[44px] items-center hover:text-primary">{p.serviceName}</Link>
                     </h3>
-                    <ul className="mt-3 list-disc space-y-1 pl-5 text-sm text-muted-foreground">
+                    <ul className="mt-1 list-disc pl-5 text-sm text-muted-foreground">
                       {p.services.map((s) => (
                         <li key={s.name}>
-                          <Link href={s.href.startsWith("#") ? `${p.path}${s.href}` : s.href} className="hover:text-primary hover:underline">
+                          <Link href={s.href.startsWith("#") ? `${p.path}${s.href}` : s.href} className="inline-flex min-h-[44px] items-center hover:text-primary hover:underline">
                             {s.name}
                           </Link>
                         </li>

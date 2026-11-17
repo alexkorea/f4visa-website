@@ -163,7 +163,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
                       ].map((m) => (
                         <div key={m.name} className="text-center">
                           <a href={qrHref(m.qr)} target="_blank" rel="noopener noreferrer" aria-label={`${m.name} 상담 열기`} className="block w-full aspect-square rounded-lg overflow-hidden border border-border mb-2">
-                            <img src={m.qr} alt={m.name} className={`w-full h-full object-cover${m.qr.includes("/qr/line-20261108") ? " scale-125" : ""}`} />
+                            <img src={m.qr} alt={m.name} className={`w-full h-full object-cover${m.qr.includes("/qr/line-20261108") ? " qr-zoom" : ""}`} />
                           </a>
                           <span className="text-xs text-muted-foreground">{m.name}</span>
                         </div>

@@ -4785,6 +4785,24 @@
    "site_name": "행정사사무소 이룸",
    "generated_at": "2026-11-16T10:02:36.967Z",
    "version": "1.4"
+  },
+  "f4-independence-patriot-descendant-criminal-record-exemption": {
+   "hash": "af199bbbb718c6214800cf309e6747cf34bd2f2f696b015166fdc41ce38473e6",
+   "source": "pexels",
+   "seed": 460437704,
+   "theme": "city",
+   "prompt_subject": "korean urban street",
+   "map_version": null,
+   "pexels_id": 32148692,
+   "pexels_author": "Theodore Nguyen",
+   "category": "F-4비자",
+   "visa": "F-4",
+   "lang": "ko",
+   "slug": "f4-independence-patriot-descendant-criminal-record-exemption",
+   "title": "독립유공자·국가유공자 후손 동포의 재외동포(F-4) 신청, 해외 범죄경력증명서 면제와 입증서류",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-17T10:02:30.836Z",
+   "version": "1.4"
   }
  }
 }

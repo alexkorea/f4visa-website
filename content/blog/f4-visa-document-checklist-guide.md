@@ -206,7 +206,7 @@ F-4 심사는 '이 사람이 과거에 한국 국민이었거나 한국 국민�
 
 ### 5-3. 번역본 요건
 
-한국어 번역본은 공증 또는 번역자 확인서가 있어야 합니다. 본인이 직접 번역한 경우 번역자 확인서에 성명·연락처·서명이 들어가야 합니다.
+범죄경력증명서는 원본과 함께 공증된 한국어 번역본을 내는 것이 원칙입니다. 범죄경력이 없는 경우에 한해 공증 대신 번역본, 번역자 확인서, 번역자 신분증 사본을 함께 낼 수 있습니다. 이때 신청인 본인은 번역자가 될 수 없으므로 직접 번역한 번역본으로는 이 방식을 쓸 수 없습니다.
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
  <thead style="background:#f0f7ff">
@@ -230,7 +230,7 @@ F-4 심사는 '이 사람이 과거에 한국 국민이었거나 한국 국민�
  </tr>
  <tr>
  <td style="border:1px solid #e5e7eb;padding:10px">번역</td>
- <td style="border:1px solid #e5e7eb;padding:10px">한국어 번역본 + 번역자 확인서</td>
+ <td style="border:1px solid #e5e7eb;padding:10px">공증된 한국어 번역본 원칙 (범죄경력이 없으면 번역본 + 번역자 확인서 + 번역자 신분증 사본 가능, 신청인 본인 번역 불가)</td>
  </tr>
  <tr>
  <td style="border:1px solid #e5e7eb;padding:10px">주의</td>

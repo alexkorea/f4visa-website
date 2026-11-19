@@ -106,7 +106,7 @@ const RECO = RECO_PILLARS.f4Renewal
 export default function F4VisaRenewalPage() {
   return (
     <div className="flex min-h-screen flex-col">
-      <RecoJsonLd p={RECO} modified={PAGE_LASTMOD[RECO.path]} description={"재외동포 F-4 비자 연장 절차, 필요서류, 신청 방법을 안내합니다. 체류 만료일 4개월 전부터 신청 가능합니다."} />
+      <RecoJsonLd p={RECO} modified={PAGE_LASTMOD[RECO.path]} description={"재외동포 F-4 비자 연장 절차, 필요서류, 신청 방법을 안내합니다. 체류기간 만료일까지 신청해야 합니다."} />
       <Header />
       <main id="main" className="flex-1">
         <PageBreadcrumb items={[{ label: "F-4 비자 연장", path: "/f4-visa-renewal" }]} />
@@ -144,7 +144,7 @@ export default function F4VisaRenewalPage() {
                 F-4 비자 연장, 언제, 어떻게 신청하나요?
               </h2>
               <p className="mt-4 text-muted-foreground">
-                F-4 비자 연장은 거소증 만료일 4개월 전부터 신청할 수 있습니다.
+                F-4 비자 연장은 체류기간이 끝나기 전(만료일까지) 신청해야 하며, 보완 요구·예약 대기를 고려해 만료 2~3개월 전부터 준비하는 것이 좋습니다.
                 신청은 온라인 예약 후 방문 신청 또는 행정대행 위임을 통해 진행할 수
                 있습니다.
               </p>

@@ -2,7 +2,7 @@
 
 | 자리 | Pexels ID | 작가 | 원본 | 원본 크기 |
 |---|---|---|---|---|
-| home-hero | 35396662 | CK Seng | https://www.pexels.com/photo/beautiful-gyeongbokgung-palace-under-clear-blue-sky-35396662/ | 4391×2927 |
+| home-hero | 33389722 | Worawat Li | https://www.pexels.com/photo/traveler-in-glass-airport-terminal-walkway-33389722/ | 4248×2390 | (IMGQA-1122 교체, 옛 35396662 CK Seng 궁궐 누각)
 | card-resident | 7318941 | Angela Roma | https://www.pexels.com/photo/close-up-of-a-man-holding-a-blank-black-business-card-7318941/ | 5040×3360 |
 | card-renewal | 11773871 | Towfiqu barbhuiya | https://www.pexels.com/photo/a-person-holding-black-pen-pointing-on-calendar-11773871/ | 4592×3064 |
 | card-nat-loss | 7318931 | Angela Roma | https://www.pexels.com/photo/close-up-of-woman-taking-out-a-blank-piece-of-paper-form-an-envelope-7318931/ | 5040×3360 |

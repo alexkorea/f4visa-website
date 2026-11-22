@@ -1,15 +1,16 @@
 import Image from "next/image"
 import { Card, CardContent } from "@/components/ui/card"
 
+// IMGQA-1122: 134px 원형 칸 × DPR3=402 → 480w. 보유 원본(public/team/*.jpg)이 300px 뿐이라 Lanczos 확대+약한 샤프닝(실제 고해상 원본 받으면 교체)
 const admins = [
-  { name: "이시정", role: "대표행정사", photo: "/team/leesj-20260927-320.webp" },
-  { name: "이원중", role: "행정사", photo: "/team/leewj-20260927-320.webp" },
-  { name: "정유선", role: "행정사", photo: "/team/jungyus-20260927-320.webp" },
+  { name: "이시정", role: "대표행정사", photo: "/team/leesj-20261122-480.webp" },
+  { name: "이원중", role: "행정사", photo: "/team/leewj-20261122-480.webp" },
+  { name: "정유선", role: "행정사", photo: "/team/jungyus-20261122-480.webp" },
 ]
 
 const staff = [
-  { name: "백승수", role: "사무장", photo: "/team/baekss-20260927-320.webp" },
-  { name: "김영주", role: "실장", photo: "/team/kimyj-20260927-320.webp" },
+  { name: "백승수", role: "사무장", photo: "/team/baekss-20261122-480.webp" },
+  { name: "김영주", role: "실장", photo: "/team/kimyj-20261122-480.webp" },
 ]
 
 function MemberCard({ member }: { member: { name: string; role: string; photo: string } }) {

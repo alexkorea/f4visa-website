@@ -15,6 +15,23 @@ export type BlogListItem = {
 // 예전엔 클라이언트가 첫 쪽을 그린 뒤 ?page 를 읽어 바꿔서, 크롤러·첫 화면에는 늘 1쪽만 보였고 canonical 도 모두 /blog 였다.
 export const PAGE_SIZE = 16
 
+function CardThumb({ image, alt }: { image: string; alt: string }) {
+  const card = image.replace(/^(\/og\/.+)\.png$/, "$1-card.png")
+  if (card === image) return <Image src={image} alt={alt} fill className="object-cover" />
+  return (
+    // eslint-disable-next-line @next/next/no-img-element
+    <img
+      src={card}
+      srcSet={`${card} 800w, ${image} 1200w`}
+      sizes="(min-width: 1024px) 25vw, (min-width: 640px) 50vw, 100vw"
+      alt={alt}
+      loading="lazy"
+      decoding="async"
+      className="absolute inset-0 h-full w-full object-cover"
+    />
+  )
+}
+
 export const blogPageHref = (n: number) => (n <= 1 ? "/blog" : `/blog?page=${n}`)
 
 function buildPageList(current: number, total: number): (number | "...")[] {
@@ -51,8 +68,10 @@ export function BlogPagedList({ posts, page, totalPages }: { posts: BlogListItem
             className="group overflow-hidden rounded-2xl border border-border bg-card transition-all hover:border-primary/30 hover:shadow-lg"
           >
             <div className="relative aspect-[16/9] overflow-hidden">
-              {/* 목록 카드 썸네일 = og:image 의 800×450 카드판(THUMBNAIL_STANDARD 1장) */}
-              <Image src={post.image.replace(/^(\/og\/.+)\.png$/, "$1-card.png")} alt={post.title} fill className="object-cover" />
+              {/* 목록 카드 썸네일 = og:image 의 800×450 카드판(THUMBNAIL_STANDARD 1장).
+                  IMGQA-1122: 모바일 356px×DPR3=1068 에 800 이 모자라 이미 있는 1200×630 og 원본을 2배판으로 잇는다(inhega 방식).
+                  칸이 16:9·object-cover 라 원본도 같은 가운데 장면으로 그려진다. og 가 아닌 사진은 예전처럼 한 장. */}
+              <CardThumb image={post.image} alt={post.title} />
             </div>
             <div className="p-6">
               <div className="mb-4 flex flex-wrap items-center gap-2 text-xs text-muted-foreground">

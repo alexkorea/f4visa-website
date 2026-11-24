@@ -9,6 +9,7 @@ import blogList from "@/lib/blog-list.generated.json"
 import { BlogPagedList, PAGE_SIZE, blogPageHref, type BlogListItem } from "@/components/blog-paged-list"
 import { notFound } from "next/navigation"
 import { withOgDefaults } from "@/lib/og"
+import { codeWrapPage } from "@/lib/visa-code"
 
 export const revalidate = 60
 
@@ -57,7 +58,7 @@ export async function generateMetadata({ searchParams }: Props): Promise<Metadat
   }
 }
 
-export default async function BlogPage({ searchParams }: Props) {
+async function BlogPage({ searchParams }: Props) {
   const r = await resolvePage(searchParams)
   if (!r) notFound()
   const posts = ALL.slice((r.page - 1) * PAGE_SIZE, r.page * PAGE_SIZE)
@@ -82,3 +83,6 @@ export default async function BlogPage({ searchParams }: Props) {
     </div>
   )
 }
+
+// F4WRAP-1124: 체류자격 코드 줄바꿈 금지 스팬(lib/visa-code.tsx)
+export default codeWrapPage(BlogPage)

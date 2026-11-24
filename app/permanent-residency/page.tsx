@@ -13,6 +13,7 @@ import { RelatedBlogLinks } from "@/components/related-blog-links"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { CheckCircle2 } from "lucide-react"
 import { withOgDefaults } from "@/lib/og"
+import { codeWrapPage } from "@/lib/visa-code"
 
 export const metadata: Metadata = withOgDefaults({
   title: "재외동포 영주권(F-5) 자격·절차",
@@ -56,7 +57,7 @@ const faqs: FaqItem[] = [
 
 const RECO = RECO_PILLARS.f5
 
-export default function PermanentResidencyPage() {
+function PermanentResidencyPage() {
   return (
     <div className="flex min-h-screen flex-col">
       <RecoJsonLd p={RECO} modified={PAGE_LASTMOD[RECO.path]} description={"F-4 비자에서 F-5 영주권으로 전환하는 방법. 신청 자격, 체류 요건, 생계능력, 기본소양 요건 및 비교표 안내. 행정사사무소 이룸 전문 상담."} />
@@ -267,3 +268,6 @@ export default function PermanentResidencyPage() {
     </div>
   )
 }
+
+// F4WRAP-1124: 체류자격 코드 줄바꿈 금지 스팬(lib/visa-code.tsx)
+export default codeWrapPage(PermanentResidencyPage)

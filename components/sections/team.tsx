@@ -1,5 +1,6 @@
 import Image from "next/image"
 import { Card, CardContent } from "@/components/ui/card"
+import { CodeWrap } from "@/lib/visa-code"
 
 // IMGQA-1122: 134px 원형 칸 × DPR3=402 → 480w. 보유 원본(public/team/*.jpg)이 300px 뿐이라 Lanczos 확대+약한 샤프닝(실제 고해상 원본 받으면 교체)
 const admins = [
@@ -15,6 +16,7 @@ const staff = [
 
 function MemberCard({ member }: { member: { name: string; role: string; photo: string } }) {
   return (
+    <CodeWrap>
     <Card className="w-40 sm:w-44 border-0 bg-card shadow-sm transition-shadow hover:shadow-md">
       <CardContent className="px-2 py-3 text-center">
         <div className="mx-auto mb-2 w-[134px] h-[134px] rounded-full overflow-hidden border-2 border-border">
@@ -24,11 +26,13 @@ function MemberCard({ member }: { member: { name: string; role: string; photo: s
         <p className="text-sm text-primary">{member.role}</p>
       </CardContent>
     </Card>
+    </CodeWrap>
   )
 }
 
 export function TeamSection() {
   return (
+    <CodeWrap>
     <section className="section section-alt">
       <div className="container-x">
         <div className="mb-8 text-center">
@@ -60,5 +64,6 @@ export function TeamSection() {
         </div>
       </div>
     </section>
+    </CodeWrap>
   )
 }

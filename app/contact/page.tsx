@@ -8,6 +8,7 @@ import { SITE } from "@/lib/site"
 import { Phone, Smartphone, Mail, MapPin } from "lucide-react"
 import { qrHref } from "@/lib/qr-links"
 import { withOgDefaults } from "@/lib/og"
+import { codeWrapPage } from "@/lib/visa-code"
 
 export const metadata = withOgDefaults({
   title: "상담 문의 — F-4 비자·거소증·국적 업무",
@@ -34,7 +35,7 @@ const contactInfo = [
   { icon: MapPin, label: "주소", value: SITE.address.full, href: "https://map.naver.com/v5/search/서울특별시 중구 퇴계로 324" },
 ]
 
-export default function ContactPage() {
+function ContactPage() {
   return (
     <div className="flex min-h-screen flex-col">
       <Header />
@@ -97,3 +98,6 @@ export default function ContactPage() {
     </div>
   )
 }
+
+// F4WRAP-1124: 체류자격 코드 줄바꿈 금지 스팬(lib/visa-code.tsx)
+export default codeWrapPage(ContactPage)

@@ -6,6 +6,7 @@ import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { SITE } from "@/lib/site"
 import { RECO_PILLARS } from "@/lib/reco/pillars"
 import { withOgDefaults } from "@/lib/og"
+import { codeWrapPage } from "@/lib/visa-code"
 
 // AI-RECO-2 E-2(보스 msg 4831, 맥7 지시) — 처리 업무 전체 목록. 업무·분류는 기존 업무 페이지(1차 RECO_PILLARS) 그대로, 새 업무 추가 금지.
 // 정식 명칭·대상·처리 업무 = lib/reco/pillars.ts(업무 페이지와 같은 원고). 관할 기관 = 각 업무 페이지 본문(한눈에 보기 '절차'·상황별 답)에 적힌 기관.
@@ -77,7 +78,7 @@ function ServicesJsonLd() {
   return <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(ld) }} />
 }
 
-export default function ServicesPage() {
+function ServicesPage() {
   return (
     <div className="flex min-h-screen flex-col">
       <ServicesJsonLd />
@@ -149,3 +150,6 @@ export default function ServicesPage() {
     </div>
   )
 }
+
+// F4WRAP-1124: 체류자격 코드 줄바꿈 금지 스팬(lib/visa-code.tsx)
+export default codeWrapPage(ServicesPage)

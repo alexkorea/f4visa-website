@@ -9,6 +9,7 @@ import { WebSiteJsonLd } from "@/components/structured-data"
 import { SITE } from "@/lib/site"
 import { qrHref } from "@/lib/qr-links"
 import { SitePhoto } from "@/components/hero-photo"
+import { codeWrapPage } from "@/lib/visa-code"
 
 export const metadata = {
   alternates: { canonical: SITE.url },
@@ -108,7 +109,7 @@ const faqs: FaqItem[] = [
   },
 ]
 
-export default function HomePage() {
+function HomePage() {
   return (
     <div className="flex min-h-screen flex-col">
       <WebSiteJsonLd />
@@ -261,3 +262,6 @@ export default function HomePage() {
     </div>
   )
 }
+
+// F4WRAP-1124: 체류자격 코드 줄바꿈 금지 스팬(lib/visa-code.tsx)
+export default codeWrapPage(HomePage)

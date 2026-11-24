@@ -1,5 +1,6 @@
 import Link from "next/link"
 import { SITE } from "@/lib/site"
+import { CodeWrap } from "@/lib/visa-code"
 
 type BreadcrumbEntry = { label: string; path: string }
 
@@ -18,6 +19,7 @@ export function PageBreadcrumb({ items }: { items: BreadcrumbEntry[] }) {
   }
 
   return (
+    <CodeWrap>
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbData) }} />
       <nav aria-label="현재 위치" className="container-x pt-4">
@@ -39,5 +41,6 @@ export function PageBreadcrumb({ items }: { items: BreadcrumbEntry[] }) {
         </ol>
       </nav>
     </>
+    </CodeWrap>
   )
 }

@@ -397,6 +397,8 @@
 .skip-link:focus { left: var(--s-16); top: var(--s-8); }
 
 h1,h2,h3,h4,p,li,span { word-break: keep-all; }
+/* F4WRAP-1124: 체류자격 코드(F-4·F-4-42·H-2) 하이픈 뒤 줄바꿈 금지 — lib/visa-code.tsx 가 코드만 감싼다(글자 그대로). */
+.vc { white-space: nowrap; }
 
 /* QAFIX-1117 CARD-ALIGN: LINE 새 원본(흰 여백 넓음)의 무늬를 다른 QR 과 같은 크기로 — 예전 scale-125 는 그림은 같지만
    img 상자가 1.25배(156px vs 125px)로 잡혀 같은 줄 칸 높이·위치가 어긋나 보였다. object-view-box 는 상자 크기를 그대로 두고

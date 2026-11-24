@@ -13,6 +13,7 @@ import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { Button } from "@/components/ui/button"
 import { CheckCircle, FileText, ClipboardList, UserCheck } from "lucide-react"
 import { withOgDefaults } from "@/lib/og"
+import { codeWrapPage } from "@/lib/visa-code"
 
 export const metadata = withOgDefaults({
   title: "F-4 비자·거소증 발급 대행",
@@ -123,7 +124,7 @@ const residenceFlow = [
 
 const RECO = RECO_PILLARS.f4Resident
 
-export default function F4VisaResidentCardPage() {
+function F4VisaResidentCardPage() {
   return (
     <div className="flex min-h-screen flex-col">
       <RecoJsonLd p={RECO} modified={PAGE_LASTMOD[RECO.path]} description={"재외동포 체류자격(F-4) 비자와 거소증(외국국적동포 국내거소신고증)에 대한 안내. 발급 대상, 효과, 신청 절차를 확인하세요."} />
@@ -382,3 +383,6 @@ export default function F4VisaResidentCardPage() {
     </div>
   )
 }
+
+// F4WRAP-1124: 체류자격 코드 줄바꿈 금지 스팬(lib/visa-code.tsx)
+export default codeWrapPage(F4VisaResidentCardPage)

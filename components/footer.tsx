@@ -1,6 +1,7 @@
 import Link from "next/link"
 import { Phone, Mail, MapPin } from "lucide-react"
 import { SITE } from "@/lib/site"
+import { CodeWrap } from "@/lib/visa-code"
 
 const footerLinks = {
   services: [
@@ -26,6 +27,7 @@ const footerLinks = {
 
 export function Footer() {
   return (
+    <CodeWrap>
     <footer
       className="border-t border-border"
       style={{ background: "var(--c-brand)", color: "var(--c-ink-invert)" }}
@@ -85,11 +87,13 @@ export function Footer() {
         </div>
       </div>
     </footer>
+    </CodeWrap>
   )
 }
 
 function FooterColumn({ title, links }: { title: string; links: { title: string; href: string }[] }) {
   return (
+    <CodeWrap>
     <div>
       <h2 className="text-base font-semibold">{title}</h2>
       <ul className="mt-4 flex flex-col">
@@ -106,5 +110,6 @@ function FooterColumn({ title, links }: { title: string; links: { title: string;
         ))}
       </ul>
     </div>
+    </CodeWrap>
   )
 }

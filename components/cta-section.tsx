@@ -1,6 +1,7 @@
 import Link from "next/link"
 import { Phone } from "lucide-react"
 import { SITE } from "@/lib/site"
+import { CodeWrap } from "@/lib/visa-code"
 
 /** 섹션 끝 CTA (STANDARD v2.0 §6-10) */
 export function CtaSection({
@@ -11,6 +12,7 @@ export function CtaSection({
   description?: string
 }) {
   return (
+    <CodeWrap>
     <section className="section" style={{ background: "var(--c-brand)", color: "var(--c-ink-invert)" }}>
       <div className="container-x">
         <div className="measure">
@@ -30,5 +32,6 @@ export function CtaSection({
         </div>
       </div>
     </section>
+    </CodeWrap>
   )
 }

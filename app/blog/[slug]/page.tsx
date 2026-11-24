@@ -12,6 +12,7 @@ import { SITE } from "@/lib/site"
 import { Calendar, Tag, ArrowLeft } from "lucide-react"
 import { InlineCTAForm } from "@/components/inline-cta-form"
 import { qrHref } from "@/lib/qr-links"
+import { codeWrapPage, wrapCodesHtml } from "@/lib/visa-code"
 
 export const revalidate = 3600
 export const dynamicParams = false
@@ -54,7 +55,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   }
 }
 
-export default async function BlogPostPage({ params }: { params: Promise<{ slug: string }> }) {
+async function BlogPostPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params
   const post = await getPostBySlug(slug)
   if (!post) notFound()
@@ -115,7 +116,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
                 </Link>
                 <article
                   className="prose"
-                  dangerouslySetInnerHTML={{ __html: bodyHtml }}
+                  dangerouslySetInnerHTML={{ __html: wrapCodesHtml(bodyHtml) }}
                 />
                 {isTaxGuide ? (
                   <div className="mt-8 rounded-2xl border border-border bg-card p-6">
@@ -226,3 +227,6 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
     </div>
   )
 }
+
+// F4WRAP-1124: 체류자격 코드 줄바꿈 금지 스팬(lib/visa-code.tsx)
+export default codeWrapPage(BlogPostPage)

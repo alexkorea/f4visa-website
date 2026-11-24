@@ -1,4 +1,5 @@
 import { Users, FileCheck, Send } from "lucide-react"
+import { CodeWrap } from "@/lib/visa-code"
 
 const valueProps = [
   {
@@ -20,6 +21,7 @@ const valueProps = [
 
 export function WhyUsSection() {
   return (
+    <CodeWrap>
     <section className="section">
       <div className="container-x">
         <div className="mb-8 text-center">
@@ -63,5 +65,6 @@ export function WhyUsSection() {
         </div>
       </div>
     </section>
+    </CodeWrap>
   )
 }

@@ -12,6 +12,7 @@ import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import { withOgDefaults } from "@/lib/og"
+import { CodeWrap, codeWrapPage } from "@/lib/visa-code"
 
 // BEYE-1007-FIX #10(맥7, 보스눈 QA 10-07): 현행 코드(F-4-41·F-4-42) 표가 먼저, 통합 이전 세부코드는 '예전 코드' 접기.
 // 현행 표·공통서류·통합일·F-4-R 문구는 법무부 체류민원 자격별 안내 매뉴얼 2026.9.(260918판) 원문 그대로다.
@@ -235,7 +236,7 @@ const faqs: FaqItem[] = [
 
 const RECO = RECO_PILLARS.f4Types
 
-export default function F4VisaTypesPage() {
+function F4VisaTypesPage() {
   return (
     <div className="flex min-h-screen flex-col">
       <RecoJsonLd p={RECO} modified={PAGE_LASTMOD[RECO.path]} description={PAGE_DESC} />
@@ -342,6 +343,7 @@ export default function F4VisaTypesPage() {
 
 function OldTable({ rows, label }: { rows: { code: string; target: string; documents: string }[]; label: string }) {
   return (
+    <CodeWrap>
     <div className="overflow-x-auto rounded-xl border border-border">
       <table className="w-full min-w-[640px] text-sm">
         <thead>
@@ -362,5 +364,9 @@ function OldTable({ rows, label }: { rows: { code: string; target: string; docum
         </tbody>
       </table>
     </div>
+    </CodeWrap>
   )
 }
+
+// F4WRAP-1124: 체류자격 코드 줄바꿈 금지 스팬(lib/visa-code.tsx)
+export default codeWrapPage(F4VisaTypesPage)

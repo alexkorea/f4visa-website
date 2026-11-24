@@ -1,3 +1,4 @@
+import { CodeWrap } from "@/lib/visa-code"
 export type FaqItem = { question: string; answer: string }
 
 /**
@@ -33,6 +34,7 @@ export function Faq({
   }
 
   return (
+    <CodeWrap>
     <section className="section section-alt">
       <div className="container-x">
         <div className="section-head">
@@ -53,5 +55,6 @@ export function Faq({
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />
       )}
     </section>
+    </CodeWrap>
   )
 }

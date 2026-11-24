@@ -12,6 +12,7 @@ import { WhyUsSection } from "@/components/sections/why-us"
 import { Button } from "@/components/ui/button"
 import { Shield, Award, Users, Clock } from "lucide-react"
 import { withOgDefaults } from "@/lib/og"
+import { codeWrapPage } from "@/lib/visa-code"
 
 export const metadata = withOgDefaults({
   title: "사무소 소개 — 재외동포 행정 전문 행정사사무소 이룸",
@@ -97,7 +98,7 @@ const jsonLd = {
 }
 
 
-export default function AboutPage() {
+function AboutPage() {
   return (
     <div className="flex min-h-screen flex-col">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
@@ -309,3 +310,6 @@ export default function AboutPage() {
     </div>
   )
 }
+
+// F4WRAP-1124: 체류자격 코드 줄바꿈 금지 스팬(lib/visa-code.tsx)
+export default codeWrapPage(AboutPage)

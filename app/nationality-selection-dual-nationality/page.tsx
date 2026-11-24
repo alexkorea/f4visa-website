@@ -13,6 +13,7 @@ import { RelatedBlogLinks } from "@/components/related-blog-links"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { AlertTriangle, ShieldCheck, Gavel, Clock } from "lucide-react"
 import { withOgDefaults } from "@/lib/og"
+import { codeWrapPage } from "@/lib/visa-code"
 
 export const metadata: Metadata = withOgDefaults({
   title:
@@ -52,7 +53,7 @@ const faqs: FaqItem[] = [
 
 const RECO = RECO_PILLARS.selection
 
-export default function NationalitySelectionDualNationalityPage() {
+function NationalitySelectionDualNationalityPage() {
   return (
     <div className="flex min-h-screen flex-col">
       <RecoJsonLd p={RECO} modified={PAGE_LASTMOD[RECO.path]} description={"복수국적자의 법적 처우, 직무상 제한, 국적선택 기한, 불행사서약 위반 시 국적선택 명령 안내. 행정사사무소 이룸 전문 상담."} />
@@ -259,3 +260,6 @@ export default function NationalitySelectionDualNationalityPage() {
     </div>
   )
 }
+
+// F4WRAP-1124: 체류자격 코드 줄바꿈 금지 스팬(lib/visa-code.tsx)
+export default codeWrapPage(NationalitySelectionDualNationalityPage)

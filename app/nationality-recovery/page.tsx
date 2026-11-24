@@ -13,6 +13,7 @@ import { RelatedBlogLinks } from "@/components/related-blog-links"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { FileText, Building2, Scale, Award, ShieldCheck } from "lucide-react"
 import { withOgDefaults } from "@/lib/og"
+import { codeWrapPage } from "@/lib/visa-code"
 
 export const metadata: Metadata = withOgDefaults({
   title: "국적회복 신청 대행 — 자격·절차",
@@ -46,7 +47,7 @@ const faqs: FaqItem[] = [
 
 const RECO = RECO_PILLARS.recovery
 
-export default function NationalityRecoveryPage() {
+function NationalityRecoveryPage() {
   return (
     <div className="flex min-h-screen flex-col">
       <RecoJsonLd p={RECO} modified={PAGE_LASTMOD[RECO.path]} description={"한국 국적회복 신청 자격, 65세 이상 복수국적 유지 특례, 필수 서류 및 절차 안내. 행정사사무소 이룸이 전 과정을 대행합니다."} />
@@ -260,3 +261,6 @@ export default function NationalityRecoveryPage() {
     </div>
   )
 }
+
+// F4WRAP-1124: 체류자격 코드 줄바꿈 금지 스팬(lib/visa-code.tsx)
+export default codeWrapPage(NationalityRecoveryPage)

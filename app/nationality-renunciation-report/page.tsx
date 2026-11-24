@@ -20,6 +20,7 @@ import {
   ArrowRightLeft,
 } from "lucide-react"
 import { withOgDefaults } from "@/lib/og"
+import { codeWrapPage } from "@/lib/visa-code"
 
 export const metadata: Metadata = withOgDefaults({
   title: "국적이탈 신고 대행 — 절차·기한",
@@ -51,7 +52,7 @@ const faqs: FaqItem[] = [
 
 const RECO = RECO_PILLARS.renunciation
 
-export default function NationalityRenunciationReportPage() {
+function NationalityRenunciationReportPage() {
   return (
     <div className="flex min-h-screen flex-col">
       <RecoJsonLd p={RECO} modified={PAGE_LASTMOD[RECO.path]} description={"복수국적자의 국적이탈 신고 절차, 병역의무 기한, 국적상실과의 차이점 안내. 행정사사무소 이룸이 전 과정을 대행합니다."} />
@@ -258,3 +259,6 @@ export default function NationalityRenunciationReportPage() {
     </div>
   )
 }
+
+// F4WRAP-1124: 체류자격 코드 줄바꿈 금지 스팬(lib/visa-code.tsx)
+export default codeWrapPage(NationalityRenunciationReportPage)

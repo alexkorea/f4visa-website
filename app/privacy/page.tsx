@@ -3,6 +3,7 @@ import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { withOgDefaults } from "@/lib/og"
 import { BreadcrumbJsonLd } from "@/components/structured-data"
+import { codeWrapPage } from "@/lib/visa-code"
 
 export const metadata: Metadata = withOgDefaults({
   title: "개인정보처리방침",
@@ -17,7 +18,7 @@ export const metadata: Metadata = withOgDefaults({
   },
 })
 
-export default function PrivacyPage() {
+function PrivacyPage() {
   return (
     <div className="flex min-h-screen flex-col">
       {/* NAVER-SEO-FIX-1031: BreadcrumbList(JSON-LD 만 — 화면 문구 무변경) */}
@@ -99,3 +100,6 @@ export default function PrivacyPage() {
     </div>
   )
 }
+
+// F4WRAP-1124: 체류자격 코드 줄바꿈 금지 스팬(lib/visa-code.tsx)
+export default codeWrapPage(PrivacyPage)

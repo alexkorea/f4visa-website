@@ -8,6 +8,7 @@ import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { getAllPosts } from "@/lib/blog"
 import { Calendar, Tag } from "lucide-react"
 import { withOgDefaults } from "@/lib/og"
+import { codeWrapPage } from "@/lib/visa-code"
 
 export const revalidate = 60
 
@@ -62,7 +63,7 @@ const TAX_FAQ5 = [
   },
 ]
 
-export default async function TaxStoriesPage() {
+async function TaxStoriesPage() {
   const TAX_SLUGS = new Set([
     "f4-visa-tax-obligations-comprehensive-income",
     // F4DROP-1117: 부동산 취득 절차·세금 10편 → 대표 1편으로 301 통합
@@ -178,3 +179,6 @@ export default async function TaxStoriesPage() {
     </div>
   )
 }
+
+// F4WRAP-1124: 체류자격 코드 줄바꿈 금지 스팬(lib/visa-code.tsx)
+export default codeWrapPage(TaxStoriesPage)

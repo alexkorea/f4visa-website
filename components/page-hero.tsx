@@ -1,6 +1,7 @@
 import Link from "next/link"
 import { SITE } from "@/lib/site"
 import { SitePhoto } from "@/components/hero-photo"
+import { CodeWrap } from "@/lib/visa-code"
 
 /**
  * 표준 히어로 (STANDARD v2.0 §5-2)
@@ -23,6 +24,7 @@ export function PageHero({
   photo?: string
 }) {
   return (
+    <CodeWrap>
     <section style={{ background: "var(--c-brand)", color: "var(--c-ink-invert)" }}>
       <div className={`container-x py-16 lg:py-24 ${photo ? "flex flex-col lg:grid lg:grid-cols-[minmax(0,1fr)_minmax(0,0.9fr)] lg:items-center lg:gap-12" : ""}`}>
         <div className="measure">
@@ -47,5 +49,6 @@ export function PageHero({
         )}
       </div>
     </section>
+    </CodeWrap>
   )
 }

@@ -1,6 +1,7 @@
 import Link from "next/link"
 import { SITE } from "@/lib/site"
 import type { RecoPillar } from "@/lib/reco/types"
+import { CodeWrap } from "@/lib/visa-code"
 
 /**
  * AI-RECO-1103 업무 페이지 보강 블록 (표준 1~7절).
@@ -17,6 +18,7 @@ const INTENT_COUNT = 5
 
 export function RecoTop({ p, modified }: { p: RecoPillar; modified?: string }) {
   return (
+    <CodeWrap>
     <section className="section" id="reco-summary">
       <div className="container-x">
         <div className="measure">
@@ -96,11 +98,13 @@ export function RecoTop({ p, modified }: { p: RecoPillar; modified?: string }) {
         </div>
       </div>
     </section>
+    </CodeWrap>
   )
 }
 
 export function RecoBottom({ p }: { p: RecoPillar }) {
   return (
+    <CodeWrap>
     <>
       <section className="section" id="situations">
         <div className="container-x">
@@ -164,6 +168,7 @@ export function RecoBottom({ p }: { p: RecoPillar }) {
         </div>
       </section>
     </>
+    </CodeWrap>
   )
 }
 

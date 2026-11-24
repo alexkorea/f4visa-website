@@ -10,6 +10,7 @@ import { CtaSection } from "@/components/cta-section"
 import { RelatedBlogLinks } from "@/components/related-blog-links"
 import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { withOgDefaults } from "@/lib/og"
+import { codeWrapPage } from "@/lib/visa-code"
 
 // AI-RECO-1103 12절(비자별 단위) — 방문취업(H-2) 단위 페이지 신설(사이트에 H-2 페이지가 없어 코드당 1쪽).
 // 사실 원천: 출입국 체류민원 자격별 안내 매뉴얼 261030판 외국국적동포 절(방문취업제 체류관리 절차·F-4 체류자격외 활동·F-5-14).
@@ -53,7 +54,7 @@ const faqs: FaqItem[] = [
 
 const RECO = RECO_PILLARS.h2
 
-export default function H2VisaPage() {
+function H2VisaPage() {
   return (
     <div className="flex min-h-screen flex-col">
       <RecoJsonLd p={RECO} modified={PAGE_LASTMOD[RECO.path]} description={PAGE_DESC} />
@@ -105,3 +106,6 @@ export default function H2VisaPage() {
     </div>
   )
 }
+
+// F4WRAP-1124: 체류자격 코드 줄바꿈 금지 스팬(lib/visa-code.tsx)
+export default codeWrapPage(H2VisaPage)

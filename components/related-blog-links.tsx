@@ -1,4 +1,5 @@
 import Link from "next/link"
+import { CodeWrap } from "@/lib/visa-code"
 
 export type RelatedBlogLink = { slug: string; label: string; note?: string }
 
@@ -14,6 +15,7 @@ export function RelatedBlogLinks({
   links: RelatedBlogLink[]
 }) {
   return (
+    <CodeWrap>
     <section className="section">
       <div className="container-x">
         <div className="section-head">
@@ -32,5 +34,6 @@ export function RelatedBlogLinks({
         </ul>
       </div>
     </section>
+    </CodeWrap>
   )
 }

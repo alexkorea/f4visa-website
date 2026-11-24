@@ -13,6 +13,7 @@ import { PageBreadcrumb } from "@/components/page-breadcrumb"
 import { Button } from "@/components/ui/button"
 import { CalendarCheck, FileText, Building2, CheckCircle2 } from "lucide-react"
 import { withOgDefaults } from "@/lib/og"
+import { codeWrapPage } from "@/lib/visa-code"
 
 export const metadata = withOgDefaults({
   title: "F-4 비자 연장 — 필요서류와 절차",
@@ -103,7 +104,7 @@ const faqs = [
 
 const RECO = RECO_PILLARS.f4Renewal
 
-export default function F4VisaRenewalPage() {
+function F4VisaRenewalPage() {
   return (
     <div className="flex min-h-screen flex-col">
       <RecoJsonLd p={RECO} modified={PAGE_LASTMOD[RECO.path]} description={"재외동포 F-4 비자 연장 절차, 필요서류, 신청 방법을 안내합니다. 체류기간 만료일까지 신청해야 합니다."} />
@@ -242,3 +243,6 @@ export default function F4VisaRenewalPage() {
     </div>
   )
 }
+
+// F4WRAP-1124: 체류자격 코드 줄바꿈 금지 스팬(lib/visa-code.tsx)
+export default codeWrapPage(F4VisaRenewalPage)

@@ -1,6 +1,7 @@
 import Link from "next/link"
 import Image from "next/image"
 import { Calendar, Tag } from "lucide-react"
+import { CodeWrap } from "@/lib/visa-code"
 
 export type BlogListItem = {
   slug: string
@@ -59,6 +60,7 @@ export function BlogPagedList({ posts, page, totalPages }: { posts: BlogListItem
   }
 
   return (
+    <CodeWrap>
     <>
       <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
         {pageItems.map((post) => (
@@ -124,5 +126,6 @@ export function BlogPagedList({ posts, page, totalPages }: { posts: BlogListItem
         </nav>
       )}
     </>
+    </CodeWrap>
   )
 }

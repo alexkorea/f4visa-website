@@ -2,6 +2,7 @@ import Link from "next/link"
 import { Phone, ChevronDown } from "lucide-react"
 import { SITE } from "@/lib/site"
 import { MobileNav, type MenuItem } from "./mobile-nav"
+import { CodeWrap } from "@/lib/visa-code"
 
 const menuItems: MenuItem[] = [
   {
@@ -31,6 +32,7 @@ const menuItems: MenuItem[] = [
 
 function Logo() {
   return (
+    <CodeWrap>
     <span className="flex items-center gap-2">
       {/* 40x40 으로 그려지는데 512px PNG(112KB) 를 받고 있었다. React 19 가 이 img 에
           High 우선순위 preload 를 붙여 임계경로 맨 앞을 차지했다(2026-09-26 실측 110KB/232ms).
@@ -42,12 +44,14 @@ function Logo() {
         <span className="text-sm text-muted-foreground">행정사사무소</span>
       </span>
     </span>
+    </CodeWrap>
   )
 }
 
 /** 서버 컴포넌트 헤더. 데스크톱 드롭다운=CSS hover/focus-within(무JS), 모바일 드로어만 client(MobileNav). */
 export function Header() {
   return (
+    <CodeWrap>
     <header className="sticky top-0 z-50 w-full border-b border-border bg-background">
       <div className="container-x flex h-16 items-center justify-between">
         <Link href="/" aria-label="행정사사무소 이룸 홈" className="py-2">
@@ -97,5 +101,6 @@ export function Header() {
         <MobileNav menuItems={menuItems} Logo={<Logo />} />
       </div>
     </header>
+    </CodeWrap>
   )
 }

@@ -4821,6 +4821,24 @@
    "site_name": "행정사사무소 이룸",
    "generated_at": "2026-11-22T02:36:36.860Z",
    "version": "1.4"
+  },
+  "f4-parents-korea-born-child-f3-status-grant": {
+   "hash": "23ad58852001729fc6fcdd9639e428701de3fb7d101af25f4590455fa8c042ba",
+   "source": "pexels",
+   "seed": 891579210,
+   "theme": "life",
+   "prompt_subject": "residential street cafe morning",
+   "map_version": null,
+   "pexels_id": 28171296,
+   "pexels_author": "정규송 Nui MALAMA",
+   "category": "재외동포",
+   "visa": "F-3",
+   "lang": "ko",
+   "slug": "f4-parents-korea-born-child-f3-status-grant",
+   "title": "재외동포(F-4) 부부가 한국에서 낳은 아기, 출생 90일 안에 하는 동반(F-3) 체류자격 부여 신청",
+   "site_name": "행정사사무소 이룸",
+   "generated_at": "2026-11-24T00:48:44.247Z",
+   "version": "1.4"
   }
  }
 }

@@ -28,7 +28,9 @@ export function vc(text: string): ReactNode {
     last = m.index + m[0].length
   }
   if (last < text.length) parts.push(text.slice(last))
-  return <Fragment>{parts.map((p, i) => (typeof p === "string" ? <Fragment key={`t${i}`}>{p}</Fragment> : p))}</Fragment>
+  // 바깥 .vcw(인라인, 스타일 없음)로 글자 덩어리를 하나로 묶는다. 부모가 flex·grid 면 예전 글자 한 덩어리(익명 flex 아이템)가
+  // 글자·스팬 여러 아이템으로 쪼개져 gap 이 끼고 배치가 깨진다(F4WRAP-1124 1차 배포 5d69a66d 회귀 — 메뉴·브레드크럼).
+  return <span className="vcw">{parts.map((p, i) => (typeof p === "string" ? <Fragment key={`t${i}`}>{p}</Fragment> : p))}</span>
 }
 
 /** React 트리의 글자 자식만 바꾼다(속성 alt·title·aria-label·href 는 그대로). 컴포넌트 요소는 children 만 내려간다. */
@@ -40,7 +42,7 @@ export function wrapCodes(node: ReactNode): ReactNode {
   const p = el.props
   if (typeof el.type === "string") {
     if (SKIP_TAGS.has(el.type)) return el
-    if (el.type === "span" && p.className === "vc") return el
+    if (el.type === "span" && (p.className === "vc" || p.className === "vcw")) return el
   }
   if (p.dangerouslySetInnerHTML || p.children === undefined || p.children === null) return el
   if (typeof p.children === "function") return el
@@ -67,7 +69,9 @@ export function wrapCodesHtml(html: string): string {
     }
     if (skip || !text) return all
     VISA_CODE_RE.lastIndex = 0
-    return text.replace(VISA_CODE_RE, (c) => `<span class="vc">${c}</span>`)
+    if (!VISA_CODE_RE.test(text)) return text
+    VISA_CODE_RE.lastIndex = 0
+    return `<span class="vcw">${text.replace(VISA_CODE_RE, (c) => `<span class="vc">${c}</span>`)}</span>`
   })
 }
 

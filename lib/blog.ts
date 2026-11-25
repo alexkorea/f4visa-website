@@ -29,7 +29,7 @@ export interface BlogPost {
   /** 검색결과용 제목·설명(선택). 없으면 title·excerpt. <title>·description·og·twitter 에만 쓴다(H1·목록·RSS 는 title·excerpt 그대로). */
   seoTitle?: string
   seoDescription?: string
-  /** 원고 마지막 커밋일(원고 date 이상) — Article dateModified·사이트맵 lastmod 원천(NAVER-SEO-FIX-1031). */
+  /** Article dateModified·사이트맵 lastmod. updated 가 있으면 max(date, updated)(=화면 값, WQA1125-FIX 6), 없으면 max(date, 원고 마지막 커밋일)(NAVER-SEO-FIX-1031). */
   modified: string
   /** 원고 frontmatter updated — 본문을 실제로 고친 날(사람이 적음). 화면 '최종 업데이트' 원천, 없으면 date(F4DATE-1117). */
   updated?: string
@@ -90,7 +90,11 @@ function readPost(filePath: string): BlogPost | null {
       seoTitle: data.seoTitle || undefined,
       seoDescription: data.seoDescription || undefined,
       updated: data.updated ? String(data.updated) : undefined,
-      modified: [String(data.date || ''), String(data.updated || ''), CONTENT_MODIFIED[slug] || ''].sort().pop() || '',
+      // WQA1125-FIX 6: updated 가 있으면 화면 '최종 업데이트'와 같은 값(updated)을 dateModified·lastmod 에도 쓴다.
+      // 커밋일은 썸네일·분류 같은 frontmatter 만 바꾼 커밋도 세므로 updated 를 적은 글에서는 쓰지 않는다.
+      modified: (data.updated
+        ? [String(data.date || ''), String(data.updated)]
+        : [String(data.date || ''), CONTENT_MODIFIED[slug] || '']).sort().pop() || '',
       content,
     }
   } catch {
